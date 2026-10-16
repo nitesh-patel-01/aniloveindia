@@ -21,12 +21,29 @@ $$('.load-video').forEach(button=>button.addEventListener('click',()=>{if(!/^[A-
 
 $$('.load-playlist').forEach(button=>button.addEventListener('click',()=>{if(!/^PL[A-Za-z0-9_-]{10,}$/.test(button.dataset.playlist))return;const frame=document.createElement('iframe');frame.src='https://www.youtube-nocookie.com/embed/videoseries?list='+encodeURIComponent(button.dataset.playlist);frame.title=button.dataset.title+' official playlist';frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';button.parentElement.replaceChildren(frame)}));
 
-// Manual featured-title navigation; videos never preload or autoplay.
-$$('[data-feature]').forEach(button=>button.addEventListener('click',()=>{
-  const selected=button.dataset.feature;
-  $$('[data-slide]').forEach(slide=>slide.hidden=slide.dataset.slide!==selected);
-  $$('[data-feature]').forEach(control=>control.setAttribute('aria-pressed',String(control===button)));
-}));
+// Featured artwork rotates; embedded videos never autoplay.
+const hero=$('.stream-hero');
+if(hero){
+ const slides=$$('[data-slide]'), controls=$$('[data-feature]');
+ const motion=matchMedia('(prefers-reduced-motion: reduce)');
+ let index=0,paused=motion.matches,hovered=false,timer,touchStart=null;
+ const pause=$('[data-hero-pause]');
+ function schedule(){clearTimeout(timer);if(!paused&&!hovered&&!document.hidden&&!hero.contains(document.activeElement))timer=setTimeout(()=>choose(index+1),6500)}
+ function choose(next){index=(next+slides.length)%slides.length;slides.forEach((slide,i)=>slide.hidden=i!==index);controls.forEach((control,i)=>control.setAttribute('aria-pressed',String(i===index)));const count=$('[data-hero-count]');if(count)count.textContent=String(index+1).padStart(2,'0')+' / '+String(slides.length).padStart(2,'0');schedule()}
+ function setPause(value){paused=value;pause.setAttribute('aria-pressed',String(paused));pause.setAttribute('aria-label',paused?'Start automatic slides':'Pause automatic slides');pause.textContent=paused?'▶':'Ⅱ';schedule()}
+ controls.forEach((button,i)=>button.addEventListener('click',()=>choose(i)));
+ $$('[data-hero-step]').forEach(button=>button.addEventListener('click',()=>choose(index+Number(button.dataset.heroStep))));
+ pause.addEventListener('click',()=>setPause(!paused));
+ hero.addEventListener('mouseenter',()=>{hovered=true;schedule()});hero.addEventListener('mouseleave',()=>{hovered=false;schedule()});
+ hero.addEventListener('focusin',schedule);hero.addEventListener('focusout',()=>setTimeout(schedule,0));
+ document.addEventListener('visibilitychange',schedule);
+ motion.addEventListener('change',()=>setPause(motion.matches));
+ hero.addEventListener('keydown',event=>{if(event.target.matches('input,textarea'))return;if(event.key==='ArrowLeft'||event.key==='ArrowRight'){event.preventDefault();choose(index+(event.key==='ArrowRight'?1:-1))}});
+ hero.addEventListener('touchstart',event=>{if(event.touches.length===1)touchStart={x:event.touches[0].clientX,y:event.touches[0].clientY};else touchStart=null},{passive:true});
+ hero.addEventListener('touchend',event=>{if(!touchStart)return;const touch=event.changedTouches[0],dx=touch.clientX-touchStart.x,dy=touch.clientY-touchStart.y;touchStart=null;if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)*1.4)choose(index+(dx<0?1:-1))},{passive:true});
+ hero.addEventListener('touchcancel',()=>touchStart=null,{passive:true});
+ setPause(paused);
+}
 $$('[data-scroll]').forEach(button=>button.addEventListener('click',()=>{
   const row=button.closest('.rail-wrap')?.querySelector('.rail');
   if(row)row.scrollBy({left:row.clientWidth*.85*Number(button.dataset.scroll),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});

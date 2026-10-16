@@ -35,3 +35,6 @@
  .header-tools{gap:10px}
  .stream-copy h1,.stream-copy h2{font-size:28px}
 }
+
+.hero-navigation{position:absolute;right:4%;bottom:65px;display:flex;gap:8px;z-index:2}.hero-navigation button{display:grid;place-items:center;width:44px;height:44px;background:#0a0c12cc;color:#fff;border:1px solid #7b808b;font-size:26px;line-height:1}.hero-navigation button:hover{background:var(--orange);color:#080a0e}.hero-navigation [data-hero-pause]{font-size:15px}.hero-switcher{z-index:2}.hero-synopsis{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+@media(max-width:760px){.stream-hero{padding-bottom:4px}.hero-navigation{right:5%;bottom:14px;gap:5px}.hero-navigation button{width:34px;height:34px;font-size:23px}.hero-navigation [data-hero-pause]{font-size:12px}.hero-switcher{gap:6px;padding-bottom:16px;padding-top:4px;padding-right:125px}.hero-switcher button{min-width:0;width:clamp(18px,5vw,30px)}.hero-switcher span{width:100%}.stream-copy h1,.stream-copy h2{min-height:2.24em}.hero-synopsis{min-height:4.8em}.stream-copy{padding-bottom:18px}}
