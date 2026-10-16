@@ -1,0 +1,51 @@
+[
+  {
+    "scheduler_active": false,
+    "last_run": "2026-10-16T05:23:27.948092+00:00",
+    "schedule": "09:00 Asia/Kolkata (03:30 UTC; scheduler may delay)",
+    "state": "Checks completed with publication gates",
+    "added": {},
+    "changed_availability": [],
+    "link_checks": [
+      {
+        "title_id": "frieren",
+        "status": 200,
+        "checked_at": "2026-10-16T05:23:27.948092+00:00",
+        "meaning": "HTTP reachability only; playback and India entitlement unverified"
+      },
+      {
+        "title_id": "spy-x-family",
+        "status": 200,
+        "checked_at": "2026-10-16T05:23:27.948092+00:00",
+        "meaning": "HTTP reachability only; playback and India entitlement unverified"
+      },
+      {
+        "title_id": "demon-slayer",
+        "status": 200,
+        "checked_at": "2026-10-16T05:23:27.948092+00:00",
+        "meaning": "HTTP reachability only; playback and India entitlement unverified"
+      },
+      {
+        "title_id": "jujutsu-kaisen",
+        "status": 200,
+        "checked_at": "2026-10-16T05:23:27.948092+00:00",
+        "meaning": "HTTP reachability only; playback and India entitlement unverified"
+      },
+      {
+        "title_id": "chainsaw-man",
+        "status": 200,
+        "checked_at": "2026-10-16T05:23:27.948092+00:00",
+        "meaning": "HTTP reachability only; playback and India entitlement unverified"
+      }
+    ],
+    "blog": {
+      "published": 0,
+      "skipped": "No new reviewed source-backed topic; no AI generation required or attempted."
+    },
+    "errors": [
+      "YouTube Data API key missing: upload discovery and episode validation disabled."
+    ],
+    "next_scheduled_run": null,
+    "cursor": 5
+  }
+]

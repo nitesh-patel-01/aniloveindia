@@ -1,0 +1,200 @@
+[
+  {
+    "name": "goldmines-popular",
+    "channel": "UCyoXW-Dse7fURq30EWl_CUA",
+    "provider": "Goldmines",
+    "rows": []
+  },
+  {
+    "name": "goldmines-latest",
+    "channel": "UCyoXW-Dse7fURq30EWl_CUA",
+    "provider": "Goldmines",
+    "rows": []
+  },
+  {
+    "name": "kbs-Healer",
+    "channel": "UC5BMQOsAB8hKUyHu9KI6yig",
+    "provider": "KBS WORLD TV",
+    "rows": [
+      {
+        "video_id": "PZvfcuK_Ozs",
+        "title": "Dahyun, Chaeyoung and Tzuyu’s healing tour to Ganghwado Island Part.1[Battle Trip/2019.05.26]",
+        "seconds": 2753,
+        "views": {
+          "simpleText": "1,423,632 views"
+        },
+        "published": {
+          "simpleText": "7y ago"
+        },
+        "kind": "k-dramas",
+        "source": "https://www.youtube.com/@kbsworldtv/search?query=Healer",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "provider": "KBS WORLD TV"
+      },
+      {
+        "video_id": "AespNs0-l1g",
+        "title": "My Golden Life | 황금빛 내인생 – Ep.1 [SUB : ENG,CHN,IND /2017.09.09]",
+        "seconds": 3957,
+        "views": {
+          "simpleText": "8,223,809 views"
+        },
+        "published": {
+          "simpleText": "9y ago"
+        },
+        "kind": "k-dramas",
+        "source": "https://www.youtube.com/@kbsworldtv/search?query=Healer",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "provider": "KBS WORLD TV"
+      }
+    ]
+  },
+  {
+    "name": "kbs-Descendants of the Sun",
+    "channel": "UC5BMQOsAB8hKUyHu9KI6yig",
+    "provider": "KBS WORLD TV",
+    "rows": []
+  },
+  {
+    "name": "kbs-Oh My Venus",
+    "channel": "UC5BMQOsAB8hKUyHu9KI6yig",
+    "provider": "KBS WORLD TV",
+    "rows": []
+  },
+  {
+    "name": "kbs-Fight for My Way",
+    "channel": "UC5BMQOsAB8hKUyHu9KI6yig",
+    "provider": "KBS WORLD TV",
+    "rows": []
+  },
+  {
+    "name": "kbs-Are You Human",
+    "error": "HTTP Error 502: Bad Gateway",
+    "rows": []
+  },
+  {
+    "name": "gundam-Endless Waltz",
+    "channel": "UCejtUitnpnf8Be-v5NuDSLw",
+    "provider": "GUNDAM CHANNEL INTL",
+    "rows": [
+      {
+        "video_id": "ZA3NXIyl-6s",
+        "title": "Introducing Gundam Wing from ZERO(EN,CN,HK,TW,KR,ES sub)",
+        "seconds": 1950,
+        "views": {
+          "simpleText": "125,533 views"
+        },
+        "published": {
+          "simpleText": "1y ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=Endless%20Waltz",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      },
+      {
+        "video_id": "mAxCyrDuNiA",
+        "title": "Mobile Suit Gundam: Char's Counterattack (w/subtitles)",
+        "seconds": 7214,
+        "views": {
+          "simpleText": "1,035,828 views"
+        },
+        "published": {
+          "simpleText": "8mo ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=Endless%20Waltz",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      },
+      {
+        "video_id": "yw-nI4WjXU0",
+        "title": "GUNDAM Showcase - Featuring 30 Years of “Gundam Wing” Panel｜SDCC 2025",
+        "seconds": 3688,
+        "views": {
+          "simpleText": "52,570 views"
+        },
+        "published": {
+          "simpleText": "1y ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=Endless%20Waltz",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      },
+      {
+        "video_id": "7jLv_j-m8F4",
+        "title": "MOBILE SUIT GUNDAM 00 1st season - Episode 1：CELESTIAL BEING (EN,KR,HK,TW,CN,FR Sub)",
+        "seconds": 1509,
+        "views": {
+          "simpleText": "4,159,302 views"
+        },
+        "published": {
+          "simpleText": "4y ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=Endless%20Waltz",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      }
+    ]
+  },
+  {
+    "name": "gundam-F91",
+    "channel": "UCejtUitnpnf8Be-v5NuDSLw",
+    "provider": "GUNDAM CHANNEL INTL",
+    "rows": [
+      {
+        "video_id": "mAxCyrDuNiA",
+        "title": "Mobile Suit Gundam: Char's Counterattack (w/subtitles)",
+        "seconds": 7214,
+        "views": {
+          "simpleText": "1,035,828 views"
+        },
+        "published": {
+          "simpleText": "8mo ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=F91",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      },
+      {
+        "video_id": "YYqJMKhaLhk",
+        "title": "Mobile Suit Gundam MOVIE-Mobile Suit Gundam Ⅰ (w/subtitles)",
+        "seconds": 8393,
+        "views": {
+          "simpleText": "462,197 views"
+        },
+        "published": {
+          "simpleText": "6mo ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=F91",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      }
+    ]
+  },
+  {
+    "name": "gundam-Awakening of the Trailblazer",
+    "channel": "UCejtUitnpnf8Be-v5NuDSLw",
+    "provider": "GUNDAM CHANNEL INTL",
+    "rows": [
+      {
+        "video_id": "7jLv_j-m8F4",
+        "title": "MOBILE SUIT GUNDAM 00 1st season - Episode 1：CELESTIAL BEING (EN,KR,HK,TW,CN,FR Sub)",
+        "seconds": 1509,
+        "views": {
+          "simpleText": "4,159,302 views"
+        },
+        "published": {
+          "simpleText": "4y ago"
+        },
+        "kind": "anime-movies",
+        "source": "https://www.youtube.com/@GundamInfo/search?query=Awakening%20of%20the%20Trailblazer",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "provider": "GUNDAM CHANNEL INTL"
+      }
+    ]
+  }
+]

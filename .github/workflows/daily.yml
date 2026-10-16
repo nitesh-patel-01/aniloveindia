@@ -1,0 +1,35 @@
+name: Daily official-source checks
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: catalogue-daily
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check approved sources
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/daily.py
+      - name: Build and audit
+        run: |
+          python build.py
+          python scripts/audit.py
+          python -m unittest discover -s tests
+      - name: Persist catalogue and logs
+        run: |
+          git config user.name 'AniLove catalogue bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Check official sources and update verification log'
+            git push
+          fi

@@ -1,0 +1,10 @@
+dist/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.vercel/
+*.tar.gz
+
+research/
