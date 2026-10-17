@@ -1,0 +1,4121 @@
+{
+  "checked_at": "2026-10-17",
+  "actual_india_playback": "unverified",
+  "counts": {
+    "anime-series": {
+      "titles": 1,
+      "uploads": 26
+    },
+    "anime-movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "k-dramas": {
+      "titles": 0,
+      "uploads": 0
+    }
+  },
+  "checks": [
+    {
+      "id": "K8LrLO_omys",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEcTEdWmnd7PLXc2VD4eouf"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "LUPIN THE 3rd PART 4 - EP01 The Wedding of Lupin III | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1388,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2021-11-28T23:55:13-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=K8LrLO_omys",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "Uxz5ud_6rGE",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "LUPIN THE 3rd PART 4 | EP 7 - The Zapping Operation | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1389,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-01-07T19:40:14-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Uxz5ud_6rGE",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "sQMaMBAy4BY",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEcTEdWmnd7PLXc2VD4eouf"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "LUPIN THE 3rd PART 4 - EP17 The Murdering Marionette | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1385,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-03-18T09:30:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sQMaMBAy4BY",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "koAYxuarg8k",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEcTEdWmnd7PLXc2VD4eouf"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "LUPIN THE 3rd PART 4 - EP13 The End of Lupin III | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1387,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-02-18T09:30:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=koAYxuarg8k",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "hRQSoaSZWpQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP01 A Small Client | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-12-15T15:07:48-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hRQSoaSZWpQ",
+      "oembed": true
+    },
+    {
+      "id": "fzfCkUDxYKU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP02 The Adventure of the Blue Carbuncle | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fzfCkUDxYKU",
+      "oembed": true
+    },
+    {
+      "id": "3Dx_YXg3L6c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP11 The Four Signatures | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-12-15T15:43:16-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=3Dx_YXg3L6c",
+      "oembed": true
+    },
+    {
+      "id": "U6I59KjWOfg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP12 The Speckled Band | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1502,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-12-15T16:03:16-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=U6I59KjWOfg",
+      "oembed": true
+    },
+    {
+      "id": "G05mq8NGmwE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP24 The Disappearance of the Splendid Royal Horse | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=G05mq8NGmwE",
+      "oembed": true
+    },
+    {
+      "id": "wpVdKuW9wAo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP18 The Adventure of the Three Students | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wpVdKuW9wAo",
+      "oembed": true
+    },
+    {
+      "id": "eutBzS30qhM",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP01 The Birth of the Legendary Magic Knights! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1475,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-04-01T09:00:25-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eutBzS30qhM",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "GhybZYP8KrA",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP02 Presea, The Master Smith In The Forest Of Silence | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1475,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-04-07T09:00:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GhybZYP8KrA",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "o668yHA9E4M",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP03 Ferio, the Handsome, Mysterious Swordsman | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1475,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-04-14T09:00:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=o668yHA9E4M",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "QwVyKWVRQNE",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP04 Alcyone, the Vengeful Sorceress | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1475,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-04-21T09:00:11-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=QwVyKWVRQNE",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "Wo3q2svkKvI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP05 Escudo, the Legendary Ore | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1475,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-04-28T09:00:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Wo3q2svkKvI",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "6dK-554U-Rs",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP06 Lives at Stake - Presea's Weapons | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-05-05T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=6dK-554U-Rs",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "E6R2j2cablI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-05-12T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=E6R2j2cablI",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "xpWDVjpQ-lw",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP08 The Horrible Trap of Summoner Ascot | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-05-19T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=xpWDVjpQ-lw",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "K_NuYOEVU20",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP09 The Magic Knights' Greatest Crisis | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-05-26T09:00:11-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=K_NuYOEVU20",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "wWIkLCQohqM",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP10 Revival of Selece, the Legendary Rune-God | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-06-02T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wWIkLCQohqM",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "2GNwAR5UvT4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP11 The Legend of the Rune-Gods - In Cephiro, Another World | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-06-09T09:00:14-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2GNwAR5UvT4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "12BbwAur5n4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP12 The Fearsome Illusionist Caldina | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-06-16T09:00:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=12BbwAur5n4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "bTa7Wlw8NHI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP13 The Most Valuable Thing in this World | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1477,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-06-23T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bTa7Wlw8NHI",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "hqk4w7ZumYU",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP14 Hikaru, Umi, and Fuu's Unyielding Wish | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-06-30T09:00:20-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hqk4w7ZumYU",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "5zHrefGARYA",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP15 The Second Rune-God: Windam, the Lord of the Skies | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-07-14T09:15:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=5zHrefGARYA",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "WnJb9n_LKgU",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "GfRk75E7-d0",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP17 The Truth About Inouva, and the Return of Memories | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1477,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-07-28T09:15:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GfRk75E7-d0",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "uZLKqE2w0tA",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP18 The Last Rune-God: Rayearth, the Lord of Fire | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-08-04T09:15:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=uZLKqE2w0tA",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "ZVrKwddgRbI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP19 Showdown! The Magic Knights Versus Zagato | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-08-11T09:15:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZVrKwddgRbI",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "IN2J49YgecM",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP20 The Unbelievable Truth About the Legendary Magic Knights! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1477,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-08-18T09:15:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=IN2J49YgecM",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "YM5kmIlkMHA",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP22 Cephiro and the Three Countries | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1463,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-09-01T09:15:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=YM5kmIlkMHA",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "HgbT6QNUk9k",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP24 The Magic Knights and Battleship NSX | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-09-15T09:00:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=HgbT6QNUk9k",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "YAdH5A5p9m4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP25 Hikaru and Nova in the Dream | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-09-22T09:00:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=YAdH5A5p9m4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "hQAhBycx5Xk",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP27 The Secret of the Pillar of Cephiro | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-10-06T09:00:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hQAhBycx5Xk",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "scejPb4AnvU",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP28 Hikaru and Lantis' Dangerous Journey | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-10-20T09:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=scejPb4AnvU",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "O5Qtcg68Pc8",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP29 Eagle and a Captive Hikaru | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-10-27T09:00:12-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=O5Qtcg68Pc8",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "9ctdWxmCxeo",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP30 Nova and Regalia, Rune-God of the Devil | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-11-03T09:00:11-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9ctdWxmCxeo",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "TNwMGvnpbKw",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP21 A Departure and New Ties | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1462,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-08-25T09:15:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=TNwMGvnpbKw",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "4T-635MtUdY",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP23 Autozam's Invasion and lantis | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1463,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-09-09T17:37:58-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=4T-635MtUdY",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "252ttrfybYc",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP26 The Magic Knights & Aska From Fahren | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-09-29T09:00:11-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=252ttrfybYc",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "alzuu1lILF4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP31 Chizeta's Mobile Fortress and a Powerless Hikaru | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-11-11T09:00:07-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=alzuu1lILF4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "GSH11ftOeyw",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP32 Umi and Fuu and Fahren and Chizeta | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-11-17T09:00:10-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GSH11ftOeyw",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "kSykVwbQ4_o",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP33 Hikaru's Wish and Presea's Secret | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-11-25T09:00:37-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=kSykVwbQ4_o",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "NVaeuoyAmLg",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP34 Hikaru and Friendships Torn Apart | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-12-03T09:30:10-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=NVaeuoyAmLg",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "9aQZ53uGu_I",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP35 Umi and the Ambition of Tarta and Tatra | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-12-08T09:30:09-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9aQZ53uGu_I",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "eeUcROzDT_U",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP36 Fuu versus Aska! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-12-15T09:30:10-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eeUcROzDT_U",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "CQCIwt9i-S4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP37 Revive, Hikaru's Sword! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-12-22T09:30:08-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=CQCIwt9i-S4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "Zh29yaFJpj0",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP38 Eagle's All-out Attack on Cephiro Castle! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-12-29T09:30:09-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Zh29yaFJpj0",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "xWOX4Z3q4d4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [],
+      "title": "MAGIC KNIGHT RAYEARTH - EP39 Chaotic War at Cephiro Castle! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-01-05T09:30:08-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=xWOX4Z3q4d4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "0trmeSqWTJQ",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP40 The Magic Knights and the Calm After the Storm | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1478,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-01-13T14:53:12-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0trmeSqWTJQ",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "EzYdzX7oJDY",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [],
+      "title": "MAGIC KNIGHT RAYEARTH - EP41 Nova's Battle and the Monster's Identity | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-01-19T09:00:08-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=EzYdzX7oJDY",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "rOAbH2JmK18",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP42 Giant Sang Yung versus the NSX | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1428,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-01-26T09:00:09-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rOAbH2JmK18",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "eOHIJHv0wf8",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP43 The Crown Room and the Pillar's Memory | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-02-02T09:00:23-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eOHIJHv0wf8",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "C4pUlNThd5c",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP44 A Serious Match - Umi vs. Tarta and Tatra! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-02-09T09:00:12-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=C4pUlNThd5c",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "2TnC3yLB_Q8",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP45 Desperate Situation: Crisis Upon Lantis | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-02-16T09:00:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2TnC3yLB_Q8",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "cHP1o97rZqc",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP46 Hikaru in Shock! The Truth About Nova | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-02-23T09:15:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=cHP1o97rZqc",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "ZjF1pkXGPGU",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "MAGIC KNIGHT RAYEARTH - EP47 The True Pillar is: Hikaru or Eagle! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-03-02T09:15:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZjF1pkXGPGU",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "dkZ9mdD6y-k",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK"
+      ],
+      "caption_languages": [],
+      "title": "MAGIC KNIGHT RAYEARTH - EP48 An Endless Battle! | English Dub",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1479,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2023-03-09T09:15:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dkZ9mdD6y-k",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "BgMllBwSKzM",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 01 Vanguard of Destiny! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1461,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-04-18T20:00:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=BgMllBwSKzM",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "Xj1XDxKpzpg",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 02 Ride to Victory! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-04-26T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Xj1XDxKpzpg",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "apxQ3H80jPo",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 03 Welcome to Card Capital | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-05-03T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=apxQ3H80jPo",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "g2LRXbunIx4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 04 Assault! Twin Drive! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-05-10T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=g2LRXbunIx4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "Sgebk58WbgQ",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 05 Whirlwind! Kamui, the Grade-School Fighter! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1463,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-05-17T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Sgebk58WbgQ",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "THOcIlPV2GU",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 06 The Mysterious Card Shop! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1463,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-05-24T07:30:13-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=THOcIlPV2GU",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "bkGE58F_Luk",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 07 The Fearsome Soulblast! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-05-31T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bkGE58F_Luk",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "EtsRO47fObg",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 08 The King of Knights Enters the Fray! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-06-07T18:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=EtsRO47fObg",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "rx1EzaO48D4",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 09 The Shop Tournament Begins! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1460,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-06-15T09:52:55-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rx1EzaO48D4",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "OG7vC6vdNCA",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Cardfight!! Vanguard - Ride 21 Rematch in the Final Match! | English Dub HD Remaster",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1461,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-10T18:00:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=OG7vC6vdNCA",
+      "reason": "Runtime, privacy, iframe or India metadata failed"
+    },
+    {
+      "id": "9Y3ZkFn3fAc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP03 Treasure under the Sea | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9Y3ZkFn3fAc",
+      "oembed": true
+    },
+    {
+      "id": "GNvPv3Ey0k0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP04 The Sovereign Gold Coins | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GNvPv3Ey0k0",
+      "oembed": true
+    },
+    {
+      "id": "O84beIAGl7c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP05 Mrs. Hudson is Taken Hostage | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1506,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=O84beIAGl7c",
+      "oembed": true
+    },
+    {
+      "id": "SLjCNWSfl-s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP06 The White Cliffs of Dover | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1503,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SLjCNWSfl-s",
+      "oembed": true
+    },
+    {
+      "id": "7iHv_86VMnY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP07 A Sacred Image Disappears | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-12-15T15:22:51-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7iHv_86VMnY",
+      "oembed": true
+    },
+    {
+      "id": "2nGxNPTjOrc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP08 The Green Balloon | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2nGxNPTjOrc",
+      "oembed": true
+    },
+    {
+      "id": "B4VMJx_Jz9A",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP09 The Stormy Getaway | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=B4VMJx_Jz9A",
+      "oembed": true
+    },
+    {
+      "id": "x-cjXHMNkr0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP10 The Crown of Mazalin | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=x-cjXHMNkr0",
+      "oembed": true
+    },
+    {
+      "id": "lD7lP96Hjh8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP13 The White Silver Getaway! | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=lD7lP96Hjh8",
+      "oembed": true
+    },
+    {
+      "id": "vS_SgspLawA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP14 The Coral Lobster | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1503,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:31-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vS_SgspLawA",
+      "oembed": true
+    },
+    {
+      "id": "oCicaqN9kVY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP15 The Golden Statue of the Great Burglar | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=oCicaqN9kVY",
+      "oembed": true
+    },
+    {
+      "id": "w_Et-bcRBtw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP16 The Runaway Freight Car | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=w_Et-bcRBtw",
+      "oembed": true
+    },
+    {
+      "id": "JXLDE3wAZe8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP17 The Secret of the Sacred Cross Sword | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=JXLDE3wAZe8",
+      "oembed": true
+    },
+    {
+      "id": "NRX6iHi63tc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP19 The Rosetta Stone | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=NRX6iHi63tc",
+      "oembed": true
+    },
+    {
+      "id": "Xg-peBBPebE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP20 The Adventure of the Thames Monster | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Xg-peBBPebE",
+      "oembed": true
+    },
+    {
+      "id": "iR12FKTeOoI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP21 The Secret of the Parrot | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=iR12FKTeOoI",
+      "oembed": true
+    },
+    {
+      "id": "v33CTI2PhEI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP22 The Priceless French Doll | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=v33CTI2PhEI",
+      "oembed": true
+    },
+    {
+      "id": "u8yo21muJvE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP23 The Bell of Big Ben | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=u8yo21muJvE",
+      "oembed": true
+    },
+    {
+      "id": "e74orn9kToE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP25 Disturbance, The World Flight Championship! | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:42:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=e74orn9kToE",
+      "oembed": true
+    },
+    {
+      "id": "ZeXgC8syEcY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Sherlock Hound - EP26 The Missing Bride Affair | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1504,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-23T17:43:04-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZeXgC8syEcY",
+      "oembed": true
+    }
+  ],
+  "published_additions": [
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "hRQSoaSZWpQ",
+      "episode": "01",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "fzfCkUDxYKU",
+      "episode": "02",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "9Y3ZkFn3fAc",
+      "episode": "03",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "GNvPv3Ey0k0",
+      "episode": "04",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "O84beIAGl7c",
+      "episode": "05",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "SLjCNWSfl-s",
+      "episode": "06",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "7iHv_86VMnY",
+      "episode": "07",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "2nGxNPTjOrc",
+      "episode": "08",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "B4VMJx_Jz9A",
+      "episode": "09",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "x-cjXHMNkr0",
+      "episode": "10",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "3Dx_YXg3L6c",
+      "episode": "11",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "U6I59KjWOfg",
+      "episode": "12",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "lD7lP96Hjh8",
+      "episode": "13",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "vS_SgspLawA",
+      "episode": "14",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "oCicaqN9kVY",
+      "episode": "15",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "w_Et-bcRBtw",
+      "episode": "16",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "JXLDE3wAZe8",
+      "episode": "17",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "wpVdKuW9wAo",
+      "episode": "18",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "NRX6iHi63tc",
+      "episode": "19",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "Xg-peBBPebE",
+      "episode": "20",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "iR12FKTeOoI",
+      "episode": "21",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "v33CTI2PhEI",
+      "episode": "22",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "u8yo21muJvE",
+      "episode": "23",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "G05mq8NGmwE",
+      "episode": "24",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "e74orn9kToE",
+      "episode": "25",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    },
+    {
+      "title_id": "sherlock-hound",
+      "season_id": "sherlock-hound-english-available",
+      "video_id": "ZeXgC8syEcY",
+      "episode": "26",
+      "audio_language": "English",
+      "audio_evidence": "Explicit official upload English Dub title"
+    }
+  ],
+  "searches": [
+    {
+      "query": "anime movie Hindi official full Ramayana Muse",
+      "rows": [
+        {
+          "video_id": "gKcOjnDJfzk",
+          "title": "Ramayana: The Legend of Prince Rama (Full animated film 1993)",
+          "lead_channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+          "lead_author": "Ramayana : The Legend Of Prince Rama",
+          "runtime": "2:08:50"
+        },
+        {
+          "video_id": "N6j1So0lkV8",
+          "title": "Ramayana: The Legend of Prince Rama (Full animated film 1993 हिंदी)",
+          "lead_channel_id": "UC9GyMDE_QmCANjoYFKYyRNg",
+          "lead_author": "Ram Manohar",
+          "runtime": "2:08:32"
+        },
+        {
+          "video_id": "G0XldxqzhF4",
+          "title": "Ramayan - The Epic Animation HD in Hindi - रामायण हिन्दी में",
+          "lead_channel_id": "UCK1wGAMyfne15RUzkP_yFTQ",
+          "lead_author": "Lovisa T",
+          "runtime": "1:37:51"
+        },
+        {
+          "video_id": "QPkdkknzUkQ",
+          "title": "Ramayana: The Legend Of Prince Rama | Official Hindi Trailer | 24th January",
+          "lead_channel_id": "UCn9BuiRZGR_tPM2GGT4jN-w",
+          "lead_author": "Excel Movies",
+          "runtime": "2:12"
+        },
+        {
+          "video_id": "JZEr8pBB5uw",
+          "title": "New Ramayana Animated Movie - The Epic || Full Cartoon Ramayan Hindi ||",
+          "lead_channel_id": "UC-GKlP4AQ3vbqo_87DAAoNQ",
+          "lead_author": "Nagme Sune Ansune (Old Songs & Movies)",
+          "runtime": "1:39:59"
+        },
+        {
+          "video_id": "LViHE7QL1ZM",
+          "title": "Ramayana Part 1 Full Hindi Movie | The Divine Beginning of Shri Ram | Hindi Mythological Story ",
+          "lead_channel_id": "UCc6K3YxUQw_XvJNwrpw17Jg",
+          "lead_author": "Ai Story Teller Harish ",
+          "runtime": "1:14:20"
+        },
+        {
+          "video_id": "8c3604QByjQ",
+          "title": "RAMAYANA | PATH OF DHARMA | Official Trailer | Hindi",
+          "lead_channel_id": "UC_68Q3qeXcdtK-4LwFGRhRA",
+          "lead_author": "Path Of Wonders",
+          "runtime": "5:06"
+        },
+        {
+          "video_id": "2F2jQC8McMM",
+          "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER (HINDI)",
+          "lead_channel_id": "UCZbzIn7mumz5Ct-uTC0dZPg",
+          "lead_author": "Sony Pictures Canada",
+          "runtime": "2:37"
+        },
+        {
+          "video_id": "fPbsRPKXX5s",
+          "title": "Ramayana Full Movie Hindi 2026 | Ranbir Kapoor | Sai Pallavi | Yash | Sunny Deol | Latest & Updates ",
+          "lead_channel_id": "UCCm0BidUlC-2LC1-Kj8bDEA",
+          "lead_author": "SG MOVIE WORLD",
+          "runtime": "3:07:45"
+        },
+        {
+          "video_id": "d6JVZNHLdEk",
+          "title": "RAMAYAN 2026 | Complete Hindi Animated Movie | Lord Rama Epic Story | Full Movie HD",
+          "lead_channel_id": "UCy46a7I9CXYP1QYukKBTmtQ",
+          "lead_author": "New Bollywood TV",
+          "runtime": "1:34:18"
+        },
+        {
+          "video_id": "8uOfGGKhuuc",
+          "title": "Ramayan (2026) | Shri Ram Ki Mahagatha | Full Animated Movie in Hindi | jai sri ram🙏🙏🙏",
+          "lead_channel_id": "UC-txmYorhHB8YRvHzdMVf5g",
+          "lead_author": "official cartoons4yt ",
+          "runtime": "4:08"
+        },
+        {
+          "video_id": "eBq2l18y5Pc",
+          "title": "RAMAYANA l TRAILER 2 [HINDI]",
+          "lead_channel_id": "UC76eXCjwy1LVJzvMOas3oqA",
+          "lead_author": "Sony Pictures Malaysia",
+          "runtime": "2:24"
+        },
+        {
+          "video_id": "7eIt4ALNKYE",
+          "title": "Ramayana Full Movie AI Reimagined 4K | Ram Katha Episode 1 | Lord Rama Story",
+          "lead_channel_id": "UCZVpIBRe7bzsm8Q198cWhnQ",
+          "lead_author": "KTimelines Official",
+          "runtime": "8:01"
+        },
+        {
+          "video_id": "fdZlWXhjmaw",
+          "title": "Ramayana Hindi Trailer (NEW) | Ranbir Kapoor, Yash, Sai Pallavi | Nitesh Tiwari",
+          "lead_channel_id": "UCLiBVD0YIEOr7HjAw45wNUw",
+          "lead_author": "Aniket Nikam Creations",
+          "runtime": "1:12"
+        },
+        {
+          "video_id": "NlLuI69bvKw",
+          "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+          "lead_channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+          "lead_author": "Otaku SenZai ",
+          "runtime": "4:01"
+        },
+        {
+          "video_id": "Cr1mJBmK_YI",
+          "title": "Ramayana | Full Animated Movie in Hindi | Ramayan | Mahayudh | Jai Shree Ram |  Mahayodha Rama |",
+          "lead_channel_id": "UCyJdbFTg5LcUdhuTDCiglUQ",
+          "lead_author": "Top Movie's ",
+          "runtime": "1:39:59"
+        },
+        {
+          "video_id": "T0Uduwg2W2w",
+          "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER IN HINDI | RANBIR KAPOOR | YASH | SAI PALLAVI | SUNNY DEOL",
+          "lead_channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+          "lead_author": "T-Series",
+          "runtime": "2:24"
+        },
+        {
+          "video_id": "tNSjiqxvxRw",
+          "title": "RamaSetu - Song of the monkeys when constructing the bridge",
+          "lead_channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+          "lead_author": "Ramayana : The Legend Of Prince Rama",
+          "runtime": "2:44"
+        }
+      ]
+    },
+    {
+      "query": "Pokémon movie English dub official full",
+      "rows": [
+        {
+          "video_id": "3Z00Bu-M4W0",
+          "title": "Pokémon The Movie: The Rise of Darkrai | FULL 4K HD English!",
+          "lead_channel_id": "UCZMBtthkPAoTEHR82vNosLQ",
+          "lead_author": "FedGaming",
+          "runtime": "1:00:37"
+        },
+        {
+          "video_id": "OycTz8mXF_4",
+          "title": "POKEMON POKEMON the MOVIE HOOPA AND THE CLASH OF AGES FULL HD QUALITY FULL DUBBED IN HINDI 1080 HD",
+          "lead_channel_id": "UC0gPdVxhTvqdKdyz50-JyMg",
+          "lead_author": "S1 NAMAN 🦅",
+          "runtime": "1:00:37"
+        },
+        {
+          "video_id": "_JPnwf7Gwh4",
+          "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY #viral #movie",
+          "lead_channel_id": "UC4WZ19GaovNydPm6C504o4w",
+          "lead_author": "Mujeeb_FFx",
+          "runtime": "1:00:37"
+        },
+        {
+          "video_id": "KYGbLUMDpDo",
+          "title": "Pokémon Generations - Full Movie HD (All Episodes 1-18)",
+          "lead_channel_id": "UCKQI-jlLb7ofeS_A82ojzeQ",
+          "lead_author": "Linkario",
+          "runtime": "1:15:33"
+        },
+        {
+          "video_id": "-b6ed7x5mQ0",
+          "title": "Detective Pikachu – Gyarados Evolution Shocks Charizard in Battle ⚡🐉🔥",
+          "lead_channel_id": "UCqXdER3nalbr71rtP952eEg",
+          "lead_author": "FoleyPhantom",
+          "runtime": "0:42"
+        },
+        {
+          "video_id": "rWGudm5RTTY",
+          "title": "Misty was CENSORED in Pokémon’s English Dub!",
+          "lead_channel_id": "UCxt1BUSXx31DkZnjg6gKH3Q",
+          "lead_author": "SpeedBuff",
+          "runtime": "0:37"
+        },
+        {
+          "video_id": "8PGsP59Io20",
+          "title": "Pokémon the Movie: The Power of Us—Full Trailer",
+          "lead_channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+          "lead_author": "The Official Pokémon YouTube channel",
+          "runtime": "1:32"
+        },
+        {
+          "video_id": "bIB8xizIY3M",
+          "title": "Pokémon Master Journeys: The Series (Season 24) - English Dub Opening",
+          "lead_channel_id": "UCfSgHCfjYqf1S5ariw1Sb3A",
+          "lead_author": "Virusanity",
+          "runtime": "0:30"
+        },
+        {
+          "video_id": "AmV2pM4zPgU",
+          "title": "Pokémon the Movie: The Power of Us—Official Clip 1",
+          "lead_channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+          "lead_author": "The Official Pokémon YouTube channel",
+          "runtime": "1:09"
+        },
+        {
+          "video_id": "eGrivM6qaKg",
+          "title": "Pokémon movie i choose you.",
+          "lead_channel_id": "UCsQ7rROXUq0UHUt3LUmm3SQ",
+          "lead_author": "OTAKU ZONE",
+          "runtime": "1:00:03"
+        },
+        {
+          "video_id": "_w4BfCDYkrY",
+          "title": "Mewtwo has the SADDEST backstory in Pokémon #pokemon #shorts",
+          "lead_channel_id": "UCNiPMsbyhSC6u9vszNO-xDg",
+          "lead_author": "TKDPanda",
+          "runtime": "1:00"
+        },
+        {
+          "video_id": "sdk0ZoS9-aQ",
+          "title": "Pokémon Ultimate Journeys: The Series (Season 25) - English Dub Opening",
+          "lead_channel_id": "UCfSgHCfjYqf1S5ariw1Sb3A",
+          "lead_author": "Virusanity",
+          "runtime": "0:30"
+        },
+        {
+          "video_id": "8SJSS_CB6jE",
+          "title": "ENTER PIKACHU!  [FULL EPISODE] 📺 | Pokémon Journeys: The Series Episode 1",
+          "lead_channel_id": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+          "lead_author": "The Official Pokémon YouTube channel",
+          "runtime": "23:53"
+        }
+      ]
+    },
+    {
+      "query": "TMS anime full episode English dub Monster Rancher Sherlock Hound",
+      "rows": [
+        {
+          "video_id": "ehc9FsDq-RM",
+          "title": "TMS Launches 2 U S  Anime Streaming Channels",
+          "lead_channel_id": "UCV7wdG05ta0p3eno6topzGA",
+          "lead_author": "NewsNetwork",
+          "runtime": "0:16"
+        },
+        {
+          "video_id": "Ol4WsHy9Kkw",
+          "title": "\"Monster Rancher\"",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:10"
+        },
+        {
+          "video_id": "q5SSkP6nK6U",
+          "title": "Spirit Warrior: Revival of Evil (1994) | FULL ANIME OVA | English Dub",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:28:09"
+        },
+        {
+          "video_id": "n-JajmKOb2c",
+          "title": "Full Ep 1-12 I Anime English dub",
+          "lead_channel_id": "UCIDH-YHHpEoUU-B371BNzmA",
+          "lead_author": "| Dark Senpai",
+          "runtime": "3:23:46"
+        },
+        {
+          "video_id": "vWAhHVYvSPU",
+          "title": "Monster Rancher Hare Fart Scenes",
+          "lead_channel_id": "UCOB2JiH2pk1SnIUiFDJJx3A",
+          "lead_author": "QQ_Toons_JJ 🦋 Miracle Butterfly",
+          "runtime": "0:53"
+        },
+        {
+          "video_id": "C-d570EGC_E",
+          "title": "English Dub Edit | Hare Fart Scene - Monster Rancher (Full version on Twitter and Dailymotion)",
+          "lead_channel_id": "UCOB2JiH2pk1SnIUiFDJJx3A",
+          "lead_author": "QQ_Toons_JJ 🦋 Miracle Butterfly",
+          "runtime": "0:42"
+        },
+        {
+          "video_id": "Bjd2Er5LH_g",
+          "title": "Monster Summoner Reborn! Full Anime Dub Episodes 1–12  Epic Fantasy",
+          "lead_channel_id": "UCtoiGhVcRyz52MLEENRKfRg",
+          "lead_author": "Senpai Bliss Zone",
+          "runtime": "3:55:28"
+        },
+        {
+          "video_id": "-IF_C9lxlbo",
+          "title": "Monster Rancher Phoenix soul split into five (English Verison)",
+          "lead_channel_id": "UCBKvrBUf90HrLjCtaCiAQXg",
+          "lead_author": "Anita Kecskésné Kovács",
+          "runtime": "0:22"
+        },
+        {
+          "video_id": "7mdfEQB8Eog",
+          "title": "Monster Rancher opening good part",
+          "lead_channel_id": "UCWVYASl6PgYBoTCXENSIqFg",
+          "lead_author": "Dib Membrane",
+          "runtime": "0:29"
+        },
+        {
+          "video_id": "P4tsPDbVABU",
+          "title": "How Monster Rancher Was Better (And Worse) Than Its Rivals | Anime Review",
+          "lead_channel_id": "UChaW5Ka3ZjrJcGNM_UzPqXA",
+          "lead_author": "TheDigiKnow",
+          "runtime": "9:46"
+        },
+        {
+          "video_id": "IaZXBs-6oHM",
+          "title": "KICKED HIM OUT, NOW HE RETURNED AS SS-RANK MAGE Eng Dub - New Anime English Dub 2026 🦌🐣 Reborn Ink",
+          "lead_channel_id": null,
+          "lead_author": "Reborn Ink and 4 more",
+          "runtime": "11:56:39"
+        },
+        {
+          "video_id": "sUYmA_SVKHw",
+          "title": "Monster Rancher Explained in 10 Minutes",
+          "lead_channel_id": "UClx1kQGY6iPobgDtq5cIIFA",
+          "lead_author": "King Kasper",
+          "runtime": "10:13"
+        },
+        {
+          "video_id": "OQMebSPMASU",
+          "title": "ANIME EPISODES 1–12 ENGLISH DUBBED FULL SCREEN | NEW ANIME 2026 | ENG DUB | Picked Up by S Rank",
+          "lead_channel_id": "UCSPBVF7Qehiz-FRj3dKqmDQ",
+          "lead_author": "Maii skills",
+          "runtime": "11:19:14"
+        }
+      ]
+    },
+    {
+      "query": "KBS World drama full episode Korean English sub",
+      "rows": [
+        {
+          "video_id": "Vy4US70H810",
+          "title": "[Full/K-Drama] Search WWW EP.1 | #Engsub #LimSoojung #JangKiyong #LeeDaHee #JeonHyejin #BiggerOnTV",
+          "lead_channel_id": "UCsJ_a9JujtcZUaeGlo3x4eg",
+          "lead_author": "Diggin’ K-Contents",
+          "runtime": "1:09:57"
+        },
+        {
+          "video_id": "vxhlppZYYLU",
+          "title": "Love To The End | 끝까지 사랑 EP.1 [SUB: ENG, CHN/2018.07.27]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "32:13"
+        },
+        {
+          "video_id": "4aPllJ8REnE",
+          "title": "[Full] Discovery of Love EP.1 [SUB: ENG, CHN, IND, VIE, MLY] | 연애의 발견",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "58:08"
+        },
+        {
+          "video_id": "GG-O6CTo004",
+          "title": "[ENG SUB•FULL] Tomorrow, With You｜Ep.01 #leejehoon #shinminah",
+          "lead_channel_id": "UCsJ_a9JujtcZUaeGlo3x4eg",
+          "lead_author": "Diggin’ K-Contents",
+          "runtime": "1:02:29"
+        }
+      ]
+    },
+    {
+      "query": "Muse Asia Hindi dub full episode anime",
+      "rows": [
+        {
+          "video_id": "NlLuI69bvKw",
+          "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+          "lead_channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+          "lead_author": "Otaku SenZai ",
+          "runtime": "4:01"
+        },
+        {
+          "video_id": "SRKSGTWemaY",
+          "title": "My Dress-Up Darling Episode 1 | Full Episode | HINDI DUB",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "lead_author": "Crunchyroll India",
+          "runtime": "23:55"
+        },
+        {
+          "video_id": "-whMuZhoatM",
+          "title": "Top 20 Hindi Dub Anime You Must Watch on Muse India & MX Player | Best Hindi Anime List 2025",
+          "lead_channel_id": "UCbEDMEUQPThl2i1WZHy5Lew",
+          "lead_author": "Otaku Empire ",
+          "runtime": "3:01"
+        },
+        {
+          "video_id": "qbixinO_ENU",
+          "title": "No Longer Allowed in Another World | FULL EPISODE | HINDI DUB",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "lead_author": "Crunchyroll India",
+          "runtime": "23:58"
+        },
+        {
+          "video_id": "4mUiNGQYnmM",
+          "title": "[Hindi Dub] Attack on Titan Episode 38 (S3 E1) Muse In  Part 1",
+          "lead_channel_id": "UCIVHJU7kP9rVZl4FPyEpnPg",
+          "lead_author": "Muse India 2 channel ",
+          "runtime": "5:01"
+        }
+      ]
+    },
+    {
+      "query": "anime movie English dub official RetroCrush full",
+      "rows": [
+        {
+          "video_id": "id1eRjO4p_0",
+          "title": "Robot Carnival | Full Anime Movie (English Subbed) | Katsuhiro Otomo, Joe Hisaishi",
+          "lead_channel_id": "UCPZkYpT5XIUou8sV8zk-3jQ",
+          "lead_author": "RetroCrush",
+          "runtime": "1:31:19"
+        },
+        {
+          "video_id": "q5SSkP6nK6U",
+          "title": "Spirit Warrior: Revival of Evil (1994) | FULL ANIME OVA | English Dub",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:28:09"
+        },
+        {
+          "video_id": "n4kO9tHjkY8",
+          "title": "Robotech Movie - The Untold Story (1986) English Dub 4K",
+          "lead_channel_id": "UCVSu7hFjEm3kPoYJFRQoZEg",
+          "lead_author": "Retro Anime World",
+          "runtime": "1:24:33"
+        },
+        {
+          "video_id": "-aeCHiZwDaE",
+          "title": "Wrath of the Ninja: The Yotoden Movie (1989) English Dub | FULL HD ANIME MOVIE | Yōtōden",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:26:27"
+        },
+        {
+          "video_id": "6i535MxBLYQ",
+          "title": "Legend of Crystania: The Chaos Ring | FULL OVA | English Dub | Record of Lodoss War",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:53:42"
+        },
+        {
+          "video_id": "pywhkJpn96Q",
+          "title": "Robot Carnival (1987) | Japanese Sci-Fi Animation | Full Movie",
+          "lead_channel_id": "UCYd6Vabs3_9VPs7F_G9Irig",
+          "lead_author": "JoySauce",
+          "runtime": "1:30:59"
+        },
+        {
+          "video_id": "-W5-cA0JnQA",
+          "title": "Crusher Joe: The Movie (1983) English Dubbed",
+          "lead_channel_id": "UCigQDFOYaAsK26b2buix_yA",
+          "lead_author": "RetroAnimeLovers",
+          "runtime": "2:12:21"
+        },
+        {
+          "video_id": "ptRz9IO_Yos",
+          "title": "Love Anime (2016) 🎬 Masterpiece Romantic Fantasy Anime Movie [Full English Dub] 🌌 HD ✨",
+          "lead_channel_id": "UCtOAaKovwrThFNLsaRy-evw",
+          "lead_author": "Lofi Freedom",
+          "runtime": "1:47:20"
+        },
+        {
+          "video_id": "3aUXR9Ds33s",
+          "title": "Casshan Robot Hunter Anime English Dubbed",
+          "lead_channel_id": "UCt6IuOYTkrljbso9tbkaAvA",
+          "lead_author": "PIERCED6966",
+          "runtime": "1:37:54"
+        },
+        {
+          "video_id": "0BPQKW7hdTI",
+          "title": "Cybernetics Guardian (1989) English Dub 4K",
+          "lead_channel_id": "UCVSu7hFjEm3kPoYJFRQoZEg",
+          "lead_author": "Retro Anime World",
+          "runtime": "39:12"
+        },
+        {
+          "video_id": "Tu2OCGyEvQY",
+          "title": "Some Of The WILDEST Retro Anime | Best Of RetroCrush Compilation Part I | RetroCrush",
+          "lead_channel_id": "UCPZkYpT5XIUou8sV8zk-3jQ",
+          "lead_author": "RetroCrush",
+          "runtime": "27:50"
+        },
+        {
+          "video_id": "oKRDjJScNqw",
+          "title": "Best Japanese anime full movie |  English dubbed movie",
+          "lead_channel_id": "UCo84r28tUzUC7sEfMy1wupg",
+          "lead_author": "Animation Anime",
+          "runtime": "2:49:46"
+        },
+        {
+          "video_id": "xYXx-rR2s-w",
+          "title": "Latest Anime movies in English Dub | Code Breaker | Full movie HD | THE ANIME-TIST",
+          "lead_channel_id": "UCBr-RUxhmTwJ13yYuzRR5ZQ",
+          "lead_author": "The Anime-tist",
+          "runtime": "4:31:39"
+        },
+        {
+          "video_id": "l40MpJYkxRs",
+          "title": "Armitage III: Poly-Matrix (1996) - Full Anime Movie | English Dubbed",
+          "lead_channel_id": "UCizj0ZMuC3TqDw1_bO6C2VQ",
+          "lead_author": "Levirex",
+          "runtime": "1:32:01"
+        },
+        {
+          "video_id": "4-2VxfgP5JU",
+          "title": "Anime FullScreen English Dub | All Episodes | 2024 New Anime Series | Anime in English",
+          "lead_channel_id": "UCW2BqK2844-yfO9EqWQZ0Hw",
+          "lead_author": "AniWatchHub",
+          "runtime": "4:40:59"
+        },
+        {
+          "video_id": "0ofXfmuiHj0",
+          "title": "GO FORWARD. Trailer | English Dub Premiere | Very Good Dog Anime",
+          "lead_channel_id": null,
+          "lead_author": "RetroCrush and SkySet Entertainment",
+          "runtime": "1:31"
+        }
+      ]
+    },
+    {
+      "query": "Lupin full movie English dub TMS official",
+      "rows": [
+        {
+          "video_id": "CYRciNXQFPY",
+          "title": "LUPIN THE 3rd PART 6 | Epic London Car Chase! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:29"
+        },
+        {
+          "video_id": "PA3GNJu3orY",
+          "title": "『Anime Late Night』☆  Lupin the Third: The Legend of Gold Babylon | English Dubbed",
+          "lead_channel_id": "UCNuetMo2fA-tG09-fkXp5_Q",
+          "lead_author": "「Retro Ryu」",
+          "runtime": "1:54:33"
+        },
+        {
+          "video_id": "i4uBMc1rXZE",
+          "title": "Lupin the third  Full movie 2014",
+          "lead_channel_id": "UCcLzJ7W3ndFwRH4rJil5zkg",
+          "lead_author": "Angelee Morquin",
+          "runtime": "2:12:57"
+        },
+        {
+          "video_id": "Afd-VCGNjNg",
+          "title": "Lupin The Third Tagalog | Lupin Full Movie | Lupin III: The Fuma Conspiracy",
+          "lead_channel_id": "UC_gfBwWNJHCkOTVdVqDjptw",
+          "lead_author": "AniMontz",
+          "runtime": "1:13:27"
+        },
+        {
+          "video_id": "Uxz5ud_6rGE",
+          "title": "LUPIN THE 3rd PART 4 | EP 7 - The Zapping Operation | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "23:10"
+        },
+        {
+          "video_id": "W22U2y_HjWw",
+          "title": "LUPIN THE 3rd PART 6 | Don't Bite The Hand That Feeds You, Lupin! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:21"
+        },
+        {
+          "video_id": "drXdKvV9-WE",
+          "title": "LUPIN III: The First | English Dub Teaser Trailer",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "0:34"
+        },
+        {
+          "video_id": "sQMaMBAy4BY",
+          "title": "LUPIN THE 3rd PART 4 - EP17 The Murdering Marionette | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "23:06"
+        },
+        {
+          "video_id": "XDw3aKDcjZw",
+          "title": "LUPIN THE 3rd PART 6 | Don't Let Your Guard Down, Jigen! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "0:47"
+        },
+        {
+          "video_id": "K8LrLO_omys",
+          "title": "LUPIN THE 3rd PART 4 - EP01 The Wedding of Lupin III | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "23:09"
+        },
+        {
+          "video_id": "lO3LxFuFcQE",
+          "title": "LUPIN THE 3rd PART 6 | Goemon Ishikawa Makes His Runway Debut | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:10"
+        },
+        {
+          "video_id": "n4B7q820og8",
+          "title": "LUPIN THE 3rd PART 6 | Lucifer, How Could You!? | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:25"
+        },
+        {
+          "video_id": "3Pq5PAoLLYY",
+          "title": "LUPIN THE 3rd PART 6 | Step Back Sherlock! No One Knows Lupin III Better Than Pops! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:04"
+        },
+        {
+          "video_id": "koAYxuarg8k",
+          "title": "LUPIN THE 3rd PART 4 - EP13 The End of Lupin III | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "23:08"
+        },
+        {
+          "video_id": "7FoGW169OIs",
+          "title": "LUPIN THE 3rd PART 6 | Lupin’s Team is Always in Perfect Sync | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:14"
+        },
+        {
+          "video_id": "2fK_8YFy9dA",
+          "title": "LUPIN THE 3rd PART 6 | Sherlock Holmes Sweeps Fujiko Off Her Feet! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:56"
+        },
+        {
+          "video_id": "0xDvCHriX9s",
+          "title": "LUPIN THE 3rd PART 6 | The Jig Is Up Lupin! Zenigata Will Always Sniff You Out! | English Dub",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:10"
+        }
+      ]
+    },
+    {
+      "query": "Sherlock Hound full episode English dub official",
+      "rows": [
+        {
+          "video_id": "3Dx_YXg3L6c",
+          "title": "Sherlock Hound - EP11 The Four Signatures | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:04"
+        },
+        {
+          "video_id": "U6I59KjWOfg",
+          "title": "Sherlock Hound - EP12 The Speckled Band | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:03"
+        },
+        {
+          "video_id": "hRQSoaSZWpQ",
+          "title": "Sherlock Hound - EP01 A Small Client | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:05"
+        },
+        {
+          "video_id": "G05mq8NGmwE",
+          "title": "Sherlock Hound - EP24 The Disappearance of the Splendid Royal Horse | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:04"
+        },
+        {
+          "video_id": "fzfCkUDxYKU",
+          "title": "Sherlock Hound - EP02 The Adventure of the Blue Carbuncle | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:05"
+        },
+        {
+          "video_id": "wpVdKuW9wAo",
+          "title": "Sherlock Hound - EP18 The Adventure of the Three Students | English Dub | Full Episode",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "25:04"
+        }
+      ]
+    },
+    {
+      "query": "Monster Rancher full episode English dub official",
+      "rows": [
+        {
+          "video_id": "vWAhHVYvSPU",
+          "title": "Monster Rancher Hare Fart Scenes",
+          "lead_channel_id": "UCOB2JiH2pk1SnIUiFDJJx3A",
+          "lead_author": "QQ_Toons_JJ 🦋 Miracle Butterfly",
+          "runtime": "0:53"
+        },
+        {
+          "video_id": "C-d570EGC_E",
+          "title": "English Dub Edit | Hare Fart Scene - Monster Rancher (Full version on Twitter and Dailymotion)",
+          "lead_channel_id": "UCOB2JiH2pk1SnIUiFDJJx3A",
+          "lead_author": "QQ_Toons_JJ 🦋 Miracle Butterfly",
+          "runtime": "0:42"
+        },
+        {
+          "video_id": "g1z_4V7NOCc",
+          "title": "The ENTIRE Story of Monster Rancher in 127 Minutes",
+          "lead_channel_id": "UCGpAKnML9tkomkhKv2yvt0Q",
+          "lead_author": "Bruuce TS",
+          "runtime": "2:07:50"
+        },
+        {
+          "video_id": "P4tsPDbVABU",
+          "title": "How Monster Rancher Was Better (And Worse) Than Its Rivals | Anime Review",
+          "lead_channel_id": "UChaW5Ka3ZjrJcGNM_UzPqXA",
+          "lead_author": "TheDigiKnow",
+          "runtime": "9:46"
+        },
+        {
+          "video_id": "NrD9r4MeY28",
+          "title": "Monster Rancher but only when Fairy Hare speaks (English dub)",
+          "lead_channel_id": "UCU5qtmg3JmWLShdqjbr-c1Q",
+          "lead_author": "Tinyironfist",
+          "runtime": "3:25"
+        },
+        {
+          "video_id": "okFdbRBsrBE",
+          "title": "Monster Farm: Escape Plan Episode 1 - 6 English Dubbed / Popular Anime English Dubbed 2021",
+          "lead_channel_id": "UCDXoQP2L_l6dkFxcPs_kGRw",
+          "lead_author": "PopularAnime Tv",
+          "runtime": "1:59:05"
+        },
+        {
+          "video_id": "sUYmA_SVKHw",
+          "title": "Monster Rancher Explained in 10 Minutes",
+          "lead_channel_id": "UClx1kQGY6iPobgDtq5cIIFA",
+          "lead_author": "King Kasper",
+          "runtime": "10:13"
+        },
+        {
+          "video_id": "zbSahq5Wq0A",
+          "title": "Digimon Tamers - Opening [HQ English Dub]",
+          "lead_channel_id": "UCyjqcgExndq8iOC2X4AK9kw",
+          "lead_author": "Alex Bahret",
+          "runtime": "1:01"
+        },
+        {
+          "video_id": "evvuCGHh_nc",
+          "title": "Monster Farm: Escape Plan Episode 7 - 12 English Dubbed/ Popular Anime English Dubbed 2021",
+          "lead_channel_id": "UCDXoQP2L_l6dkFxcPs_kGRw",
+          "lead_author": "PopularAnime Tv",
+          "runtime": "2:00:36"
+        },
+        {
+          "video_id": "q5SSkP6nK6U",
+          "title": "Spirit Warrior: Revival of Evil (1994) | FULL ANIME OVA | English Dub",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:28:09"
+        },
+        {
+          "video_id": "Ol4WsHy9Kkw",
+          "title": "\"Monster Rancher\"",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "lead_author": "Anime! on TMS Official Channel",
+          "runtime": "1:10"
+        }
+      ]
+    },
+    {
+      "query": "anime movie Hindi dubbed Muse official",
+      "rows": [
+        {
+          "video_id": "NlLuI69bvKw",
+          "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+          "lead_channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+          "lead_author": "Otaku SenZai ",
+          "runtime": "4:01"
+        },
+        {
+          "video_id": "cydtKC0k8Yo",
+          "title": "Aa Gaya 😍😭!! Attack On Titan Season 3 Hindi Dub On Muse India YouTube Channel 🔥",
+          "lead_channel_id": "UC0vIhVPxQdWR0qAIsO22-bQ",
+          "lead_author": "LordMurari",
+          "runtime": "1:50"
+        },
+        {
+          "video_id": "r-S6b_uZWjA",
+          "title": "Finally 😍!! Attack On Titan Season 3 Hindi Dub Release Date | Aot S3 In Hindi Dub | Muse India ",
+          "lead_channel_id": "UCn0QISpeAFFFHJqDVuJRoWQ",
+          "lead_author": "Ryuzi Senpai",
+          "runtime": "2:53"
+        },
+        {
+          "video_id": "C0uP5AOpPgs",
+          "title": "A SILENT VOICE || Hindi Dub || Anime Love story || ANIME SQUBE ||",
+          "lead_channel_id": "UC_C3DiOaHBor3elRCNs8r8A",
+          "lead_author": "Anime Sqube",
+          "runtime": "2:03:13"
+        },
+        {
+          "video_id": "f8rKuARQu5w",
+          "title": "Finally Aa Gya Attack On Titan Season 3 & 4 Hindi Dub On Muse India! Nozel senpai",
+          "lead_channel_id": "UCNNp0MCqttSd5w8fuQmLIpQ",
+          "lead_author": "NOZEL SENPAI ",
+          "runtime": "1:53"
+        },
+        {
+          "video_id": "4mUiNGQYnmM",
+          "title": "[Hindi Dub] Attack on Titan Episode 38 (S3 E1) Muse In  Part 1",
+          "lead_channel_id": "UCIVHJU7kP9rVZl4FPyEpnPg",
+          "lead_author": "Muse India 2 channel ",
+          "runtime": "5:01"
+        },
+        {
+          "video_id": "-whMuZhoatM",
+          "title": "Top 20 Hindi Dub Anime You Must Watch on Muse India & MX Player | Best Hindi Anime List 2025",
+          "lead_channel_id": "UCbEDMEUQPThl2i1WZHy5Lew",
+          "lead_author": "Otaku Empire ",
+          "runtime": "3:01"
+        },
+        {
+          "video_id": "HwlrBxp7Dwc",
+          "title": "Attack On Titan Anime Times VS Muse India Hindi Dub REVIEW 🫡",
+          "lead_channel_id": "UCbJiEws0UxAHJxi7mNsgyiA",
+          "lead_author": "Pulsemosaic ",
+          "runtime": "6:13"
+        },
+        {
+          "video_id": "bbwMQ4UZJx8",
+          "title": "Seven Deadly Sins Hindi Dub Release Date | The Seven Deadly Sins Season 1 In Hindi | Muse India",
+          "lead_channel_id": "UCn0QISpeAFFFHJqDVuJRoWQ",
+          "lead_author": "Ryuzi Senpai",
+          "runtime": "2:40"
+        },
+        {
+          "video_id": "V0DnrxeFMI0",
+          "title": "Classroom Of The Elite Season 4 Hindi Dubbed Release Date On Mx player !| Muse India ",
+          "lead_channel_id": "UCbEDMEUQPThl2i1WZHy5Lew",
+          "lead_author": "Otaku Empire ",
+          "runtime": "1:34"
+        },
+        {
+          "video_id": "gGcmOmGj7x4",
+          "title": "Muse India Vs Anime Time India Hindi Dub – Attack on Titan Hindi Dub Comparison !!",
+          "lead_channel_id": "UCpGf8eckMDIMb6LusgDwtnA",
+          "lead_author": "Hankai Live",
+          "runtime": "8:32"
+        }
+      ]
+    },
+    {
+      "query": "TMS full anime movie English",
+      "error": "'NoneType' object is not subscriptable",
+      "rows": []
+    },
+    {
+      "query": "KBS World full drama Hindi English dub",
+      "rows": [
+        {
+          "video_id": "5Q4UUw5e-qw",
+          "title": "【ENG DUB | FULL】She Married a “Broke” Man Only to Discover He’s a Secret Billionaire！#romance",
+          "lead_channel_id": "UCE1WvcKf45UIqthGWhy4hsQ",
+          "lead_author": "Eve DramaTV",
+          "runtime": "2:44:19"
+        },
+        {
+          "video_id": "yzgjOL58i9o",
+          "title": "Amoremio | 아모레 미오 Ep.1 [2014 Drama  Special / ENG / 2014.10.17]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:10:54"
+        },
+        {
+          "video_id": "Exy7jyQJ324",
+          "title": "Bittersweet Obsession | Full Korean Drama (English Dubbed) | Toxic Love Story (part2)",
+          "lead_channel_id": "UCv5EjUvDq7LrQt0MrO-UBEg",
+          "lead_author": "POZO Tv ",
+          "runtime": "1:22:19"
+        },
+        {
+          "video_id": "0-7V9z2UXFs",
+          "title": "She Hired a Jobless Guy As Personal Assistant But Falls for him instead.Korean drama Hindi dubbed ",
+          "lead_channel_id": null,
+          "lead_author": "Kitty Dramas and Zia Explore",
+          "runtime": "1:23:57"
+        },
+        {
+          "video_id": "fLvt9chMVkE",
+          "title": "【ENG DUB | FULL】She Took Over the Weak Heiress’s Body Now She’s Taking REVENGE！#romance",
+          "lead_channel_id": "UCE1WvcKf45UIqthGWhy4hsQ",
+          "lead_author": "Eve DramaTV",
+          "runtime": "1:17:24"
+        },
+        {
+          "video_id": "AHROA-A7GXc",
+          "title": "Outlasting Happiness | 끈질긴 기쁨 [2013 Drama  Special / ENG / 2013.12.20]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:10:58"
+        },
+        {
+          "video_id": "1ZBjLGdEpKY",
+          "title": "Melody of Love | 사랑은 노래를 타고 EP.1 [SUB : ENG,CHN / 2013.11.20]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "35:40"
+        },
+        {
+          "video_id": "BcV-_g7VzvY",
+          "title": "Waiting for Love | 연애를 기대해 - Ep.1 (2013.10.02)",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:07:15"
+        },
+        {
+          "video_id": "mF_sBcqdEYI",
+          "title": "My Happy Home | 즐거운 나의 집 [KBS Drama Special / 2017.01.13]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:14:40"
+        },
+        {
+          "video_id": "vxhlppZYYLU",
+          "title": "Love To The End | 끝까지 사랑 EP.1 [SUB: ENG, CHN/2018.07.27]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "32:13"
+        },
+        {
+          "video_id": "20WWij_ShpU",
+          "title": "[FULL•SUB] Familiar Wife (2018)｜Ep.01｜ENG/SPA subbed kdrama｜#jisung #hanjimin #jangseungjo",
+          "lead_channel_id": "UCsJ_a9JujtcZUaeGlo3x4eg",
+          "lead_author": "Diggin’ K-Contents",
+          "runtime": "1:15:00"
+        },
+        {
+          "video_id": "xkCBqPR50cQ",
+          "title": "\"My Boyfriend is Ghost [FULL MOVIE|Hindi Dubbed]New Chinese Vertical Drama",
+          "lead_channel_id": "UCSBHMyzrSC5cQRHUtFWZpVA",
+          "lead_author": "AR Central ",
+          "runtime": "2:26:06"
+        },
+        {
+          "video_id": "7Dw1l95TsQ4",
+          "title": "【ENG DUB】My Fiancé Chose His First Love, So I Married His Uncle—Who Loved Me for 5 Years!#drama",
+          "lead_channel_id": "UC_JkEsDOZP_0yjMI2Lnpnqw",
+          "lead_author": "VerveFable",
+          "runtime": "45:39"
+        },
+        {
+          "video_id": "DeHZwjHCqXk",
+          "title": "【ENG DUB | FULL】She Caught Him Cheating Then Her First Love Became Her Boss！#romance",
+          "lead_channel_id": "UCE1WvcKf45UIqthGWhy4hsQ",
+          "lead_author": "Eve DramaTV",
+          "runtime": "1:42:18"
+        },
+        {
+          "video_id": "ZIzlGUJt-xk",
+          "title": "The Brightest Moment in Life | 인생에서 가장 빛나는 시간 - Ep.1 [2012 Drama  Special / ENG / 2012.03.30]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:09:58"
+        },
+        {
+          "video_id": "R_JO7WucM48",
+          "title": "【ENG DUB】A corrupt chief destroyed his ID, unaware he was breaking a legend. 🔥",
+          "lead_channel_id": "UCJ2J5Ygltkz8LVSMShZlK1w",
+          "lead_author": "Echo Drama",
+          "runtime": "59:52"
+        },
+        {
+          "video_id": "DlcskTCaeuY",
+          "title": "The Unwelcome Guest | 불청객 [2013 Drama  Special / ENG / 2013.12.06]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:13:35"
+        },
+        {
+          "video_id": "GQLN-2Nv7Ac",
+          "title": "You Are Closer Than I Think | 당신은 생각보다 가까이에 있다 [KBS Drama Special / 2017.10.09]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:07:57"
+        },
+        {
+          "video_id": "EeF78wqtqbo",
+          "title": "That Kind of Love | 그런 사랑 [2014 Drama  Special / ENG / 2014.05.02]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:08:14"
+        },
+        {
+          "video_id": "_IPmaf2b5Ys",
+          "title": "Just An Ordinary Love Story | 보통의 연애 Ep.1 [2014 Drama  Special / ENG / 2014.04.28]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:07:20"
+        },
+        {
+          "video_id": "Cv8OM--2NlQ",
+          "title": "【ENG DUB | FULL】She Hid Her CEO Identity But Fell for the Gentle Doctor！#romance",
+          "lead_channel_id": "UCE1WvcKf45UIqthGWhy4hsQ",
+          "lead_author": "Eve DramaTV",
+          "runtime": "56:02"
+        },
+        {
+          "video_id": "aLfMIpdEBWQ",
+          "title": "Illegal Parking | 부정주차 [2014 Drama  Special / ENG / 2014.06.06]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:11:25"
+        },
+        {
+          "video_id": "CHar2yTQ91g",
+          "title": "You Are the Only One | 당신만이 내사랑 EP.1 [SUB : ENG,CHN / 2014.12.08]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "38:16"
+        },
+        {
+          "video_id": "3da7comRa28",
+          "title": "TO JENNY I 투 제니- Ep.1 [SUB : ENG / 2018.08.24]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:06:45"
+        },
+        {
+          "video_id": "vZ7EMIH0oHw",
+          "title": "[Sub : ENG] If We Were a Season  [KBS Drama Special]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:06:49"
+        },
+        {
+          "video_id": "UgMuoSSA8Oc",
+          "title": "Hurry Up and Tell Me | 어서 말을 해[2014 Drama  Special / ENG / 2014.07.25]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:12:30"
+        },
+        {
+          "video_id": "Ach8i-PdqTo",
+          "title": "My Prettiest Moments | 내가 가장 예뻤을때 [2012 Drama  Special / ENG / 2012.09.14]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:10:56"
+        },
+        {
+          "video_id": "uP9lSvB3TBM",
+          "title": "A war goddess woke up as an abused heiress—and put the whole family in their place!",
+          "lead_channel_id": "UCQlwpYLKRIxWnohzE11dNag",
+          "lead_author": "HoneyLove Drama",
+          "runtime": "1:35:57"
+        },
+        {
+          "video_id": "onU5GIYXjOA",
+          "title": "You're Pretty, Oh Manbok | 예쁘다 오만복 [2014 Drama  Special / ENG / 2014.03.21]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "1:11:10"
+        },
+        {
+          "video_id": "tWgAjRFbl0U",
+          "title": "Love & Secret | EP.1 [ENG,CHN]",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "lead_author": "KBS WORLD TV",
+          "runtime": "35:01"
+        }
+      ]
+    },
+    {
+      "query": "Playflix Hindi Korean drama full episode official",
+      "rows": [
+        {
+          "video_id": "eE6ECdzsCDA",
+          "title": "Korean Drama In Hindi Dubbed Full Episodes | One High School Heroes | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "54:08"
+        },
+        {
+          "video_id": "nwMmLwIkjIA",
+          "title": "Shadow Of Love | Secret Sister Twist | K- Drama | Full Episode in Hindi | EP-06",
+          "lead_channel_id": "UCJQLYSW_h569OhE0QWWDlbA",
+          "lead_author": "K - Drama Originals",
+          "runtime": "12:08"
+        },
+        {
+          "video_id": "nG6Z9m9chZU",
+          "title": "Goblin Kdrama Hindi Dubbed | Goblin Korean Drama Hindi Dubbed Episode 1 | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "3:06"
+        },
+        {
+          "video_id": "loKrF_DT_fw",
+          "title": "Under The Black Moonlight | New Horror Korean Drama Dubbed In Hindi | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "1:22:40"
+        },
+        {
+          "video_id": "EJc8H2uVh-0",
+          "title": "Goblin : The Lonely And Great God | Episode 01 | Hindi Dubbed | Kdrama In Hindi | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "10:59"
+        },
+        {
+          "video_id": "MhIvjf702es",
+          "title": "Goblin Korean Drama Hindi Dubbed Episode 1 | (Unke Andaaz E Karam) | Gong Yoo | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "41:45"
+        },
+        {
+          "video_id": "OlNPBt0qGqw",
+          "title": "Speed And Love Chinese Drama Ep 1 Hindi Dubbed | Yu Shuxin & He Yu | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "51:46"
+        },
+        {
+          "video_id": "7zgYG1oEfF4",
+          "title": "Goblin : The Lonely And Great God | Episode 03 | Hindi Dubbed | Kdrama In Hindi | PlayFlix Official",
+          "lead_channel_id": "UCPEmgMlT7V37tHmM-GerpGA",
+          "lead_author": "PlayFlix Official | YouTube Channel ",
+          "runtime": "12:21"
+        }
+      ]
+    },
+    {
+      "query": "Atrangii Korean drama Hindi full episode",
+      "rows": [
+        {
+          "video_id": "nwMmLwIkjIA",
+          "title": "Shadow Of Love | Secret Sister Twist | K- Drama | Full Episode in Hindi | EP-06",
+          "lead_channel_id": "UCJQLYSW_h569OhE0QWWDlbA",
+          "lead_author": "K - Drama Originals",
+          "runtime": "12:08"
+        },
+        {
+          "video_id": "i35M04EcUNs",
+          "title": "Shadow Of Love | Hot Bedroom Romance Moves To Pchat Office | K- Drama | Full Episode in Hindi |EP-09",
+          "lead_channel_id": "UCJQLYSW_h569OhE0QWWDlbA",
+          "lead_author": "K - Drama Originals",
+          "runtime": "10:37"
+        },
+        {
+          "video_id": "DwYeLTSBPB4",
+          "title": "Birth of the Beauty | Korean Show Dubbed In Hindi | Streaming Now | Exclusively On Atrangii App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "3:58"
+        },
+        {
+          "video_id": "zVl8ujIc7SU",
+          "title": "GAMES OF KARMA | ROMANTIC HINDI FULL MOVIE | ROMANTIC HINDI WEB SERIES | ULTRA WEB SERIES",
+          "lead_channel_id": "UCZaXzzLncC2qUCsaX_Llnvg",
+          "lead_author": "Ultra Web Series",
+          "runtime": "2:07:49"
+        },
+        {
+          "video_id": "u5_1wn4VmE0",
+          "title": "My Strange Hero | Korean Show Dubbed In Hindi | Streaming Now | Exclusively On Atrangii Super App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "5:17"
+        },
+        {
+          "video_id": "9XvsUMKbI9U",
+          "title": "THE SECOND HUSBAND Korean Show Streaming Now In Hindi Exclusively On Atrangii Super App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "0:58"
+        },
+        {
+          "video_id": "dXYYdFqg0HA",
+          "title": "MY STRANGE HERO | Korean Show | Official Trailer | Releasing On : 27th September | Atrangii App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "1:14"
+        },
+        {
+          "video_id": "Bh2FnJkiYAw",
+          "title": "Birth of the Beauty | Korean Show Dubbed In Hindi | Streaming Now | Exclusively On Atrangii App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "5:42"
+        },
+        {
+          "video_id": "FHJ-aeE7Q6c",
+          "title": "Shadow Of Love | Pchat Kisses Ran Passionately | K- Drama | Full Episode in Hindi | EP-10",
+          "lead_channel_id": "UCJQLYSW_h569OhE0QWWDlbA",
+          "lead_author": "K - Drama Originals",
+          "runtime": "10:55"
+        },
+        {
+          "video_id": "F65Ss0SrsvM",
+          "title": "Birth of the Beauty | Korean Show Dubbed In Hindi | Streaming Now | Exclusively On Atrangii App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "4:17"
+        },
+        {
+          "video_id": "h1Lu7Mb35qs",
+          "title": "Game Of Witches | Korean Show Dubbed In Hindi | Streaming Now | Exclusively On Atrangii App",
+          "lead_channel_id": "UCbg1fucJLGhyRG9bEb9zqLA",
+          "lead_author": "Atrangii ",
+          "runtime": "1:49"
+        }
+      ]
+    },
+    {
+      "query": "anime full movie English dub official Hindi full anime movie",
+      "rows": [
+        {
+          "video_id": "ZGdaRxVaxVQ",
+          "title": "The legend of hei 2 full movie ENGLISH DUB",
+          "lead_channel_id": "UCElBR766gF7CbWCbNr6OvFA",
+          "lead_author": "CartoonAnime Central",
+          "runtime": "1:54:57"
+        },
+        {
+          "video_id": "pWenBEeRIMA",
+          "title": "A Silent Voice Full Movie [English Dubbed] ❤️",
+          "lead_channel_id": "UChUpketKhQG3emACv2ZZepg",
+          "lead_author": "MovieVerse",
+          "runtime": "2:10:04"
+        },
+        {
+          "video_id": "1o9cw8vgEB0",
+          "title": "Demon King Saga | Epic Hindi Anime | Full Anime Movie",
+          "lead_channel_id": "UC_4LkMnRevtDA9cT97QGDIg",
+          "lead_author": "Anime FuN Show's",
+          "runtime": "4:08:55"
+        },
+        {
+          "video_id": "q5SSkP6nK6U",
+          "title": "Spirit Warrior: Revival of Evil (1994) | FULL ANIME OVA | English Dub",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "lead_author": "HybridMindThoughts",
+          "runtime": "1:28:09"
+        },
+        {
+          "video_id": "IIHnnI17joE",
+          "title": "Vampire Hunter D- Bloodlust Full movie English Dub 4k upscale",
+          "lead_channel_id": "UCXnOxG09T0n0Uxn-1W1gzBw",
+          "lead_author": "SinStix",
+          "runtime": "1:36:42"
+        },
+        {
+          "video_id": "e62uQL1yQ4I",
+          "title": "Sword of the stranger (eng dub)1080p",
+          "lead_channel_id": "UCfXkTTIPWHs8GPsY7eLQu4A",
+          "lead_author": "Frozen_slayer07",
+          "runtime": "1:42:35"
+        },
+        {
+          "video_id": "oOJInC78zkQ",
+          "title": "Dororo Episode 1 - 24 English Dub",
+          "lead_channel_id": "UCdKxGg5815x9MQ75_sdiT5g",
+          "lead_author": "Random",
+          "runtime": "8:12:49"
+        },
+        {
+          "video_id": "qOkvPiOiD-M",
+          "title": "Fireworks Full Movie Hindi Dubbed | Latest Anime Movie in Hindi | Fireworks 2017",
+          "lead_channel_id": "UC1yz4dhvMA5DwUaMAKMQNvA",
+          "lead_author": "Reiner Animez",
+          "runtime": "1:25:32"
+        },
+        {
+          "video_id": "wdEUU_tf3Gk",
+          "title": "Your Name Full Movie Hindi Dubbed ",
+          "lead_channel_id": "UCWdtfpJ8sT9TulkaPyayc9w",
+          "lead_author": "Yours Mbbs",
+          "runtime": "1:46:37"
+        },
+        {
+          "video_id": "kWkea7Vjp9I",
+          "title": "Devil May Cry (Anime) 1-12ep English Dubbed HD 1080p full screen",
+          "lead_channel_id": "UCbGEs7zmidI1Emzh-1UKliQ",
+          "lead_author": "Killer Anime S M",
+          "runtime": "4:54:27"
+        },
+        {
+          "video_id": "oKRDjJScNqw",
+          "title": "Best Japanese anime full movie |  English dubbed movie",
+          "lead_channel_id": "UCo84r28tUzUC7sEfMy1wupg",
+          "lead_author": "Animation Anime",
+          "runtime": "2:49:46"
+        },
+        {
+          "video_id": "oGSQlk-W8l4",
+          "title": "Ninja Scroll The Series (2003) All Episodes English Dub 4K",
+          "lead_channel_id": "UCVSu7hFjEm3kPoYJFRQoZEg",
+          "lead_author": "Retro Anime World",
+          "runtime": "5:11:51"
+        },
+        {
+          "video_id": "4KdRA9Uvnbs",
+          "title": "Anime movie hindi dubbed full movie 2026",
+          "lead_channel_id": null,
+          "lead_author": "BHS Cinema and 2 more",
+          "runtime": "10:05:10"
+        },
+        {
+          "video_id": "glubM5ITcIw",
+          "title": "Suzume | The Movie | Full Movie Hindi Dubbed | 4k Resolution | New Anime Movie | #suzume #anime #cat",
+          "lead_channel_id": "UCJZH2Wvt0SLaVoujLo9We0A",
+          "lead_author": "Transform Gaming",
+          "runtime": "2:01:26"
+        },
+        {
+          "video_id": "HVjQp54UboA",
+          "title": "Full Movie| FAIRY TAIL THE MOVIE: Phoenix Priestess (English Dub)",
+          "lead_channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+          "lead_author": "Anime Manga Official",
+          "runtime": "1:26:11"
+        },
+        {
+          "video_id": "S-hhsTiUx-M",
+          "title": "Reincarnated in Another World to get Revenge on the Goddess Episodes 1-12 English Dub",
+          "lead_channel_id": "UC3YLCzRlFeahc_Q8u6NEryg",
+          "lead_author": "AniGodid",
+          "runtime": "4:25:36"
+        },
+        {
+          "video_id": "zeByaPw_IpQ",
+          "title": "Hell Mode: Dominating an Impossible World Episode 1 - 12 English Dub - Anime full screen 2026",
+          "lead_channel_id": "UC2hNwcVTHjMwS6HYoFdiJIg",
+          "lead_author": "Whisper Tales",
+          "runtime": "4:03:54"
+        }
+      ]
+    }
+  ],
+  "official_playlists": [
+    {
+      "playlist_id": "PLj2Ugc-vxcWEEtzS-9xtgcWLIgB2ZlswK",
+      "rows": [
+        {
+          "video_id": "eutBzS30qhM",
+          "title": "MAGIC KNIGHT RAYEARTH - EP01 The Birth of the Legendary Magic Knights! | English Dub"
+        },
+        {
+          "video_id": "GhybZYP8KrA",
+          "title": "MAGIC KNIGHT RAYEARTH - EP02 Presea, The Master Smith In The Forest Of Silence | English Dub"
+        },
+        {
+          "video_id": "o668yHA9E4M",
+          "title": "MAGIC KNIGHT RAYEARTH - EP03 Ferio, the Handsome, Mysterious Swordsman | English Dub"
+        },
+        {
+          "video_id": "QwVyKWVRQNE",
+          "title": "MAGIC KNIGHT RAYEARTH - EP04 Alcyone, the Vengeful Sorceress | English Dub"
+        },
+        {
+          "video_id": "Wo3q2svkKvI",
+          "title": "MAGIC KNIGHT RAYEARTH - EP05 Escudo, the Legendary Ore | English Dub"
+        },
+        {
+          "video_id": "6dK-554U-Rs",
+          "title": "MAGIC KNIGHT RAYEARTH - EP06 Lives at Stake - Presea's Weapons | English Dub"
+        },
+        {
+          "video_id": "E6R2j2cablI",
+          "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub"
+        },
+        {
+          "video_id": "xpWDVjpQ-lw",
+          "title": "MAGIC KNIGHT RAYEARTH - EP08 The Horrible Trap of Summoner Ascot | English Dub"
+        },
+        {
+          "video_id": "K_NuYOEVU20",
+          "title": "MAGIC KNIGHT RAYEARTH - EP09 The Magic Knights' Greatest Crisis | English Dub"
+        },
+        {
+          "video_id": "wWIkLCQohqM",
+          "title": "MAGIC KNIGHT RAYEARTH - EP10 Revival of Selece, the Legendary Rune-God | English Dub"
+        },
+        {
+          "video_id": "2GNwAR5UvT4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP11 The Legend of the Rune-Gods - In Cephiro, Another World | English Dub"
+        },
+        {
+          "video_id": "12BbwAur5n4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP12 The Fearsome Illusionist Caldina | English Dub"
+        },
+        {
+          "video_id": "bTa7Wlw8NHI",
+          "title": "MAGIC KNIGHT RAYEARTH - EP13 The Most Valuable Thing in this World | English Dub"
+        },
+        {
+          "video_id": "hqk4w7ZumYU",
+          "title": "MAGIC KNIGHT RAYEARTH - EP14 Hikaru, Umi, and Fuu's Unyielding Wish | English Dub"
+        },
+        {
+          "video_id": "5zHrefGARYA",
+          "title": "MAGIC KNIGHT RAYEARTH - EP15 The Second Rune-God: Windam, the Lord of the Skies | English Dub"
+        },
+        {
+          "video_id": "WnJb9n_LKgU",
+          "title": "MAGIC KNIGHT RAYEARTH - EP16 A Powerful Foe! Lafarga the Swordmaster | English Dub"
+        },
+        {
+          "video_id": "GfRk75E7-d0",
+          "title": "MAGIC KNIGHT RAYEARTH - EP17 The Truth About Inouva, and the Return of Memories | English Dub"
+        },
+        {
+          "video_id": "uZLKqE2w0tA",
+          "title": "MAGIC KNIGHT RAYEARTH - EP18 The Last Rune-God: Rayearth, the Lord of Fire | English Dub"
+        },
+        {
+          "video_id": "ZVrKwddgRbI",
+          "title": "MAGIC KNIGHT RAYEARTH - EP19 Showdown! The Magic Knights Versus Zagato | English Dub"
+        },
+        {
+          "video_id": "IN2J49YgecM",
+          "title": "MAGIC KNIGHT RAYEARTH - EP20 The Unbelievable Truth About the Legendary Magic Knights! | English Dub"
+        },
+        {
+          "video_id": "YM5kmIlkMHA",
+          "title": "MAGIC KNIGHT RAYEARTH - EP22 Cephiro and the Three Countries | English Dub"
+        },
+        {
+          "video_id": "HgbT6QNUk9k",
+          "title": "MAGIC KNIGHT RAYEARTH - EP24 The Magic Knights and Battleship NSX | English Dub"
+        },
+        {
+          "video_id": "YAdH5A5p9m4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP25 Hikaru and Nova in the Dream | English Dub"
+        },
+        {
+          "video_id": "hQAhBycx5Xk",
+          "title": "MAGIC KNIGHT RAYEARTH - EP27 The Secret of the Pillar of Cephiro | English Dub"
+        },
+        {
+          "video_id": "scejPb4AnvU",
+          "title": "MAGIC KNIGHT RAYEARTH - EP28 Hikaru and Lantis' Dangerous Journey | English Dub"
+        },
+        {
+          "video_id": "O5Qtcg68Pc8",
+          "title": "MAGIC KNIGHT RAYEARTH - EP29 Eagle and a Captive Hikaru | English Dub"
+        },
+        {
+          "video_id": "9ctdWxmCxeo",
+          "title": "MAGIC KNIGHT RAYEARTH - EP30 Nova and Regalia, Rune-God of the Devil | English Dub"
+        },
+        {
+          "video_id": "TNwMGvnpbKw",
+          "title": "MAGIC KNIGHT RAYEARTH - EP21 A Departure and New Ties | English Dub"
+        },
+        {
+          "video_id": "4T-635MtUdY",
+          "title": "MAGIC KNIGHT RAYEARTH - EP23 Autozam's Invasion and lantis | English Dub"
+        },
+        {
+          "video_id": "252ttrfybYc",
+          "title": "MAGIC KNIGHT RAYEARTH - EP26 The Magic Knights & Aska From Fahren | English Dub"
+        },
+        {
+          "video_id": "alzuu1lILF4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP31 Chizeta's Mobile Fortress and a Powerless Hikaru | English Dub"
+        },
+        {
+          "video_id": "GSH11ftOeyw",
+          "title": "MAGIC KNIGHT RAYEARTH - EP32 Umi and Fuu and Fahren and Chizeta | English Dub"
+        },
+        {
+          "video_id": "kSykVwbQ4_o",
+          "title": "MAGIC KNIGHT RAYEARTH - EP33 Hikaru's Wish and Presea's Secret | English Dub"
+        },
+        {
+          "video_id": "NVaeuoyAmLg",
+          "title": "MAGIC KNIGHT RAYEARTH - EP34 Hikaru and Friendships Torn Apart | English Dub"
+        },
+        {
+          "video_id": "9aQZ53uGu_I",
+          "title": "MAGIC KNIGHT RAYEARTH - EP35 Umi and the Ambition of Tarta and Tatra | English Dub"
+        },
+        {
+          "video_id": "eeUcROzDT_U",
+          "title": "MAGIC KNIGHT RAYEARTH - EP36 Fuu versus Aska! | English Dub"
+        },
+        {
+          "video_id": "CQCIwt9i-S4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP37 Revive, Hikaru's Sword! | English Dub"
+        },
+        {
+          "video_id": "Zh29yaFJpj0",
+          "title": "MAGIC KNIGHT RAYEARTH - EP38 Eagle's All-out Attack on Cephiro Castle! | English Dub"
+        },
+        {
+          "video_id": "xWOX4Z3q4d4",
+          "title": "MAGIC KNIGHT RAYEARTH - EP39 Chaotic War at Cephiro Castle! | English Dub"
+        },
+        {
+          "video_id": "0trmeSqWTJQ",
+          "title": "MAGIC KNIGHT RAYEARTH - EP40 The Magic Knights and the Calm After the Storm | English Dub"
+        },
+        {
+          "video_id": "EzYdzX7oJDY",
+          "title": "MAGIC KNIGHT RAYEARTH - EP41 Nova's Battle and the Monster's Identity | English Dub"
+        },
+        {
+          "video_id": "rOAbH2JmK18",
+          "title": "MAGIC KNIGHT RAYEARTH - EP42 Giant Sang Yung versus the NSX | English Dub"
+        },
+        {
+          "video_id": "eOHIJHv0wf8",
+          "title": "MAGIC KNIGHT RAYEARTH - EP43 The Crown Room and the Pillar's Memory | English Dub"
+        },
+        {
+          "video_id": "C4pUlNThd5c",
+          "title": "MAGIC KNIGHT RAYEARTH - EP44 A Serious Match - Umi vs. Tarta and Tatra! | English Dub"
+        },
+        {
+          "video_id": "2TnC3yLB_Q8",
+          "title": "MAGIC KNIGHT RAYEARTH - EP45 Desperate Situation: Crisis Upon Lantis | English Dub"
+        },
+        {
+          "video_id": "cHP1o97rZqc",
+          "title": "MAGIC KNIGHT RAYEARTH - EP46 Hikaru in Shock! The Truth About Nova | English Dub"
+        },
+        {
+          "video_id": "ZjF1pkXGPGU",
+          "title": "MAGIC KNIGHT RAYEARTH - EP47 The True Pillar is: Hikaru or Eagle! | English Dub"
+        },
+        {
+          "video_id": "dkZ9mdD6y-k",
+          "title": "MAGIC KNIGHT RAYEARTH - EP48 An Endless Battle! | English Dub"
+        },
+        {
+          "video_id": "OUShAJUDvRk",
+          "title": "MAGIC KNIGHT RAYEARTH - EP49 The Road to Victory: The Tomorrow that the Believing Heart Opens!"
+        }
+      ],
+      "has_continuation": false
+    },
+    {
+      "playlist_id": "PLj2Ugc-vxcWGpLKAwRspBc8yOtDjXHyAC",
+      "rows": [
+        {
+          "video_id": "BgMllBwSKzM",
+          "title": "Cardfight!! Vanguard - Ride 01 Vanguard of Destiny! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "Xj1XDxKpzpg",
+          "title": "Cardfight!! Vanguard - Ride 02 Ride to Victory! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "apxQ3H80jPo",
+          "title": "Cardfight!! Vanguard - Ride 03 Welcome to Card Capital | English Dub HD Remaster"
+        },
+        {
+          "video_id": "g2LRXbunIx4",
+          "title": "Cardfight!! Vanguard - Ride 04 Assault! Twin Drive! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "Sgebk58WbgQ",
+          "title": "Cardfight!! Vanguard - Ride 05 Whirlwind! Kamui, the Grade-School Fighter! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "THOcIlPV2GU",
+          "title": "Cardfight!! Vanguard - Ride 06 The Mysterious Card Shop! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "bkGE58F_Luk",
+          "title": "Cardfight!! Vanguard - Ride 07 The Fearsome Soulblast! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "EtsRO47fObg",
+          "title": "Cardfight!! Vanguard - Ride 08 The King of Knights Enters the Fray! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "rx1EzaO48D4",
+          "title": "Cardfight!! Vanguard - Ride 09 The Shop Tournament Begins! | English Dub HD Remaster"
+        },
+        {
+          "video_id": "OG7vC6vdNCA",
+          "title": "Cardfight!! Vanguard - Ride 21 Rematch in the Final Match! | English Dub HD Remaster"
+        }
+      ],
+      "has_continuation": false
+    },
+    {
+      "playlist_id": "PLj2Ugc-vxcWEcTEdWmnd7PLXc2VD4eouf",
+      "rows": [
+        {
+          "video_id": "K8LrLO_omys",
+          "title": "LUPIN THE 3rd PART 4 - EP01 The Wedding of Lupin III | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ct1hezcIHW0",
+          "title": "LUPIN THE 3rd PART 4 - EP02 The Fake Fantasista | English Dub | Full Episode"
+        },
+        {
+          "video_id": "rEvMcDeepxQ",
+          "title": "LUPIN THE 3rd PART 4 - EP03 0.2% Chance of Survival | English Dub | Full Episode"
+        },
+        {
+          "video_id": "y2ieKagfuyc",
+          "title": "LUPIN THE 3rd PART 4 - EP04 With a Gun in My Hand | English Dub | Full Episode"
+        },
+        {
+          "video_id": "udgyWxC-7zA",
+          "title": "LUPIN THE 3rd PART 4 - EP05 The Magician’s Left Hand | English Dub | Full Episode"
+        },
+        {
+          "video_id": "AhMRH1zWs20",
+          "title": "LUPIN THE 3rd PART 4 - EP06 Until the Full Moon Passes | English Dub | Full Episode"
+        },
+        {
+          "video_id": "WWgdnNXA8RA",
+          "title": "LUPIN THE 3rd PART 4 - EP07 The Zapping Operation with Introduction from Richard Epcar | English Dub"
+        },
+        {
+          "video_id": "Uxz5ud_6rGE",
+          "title": "LUPIN THE 3rd PART 4 | EP 7 - The Zapping Operation | English Dub"
+        },
+        {
+          "video_id": "2r3xpJ_sbRM",
+          "title": "LUPIN THE 3rd PART 4 - EP08 Welcome to the Haunted Hotel | English Dub | Full Episode"
+        },
+        {
+          "video_id": "a6BrK-dbmUU",
+          "title": "LUPIN THE 3rd PART 4 - EP09 Requiem for the Assassins | English Dub | Full Episode"
+        },
+        {
+          "video_id": "_QhGX4_TUnU",
+          "title": "LUPIN THE 3rd PART 4 - EP10 The Lovesick Pig | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Tl2fQsLVWQQ",
+          "title": "LUPIN THE 3rd PART 4 - EP11 The Dream of Italy, Part 1 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "CJc2EcaQWyA",
+          "title": "LUPIN THE 3rd PART 4 - EP12 The Dream of Italy, Part 2 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "koAYxuarg8k",
+          "title": "LUPIN THE 3rd PART 4 - EP13 The End of Lupin III | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ow3tQ7NzGH4",
+          "title": "LUPIN THE 3rd PART 4 - EP14 Don't Move the Mona Lisa | English Dub | Full Episode"
+        },
+        {
+          "video_id": "fvSkqL_-iW4",
+          "title": "LUPIN THE 3rd PART 4 - EP15 High School Undercover! | English Dub | Full Episode"
+        },
+        {
+          "video_id": "19iQFH6cYao",
+          "title": "LUPIN THE 3rd PART 4 - EP16 Lupin's Day Off | English Dub | Full Episode"
+        },
+        {
+          "video_id": "sQMaMBAy4BY",
+          "title": "LUPIN THE 3rd PART 4 - EP17 The Murdering Marionette | English Dub | Full Episode"
+        },
+        {
+          "video_id": "BE_UM_eFVHo",
+          "title": "LUPIN THE 3rd PART 4 - EP18 The First Supper | English Dub | Full Episode"
+        },
+        {
+          "video_id": "BtL6gtcbmCw",
+          "title": "LUPIN THE 3rd PART 4 - EP19 Dragons Sleep Soundly | English Dub | Full Episode"
+        },
+        {
+          "video_id": "e6_2ENzuTpw",
+          "title": "LUPIN THE 3rd PART 4 - EP20 To Hear You Sing Again | English Dub | Full Episode"
+        },
+        {
+          "video_id": "gkgxXd0Szi0",
+          "title": "LUPIN THE 3rd PART 4 - EP21 From Japan with Love | English Dub | Full Episode"
+        },
+        {
+          "video_id": "03q3_GsaYaw",
+          "title": "LUPIN THE 3rd PART 4 - EP22 I'm Going to Get You, Lupin | English Dub | Full Episode"
+        },
+        {
+          "video_id": "7Y_0dz-b-uU",
+          "title": "LUPIN THE 3rd PART 4 - EP23 World Dissection Part 1 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ndpzgalQT1Q",
+          "title": "LUPIN THE 3rd PART 4 - EP24 World Dissection Part 2 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "iq1DempDm8o",
+          "title": "LUPIN THE 3rd PART 4 - EP26 Nonstop Rendezvous | English Dub | Full Episode"
+        }
+      ],
+      "has_continuation": false
+    },
+    {
+      "playlist_id": "PLj2Ugc-vxcWHS09WPvSgcqZGSZ5-9z1Qy",
+      "rows": [
+        {
+          "video_id": "hRQSoaSZWpQ",
+          "title": "Sherlock Hound - EP01 A Small Client | English Dub | Full Episode"
+        },
+        {
+          "video_id": "fzfCkUDxYKU",
+          "title": "Sherlock Hound - EP02 The Adventure of the Blue Carbuncle | English Dub | Full Episode"
+        },
+        {
+          "video_id": "9Y3ZkFn3fAc",
+          "title": "Sherlock Hound - EP03 Treasure under the Sea | English Dub | Full Episode"
+        },
+        {
+          "video_id": "GNvPv3Ey0k0",
+          "title": "Sherlock Hound - EP04 The Sovereign Gold Coins | English Dub | Full Episode"
+        },
+        {
+          "video_id": "O84beIAGl7c",
+          "title": "Sherlock Hound - EP05 Mrs. Hudson is Taken Hostage | English Dub | Full Episode"
+        },
+        {
+          "video_id": "SLjCNWSfl-s",
+          "title": "Sherlock Hound - EP06 The White Cliffs of Dover | English Dub | Full Episode"
+        },
+        {
+          "video_id": "7iHv_86VMnY",
+          "title": "Sherlock Hound - EP07 A Sacred Image Disappears | English Dub | Full Episode"
+        },
+        {
+          "video_id": "2nGxNPTjOrc",
+          "title": "Sherlock Hound - EP08 The Green Balloon | English Dub | Full Episode"
+        },
+        {
+          "video_id": "B4VMJx_Jz9A",
+          "title": "Sherlock Hound - EP09 The Stormy Getaway | English Dub | Full Episode"
+        },
+        {
+          "video_id": "x-cjXHMNkr0",
+          "title": "Sherlock Hound - EP10 The Crown of Mazalin | English Dub | Full Episode"
+        },
+        {
+          "video_id": "3Dx_YXg3L6c",
+          "title": "Sherlock Hound - EP11 The Four Signatures | English Dub | Full Episode"
+        },
+        {
+          "video_id": "U6I59KjWOfg",
+          "title": "Sherlock Hound - EP12 The Speckled Band | English Dub | Full Episode"
+        },
+        {
+          "video_id": "lD7lP96Hjh8",
+          "title": "Sherlock Hound - EP13 The White Silver Getaway! | English Dub | Full Episode"
+        },
+        {
+          "video_id": "vS_SgspLawA",
+          "title": "Sherlock Hound - EP14 The Coral Lobster | English Dub | Full Episode"
+        },
+        {
+          "video_id": "oCicaqN9kVY",
+          "title": "Sherlock Hound - EP15 The Golden Statue of the Great Burglar | English Dub | Full Episode"
+        },
+        {
+          "video_id": "w_Et-bcRBtw",
+          "title": "Sherlock Hound - EP16 The Runaway Freight Car | English Dub | Full Episode"
+        },
+        {
+          "video_id": "JXLDE3wAZe8",
+          "title": "Sherlock Hound - EP17 The Secret of the Sacred Cross Sword | English Dub | Full Episode"
+        },
+        {
+          "video_id": "wpVdKuW9wAo",
+          "title": "Sherlock Hound - EP18 The Adventure of the Three Students | English Dub | Full Episode"
+        },
+        {
+          "video_id": "NRX6iHi63tc",
+          "title": "Sherlock Hound - EP19 The Rosetta Stone | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Xg-peBBPebE",
+          "title": "Sherlock Hound - EP20 The Adventure of the Thames Monster | English Dub | Full Episode"
+        },
+        {
+          "video_id": "iR12FKTeOoI",
+          "title": "Sherlock Hound - EP21 The Secret of the Parrot | English Dub | Full Episode"
+        },
+        {
+          "video_id": "v33CTI2PhEI",
+          "title": "Sherlock Hound - EP22 The Priceless French Doll | English Dub | Full Episode"
+        },
+        {
+          "video_id": "u8yo21muJvE",
+          "title": "Sherlock Hound - EP23 The Bell of Big Ben | English Dub | Full Episode"
+        },
+        {
+          "video_id": "G05mq8NGmwE",
+          "title": "Sherlock Hound - EP24 The Disappearance of the Splendid Royal Horse | English Dub | Full Episode"
+        },
+        {
+          "video_id": "e74orn9kToE",
+          "title": "Sherlock Hound - EP25 Disturbance, The World Flight Championship! | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ZeXgC8syEcY",
+          "title": "Sherlock Hound - EP26 The Missing Bride Affair | English Dub | Full Episode"
+        }
+      ],
+      "has_continuation": false
+    }
+  ],
+  "skipped_summary": {
+    "India_not_in_country_metadata": 62,
+    "missing_audio_or_identity_evidence": "Hindi anime and Hindi-drama leads were not imported without verified publisher identity and edition evidence. Playflix-branded search results are not treated as official solely by their names; available website and Linktree identities require reconciliation.",
+    "movies": "No additional anime feature film validated; trailers, clips, fan uploads and TV compilations excluded."
+  },
+  "owner_movie_order": "Owner-selected Hindi movie picks first, named Korean classics last. These priorities are editorial choices, not measured trending ranks."
+}

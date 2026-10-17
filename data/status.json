@@ -1,16 +1,10 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-17T14:13:47.897506+05:30",
+  "last_run": "2026-10-17T14:32:44.276925+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Broad YouTube discovery published verified Hindi films and English Sonic X episodes",
+  "state": "Added Sherlock Hound English episodes and applied owner movie priorities",
   "added": {
-    "jaanbaaz-khiladi-komaram-puli": 1,
-    "the-return-of-rebel": 1,
-    "siruthai": 1,
-    "zubeidaa": 1,
-    "golmaal-3": 1,
-    "jab-we-met": 1,
-    "sonic-x": 55
+    "sherlock-hound": 26
   },
   "changed_availability": [],
   "link_checks": [],
@@ -19,30 +13,30 @@
     "skipped": "No editorial blog publication requested in this content update."
   },
   "errors": [
-    "Actual India playback remains unverified; some candidates were skipped for missing audio-language or publisher identity evidence."
+    "Actual India playback is unverified. 62 other episode candidates lacked India availability in country metadata."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
   "last_manual_verification": "2026-10-17",
   "catalogue_counts": {
-    "anime-series": 37,
+    "anime-series": 38,
     "anime-movies": 11,
     "movies": 83,
     "k-dramas": 53
   },
-  "upload_count": 720,
+  "upload_count": 746,
   "added_this_run": {
     "anime-series": {
-      "titles": 0,
-      "uploads": 55
+      "titles": 1,
+      "uploads": 26
     },
     "anime-movies": {
       "titles": 0,
       "uploads": 0
     },
     "movies": {
-      "titles": 6,
-      "uploads": 6
+      "titles": 0,
+      "uploads": 0
     },
     "k-dramas": {
       "titles": 0,
@@ -50,7 +44,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-17-afternoon-discovery.json",
+  "verification_report": "data/verification/2026-10-17-series-and-priority.json",
   "language_priority": [
     "Hindi",
     "English",
