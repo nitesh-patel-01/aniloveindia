@@ -1,5 +1,171 @@
 [
   {
+    "id": "that-time-i-got-reincarnated-as-a-slime",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "original_title": "That Time I Got Reincarnated as a Slime",
+    "alternate_titles": [
+      "Tensura",
+      "Tensei Shitara Slime Datta Ken"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime",
+      "Fantasy"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
+    "synopsis": "Watch the main That Time I Got Reincarnated as a Slime TV series in Hindi through official Muse India uploads. Choose a season and one of the individually checked episodes below. This is a partial episode selection; Vision of Coleus is listed separately as a related ONA.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in each upload’s available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official Muse India uploader, explicit Hindi dub and season-relative episode metadata, full runtime, India country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=B1LyaPY2SYw",
+      "https://www.youtube.com/watch?v=Pr5a-FdnpJo",
+      "https://www.youtube.com/watch?v=gvxIVR_ievI",
+      "https://www.youtube.com/watch?v=UcpJedTDs_M",
+      "https://www.youtube.com/watch?v=Th3erkgMluw",
+      "https://www.youtube.com/watch?v=p1XmQYklKvE",
+      "https://www.youtube.com/watch?v=YUdM-TbtFl4",
+      "https://www.youtube.com/watch?v=vsjyfaY3C0o"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/B1LyaPY2SYw/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "season_number": 1,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Selected individually verified Hindi uploads; this list is incomplete. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "playlist_evidence_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
+        "audio_language_evidence": "Official Muse India upload title explicitly identifies the Hindi Dub edition.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 01 (S1E01) | Muse IN",
+            "video_id": "B1LyaPY2SYw",
+            "duration_seconds": 1420,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 02 (S1E02) | Muse IN",
+            "video_id": "gvxIVR_ievI",
+            "duration_seconds": 1422,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 03 (S1E03) | Muse IN",
+            "video_id": "UcpJedTDs_M",
+            "duration_seconds": 1420,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 04 (S1E04) | Muse IN",
+            "video_id": "Th3erkgMluw",
+            "duration_seconds": 1420,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ]
+      },
+      {
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-3-hindi",
+        "label": "Season 3 · Hindi dub",
+        "season_number": 3,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Selected individually verified Hindi uploads; this list is incomplete. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "playlist_evidence_url": "https://www.youtube.com/watch?v=Pr5a-FdnpJo",
+        "audio_language_evidence": "Official Muse India upload title explicitly identifies the Hindi Dub edition.",
+        "episodes": [
+          {
+            "number": "11",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 59 (S3E11) | Muse IN",
+            "video_id": "Pr5a-FdnpJo",
+            "duration_seconds": 1481,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ]
+      },
+      {
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-4-hindi",
+        "label": "Season 4 · Hindi dub",
+        "season_number": 4,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Selected individually verified Hindi uploads; this list is incomplete. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "playlist_evidence_url": "https://www.youtube.com/watch?v=p1XmQYklKvE",
+        "audio_language_evidence": "Official Muse India upload title explicitly identifies the Hindi Dub edition.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 73 (S4E01) | Muse IN",
+            "video_id": "p1XmQYklKvE",
+            "duration_seconds": 1451,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 74 (S4E02) | Muse IN",
+            "video_id": "YUdM-TbtFl4",
+            "duration_seconds": 1451,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 75 (S4E03) | Muse IN",
+            "video_id": "vsjyfaY3C0o",
+            "duration_seconds": 1451,
+            "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ]
+      }
+    ],
+    "related": [
+      "that-time-i-got-reincarnated-as-a-slime-vision-of-coleus"
+    ],
+    "added_on": "2026-10-17",
+    "discovery": "Targeted official-watch discovery recovers uploads hidden from this server in playlist listings"
+  },
+  {
     "id": "sherlock-hound",
     "title": "Sherlock Hound",
     "original_title": "Sherlock Hound",
@@ -8664,7 +8830,9 @@
         ]
       }
     ],
-    "related": []
+    "related": [
+      "that-time-i-got-reincarnated-as-a-slime"
+    ]
   },
   {
     "id": "shy-the-1st-half",

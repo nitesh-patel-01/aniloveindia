@@ -1,0 +1,105 @@
+{
+  "updated_at": "2026-10-17T14:42:14.737828+05:30",
+  "items": [
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "source_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+      "state": "partial_backfill",
+      "published_this_pass": [
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+          "video_id": "B1LyaPY2SYw",
+          "episode": "1",
+          "season": 1,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-3-hindi",
+          "video_id": "Pr5a-FdnpJo",
+          "episode": "11",
+          "season": 3,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+          "video_id": "gvxIVR_ievI",
+          "episode": "2",
+          "season": 1,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+          "video_id": "UcpJedTDs_M",
+          "episode": "3",
+          "season": 1,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+          "video_id": "Th3erkgMluw",
+          "episode": "4",
+          "season": 1,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-4-hindi",
+          "video_id": "p1XmQYklKvE",
+          "episode": "1",
+          "season": 4,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-4-hindi",
+          "video_id": "YUdM-TbtFl4",
+          "episode": "2",
+          "season": 4,
+          "audio_language": "Hindi"
+        },
+        {
+          "title_id": "that-time-i-got-reincarnated-as-a-slime",
+          "season_id": "that-time-i-got-reincarnated-as-a-slime-season-4-hindi",
+          "video_id": "vsjyfaY3C0o",
+          "episode": "3",
+          "season": 4,
+          "audio_language": "Hindi"
+        }
+      ],
+      "reason": "Official playlist response hides 84 uploads from the checking server; exact indexed watch pages can still pass IN and oEmbed checks. Discover and verify missing season-relative episode IDs independently; do not infer that a hidden playlist means unavailable in India.",
+      "next_actions": [
+        "Recover additional official Hindi TV episodes in seasons 1-4 via public web indexing and publisher links",
+        "Preserve published URLs and do not fabricate missing season links",
+        "Check additional eligible language editions separately"
+      ]
+    },
+    {
+      "title_id": "battle-through-the-heavens",
+      "title": "Battle Through the Heavens",
+      "priority": 1,
+      "state": "publisher_identity_and_metadata_pending",
+      "candidate_channel_id": "UCoL2Zo2GEuMIsHVJyPwSyJg",
+      "candidate_channel_name": "Yuewen Animation English",
+      "candidate_video_ids": [
+        "vgfCjaKs-bE",
+        "dpqsyufBpu4",
+        "gSgyw2-WchI"
+      ],
+      "reason": "Full upload leads found; company-to-channel primary-source identity/authorization not yet established. A channel name or verified badge alone is insufficient. Muse India source not established by searches. Exact candidate watch requests returned LOGIN_REQUIRED / Sign in to confirm you are not a bot. This is an access limitation, not India-block evidence.",
+      "next_actions": [
+        "Verify rights-holder company crosslink or primary channel authorization evidence",
+        "Then check individual Hindi/English dub or Chinese-with-evidenced-English-subtitle editions, IN metadata and oEmbed",
+        "Treat full-series compilations as one video, not invented episodes"
+      ]
+    }
+  ]
+}
