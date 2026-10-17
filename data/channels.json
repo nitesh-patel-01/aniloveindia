@@ -52,5 +52,21 @@
     "name": "Goldmines",
     "identity_reviewed": true,
     "identity_evidence_url": "https://www.goldmines.co.in/"
+  },
+  {
+    "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+    "name": "Ramayana : The Legend Of Prince Rama",
+    "identity_reviewed": true,
+    "identity_evidence_url": "https://ramayana-anime.net/",
+    "identity_reviewed_at": "2026-10-17",
+    "identity_note": "Rights-holder TEM official film website directly links this exact channel."
+  },
+  {
+    "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+    "name": "Anime Manga Official",
+    "identity_reviewed": true,
+    "identity_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+    "identity_reviewed_at": "2026-10-17",
+    "identity_note": "Publisher partner AnyMind official launch announcement links this exact Kodansha channel; each movie must separately pass language, region and embed checks."
   }
 ]

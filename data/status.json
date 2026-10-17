@@ -1,18 +1,13 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-17T03:11:57.310346+00:00",
+  "last_run": "2026-10-17T03:38:25.606052+00:00",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Verified Hindi movie and English-dubbed anime additions published; unclear original-audio editions skipped",
+  "state": "Broad anime movie search added four verified English-language films; Hindi priority remains active",
   "added": {
-    "ruler": 1,
-    "sooryavansham": 1,
-    "mobile-suit-gundam-seed": 6,
-    "janta-garage": 1,
-    "the-super-khiladi-brindavanam": 1,
-    "sonic-x": 21,
-    "the-return-of-abhimanyu-irumbu-thirai": 1,
-    "miss-india": 1,
-    "oxygen": 1
+    "ramayana-the-legend-of-prince-rama": 1,
+    "attack-on-titan-part-1-guren-no-yumiya": 1,
+    "attack-on-titan-part-2-jiyuu-no-tsubasa": 1,
+    "fairy-tail-dragon-cry": 1
   },
   "changed_availability": [],
   "link_checks": [],
@@ -28,23 +23,23 @@
   "last_manual_verification": "2026-10-17",
   "catalogue_counts": {
     "anime-series": 37,
-    "anime-movies": 7,
+    "anime-movies": 11,
     "movies": 77,
     "k-dramas": 53
   },
-  "upload_count": 655,
+  "upload_count": 659,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
-      "uploads": 27
-    },
-    "anime-movies": {
-      "titles": 0,
       "uploads": 0
     },
+    "anime-movies": {
+      "titles": 4,
+      "uploads": 4
+    },
     "movies": {
-      "titles": 7,
-      "uploads": 7
+      "titles": 0,
+      "uploads": 0
     },
     "k-dramas": {
       "titles": 0,
@@ -52,7 +47,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-17-language-priority.json",
+  "verification_report": "data/verification/2026-10-17-broad-anime-movies.json",
   "language_priority": [
     "Hindi",
     "English",

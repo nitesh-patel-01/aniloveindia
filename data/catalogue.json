@@ -14866,5 +14866,262 @@
     "related": [],
     "added_on": "2026-10-17",
     "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "ramayana-the-legend-of-prince-rama",
+    "title": "Ramayana: The Legend of Prince Rama",
+    "original_title": "Ramayana: The Legend of Prince Rama",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "English",
+    "audio_label": "English original",
+    "country": "Japan / India",
+    "year": 1993,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Ramayana : The Legend Of Prince Rama",
+    "watch_url": "https://www.youtube.com/watch?v=gKcOjnDJfzk",
+    "synopsis": "Watch the official English original upload of Ramayana: The Legend of Prince Rama from Ramayana : The Legend Of Prince Rama in the embedded YouTube player.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Official full movie upload. Actual playback from India is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Publisher website cross-link, explicit English-audio evidence, watch metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=gKcOjnDJfzk",
+      "https://ramayana-anime.net/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/gKcOjnDJfzk/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ramayana-the-legend-of-prince-rama-english-movie",
+        "label": "Full movie · English original",
+        "audio_language": "English",
+        "audio_language_evidence": "Official rights-holder upload description explicitly says original English version",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Official full movie upload. Actual playback from India is unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://ramayana-anime.net/",
+        "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Ramayana: The Legend of Prince Rama (Full animated film 1993)",
+            "video_id": "gKcOjnDJfzk",
+            "duration_seconds": 7729,
+            "metadata_check": "Reviewed official publisher, full runtime, English audio evidence, oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified",
+            "audio_language": "English",
+            "audio_language_evidence": "Official rights-holder upload description explicitly says original English version",
+            "last_checked": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  },
+  {
+    "id": "attack-on-titan-part-1-guren-no-yumiya",
+    "title": "Attack on Titan Part 1: Guren no Yumiya",
+    "original_title": "Attack on Titan Part 1: Guren no Yumiya",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=AHT772bRkMY",
+    "synopsis": "Watch the official English dub upload of Attack on Titan Part 1: Guren no Yumiya from Anime Manga Official in the embedded YouTube player. This is a movie-length recap release, not a listing of the complete TV season. The publisher lists this upload through 2026-12-18.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-18.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Publisher website cross-link, explicit English-audio evidence, watch metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=AHT772bRkMY",
+      "https://anymindgroup.com/news/press-release/5329/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/AHT772bRkMY/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "attack-on-titan-part-1-guren-no-yumiya-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-18.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie | Attack on Titan Part 1 - Guren no Yumiya - (English Dub)",
+            "video_id": "AHT772bRkMY",
+            "duration_seconds": 7168,
+            "metadata_check": "Reviewed official publisher, full runtime, English audio evidence, oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified",
+            "audio_language": "English",
+            "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+            "last_checked": "2026-10-17"
+          }
+        ],
+        "publisher_available_until": "2026-12-18"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  },
+  {
+    "id": "attack-on-titan-part-2-jiyuu-no-tsubasa",
+    "title": "Attack on Titan Part 2: Jiyuu no Tsubasa",
+    "original_title": "Attack on Titan Part 2: Jiyuu no Tsubasa",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=oVlEVivdY-Y",
+    "synopsis": "Watch the official English dub upload of Attack on Titan Part 2: Jiyuu no Tsubasa from Anime Manga Official in the embedded YouTube player. This is a movie-length recap release, not a listing of the complete TV season. The publisher lists this upload through 2026-12-18.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-18.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Publisher website cross-link, explicit English-audio evidence, watch metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=oVlEVivdY-Y",
+      "https://anymindgroup.com/news/press-release/5329/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/oVlEVivdY-Y/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "attack-on-titan-part-2-jiyuu-no-tsubasa-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-18.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie | Attack on Titan Part 2 - Jiyuu no Tsubasa - (English Dub)",
+            "video_id": "oVlEVivdY-Y",
+            "duration_seconds": 7250,
+            "metadata_check": "Reviewed official publisher, full runtime, English audio evidence, oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified",
+            "audio_language": "English",
+            "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+            "last_checked": "2026-10-17"
+          }
+        ],
+        "publisher_available_until": "2026-12-18"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  },
+  {
+    "id": "fairy-tail-dragon-cry",
+    "title": "Fairy Tail the Movie: Dragon Cry",
+    "original_title": "Fairy Tail the Movie: Dragon Cry",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=Ctwc87iN0As",
+    "synopsis": "Watch the official English dub upload of Fairy Tail the Movie: Dragon Cry from Anime Manga Official in the embedded YouTube player. The publisher lists this upload through 2026-12-09.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-09. The checking server is region-blocked; India is included in the uploader country metadata.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Publisher website cross-link, explicit English-audio evidence, watch metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=Ctwc87iN0As",
+      "https://anymindgroup.com/news/press-release/5329/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/Ctwc87iN0As/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "fairy-tail-dragon-cry-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Official full movie upload. Actual playback from India is unverified. The publisher states availability until 2026-12-09. The checking server is region-blocked; India is included in the uploader country metadata.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie| FAIRY TAIL THE MOVIE: Dragon Cry (English Dub)",
+            "video_id": "Ctwc87iN0As",
+            "duration_seconds": 5120,
+            "metadata_check": "Reviewed official publisher, full runtime, English audio evidence, oEmbed and India country metadata checked 2026-10-17",
+            "india_playback": "unverified",
+            "audio_language": "English",
+            "audio_language_evidence": "Official publisher upload title explicitly says English Dub",
+            "last_checked": "2026-10-17"
+          }
+        ],
+        "publisher_available_until": "2026-12-09"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad anime movie search across rights-holder and official publisher channels"
   }
 ]
