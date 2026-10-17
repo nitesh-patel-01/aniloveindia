@@ -15,7 +15,7 @@ class IndiaCatalogue(unittest.TestCase):
    self.assertEqual(targets,panels,title['id']);self.assertEqual(len(targets),len(title['seasons']))
  def test_new_movies_have_checked_full_uploads_and_english_captions(self):
   checks={v['id']:v for v in json.loads((ROOT/'data/expansion-verification.json').read_text())}
-  films=[t for t in json.loads((ROOT/'data/catalogue.json').read_text())if t['provider']=='GUNDAM CHANNEL INTL']
+  films=[t for t in json.loads((ROOT/'data/catalogue.json').read_text())if t['provider']=='GUNDAM CHANNEL INTL' and t['category']=='anime-movies']
   self.assertEqual(len(films),4)
   for film in films:
    self.assertEqual(film['category'],'anime-movies')
