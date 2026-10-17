@@ -1,31 +1,10 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-17T14:59:54.934655+05:30",
+  "last_run": "2026-10-17T21:08:21.876250+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Expanded official Muse Hindi editions and Slime backfill; remaining gaps tracked",
+  "state": "Added 43 individually verified Hindi Slime episodes across Seasons 2 and 3; remaining gaps tracked",
   "added": {
-    "hunter-x-hunter": 6,
-    "tokyo-revengers": 7,
-    "attack-on-titan": 3,
-    "dan-da-dan": 1,
-    "that-time-i-got-reincarnated-as-a-slime": 19,
-    "mushoku-tensei-jobless-reincarnation": 2,
-    "spy-x-family": 1,
-    "classroom-of-the-elite": 3,
-    "mob-psycho-100": 2,
-    "welcome-to-demon-school-iruma-kun": 2,
-    "i-parry-everything": 1,
-    "cells-at-work": 6,
-    "junji-ito-collection": 2,
-    "i-was-reincarnated-as-the-7th-prince": 1,
-    "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire": 4,
-    "the-worlds-finest-assassin-gets-reincarnated-in-another-world": 1,
-    "fairy-tail": 2,
-    "campfire-cooking-in-another-world-with-my-absurd-skill": 2,
-    "one-punch-man": 16,
-    "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2": 3,
-    "jojos-bizarre-adventure": 2,
-    "re-zero": 8
+    "that-time-i-got-reincarnated-as-a-slime": 43
   },
   "changed_availability": [],
   "link_checks": [],
@@ -34,8 +13,8 @@
     "skipped": "No editorial blog publication requested in this content update."
   },
   "errors": [
-    "Official listings are incomplete from this server; remaining gaps are tracked in discovery backlog.",
-    "IN country metadata and oEmbed passed; actual India playback remains unverified."
+    "Remaining individual Hindi episode gaps are listed in discovery-backlog.json; later Season 4 uploads still need exact verified IDs.",
+    "IN country metadata and oEmbed passed. Actual India playback remains unverified."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
@@ -46,11 +25,11 @@
     "movies": 83,
     "k-dramas": 53
   },
-  "upload_count": 848,
+  "upload_count": 891,
   "added_this_run": {
     "anime-series": {
-      "titles": 12,
-      "uploads": 94
+      "titles": 0,
+      "uploads": 43
     },
     "anime-movies": {
       "titles": 0,
@@ -66,7 +45,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-17-muse-hindi-expansion.json",
+  "verification_report": "data/verification/2026-10-17-slime-season-expansion.json",
   "language_priority": [
     "Hindi",
     "English",
