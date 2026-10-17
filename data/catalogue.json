@@ -13698,13 +13698,19 @@
       "https://www.youtube.com/watch?v=v0xJiJ3FYbE",
       "https://www.youtube.com/watch?v=fFaPP8VOYrM",
       "https://www.youtube.com/watch?v=2KLwGNYz7kY",
-      "https://www.youtube.com/watch?v=L-iQgn6j6cY"
+      "https://www.youtube.com/watch?v=L-iQgn6j6cY",
+      "https://www.youtube.com/watch?v=oqKo17q-oKU",
+      "https://www.youtube.com/watch?v=PlREsiTIEu8",
+      "https://www.youtube.com/watch?v=5Fc33uCDdPY",
+      "https://www.youtube.com/watch?v=HNz_YRhPQBI",
+      "https://www.youtube.com/watch?v=ppdWdJ-lvas",
+      "https://www.youtube.com/watch?v=LVzEu8APS1g"
     ],
     "thumbnail": "https://i.ytimg.com/vi/aKUr7pDeeYc/hqdefault.jpg",
     "seasons": [
       {
         "id": "mobile-suit-gundam-seed-season-1",
-        "label": "Season 1 · available English-dub uploads",
+        "label": "Available episodes · English dub",
         "audio_language": "English",
         "subtitle_languages": [
           "English"
@@ -13712,7 +13718,7 @@
         "subtitle_evidence": "Caption track metadata",
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "23 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+        "completion_note": "29 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
         "last_checked": "2026-10-17",
         "authorization_evidence_url": "https://en.gundam.info/news/info/02_13267.html",
         "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
@@ -13736,6 +13742,30 @@
             "india_playback": "unverified",
             "last_checked": "2026-10-17",
             "source_upload_date": "2026-10-08T13:00:21-07:00"
+          },
+          {
+            "number": "4",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode4",
+            "video_id": "ppdWdJ-lvas",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:15-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+          },
+          {
+            "number": "5",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode5",
+            "video_id": "oqKo17q-oKU",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
           },
           {
             "number": "7",
@@ -13768,6 +13798,18 @@
             "source_upload_date": "2026-10-08T13:00:25-07:00"
           },
           {
+            "number": "10",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode10",
+            "video_id": "LVzEu8APS1g",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:03-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+          },
+          {
             "number": "13",
             "title": "【EN Dub】Mobile Suit Gundam SEED - Episode13",
             "video_id": "2KLwGNYz7kY",
@@ -13776,6 +13818,18 @@
             "india_playback": "unverified",
             "last_checked": "2026-10-17",
             "source_upload_date": "2026-10-08T13:00:17-07:00"
+          },
+          {
+            "number": "14",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode14",
+            "video_id": "5Fc33uCDdPY",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:14-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
           },
           {
             "number": "17",
@@ -13796,6 +13850,18 @@
             "india_playback": "unverified",
             "last_checked": "2026-10-17",
             "source_upload_date": "2026-10-08T13:00:31-07:00"
+          },
+          {
+            "number": "19",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode19",
+            "video_id": "HNz_YRhPQBI",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:16-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
           },
           {
             "number": "25",
@@ -13928,6 +13994,18 @@
             "source_upload_date": "2026-10-08T13:00:36-07:00"
           },
           {
+            "number": "47",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode47",
+            "video_id": "PlREsiTIEu8",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-10-08T13:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+          },
+          {
             "number": "48",
             "title": "【EN Dub】Mobile Suit Gundam SEED - Episode48",
             "video_id": "QBrL-Gm_3vs",
@@ -14041,13 +14119,34 @@
     "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=9CGih4gMRlk",
-      "https://www.youtube.com/watch?v=CkI-2j6V7sQ"
+      "https://www.youtube.com/watch?v=CkI-2j6V7sQ",
+      "https://www.youtube.com/watch?v=GxZnyfL9xFw",
+      "https://www.youtube.com/watch?v=uNqSxwLTjG4",
+      "https://www.youtube.com/watch?v=ZcYxdLTcGvA",
+      "https://www.youtube.com/watch?v=qBsRxGQhDKs",
+      "https://www.youtube.com/watch?v=039J77RlR5M",
+      "https://www.youtube.com/watch?v=aBgPO32-ka0",
+      "https://www.youtube.com/watch?v=Lj6TQAJaj4s",
+      "https://www.youtube.com/watch?v=FTMUZlg7WEg",
+      "https://www.youtube.com/watch?v=OwYJkhG6xNc",
+      "https://www.youtube.com/watch?v=V26oyi5GDVw",
+      "https://www.youtube.com/watch?v=NqrXRFdb684",
+      "https://www.youtube.com/watch?v=PzifMBqaEvU",
+      "https://www.youtube.com/watch?v=BNi7ZoeJOOE",
+      "https://www.youtube.com/watch?v=fQXfRxizraE",
+      "https://www.youtube.com/watch?v=hq9LlgTLmP0",
+      "https://www.youtube.com/watch?v=5d0m3UcNnWs",
+      "https://www.youtube.com/watch?v=9KYeihPwS7Q",
+      "https://www.youtube.com/watch?v=s32IbFff9i0",
+      "https://www.youtube.com/watch?v=ZDygQeO9jzo",
+      "https://www.youtube.com/watch?v=Y_GBzuo-T6g",
+      "https://www.youtube.com/watch?v=30b-BHrYDms"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9CGih4gMRlk/hqdefault.jpg",
     "seasons": [
       {
         "id": "sonic-x-season-1",
-        "label": "Available official episodes",
+        "label": "Available episodes · English dub",
         "audio_language": "English",
         "subtitle_languages": [
           "English"
@@ -14055,7 +14154,7 @@
         "subtitle_evidence": "Caption track metadata",
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "2 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+        "completion_note": "23 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
         "last_checked": "2026-10-17",
         "authorization_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel",
         "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
@@ -14071,6 +14170,246 @@
             "source_upload_date": "2015-07-01T00:00:00-07:00"
           },
           {
+            "number": "2",
+            "title": "SONIC X - EP02 Sonic to the Rescue | English Dub | Full Episode",
+            "video_id": "aBgPO32-ka0",
+            "duration_seconds": 1277,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "3",
+            "title": "SONIC X - EP03 Missile Wrist Rampage | English Dub | Full Episode",
+            "video_id": "PzifMBqaEvU",
+            "duration_seconds": 1243,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "4",
+            "title": "SONIC X - EP04 Chaos Emerald Chaos | English Dub | Full Episode",
+            "video_id": "BNi7ZoeJOOE",
+            "duration_seconds": 1279,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "5",
+            "title": "SONIC X - EP05 Cracking Knuckles | English Dub | Full Episode",
+            "video_id": "qBsRxGQhDKs",
+            "duration_seconds": 1279,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "6",
+            "title": "SONIC X - EP06 Techno Teacher | English Dub | Full Episode",
+            "video_id": "ZDygQeO9jzo",
+            "duration_seconds": 1278,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "8",
+            "title": "SONIC X - EP08 Satellite Swindle | English Dub | Full Episode",
+            "video_id": "9KYeihPwS7Q",
+            "duration_seconds": 1279,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "9",
+            "title": "SONIC X - EP09 The Last Resort | English Dub | Full Episode",
+            "video_id": "ZcYxdLTcGvA",
+            "duration_seconds": 1279,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "11",
+            "title": "SONIC X - EP11 Fly Spy | English Dub | Full Episode",
+            "video_id": "FTMUZlg7WEg",
+            "duration_seconds": 1282,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "14",
+            "title": "SONIC X - EP14 That's What Friends Are for | English Dub | Full Episode",
+            "video_id": "uNqSxwLTjG4",
+            "duration_seconds": 1278,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "24",
+            "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode",
+            "video_id": "039J77RlR5M",
+            "duration_seconds": 1278,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "26",
+            "title": "SONIC X - EP26 Countdown to Chaos | English Dub | Full Episode",
+            "video_id": "Lj6TQAJaj4s",
+            "duration_seconds": 1293,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "30",
+            "title": "SONIC X - EP30 Head's up, Tail | English Dub | Full Episode",
+            "video_id": "V26oyi5GDVw",
+            "duration_seconds": 1276,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "32",
+            "title": "SONIC X - EP32 Flood Fight | English Dub | Full Episode",
+            "video_id": "OwYJkhG6xNc",
+            "duration_seconds": 1276,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "34",
+            "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode",
+            "video_id": "NqrXRFdb684",
+            "duration_seconds": 1273,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "38",
+            "title": "SONIC X - EP38 Showdown in Space | English Dub | Full Episode",
+            "video_id": "5d0m3UcNnWs",
+            "duration_seconds": 1273,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "39",
+            "title": "SONIC X - EP39 Defective Detectives | English Dub | Full Episode",
+            "video_id": "s32IbFff9i0",
+            "duration_seconds": 1276,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "43",
+            "title": "SONIC X - EP43 Mean Machines | English Dub | Full Episode",
+            "video_id": "GxZnyfL9xFw",
+            "duration_seconds": 1284,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:01-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "45",
+            "title": "SONIC X - EP45 Prize Fights | English Dub | Full Episode",
+            "video_id": "fQXfRxizraE",
+            "duration_seconds": 1276,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2015-07-01T00:00:00-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "54",
+            "title": "SONIC X - EP 54 Cosmic Crisis | English Dub | Full Episode",
+            "video_id": "30b-BHrYDms",
+            "duration_seconds": 1283,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2017-10-04T00:34:14-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "64",
+            "title": "SONIC X - EP 64 A Materex Melee | English Dub | Full Episode",
+            "video_id": "hq9LlgTLmP0",
+            "duration_seconds": 1230,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2017-10-04T01:08:34-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
             "number": "73",
             "title": "SONIC X - EP 73 The Cosmo Conspiracy | English Dub | Full Episode",
             "video_id": "CkI-2j6V7sQ",
@@ -14079,6 +14418,18 @@
             "india_playback": "unverified",
             "last_checked": "2026-10-17",
             "source_upload_date": "2017-10-04T01:22:59-07:00"
+          },
+          {
+            "number": "74",
+            "title": "SONIC X - EP 74 Eye Spy | English Dub | Full Episode",
+            "video_id": "Y_GBzuo-T6g",
+            "duration_seconds": 1205,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2017-10-04T01:23:49-07:00",
+            "audio_language": "English",
+            "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           }
         ]
       }
@@ -14086,5 +14437,434 @@
     "related": [],
     "added_on": "2026-10-17",
     "discovery": "Official channel upload checked 2026-10-17"
+  },
+  {
+    "id": "sooryavansham",
+    "title": "Sooryavansham",
+    "original_title": "Sooryavansham",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=vB2m1uRF30c",
+    "synopsis": "Watch the official Hindi-language full movie upload of Sooryavansham from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=vB2m1uRF30c"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/vB2m1uRF30c/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "sooryavansham-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Sooryavansham – Blockbuster Hindi Film | Amitabh Bachchan, Soundarya | Bollywood Movie | सूर्यवंशम",
+            "video_id": "vB2m1uRF30c",
+            "duration_seconds": 10145,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2020-11-01T19:45:01-08:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "the-super-khiladi-brindavanam",
+    "title": "The Super Khiladi (Brindavanam)",
+    "original_title": "The Super Khiladi (Brindavanam)",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=9oHsfiQeJ9o",
+    "synopsis": "Watch the official Hindi-language full movie upload of The Super Khiladi (Brindavanam) from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=9oHsfiQeJ9o"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/9oHsfiQeJ9o/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "the-super-khiladi-brindavanam-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "The Super Khiladi (Brindavanam) Telugu Hindi Dubbed Full Movie | Jr NTR, Kajal Aggarwal, Samantha",
+            "video_id": "9oHsfiQeJ9o",
+            "duration_seconds": 8764,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2018-08-06T01:45:01-07:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "the-return-of-abhimanyu-irumbu-thirai",
+    "title": "The Return of Abhimanyu (Irumbu Thirai)",
+    "original_title": "The Return of Abhimanyu (Irumbu Thirai)",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=REdVA3_ORk0",
+    "synopsis": "Watch the official Hindi-language full movie upload of The Return of Abhimanyu (Irumbu Thirai) from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=REdVA3_ORk0"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/REdVA3_ORk0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "the-return-of-abhimanyu-irumbu-thirai-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "The Return of Abhimanyu (Irumbu Thirai) 2019 New Released Full Hindi Dubbed Movie | Vishal, Samantha",
+            "video_id": "REdVA3_ORk0",
+            "duration_seconds": 8591,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2019-02-10T09:30:00-08:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "ruler",
+    "title": "Ruler",
+    "original_title": "Ruler",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=OrfYe3Xki1M",
+    "synopsis": "Watch the official Hindi-language full movie upload of Ruler from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=OrfYe3Xki1M"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/OrfYe3Xki1M/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ruler-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Ruler (Full HD) Balakrishna Hindi Dubbed Full Movie | Vedhika, Sonal Chauhan",
+            "video_id": "OrfYe3Xki1M",
+            "duration_seconds": 6953,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2025-12-04T20:00:22-08:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "oxygen",
+    "title": "Oxygen",
+    "original_title": "Oxygen",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=fmkS85mNZWA",
+    "synopsis": "Watch the official Hindi-language full movie upload of Oxygen from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=fmkS85mNZWA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/fmkS85mNZWA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "oxygen-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Oxygen (2026) New Released Hindi Dubbed Movie | Gopichand, Raashii Khanna, Anu Emmanuel, Jagapathi",
+            "video_id": "fmkS85mNZWA",
+            "duration_seconds": 7604,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2026-03-10T22:30:07-07:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "janta-garage",
+    "title": "Janta Garage",
+    "original_title": "Janta Garage",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=iXxg3DYaafo",
+    "synopsis": "Watch the official Hindi-language full movie upload of Janta Garage from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=iXxg3DYaafo"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/iXxg3DYaafo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "janta-garage-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Janta Garage (4K ULTRA HD) - Full Hindi Dubbed Movie | Jr NTR, Mohanlal, Samantha, Nithya Menen",
+            "video_id": "iXxg3DYaafo",
+            "duration_seconds": 7804,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2022-08-02T02:30:09-07:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
+  },
+  {
+    "id": "miss-india",
+    "title": "Miss India",
+    "original_title": "Miss India",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=SbSTTfnEMZM",
+    "synopsis": "Watch the official Hindi-language full movie upload of Miss India from Goldmines using the embedded YouTube player. The upload date is separate from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader, full runtime, India country metadata, oEmbed and explicit Hindi-language edition evidence",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=SbSTTfnEMZM"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/SbSTTfnEMZM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "miss-india-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "1 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Miss India 2021 New Released Hindi Dubbed Movie | Keerthy Suresh, Jagapathi Babu, Rajendra Prasad",
+            "video_id": "SbSTTfnEMZM",
+            "duration_seconds": 7513,
+            "metadata_check": "Official uploader, public full runtime, India metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-17",
+            "source_upload_date": "2021-07-04T10:30:09-07:00",
+            "audio_language": "Hindi",
+            "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Official Hindi upload checked 2026-10-17"
   }
 ]

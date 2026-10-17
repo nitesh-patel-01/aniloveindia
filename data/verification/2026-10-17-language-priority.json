@@ -1,0 +1,1856 @@
+{
+  "checked_at": "2026-10-17",
+  "language_priority": [
+    "Hindi",
+    "English",
+    "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
+  ],
+  "actual_india_playback": "unverified",
+  "counts": {
+    "anime-series": {
+      "titles": 0,
+      "uploads": 27
+    },
+    "anime-movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "movies": {
+      "titles": 7,
+      "uploads": 7
+    },
+    "k-dramas": {
+      "titles": 0,
+      "uploads": 0
+    }
+  },
+  "published_additions": [
+    {
+      "video_id": "vB2m1uRF30c",
+      "title_id": "sooryavansham",
+      "season_id": "sooryavansham-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "9oHsfiQeJ9o",
+      "title_id": "the-super-khiladi-brindavanam",
+      "season_id": "the-super-khiladi-brindavanam-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "REdVA3_ORk0",
+      "title_id": "the-return-of-abhimanyu-irumbu-thirai",
+      "season_id": "the-return-of-abhimanyu-irumbu-thirai-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "OrfYe3Xki1M",
+      "title_id": "ruler",
+      "season_id": "ruler-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "fmkS85mNZWA",
+      "title_id": "oxygen",
+      "season_id": "oxygen-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "iXxg3DYaafo",
+      "title_id": "janta-garage",
+      "season_id": "janta-garage-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "SbSTTfnEMZM",
+      "title_id": "miss-india",
+      "season_id": "miss-india-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload title explicitly identifies Hindi film/dub"
+    },
+    {
+      "video_id": "GxZnyfL9xFw",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "43",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "uNqSxwLTjG4",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "14",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "ZcYxdLTcGvA",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "9",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "qBsRxGQhDKs",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "5",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "039J77RlR5M",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "24",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "aBgPO32-ka0",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "2",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "Lj6TQAJaj4s",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "26",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "FTMUZlg7WEg",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "11",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "OwYJkhG6xNc",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "32",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "V26oyi5GDVw",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "30",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "NqrXRFdb684",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "34",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "PzifMBqaEvU",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "3",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "BNi7ZoeJOOE",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "4",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "fQXfRxizraE",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "45",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "hq9LlgTLmP0",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "64",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "5d0m3UcNnWs",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "38",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "9KYeihPwS7Q",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "8",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "s32IbFff9i0",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "39",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "ZDygQeO9jzo",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "6",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "Y_GBzuo-T6g",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "74",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "30b-BHrYDms",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "54",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+    },
+    {
+      "video_id": "oqKo17q-oKU",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "5",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    },
+    {
+      "video_id": "PlREsiTIEu8",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "47",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    },
+    {
+      "video_id": "5Fc33uCDdPY",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "14",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    },
+    {
+      "video_id": "HNz_YRhPQBI",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "19",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    },
+    {
+      "video_id": "ppdWdJ-lvas",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "4",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    },
+    {
+      "video_id": "LVzEu8APS1g",
+      "title_id": "mobile-suit-gundam-seed",
+      "season_id": "mobile-suit-gundam-seed-season-1",
+      "episode": "10",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "U10iG69axKc",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "paEVAzRhX2k",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "AD_PSpuDOw4",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "dgGuKUHIMAw",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "ZS1_5gDTE30",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "rXfg3F4osDE",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "3Cd-Lrdju5o",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "XQ--oYA7qoU",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "V3TtcKvIkR0",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "siaHylntFqA",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "VqUcCIKmaOc",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "4CvIzaTNSus",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "RJ4FLf15XeE",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "1EqL7CSXX0s",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    },
+    {
+      "id": "Q0QALnQq16c",
+      "reason": "Original-audio language is not explicitly evidenced; subtitles alone do not establish audio language"
+    }
+  ],
+  "checks": [
+    {
+      "id": "vB2m1uRF30c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Sooryavansham – Blockbuster Hindi Film | Amitabh Bachchan, Soundarya | Bollywood Movie | सूर्यवंशम",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 10145,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2020-11-01T19:45:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vB2m1uRF30c",
+      "oembed": true,
+      "official_description": "Bhanu Pratap Singh, the village head, detests his youngest son, Heera, due to his illiteracy. However, he is determined to overcome all obstacles to fulfil his father's dream of building a hospital.\n\nMovie:- Sooryavansham (1999) | सूर्यवंशम\nStarcast:- Amitabh Bachchan, Soundarya, Jayasudha, Kader Khan, Anupam Kher\nDirected by:- E. V. V. Satyanarayana\nProduced by:- G. Adiseshagiri Rao\nMusic by:- Anu Malik\n\n#Sooryavansham #AmitabhBachchan #Soundarya #AnupamKher\n--------------------------------------\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTelefilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms"
+    },
+    {
+      "id": "9oHsfiQeJ9o",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "The Super Khiladi (Brindavanam) Telugu Hindi Dubbed Full Movie | Jr NTR, Kajal Aggarwal, Samantha",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 8764,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2018-08-06T01:45:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9oHsfiQeJ9o",
+      "oembed": true,
+      "official_description": "Krish is the son of a billionaire businessman. He has a girlfriend Indu. Her friend Bhoomi wants to pursue her higher studies and lands in trouble when her father wants to marry her to his nephew. Her grandfather convinces her dad, saying that she already likes someone in the city so her dad asks her to bring her lover home. Indu asks Krish to go as Bhoomi's Lover. Meanwhile, Bhoomi's uncle, and her father live apart in two adjacent villages. The two families are feuding with each other. Krish is hated by Bhoomi's entire family and he has to overcome many things in his attempt to get everyone to love him.\n\nMovie:- The Super Khiladi (Brindavanam)\nStarcast:- Jr NTR, Kajal Aggarwal, Samantha, Prakash Raj, Srihari\nDirected by:- Vamsi Paidipally\nMusic by:- S. Thaman\n\n#TheSuperKhiladi  #Brindavanam  #JrNTR  #KajalAggarwal\n\n----------------------------------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldmines"
+    },
+    {
+      "id": "REdVA3_ORk0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "The Return of Abhimanyu (Irumbu Thirai) 2019 New Released Full Hindi Dubbed Movie | Vishal, Samantha",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 8591,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2019-02-10T09:30:00-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=REdVA3_ORk0",
+      "oembed": true,
+      "official_description": "The movie is a techno thriller with many action scenes. The story also concerns hacking and the leak of information, how in the days of interconnections, the privacy of a person doesn't hold power, as anyone can be hacked and their personal information stolen from them.\n\nMovie:- The Return of Abhimanyu (Irumbu Thirai)\nStarcast:- Vishal, Samantha, Arjun Sarja, Suman\nDirected by:- P.S. Mithran\nMusic by:- Yuvan Shankar Raja\n\n#VishalHindiDubbedMovies #Samantha #TheReturnOfAbhimanyu #IrumbuThirai\n--------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldmines"
+    },
+    {
+      "id": "OrfYe3Xki1M",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Ruler (Full HD) Balakrishna Hindi Dubbed Full Movie | Vedhika, Sonal Chauhan",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 6953,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2025-12-04T20:00:22-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=OrfYe3Xki1M",
+      "oembed": true,
+      "official_description": "A businesswoman adopts a stranger who saves her life and raises him as her son. However, the young man has a dark past that catches up with him despite his mother's attempts to shield him from it. \n\nMovie:- Ruler \nStarcast:- Nandamuri Balakrishna, Vedhika, Sonal Chauhan, Bhumika Chawla, Prakash Raj\nDirected By:- K. S. Ravikumar\nMusic By:- Chirantan Bhatt\n\n#Goldmines #Ruler #NandamuriBalakrishna #Vedhika #SonalChauhan #BhumikaChawla\n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nX:\nhttps://x.com/GTelefilms"
+    },
+    {
+      "id": "fmkS85mNZWA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Oxygen (2026) New Released Hindi Dubbed Movie | Gopichand, Raashii Khanna, Anu Emmanuel, Jagapathi",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 7604,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-03-10T22:30:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fmkS85mNZWA",
+      "oembed": true,
+      "official_description": "🔥 First Time on YouTube\nWatch 2026 New Released Action Movie #Oxygen \n\nThe story follows as Krishna arrives in India to get married to Shruti, but when Krishna saves her father from an attack, it is revealed he has a hidden agenda.\n\nMovie Name: Oxygen (2026)\nCast: Gopichand, Raashii Khanna, Anu Emmanuel, Jagapathi Babu, Abhimanyu Singh, Ashish Vidyarthi, Sayaji Shinde, Ali, Raghu Babu\nDirected by: A. M. Jyothi Krishna\nCreative Producer: Manish Shah\nMusic by: Yuvan Shankar Raja\nGenre: Action | Thriller | Drama\n\n#Gopichand #RaashiiKhanna #SouthMovieHindi #newsouthmovie #hindidubbed  \n\n👍 Like | 💬 Comment | 🔔 Subscribe for more blockbuster Hindi movies.\n\n-------------------------------------\n\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nX:\nhttps://x.com/GTelefilms"
+    },
+    {
+      "id": "iXxg3DYaafo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Janta Garage (4K ULTRA HD) - Full Hindi Dubbed Movie | Jr NTR, Mohanlal, Samantha, Nithya Menen",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 7804,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-08-02T02:30:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=iXxg3DYaafo",
+      "oembed": true,
+      "official_description": "Satyam keeps helping the needy under the name of Janatha Garage. On the other hand, Anand is a nature lover who goes to any extent to prevent the environment. One fine day, Anand accidentally gets into a scuffle with Satyam and his Janatha Gang members. During this entire episode, Satyam likes Anand’s sincere approach and requests him to leave everything behind and join him in his fight to save the poor. Why did Satyam choose Anand for this job ? Will Anand join Janatha Garage ? That forms the rest of the story.\n\nMovie:- Janta Garage (Janatha Garage)\nStarcast:- Jr NTR, Mohanlal, Samantha, Nithya Menen\nDirected by:- Koratala Siva\nMusic by:- Devi Sri Prasad\n\n#JantaGarage #JanathaGarage #JrNTR #Mohanlal #Samantha #NithyaMenen #Goldmines \n\n--------------------------------------\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTelefilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms"
+    },
+    {
+      "id": "SbSTTfnEMZM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi",
+        "hi"
+      ],
+      "title": "Miss India 2021 New Released Hindi Dubbed Movie | Keerthy Suresh, Jagapathi Babu, Rajendra Prasad",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 7513,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2021-07-04T10:30:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SbSTTfnEMZM",
+      "oembed": true,
+      "official_description": "Uprooted to the United States, an aspiring Indian entrepreneur deals with rivalry and disapproval as she draws from her culture to start a tea business.\n\nMovie:- Miss India \nStarcast:- Keerthy Suresh, Jagapathi Babu, Rajendra Prasad, Naresh, Nadhiya\nCreative Producer:- Manish Shah\nDirected by:- Narendra Nath\nMusic by:- S. Thaman\n\n#MissIndia #KeerthySuresh #JagapathiBabu #RajendraPrasad\n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms"
+    },
+    {
+      "id": "GxZnyfL9xFw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP43 Mean Machines | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1284,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GxZnyfL9xFw",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 43 Mean Machines\nAs Nelson tries to maintain the faltering Thorndyke Industries due to his employees joining the Freedom Movement to emulate Sonic's carefree lifestyle, kitchen appliances begin to cause havoc around town.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "uNqSxwLTjG4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP14 That's What Friends Are for | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=uNqSxwLTjG4",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔  \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 14 That's What Friends Are for\nSonic decides to take his new friend Helen to pick flowers instead of attending the President's party he was invited to. The President's aide responds by sending a military unit to capture Sonic!\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "ZcYxdLTcGvA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP09 The Last Resort | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZcYxdLTcGvA",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 09 The Last Resort\nAfter Chris, Amy, Cream and Cheese arrive at a resort, Eggman appears and tries to take over with his E-39 but Sonic arrives and tries to stop him. However, Sonic is unable to swim, and the robot tries to drag him into the ocean! \n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "qBsRxGQhDKs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP05 Cracking Knuckles | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=qBsRxGQhDKs",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 05 Cracking Knuckles\nAfter Eggman tricks Knuckles into blaming Sonic for being stuck in the human world, Knuckles challenges Sonic to a duel! But Knuckles realizes he's being duped and teams up with Sonic to destroy the robot and save the others.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "039J77RlR5M",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=039J77RlR5M",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 24 How to Catch a Hedgehog\nAfter an encounter with Dr. Eggman, Sonic finds himself unable to stop running. Chris and his grandfather Chuck soon discover that Eggman's E-88 is behind Sonic's problem.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "aBgPO32-ka0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP02 Sonic to the Rescue | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1277,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=aBgPO32-ka0",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 02 Sonic to the Rescue\nSonic discovers that Cream and Cheese are being held captive by the military. Sonic, with the help of Chris and his grandfather Chuck, finds and frees them only to be caught in a trap!\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "Lj6TQAJaj4s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP26 Countdown to Chaos | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1293,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Lj6TQAJaj4s",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 26 Countdown to Chaos\nEggman takes Chris hostage after tricking Knuckles and Chris into giving him all six Chaos Emeralds discovered. Eggman and Sonic face off once more as Sonic seeks to save Chris and prevent Eggman from obtaining the final Emerald.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "FTMUZlg7WEg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP11 Fly Spy | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1282,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=FTMUZlg7WEg",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔  \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 11 Fly Spy \nThe President plants a fake emerald to try and attract Sonic but Rouge takes the bait instead. She winds up being hired by the Government to search inside Eggman's base with another agent, Topaz. Their search was going well until they encountered the E-70!\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "OwYJkhG6xNc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP32 Flood Fight | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=OwYJkhG6xNc",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode EP32 Flood Fight\nDr. Eggman reveals to Sonic that he has been double-crossed by Chaos. As Knuckles warns Sonic of the dangers of Chaos if he were to obtain the last Chaos Emerald, they are transported to the past by a mysterious red orb.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "V26oyi5GDVw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP30 Head's up, Tail | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=V26oyi5GDVw",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 30 Head's up, Tail\nSonic, Tails, and Knuckles battle Dr. Eggman on the Egg Carrier to save Amy and the last piece of Master Emerald. Meanwhile, Chris and Big are still in search of Froggy.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "NqrXRFdb684",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1273,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=NqrXRFdb684",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 34 Shadow Knows\nSonic is accused of causing havoc in Prison Island. As GUN agents seek after Sonic, Sonic attempts to figure out who has framed him.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "PzifMBqaEvU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP03 Missile Wrist Rampage | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1243,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=PzifMBqaEvU",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 03 Missile Wrist Rampage\nWhen Eggman tries to use E-23 to take over the world Amy, Knuckles, and Tails launch an unsuccessful counterattack until Sonic arrives! With a ring from Tails, Sonic destroys E-23 and saves Amy with the help of Knuckles.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "BNi7ZoeJOOE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP04 Chaos Emerald Chaos | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=BNi7ZoeJOOE",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 04 Chaos Emerald Chaos\nChris' teacher has been replaced with the President's spy, Mr. Stewart. Meanwhile, the first Chaos Emerald appears at a construction site. It's then a race to the stone between Eggman and Sonic!\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "fQXfRxizraE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP45 Prize Fights | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fQXfRxizraE",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 45 Prize Fights\nThe President hosts a tournament with the red Chaos Emerald as the prize to lure Dr. Eggman. It's a heated battle that finds Sonic fighting alongside everyone, even the President himself, but strangely Dr. Eggman has yet to show himself…\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "hq9LlgTLmP0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 64 A Materex Melee | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1230,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:08:34-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hq9LlgTLmP0",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 64 A Materex Melee\nSonic faces off against Dark Oak once again, Eggman has taken control of Blue Typhoon, and outside the fortress are Metarex armada led by Red Pine. The situation can't seem to get any more dire when Red Pine and his crew begin to attack their own base.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "5d0m3UcNnWs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP38 Showdown in Space | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1273,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=5d0m3UcNnWs",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 38 Showdown in Space\nTo complete his final revenge, Dr. Robotnik's revenge was to crash ARK into Earth, destroying everything and everyone. Sonic must now convince Shadow to help save the world from destruction.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "9KYeihPwS7Q",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP08 Satellite Swindle | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9KYeihPwS7Q",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 08 Satellite Swindle\nAfter Eggman discovers that he is being watched by the military he sends E-90 to swallow the satellite, but this disrupts everyone's TVs! So Chuck and Tails decide to upgrade the Tornado to X-Tornado, allowing Sonic to enter high altitude to destroy E-90.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "s32IbFff9i0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP39 Defective Detectives | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=s32IbFff9i0",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 39 Defective Detectives\nSonic's world and its creatures called Flickies begin to appear in Chris' world. As the President and his staff discuss how to keep them isolated; Chris worries about what they might do with Sonic.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "ZDygQeO9jzo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP06 Techno Teacher | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZDygQeO9jzo",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 06 Techno Teacher\nEggman tries to use his robot \"Intellihente\" to brainwash Chris' class but when it winds up teaching more than brainwashing, Eggman steps in to put the children in permanent detention until a worried Sonic arrives, destroys the robot, and saves the class.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "Y_GBzuo-T6g",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 74 Eye Spy | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1205,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:23:49-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Y_GBzuo-T6g",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 74 Eye Spy\nBlue Typhoon is mysteriously transported to an abandoned planet as Cosmo discovers that Metarex is monitoring what she sees and hears through a chip that is implanted in her. As Tails and Chris try to find a way to remove Cosmo's chip, Amy and Rouge discover that the planet is Cosmo and Metarex's home planet.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "30b-BHrYDms",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 54 Cosmic Crisis | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1283,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:34:14-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=30b-BHrYDms",
+      "oembed": true,
+      "official_description": "Subscribe for more anime 🔔 \nhttps://www.youtube.com/c/AnimeonTMSOfficialChannel?sub_confirmation=1\n\nSONIC X - Episode 54 Cosmic Crisis\nGrown-up Chris returns to Sonic's world as his young twelve year-old self, joining Sonic and his friends to stop Metarex from destroying their planet.\n\nWatch full episodes of SONIC X on our channel 📺\nSeason 1 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU\nSeason 2 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC\nSeason 3 - https://www.youtube.com/playlist?list=PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j\n\nTheme Song - Gotta Go Fast \nPerformed by Norman J. Grossfeld and Russell Velázquez\nhttps://youtu.be/Z9G1Mf6TZRs\n\nAbout SONIC X:\nWhen Sonic and his friends are mysteriously transported to the human world, Sonic must battle Dr. Eggman once again to retrieve all of the Chaos Emeralds so that he can go back to their home world! Sonic ventures to find the Chaos Emerald and, together with Christopher and his buddies, battles Eggman and his cronies.\n\n\nFollow us for the latest updates ⚡️\nhttps://twitter.com/tmsanime\nhttps://instagram.com/tmsanime\nhttp://facebook.com/animeTMS\n\nAbout TMS Entertainment:\nTMS Entertainment is one of the largest anime studios in Japan. With a strong focus on anime production, licensing, and distribution, TMS boasts a library of over 12,000 episodes across a total of 420 titles that include much-loved anime titles such as LUPIN THE 3rd, Dr. STONE, and MEGALOBOX.\nOfficial Website - http://www.tmsanime.com\n\n\n© SONIC Project\n#sonicx  #sonicthehedgehog   #tmsanime"
+    },
+    {
+      "id": "U10iG69axKc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode1 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=U10iG69axKc",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "oqKo17q-oKU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode5",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=oqKo17q-oKU",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "paEVAzRhX2k",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode1 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:26-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=paEVAzRhX2k",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "AD_PSpuDOw4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode3 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=AD_PSpuDOw4",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "PlREsiTIEu8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode47",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=PlREsiTIEu8",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "dgGuKUHIMAw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode2 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:18-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dgGuKUHIMAw",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "ZS1_5gDTE30",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode9 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:13-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZS1_5gDTE30",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "rXfg3F4osDE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode6 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:32-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rXfg3F4osDE",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "3Cd-Lrdju5o",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode18 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:18-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=3Cd-Lrdju5o",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "XQ--oYA7qoU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode31 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:28-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=XQ--oYA7qoU",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "V3TtcKvIkR0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode43 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:02-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=V3TtcKvIkR0",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "5Fc33uCDdPY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode14",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:14-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=5Fc33uCDdPY",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "HNz_YRhPQBI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode19",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:16-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=HNz_YRhPQBI",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "siaHylntFqA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode27 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:24-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=siaHylntFqA",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "ppdWdJ-lvas",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode4",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:15-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ppdWdJ-lvas",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "VqUcCIKmaOc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode4 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=VqUcCIKmaOc",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "4CvIzaTNSus",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode37 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:27-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=4CvIzaTNSus",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "RJ4FLf15XeE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED HD Remaster - Episode10 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:29-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=RJ4FLf15XeE",
+      "oembed": true,
+      "official_description": "C.E. 70. The friction between the Coordinators (ZAFT), who seek to establish their own economic sphere, and the Naturals (Earth Alliance) finally escalated into armed conflict following the “Bloody Valentine” tragedy. Although the Earth forces overwhelm the mobile suit-equipped ZAFT in various regions, the conflict drags on contrary to expectations. Eleven months after the “Bloody Valentine”, Kira Yamato, a Coordinator youth living in the neutral industrial colony of Heliopolis, becomes entangled in a ZAFT operation to capture the Gundams. Participating in this operation is Kira's former best friend, Athrun Zala, who is now a ZAFT soldier. The two share a fateful reunion amidst the flames of war. However, to protect his Natural friends, Kira boards the Strike Gundam—the only unit to evade capture—and finds himself forced into battle against Athrun...\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "1EqL7CSXX0s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode18 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:19-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1EqL7CSXX0s",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "LVzEu8APS1g",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "【EN Dub】Mobile Suit Gundam SEED - Episode10",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1462,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-10-08T13:00:03-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=LVzEu8APS1g",
+      "oembed": true,
+      "official_description": "\"Mobile Suit Gundam SEED FREEDOM\" is screaning in February in NA!\n\nTo commemorate this, the English-dubbed version—the first ever produced in North America—will be released exclusively on YouTube!\nEnjoy \"Gundam SEED\" with the voice acting of the English-language cast, who are also appearing in the latest installment!\n\n*This video is based on data from the time it was produced.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    },
+    {
+      "id": "Q0QALnQq16c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "GUNDAM CHANNEL INTL",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-HK",
+        "zh-Hans",
+        "zh-TW",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "pt-BR",
+        "es-419",
+        "es-ES",
+        "vi"
+      ],
+      "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode23 (w/subtitles)",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "seconds": 1461,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-07-31T01:00:14-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Q0QALnQq16c",
+      "oembed": true,
+      "official_description": "In the year C.E.70, the conflict between the Z.A.F.T. Forces and the O.M.N.I. Enforcer has erupted into armed warfare of the highest intensity in the wake of the “Bloody Valentine” catastrophe. An armistice is signed following the Second Battle of Yakin Deyue, which saw massive casualties. No armistice could extinguish the hostilities that existed between the Naturals and the Coordinators, however. Shinn Asuka finds himself caught up in the O.M.N.I. Enforcers' Orb Operation, and sees his parents and sister killed before his very eyes by the fighting. He grieves, clutching his sister's cell phone, the only thing left to him, while the “MOBILE SUIT GUNDAM”, the cause of all the fighting, flies away. Shell-shocked, he leaves Orb for Plant. And eventually, in C.E.73, he becomes a soldier for the Z.A.F.T. Forces.\n\n▼Check out The GUNDAM Official Website!\nhttps://en.gundam-official.com/\nOfficial X(NA) :https://x.com/GundamInfoNA/ \nOfficial instagram: https://www.instagram.com/gundaminfona/ \nOfficial Facebook: https://www.facebook.com/GundamInfoNA/\n\n▼Check out Gundam product information!\n・Gunpla\nhttps://global.bandai-hobby.net/en-us/gunpla/\n・TAMASHII NATIONS\nhttps://tamashiiweb.com/special/gundam/?wovn=en"
+    }
+  ],
+  "discovery_sources": [
+    {
+      "name": "muse-rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q",
+      "rows": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "muse-hindi",
+      "url": "https://www.youtube.com/@MuseIndiaChannel/search?query=Hindi",
+      "rows": 0,
+      "error": null
+    },
+    {
+      "name": "yt-hindi",
+      "url": "https://www.youtube.com/results?search_query=Muse+India+Hindi+dub+episode",
+      "rows": 11,
+      "error": null
+    },
+    {
+      "name": "muse-playlists",
+      "url": "https://www.youtube.com/@MuseIndiaChannel/playlists",
+      "rows": 4,
+      "error": null
+    },
+    {
+      "name": "yt-drama-hindi",
+      "url": "https://www.youtube.com/results?search_query=KBS+Korean+drama+Hindi+dubbed+full+episode+official",
+      "rows": 19,
+      "error": null
+    },
+    {
+      "name": "gold-movies",
+      "url": "https://www.youtube.com/@GoldminesTelefilms/search?query=Hindi+full+movie",
+      "rows": 59,
+      "error": null
+    },
+    {
+      "name": "tms-english",
+      "url": "https://www.youtube.com/channel/UCzGf0DdUJVrsbcWL3e_tK1Q/search?query=SONIC+X+Full+Episode",
+      "rows": 25,
+      "error": null
+    },
+    {
+      "name": "gundam-english",
+      "url": "https://www.youtube.com/channel/UCejtUitnpnf8Be-v5NuDSLw/search?query=SEED+Episode",
+      "rows": 21,
+      "error": null
+    }
+  ],
+  "limits": [
+    "Muse India RSS returned HTTP 404 and accessible channel search exposed no candidate episodes.",
+    "Unapproved Hindi anime/K-drama search hits were not published without verified publisher identity.",
+    "Original-audio Gundam uploads had English subtitles but no explicit audio-language evidence in the inspected public metadata, so they were skipped.",
+    "Actual India playback remains unverified."
+  ]
+}

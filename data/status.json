@@ -1,59 +1,18 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-17T02:32:14.055361+00:00",
+  "last_run": "2026-10-17T03:11:57.310346+00:00",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Official YouTube additions published after metadata checks; actual India playback remains unverified",
+  "state": "Verified Hindi movie and English-dubbed anime additions published; unclear original-audio editions skipped",
   "added": {
-    "uppena": 1,
-    "kgf": 1,
-    "mass": 1,
-    "dj": 1,
-    "businessman-pandaga-chesko": 1,
-    "sarrainodu": 1,
-    "do-khiladi-smp": 1,
-    "sivaji-the-boss": 1,
-    "arya-2": 1,
-    "the-super-khiladi-3-nenu-sailaja": 1,
-    "chirutha": 1,
-    "fidaa": 1,
-    "jersey": 1,
-    "vivegam": 1,
-    "akhil-the-power-of-jua": 1,
-    "madam-geeta-rani-raatchasi": 1,
-    "mera-pyar-madatha-kaja": 1,
-    "dear-comrade": 1,
-    "hebbuli": 1,
-    "amar-akbar-anthony": 1,
-    "mr-majnu": 1,
-    "dangerous-khiladi-julayi": 1,
-    "magadheera": 1,
-    "the-long-good-bye": 1,
-    "too-bright-for-romance": 1,
-    "we-all-cry-differently": 1,
-    "yeonu-s-summer": 1,
-    "the-unwelcome-guest": 1,
-    "contract-man": 1,
-    "hurry-up-and-tell-me": 1,
-    "avici": 1,
-    "you-re-pretty-oh-manbok": 1,
-    "pandemonium": 1,
-    "the-mother-s-island": 1,
-    "i-introduce-my-father": 1,
-    "forgotten-season": 1,
-    "kang-deoksun-s-love-history": 1,
-    "the-ultimate-miracle": 1,
-    "miss-kim-s-mystery": 1,
-    "glass-prison": 1,
-    "the-tale-of-the-bookworm": 1,
-    "my-prettiest-moments": 1,
-    "chagall-s-birthday": 1,
-    "re-memory": 1,
-    "the-tuna-and-the-dolphin": 1,
-    "mobile-suit-gundam-seed": 23,
-    "space-adventure-cobra": 1,
-    "sonic-x": 2,
-    "hi-school-love-on": 1,
-    "my-dear-cat": 1
+    "ruler": 1,
+    "sooryavansham": 1,
+    "mobile-suit-gundam-seed": 6,
+    "janta-garage": 1,
+    "the-super-khiladi-brindavanam": 1,
+    "sonic-x": 21,
+    "the-return-of-abhimanyu-irumbu-thirai": 1,
+    "miss-india": 1,
+    "oxygen": 1
   },
   "changed_availability": [],
   "link_checks": [],
@@ -70,28 +29,33 @@
   "catalogue_counts": {
     "anime-series": 37,
     "anime-movies": 7,
-    "movies": 70,
+    "movies": 77,
     "k-dramas": 53
   },
-  "upload_count": 621,
+  "upload_count": 655,
   "added_this_run": {
     "anime-series": {
-      "titles": 3,
-      "uploads": 26
+      "titles": 0,
+      "uploads": 27
     },
     "anime-movies": {
       "titles": 0,
       "uploads": 0
     },
     "movies": {
-      "titles": 23,
-      "uploads": 23
+      "titles": 7,
+      "uploads": 7
     },
     "k-dramas": {
-      "titles": 22,
-      "uploads": 24
+      "titles": 0,
+      "uploads": 0
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-17-morning.json"
+  "verification_report": "data/verification/2026-10-17-language-priority.json",
+  "language_priority": [
+    "Hindi",
+    "English",
+    "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
+  ]
 }
