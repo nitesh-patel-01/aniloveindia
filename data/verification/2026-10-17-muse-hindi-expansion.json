@@ -1,0 +1,4007 @@
+{
+  "checked_on": "2026-10-17",
+  "new_titles": 12,
+  "new_uploads": 94,
+  "new_episodes": 84,
+  "new_specials": 2,
+  "new_compilations": 8,
+  "added_by_title": {
+    "hunter-x-hunter": 6,
+    "tokyo-revengers": 7,
+    "attack-on-titan": 3,
+    "dan-da-dan": 1,
+    "that-time-i-got-reincarnated-as-a-slime": 19,
+    "mushoku-tensei-jobless-reincarnation": 2,
+    "spy-x-family": 1,
+    "classroom-of-the-elite": 3,
+    "mob-psycho-100": 2,
+    "welcome-to-demon-school-iruma-kun": 2,
+    "i-parry-everything": 1,
+    "cells-at-work": 6,
+    "junji-ito-collection": 2,
+    "i-was-reincarnated-as-the-7th-prince": 1,
+    "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire": 4,
+    "the-worlds-finest-assassin-gets-reincarnated-in-another-world": 1,
+    "fairy-tail": 2,
+    "campfire-cooking-in-another-world-with-my-absurd-skill": 2,
+    "one-punch-man": 16,
+    "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2": 3,
+    "jojos-bizarre-adventure": 2,
+    "re-zero": 8
+  },
+  "added": [
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "LoJNZElISM8",
+      "episode": "46",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "FFIIA9Wocl0",
+      "episode": "18",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "attack-on-titan",
+      "season_id": "attack-on-titan-season-1-hindi",
+      "video_id": "4q70E0nwkAY",
+      "episode": "3",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "attack-on-titan",
+      "season_id": "attack-on-titan-season-1-hindi",
+      "video_id": "9MwufdbrmX4",
+      "episode": "2",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "attack-on-titan",
+      "season_id": "attack-on-titan-season-1-hindi",
+      "video_id": "tKkHaK8MozI",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "yTouVgBm6Tw",
+      "episode": "45",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "rl_cX75j3gs",
+      "episode": "17",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "-PKn27OlgVM",
+      "episode": "44",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "vei7_tttHvg",
+      "episode": "16",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "-1d8NO2bB0E",
+      "episode": "43",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "N7FpbO2JJG4",
+      "episode": "15",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "Pg6WV9r66eY",
+      "episode": "42",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "ape_xXuaPQk",
+      "episode": "14",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "video_id": "hvrVfE2zhoE",
+      "episode": "41",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "qt2SkcO7plQ",
+      "episode": "13",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "dan-da-dan",
+      "season_id": "dan-da-dan-hindi-available",
+      "video_id": "JStare1TEDw",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-3-hindi",
+      "video_id": "sPgNNOwqeYA",
+      "episode": "complete",
+      "season": 3,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-2-hindi",
+      "video_id": "7m3x5V2WWxc",
+      "episode": "complete",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "mushoku-tensei-jobless-reincarnation",
+      "season_id": "mushoku-tensei-jobless-reincarnation-season-1-hindi",
+      "video_id": "giltqyz9RX4",
+      "episode": "complete",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "mushoku-tensei-jobless-reincarnation",
+      "season_id": "mushoku-tensei-jobless-reincarnation-season-2-hindi",
+      "video_id": "VGFQZIhx9Cs",
+      "episode": "complete",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "spy-x-family",
+      "season_id": "spy-x-family-season-1-hindi",
+      "video_id": "1AQtGDYVs7k",
+      "episode": "complete",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "i1-OPzYXYpo",
+      "episode": "9",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "7kWJolF4M1A",
+      "episode": "8",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "wCEzqN35_Cg",
+      "episode": "10",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "sqGsV73Ept0",
+      "episode": "14",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "HgMldTjJwhE",
+      "episode": "17",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "bg1W7R2d5W8",
+      "episode": "15",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "7QQDPaUlZKU",
+      "episode": "20",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "2CHpNSG9jhQ",
+      "episode": "22",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "sKI5icjheUw",
+      "episode": "24",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "EqU7HrLK8Lw",
+      "episode": "23",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "tokyo-revengers",
+      "season_id": "tokyo-revengers-hindi-available",
+      "video_id": "rV9QmUSlPds",
+      "episode": "complete",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "classroom-of-the-elite",
+      "season_id": "classroom-of-the-elite-hindi-available",
+      "video_id": "S7LtjQvh6Qc",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "classroom-of-the-elite",
+      "season_id": "classroom-of-the-elite-hindi-available",
+      "video_id": "-a19kfqlNs4",
+      "episode": "3",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-hindi-available",
+      "video_id": "eZ_rS0vj2Hg",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "welcome-to-demon-school-iruma-kun",
+      "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+      "video_id": "uUND8uJdoK8",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "i-parry-everything",
+      "season_id": "i-parry-everything-hindi-available",
+      "video_id": "rRF5eTtC8Ow",
+      "episode": "complete",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "W5Yd0hC9uEQ",
+      "episode": "6",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi",
+      "video_id": "pQP8SjxORVA",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi-specials",
+      "video_id": "MDSQr59aW2I",
+      "episode": "oad",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "special"
+    },
+    {
+      "title_id": "junji-ito-collection",
+      "season_id": "junji-ito-collection-hindi-available-specials",
+      "video_id": "tdiRAT0fLDM",
+      "episode": "ova",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "special"
+    },
+    {
+      "title_id": "i-was-reincarnated-as-the-7th-prince",
+      "season_id": "i-was-reincarnated-as-the-7th-prince-season-2-hindi",
+      "video_id": "eYQynxxf1Hc",
+      "episode": "complete",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "compilation"
+    },
+    {
+      "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+      "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+      "video_id": "eoMJ-UVWrf8",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+      "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+      "video_id": "CgaoYqeOonc",
+      "episode": "5",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+      "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+      "video_id": "_9HuJ5QRpSw",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "video_id": "zs-jXgEm8HI",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+      "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+      "video_id": "DaQWe2-sajQ",
+      "episode": "1",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+      "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+      "video_id": "s_yinYO_7Co",
+      "episode": "1",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-hindi-available",
+      "video_id": "RUDtS1u1Mcc",
+      "episode": "2",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "welcome-to-demon-school-iruma-kun",
+      "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+      "video_id": "ABTMnMEWFc8",
+      "episode": "1",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "sl8LwAqFOvo",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "ZbPlicgv0-s",
+      "episode": "2",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+      "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+      "video_id": "yteg_AnSCek",
+      "episode": "10",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+      "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+      "video_id": "BYEFnCKnsTE",
+      "episode": "1",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "classroom-of-the-elite",
+      "season_id": "classroom-of-the-elite-season-3-hindi",
+      "video_id": "PuNGMTpYWpQ",
+      "episode": "1",
+      "season": 3,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "video_id": "QLFA1MkDkww",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-2-hindi",
+      "video_id": "1Wo_PRie640",
+      "episode": "1",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-7-hindi",
+      "video_id": "b_uQi-lcPZ8",
+      "episode": "26",
+      "season": 7,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "kEHtGlaavi0",
+      "episode": "7",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "8SHhsvbIJtE",
+      "episode": "11",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "_tk2GGFUks8",
+      "episode": "13",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "-NEo6D4IYzw",
+      "episode": "16",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "oHseb1OKZ2s",
+      "episode": "18",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+      "video_id": "9WTpG3ZLrP0",
+      "episode": "21",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "I85pLPhoHRo",
+      "episode": "7",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-2-hindi",
+      "video_id": "Lp0Aw98YzlQ",
+      "episode": "4",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "fLX7f4_xnEU",
+      "episode": "6",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "AY_sYGIGiS4",
+      "episode": "5",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-2-hindi",
+      "video_id": "6eIhwcVbyug",
+      "episode": "3",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-2-hindi",
+      "video_id": "F0aMd3ZYpvs",
+      "episode": "2",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-2-hindi",
+      "video_id": "iEvp9WeMFz8",
+      "episode": "1",
+      "season": 2,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "SSm-r0gzKJE",
+      "episode": "4",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "wwk909MlmFk",
+      "episode": "3",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "8Av1Q5_9Pis",
+      "episode": "12",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "q_puPslPhCM",
+      "episode": "2",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "6N5qSUV-w9Y",
+      "episode": "11",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "dMtxbs6M1gc",
+      "episode": "01B",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi",
+      "video_id": "tK8FlAl7LRs",
+      "episode": "5",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "YuAGsDl3_og",
+      "episode": "10",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "re-zero",
+      "season_id": "re-zero-season-1-hindi",
+      "video_id": "fLsFoF423Ds",
+      "episode": "01A",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "oJUooDKyHE4",
+      "episode": "9",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+      "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+      "video_id": "yinJKCodryw",
+      "episode": "12",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "z5G3ha4Rp3s",
+      "episode": "8",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "WSUdAA23tmc",
+      "episode": "7",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "Wdy87tc3UIk",
+      "episode": "6",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "isQTg9_ggjg",
+      "episode": "5",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "dPwdIoaOcbk",
+      "episode": "4",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi",
+      "video_id": "IGk5Uge3W_Y",
+      "episode": "4",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-1-hindi",
+      "video_id": "0k1nXqVDV1o",
+      "episode": "3",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi",
+      "video_id": "i1yULgpvGeU",
+      "episode": "3",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "cells-at-work",
+      "season_id": "cells-at-work-season-1-hindi",
+      "video_id": "0d2K0vvpu44",
+      "episode": "2",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "junji-ito-collection",
+      "season_id": "junji-ito-collection-hindi-available",
+      "video_id": "zteEoAK3AsI",
+      "episode": "5",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+      "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+      "video_id": "g3-EGoG9Kgg",
+      "episode": "2",
+      "season": null,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    },
+    {
+      "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+      "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+      "video_id": "6sTzkSjiUBQ",
+      "episode": "1",
+      "season": 1,
+      "audio_language": "Hindi",
+      "kind": "episode"
+    }
+  ],
+  "checks": [
+    {
+      "id": "LoJNZElISM8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 046 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-16T08:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=LoJNZElISM8",
+      "oembed": true
+    },
+    {
+      "id": "FFIIA9Wocl0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 18",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-16T07:30:37-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=FFIIA9Wocl0",
+      "oembed": true
+    },
+    {
+      "id": "4q70E0nwkAY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 03 (S1E03)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-16T06:30:03-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=4q70E0nwkAY",
+      "oembed": true
+    },
+    {
+      "id": "9MwufdbrmX4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 02 (S1E02)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-16T06:00:13-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9MwufdbrmX4",
+      "oembed": true
+    },
+    {
+      "id": "tKkHaK8MozI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 01 (S1E01)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1540,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-16T05:30:05-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=tKkHaK8MozI",
+      "oembed": true
+    },
+    {
+      "id": "yTouVgBm6Tw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 045 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-15T08:00:23-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=yTouVgBm6Tw",
+      "oembed": true
+    },
+    {
+      "id": "rl_cX75j3gs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 17",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-15T07:30:12-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rl_cX75j3gs",
+      "oembed": true
+    },
+    {
+      "id": "-PKn27OlgVM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 044 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-14T08:00:21-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-PKn27OlgVM",
+      "oembed": true
+    },
+    {
+      "id": "vei7_tttHvg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 16",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-14T07:30:03-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vei7_tttHvg",
+      "oembed": true
+    },
+    {
+      "id": "-1d8NO2bB0E",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 043 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-13T08:00:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-1d8NO2bB0E",
+      "oembed": true
+    },
+    {
+      "id": "N7FpbO2JJG4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 15",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-13T07:30:19-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=N7FpbO2JJG4",
+      "oembed": true
+    },
+    {
+      "id": "Pg6WV9r66eY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 042 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-12T08:00:02-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Pg6WV9r66eY",
+      "oembed": true
+    },
+    {
+      "id": "ape_xXuaPQk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 14",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-12T07:30:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ape_xXuaPQk",
+      "oembed": true
+    },
+    {
+      "id": "hvrVfE2zhoE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 041 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-11T08:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hvrVfE2zhoE",
+      "oembed": true
+    },
+    {
+      "id": "qt2SkcO7plQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 13",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-11T07:30:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=qt2SkcO7plQ",
+      "oembed": true
+    },
+    {
+      "id": "JStare1TEDw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15vn9lYeQzIKfx08vAzF6KY",
+        "PLpm1VVK4UL17q8XGLqaByAngUkubMUoc0"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi dub] DAN DA DAN - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1437,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-11-16T06:30:07-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=JStare1TEDw",
+      "oembed": true
+    },
+    {
+      "id": "sPgNNOwqeYA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 That Time I Got Reincarnated as a Slime (S3) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 35546,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-29T04:30:54-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sPgNNOwqeYA",
+      "oembed": true
+    },
+    {
+      "id": "7m3x5V2WWxc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 That Time I Got Reincarnated as a Slime (S2) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 34120,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-28T04:30:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7m3x5V2WWxc",
+      "oembed": true
+    },
+    {
+      "id": "giltqyz9RX4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17_GoSaunqB9MFvvES607w7",
+        "PLpm1VVK4UL17AJuGCbVpC1a7tE_NNp-0i"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S1) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 34077,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-20T04:30:43-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=giltqyz9RX4",
+      "oembed": true
+    },
+    {
+      "id": "VGFQZIhx9Cs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17_GoSaunqB9MFvvES607w7",
+        "PLpm1VVK4UL17AJuGCbVpC1a7tE_NNp-0i"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S2) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 35516,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-27T00:30:21-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=VGFQZIhx9Cs",
+      "oembed": true
+    },
+    {
+      "id": "1AQtGDYVs7k",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17_2kh-QgKo3v11TxXLePn-",
+        "PLpm1VVK4UL17SL4cKdZ8MF5o7XPMYKZPe"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 SPY×FAMILY (S1) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 36249,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-11-09T03:30:01-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1AQtGDYVs7k",
+      "oembed": true
+    },
+    {
+      "id": "i1-OPzYXYpo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 09 (S1E09) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-08T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=i1-OPzYXYpo",
+      "oembed": true
+    },
+    {
+      "id": "7kWJolF4M1A",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 08 (S1E08) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-07T07:30:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7kWJolF4M1A",
+      "oembed": true
+    },
+    {
+      "id": "wCEzqN35_Cg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 10 (S1E10) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-09T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wCEzqN35_Cg",
+      "oembed": true
+    },
+    {
+      "id": "sqGsV73Ept0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 14 (S1E14) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-13T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sqGsV73Ept0",
+      "oembed": true
+    },
+    {
+      "id": "HgMldTjJwhE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 17 (S1E17) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-16T07:30:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=HgMldTjJwhE",
+      "oembed": true
+    },
+    {
+      "id": "bg1W7R2d5W8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 15 (S1E15) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-14T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bg1W7R2d5W8",
+      "oembed": true
+    },
+    {
+      "id": "7QQDPaUlZKU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 20 (S1E20) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-19T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7QQDPaUlZKU",
+      "oembed": true
+    },
+    {
+      "id": "2CHpNSG9jhQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 22 (S1E22) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-21T07:30:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2CHpNSG9jhQ",
+      "oembed": true
+    },
+    {
+      "id": "sKI5icjheUw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 24 (S1E24) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1430,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-23T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sKI5icjheUw",
+      "oembed": true
+    },
+    {
+      "id": "EqU7HrLK8Lw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 23 (S1E23) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-22T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=EqU7HrLK8Lw",
+      "oembed": true
+    },
+    {
+      "id": "rV9QmUSlPds",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16O9kFPHnb5CLsN2YEpVfRE",
+        "PLpm1VVK4UL14ZN_ayyUTitn2qFsVKMI_9"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 Tokyo Revengers | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 34150,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-22T01:01:02-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rV9QmUSlPds",
+      "oembed": true
+    },
+    {
+      "id": "S7LtjQvh6Qc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17x8mbfPIYWRjkCTlrqEWW5"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Classroom of the Elite - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1440,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-06-18T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=S7LtjQvh6Qc",
+      "oembed": true
+    },
+    {
+      "id": "-a19kfqlNs4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17x8mbfPIYWRjkCTlrqEWW5"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Classroom of the Elite - Episode 03 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1440,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-06-20T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-a19kfqlNs4",
+      "oembed": true
+    },
+    {
+      "id": "eZ_rS0vj2Hg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1470,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-26T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eZ_rS0vj2Hg",
+      "oembed": true
+    },
+    {
+      "id": "uUND8uJdoK8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15ur1TfkHn1JYl281JL_yzN"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 1 - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1470,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-17T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=uUND8uJdoK8",
+      "oembed": true
+    },
+    {
+      "id": "rRF5eTtC8Ow",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16-iDOlu33co3uSs1DyMNLN",
+        "PLpm1VVK4UL16RURSk6gGV8vh60j0Ie-tq"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】I PARRY EVERYTHING",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 17131,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-02-25T04:31:20-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rRF5eTtC8Ow",
+      "oembed": true
+    },
+    {
+      "id": "W5Yd0hC9uEQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 06 (S1E06) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-05T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=W5Yd0hC9uEQ",
+      "oembed": true
+    },
+    {
+      "id": "pQP8SjxORVA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - Episode 01 (S1E01)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-04-12T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=pQP8SjxORVA",
+      "oembed": true
+    },
+    {
+      "id": "MDSQr59aW2I",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - OAD (S1OAD)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1405,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-12T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=MDSQr59aW2I",
+      "oembed": true
+    },
+    {
+      "id": "tdiRAT0fLDM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15iS_b-3ZAfIt2wDCgiJSzL",
+        "PLpm1VVK4UL14Sol8ecFgWtEl5ce5m1uAF"
+      ],
+      "caption_languages": [],
+      "title": "Junji Ito Collection - OVA [Hindi dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1191,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-11-07T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=tdiRAT0fLDM",
+      "oembed": true
+    },
+    {
+      "id": "eYQynxxf1Hc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL175QMJkQvNh72FgpTWIqhK0",
+        "PLpm1VVK4UL15_DyCItDuOxtjW6iX8_jsG"
+      ],
+      "caption_languages": [],
+      "title": "【Hindi Dub】【Complete Series】 I Was Reincarnated as the 7th Prince (S2) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 17341,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-06-19T05:30:11-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eYQynxxf1Hc",
+      "oembed": true
+    },
+    {
+      "id": "eoMJ-UVWrf8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16KTCOUnfxfC7llPHvS81eL",
+        "PLpm1VVK4UL16vihjhqSA1Wbhv13CO15CT"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Reborn to Master the Blade - EP01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1430,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-09-20T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eoMJ-UVWrf8",
+      "oembed": true
+    },
+    {
+      "id": "CgaoYqeOonc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16KTCOUnfxfC7llPHvS81eL",
+        "PLpm1VVK4UL16vihjhqSA1Wbhv13CO15CT"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Reborn to Master the Blade - EP05 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1430,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-10-18T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=CgaoYqeOonc",
+      "oembed": true
+    },
+    {
+      "id": "_9HuJ5QRpSw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14SsTfIpn03QH6y4TCh5OyC",
+        "PLpm1VVK4UL17k0WLlpNURKV3j0CNSH-vN"
+      ],
+      "caption_languages": [],
+      "title": "The World's Finest Assassin Gets Reincarnated in Another World - EP 01 [Hindi dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-14T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_9HuJ5QRpSw",
+      "oembed": true
+    },
+    {
+      "id": "zs-jXgEm8HI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 001 (S1E01) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-26T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=zs-jXgEm8HI",
+      "oembed": true
+    },
+    {
+      "id": "B1LyaPY2SYw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 01 (S1E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-06-30T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
+      "oembed": true
+    },
+    {
+      "id": "DaQWe2-sajQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL165mkmnfel5QbOhPmscdfxq",
+        "PLpm1VVK4UL15Hf9AR-ENSbflq2oy7Kx9v"
+      ],
+      "caption_languages": [],
+      "title": "Campfire Cooking in Another World with My Absurd Skill - Episode 01 [Hindi dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1435,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-11-08T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=DaQWe2-sajQ",
+      "oembed": true
+    },
+    {
+      "id": "s_yinYO_7Co",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL165mkmnfel5QbOhPmscdfxq",
+        "PLpm1VVK4UL15Hf9AR-ENSbflq2oy7Kx9v"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Campfire Cooking in Another World - Episode 13 (S2E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1435,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-19T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=s_yinYO_7Co",
+      "oembed": true
+    },
+    {
+      "id": "N_lgyw0C9ww",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "RUDtS1u1Mcc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 - Episode 02 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1470,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-27T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=RUDtS1u1Mcc",
+      "oembed": true
+    },
+    {
+      "id": "ABTMnMEWFc8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15ur1TfkHn1JYl281JL_yzN"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 2 - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1470,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-09T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ABTMnMEWFc8",
+      "oembed": true
+    },
+    {
+      "id": "sl8LwAqFOvo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 01 (S1E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1372,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-01T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sl8LwAqFOvo",
+      "oembed": true
+    },
+    {
+      "id": "ZbPlicgv0-s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 02 (S1E02) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-02T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ZbPlicgv0-s",
+      "oembed": true
+    },
+    {
+      "id": "QmtS4HrhiYo",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "RXO9yUqlEPY",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "yteg_AnSCek",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15ShgULlNCYDVlDCthHcEj5",
+        "PLpm1VVK4UL170BS2VFdCKJ9OBZFQkLBGh"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E10) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-02-14T08:30:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=yteg_AnSCek",
+      "oembed": true
+    },
+    {
+      "id": "BYEFnCKnsTE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15ShgULlNCYDVlDCthHcEj5",
+        "PLpm1VVK4UL170BS2VFdCKJ9OBZFQkLBGh"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S2E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-03-07T08:30:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=BYEFnCKnsTE",
+      "oembed": true
+    },
+    {
+      "id": "PuNGMTpYWpQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17x8mbfPIYWRjkCTlrqEWW5"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 01 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-07-13T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=PuNGMTpYWpQ",
+      "oembed": true
+    },
+    {
+      "id": "QLFA1MkDkww",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17hS7Fx413Wl8kwJ0ezu6lA",
+        "PLpm1VVK4UL14QojgRgXTQM8reHvv6hERO"
+      ],
+      "caption_languages": [],
+      "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 01 [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-04-11T08:00:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=QLFA1MkDkww",
+      "oembed": true
+    },
+    {
+      "id": "1Wo_PRie640",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16aPAGk_ZCCpaAQ99Q9nj4e",
+        "PLpm1VVK4UL16LdCv2bC7AJnallMHZvJ8h"
+      ],
+      "caption_languages": [],
+      "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 01 [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1440,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-05-07T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1Wo_PRie640",
+      "oembed": true
+    },
+    {
+      "id": "b_uQi-lcPZ8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 201 (S7E26) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1485,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-02-21T07:00:07-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=b_uQi-lcPZ8",
+      "oembed": true
+    },
+    {
+      "id": "jo8tyy_aCxI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": "Hindiani dubofficial",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Goblin Slayer season 1 official Hindi dub MX player and muse India #crunchyroll #hindidub #museindia",
+      "channel_id": "UCY4dx2ywzVpjcugdzuToZYw",
+      "seconds": 80,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "S9-3j0Rw9Ck",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "kEHtGlaavi0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 07 (S1E07) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-06T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=kEHtGlaavi0",
+      "oembed": true
+    },
+    {
+      "id": "8SHhsvbIJtE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 11 (S1E11) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-10T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=8SHhsvbIJtE",
+      "oembed": true
+    },
+    {
+      "id": "_tk2GGFUks8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 13 (S1E13) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-12T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_tk2GGFUks8",
+      "oembed": true
+    },
+    {
+      "id": "-NEo6D4IYzw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 16 (S1E16) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-15T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-NEo6D4IYzw",
+      "oembed": true
+    },
+    {
+      "id": "oHseb1OKZ2s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 18 (S1E18) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-17T07:30:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=oHseb1OKZ2s",
+      "oembed": true
+    },
+    {
+      "id": "9WTpG3ZLrP0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "PLpm1VVK4UL15OT-nLEQsG_0Ri6Pgy3PCe"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 21 (S1E21) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-07-20T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9WTpG3ZLrP0",
+      "oembed": true
+    },
+    {
+      "id": "I85pLPhoHRo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 07 (S1E07) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1604,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-16T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=I85pLPhoHRo",
+      "oembed": true
+    },
+    {
+      "id": "wPdLUIi5sXI",
+      "eligible": false,
+      "checked_at": "2026-10-17",
+      "author": null,
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": null,
+      "channel_id": null,
+      "seconds": 0,
+      "india_in_country_metadata": false,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "Lp0Aw98YzlQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 16 (S2E04) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1340,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-16T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Lp0Aw98YzlQ",
+      "oembed": true
+    },
+    {
+      "id": "fLX7f4_xnEU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 06 (S1E06) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1496,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-15T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fLX7f4_xnEU",
+      "oembed": true
+    },
+    {
+      "id": "AY_sYGIGiS4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 05 (S1E05) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1479,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-14T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=AY_sYGIGiS4",
+      "oembed": true
+    },
+    {
+      "id": "6eIhwcVbyug",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 15 (S2E03) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1339,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-15T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=6eIhwcVbyug",
+      "oembed": true
+    },
+    {
+      "id": "F0aMd3ZYpvs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 14 (S2E02) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1340,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-14T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=F0aMd3ZYpvs",
+      "oembed": true
+    },
+    {
+      "id": "iEvp9WeMFz8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 13 (S2E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1340,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-13T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=iEvp9WeMFz8",
+      "oembed": true
+    },
+    {
+      "id": "SSm-r0gzKJE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 04 (S1E04) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1471,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-13T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SSm-r0gzKJE",
+      "oembed": true
+    },
+    {
+      "id": "wwk909MlmFk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 03 (S1E03) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1566,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-12T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wwk909MlmFk",
+      "oembed": true
+    },
+    {
+      "id": "8Av1Q5_9Pis",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 12 (S1E12) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1440,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-12T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=8Av1Q5_9Pis",
+      "oembed": true
+    },
+    {
+      "id": "q_puPslPhCM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 02 (S1E02) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1384,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-11T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=q_puPslPhCM",
+      "oembed": true
+    },
+    {
+      "id": "6N5qSUV-w9Y",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 11 (S1E11) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-11T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=6N5qSUV-w9Y",
+      "oembed": true
+    },
+    {
+      "id": "dMtxbs6M1gc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 01B (S1E01B) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1396,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-10T08:00:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dMtxbs6M1gc",
+      "oembed": true
+    },
+    {
+      "id": "tK8FlAl7LRs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - Episode 05 (S1E05)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-10T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=tK8FlAl7LRs",
+      "oembed": true
+    },
+    {
+      "id": "YuAGsDl3_og",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 10 (S1E10) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-10T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=YuAGsDl3_og",
+      "oembed": true
+    },
+    {
+      "id": "fLsFoF423Ds",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16i-EZjQaCvu70OTtrOLkog"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 01A (S1E01A) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1764,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-09T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fLsFoF423Ds",
+      "oembed": true
+    },
+    {
+      "id": "oJUooDKyHE4",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 09 (S1E09) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-09T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=oJUooDKyHE4",
+      "oembed": true
+    },
+    {
+      "id": "yinJKCodryw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16KTCOUnfxfC7llPHvS81eL",
+        "PLpm1VVK4UL16vihjhqSA1Wbhv13CO15CT"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Reborn to Master the Blade - EP12 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1430,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-12-06T08:30:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=yinJKCodryw",
+      "oembed": true
+    },
+    {
+      "id": "z5G3ha4Rp3s",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 08 (S1E08) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-08T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=z5G3ha4Rp3s",
+      "oembed": true
+    },
+    {
+      "id": "WSUdAA23tmc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 07 (S1E07) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-07T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=WSUdAA23tmc",
+      "oembed": true
+    },
+    {
+      "id": "Wdy87tc3UIk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 06 (S1E06) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-06T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Wdy87tc3UIk",
+      "oembed": true
+    },
+    {
+      "id": "isQTg9_ggjg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 05 (S1E05) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-05T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=isQTg9_ggjg",
+      "oembed": true
+    },
+    {
+      "id": "dPwdIoaOcbk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 04 (S1E04) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-04T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dPwdIoaOcbk",
+      "oembed": true
+    },
+    {
+      "id": "IGk5Uge3W_Y",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - Episode 04 (S1E04)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-03T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=IGk5Uge3W_Y",
+      "oembed": true
+    },
+    {
+      "id": "0k1nXqVDV1o",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 03 (S1E03) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1460,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-05-03T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0k1nXqVDV1o",
+      "oembed": true
+    },
+    {
+      "id": "i1yULgpvGeU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - Episode 03 (S1E03)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-04-26T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=i1yULgpvGeU",
+      "oembed": true
+    },
+    {
+      "id": "0d2K0vvpu44",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16zEKukO8H0beDxcxhBu9X-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Cells at Work! - Episode 02 (S1E02)  | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-04-19T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0d2K0vvpu44",
+      "oembed": true
+    },
+    {
+      "id": "zteEoAK3AsI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15iS_b-3ZAfIt2wDCgiJSzL",
+        "PLpm1VVK4UL14Sol8ecFgWtEl5ce5m1uAF"
+      ],
+      "caption_languages": [],
+      "title": "Junji Ito Collection - Episode 05 [Hindi dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1425,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-10-30T08:00:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=zteEoAK3AsI",
+      "oembed": true
+    },
+    {
+      "id": "g3-EGoG9Kgg",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16KTCOUnfxfC7llPHvS81eL",
+        "PLpm1VVK4UL16vihjhqSA1Wbhv13CO15CT"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Reborn to Master the Blade - EP02 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1430,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-09-27T09:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=g3-EGoG9Kgg",
+      "oembed": true
+    },
+    {
+      "id": "6sTzkSjiUBQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL15ShgULlNCYDVlDCthHcEj5",
+        "PLpm1VVK4UL170BS2VFdCKJ9OBZFQkLBGh"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E01) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1426,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-12-13T08:30:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=6sTzkSjiUBQ",
+      "oembed": true
+    }
+  ],
+  "publisher_identity": {
+    "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+    "primary_evidence": "https://www.instagram.com/p/DY377e0nCrY/",
+    "note": "Muse India official Instagram announcement links this exact Hindi Dub channel. The reviewed Muse India channel links museacg_in in official upload descriptions."
+  },
+  "source_limits": [
+    "Both requested channel pages and upload listings expose incomplete/empty listings to this server. Public continuation also returned empty results; stopped after repeated empty pages.",
+    "Slime Hindi playlist hides 84 uploads here; this is not evidence that they are unavailable in India.",
+    "Public third-party index hosted non-YouTube media rather than YouTube embed IDs; no media was fetched or imported.",
+    "Public blog and web search supplied discovery IDs only. Every imported ID independently passed official watch-page uploader, Hindi edition, runtime, IN metadata and oEmbed checks.",
+    "No actual India playback was observed; all new entries remain unverified for observed playback and verified_complete remains false."
+  ],
+  "requested_sources": [
+    "https://www.youtube.com/@MuseIndiaChannel/playlists",
+    "https://www.youtube.com/@Muse_HindiDub/playlists"
+  ],
+  "rss_source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+  "category_coverage": {
+    "queries": [
+      {
+        "category": "anime-movies",
+        "pass": "broad",
+        "query": "official full anime movie Hindi dub YouTube Doraemon Shinchan Pokemon",
+        "candidate_ids": [
+          "UlVi3873X_Y",
+          "LcAANWgU5Y4"
+        ]
+      },
+      {
+        "category": "movies",
+        "pass": "broad",
+        "query": "Goldmines Shemaroo new Hindi full movie official October 2026 YouTube",
+        "candidate_ids": []
+      },
+      {
+        "category": "k-dramas",
+        "pass": "broad",
+        "query": "official Korean drama Hindi dubbed full episode YouTube",
+        "candidate_ids": [
+          "WlLvZJv6-7A",
+          "w_rXMheAR6A"
+        ]
+      },
+      {
+        "category": "anime-movies",
+        "pass": "publisher",
+        "query": "Ramayana Legend Prince Rama official Hindi full movie YouTube",
+        "candidate_ids": [
+          "gKcOjnDJfzk",
+          "QPkdkknzUkQ",
+          "42tDHKICVOM"
+        ]
+      },
+      {
+        "category": "movies",
+        "pass": "publisher",
+        "query": "Goldmines official Hindi full movie October 2026 upload",
+        "candidate_ids": []
+      },
+      {
+        "category": "k-dramas",
+        "pass": "publisher",
+        "query": "KBS World official Korean drama full episode English subtitles 2026",
+        "candidate_ids": [
+          "BvbCXhvtWf4",
+          "yhXT3hBaDoU"
+        ]
+      },
+      {
+        "category": "anime-movies",
+        "pass": "playlist-channel",
+        "query": "site:youtube.com/playlist official full anime movies English dub TMS RetroCrush",
+        "candidate_ids": []
+      },
+      {
+        "category": "movies",
+        "pass": "playlist-channel",
+        "query": "site:youtube.com/watch Goldmines Hindi full movie Sarrainodu Sarrainodu 2026",
+        "candidate_ids": [
+          "VzvmcXK_x9M",
+          "B6h-kQLQqec"
+        ]
+      },
+      {
+        "category": "k-dramas",
+        "pass": "playlist-channel",
+        "query": "site:youtube.com/playlist KBS WORLD full drama English subtitles",
+        "candidate_ids": [
+          "BvbCXhvtWf4",
+          "PJwx6bmMUm0"
+        ]
+      }
+    ],
+    "official_feeds": [
+      {
+        "category": "k-dramas",
+        "pass": "official-feed",
+        "channel": "KBS WORLD TV",
+        "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5BMQOsAB8hKUyHu9KI6yig",
+        "rows": [
+          {
+            "id": "p_6JhL8dHgE",
+            "title": "[Season Re:Play] i-dle Talk Compilation 💬 [The Seasons] | KBS WORLD TV"
+          },
+          {
+            "id": "rIDHuMLPHSs",
+            "title": "[Weekly Highlights] Lea Eats More Than an Adult🤣 [The Return of Superman] | KBS WORLD TV 261011"
+          },
+          {
+            "id": "bqJCIdQBz9M",
+            "title": "[HoWoo Recap] Eunwoo's Such a Loving Child😍 [The Return of Superman] | KBS WORLD TV"
+          },
+          {
+            "id": "9Ehbhfr30yw",
+            "title": "[COMEBACK] MEOVV ミヤオ 미야오 - GO HARD [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "0YRuoTw9gBk",
+            "title": "Xdinary Heroes エクスディナリーヒーローズ 엑스디너리 히어로즈 - Obsessed with Youth [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "-v65DYckwNE",
+            "title": "Hearts2Hearts ハーツトゥハーツ 하츠투하츠 - ICONIC HEART (Korean Ver.) [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "lHAOywDY7PE",
+            "title": "[HOT DEBUT] SUNGHANBIN ソン・ハンビン 성한빈 - UNDEAD [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "hQVXuTyKxgo",
+            "title": "CRAVITY クラヴィティ 크래비티 - LOUDER [Music Bank] | KBS WORLD TV 261009 [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "XDblQAQMryo",
+            "title": "TAEKWONCHOREO テコンコレオ 태권코레오- A Magic Pocket +The Real (Heung Ver.) [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "asfUr_AzMVo",
+            "title": "FLARE U フレア ユー 플레어유 - Bloom [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "CwRJ86lnd5k",
+            "title": "BOYNEXTDOOR ボーイネクストドア 보이넥스트도어 - ANIMAL [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "Jg-WHCOqNVI",
+            "title": "DAILY:DIRECTION デイリーディレクション 데일리:디렉션 - WHICH WAY [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "K4HgzRlhu8U",
+            "title": "[COMEBACK] NAM WOO HYUN ナム・ウヒョン 남우현 - DEVIL [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "WSbelrjsaPE",
+            "title": "BOYNEXTDOOR ボーイネクストドア 보이넥스트도어 - Count To Love (Korean Ver.) [Music Bank] | KBS WORLD TV 261016"
+          },
+          {
+            "id": "uSN7xfGvd3c",
+            "title": "TAEMIN テミン 태민 - FLOAT [Music Bank] | KBS WORLD TV 261016"
+          }
+        ]
+      },
+      {
+        "category": "movies",
+        "pass": "official-feed",
+        "channel": "Shemaroo Movies",
+        "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "rows": [
+          {
+            "id": "ED6ku0BMO34",
+            "title": "ये शादी देख कर लोटपोट हसोगे | Dulhan Hyderabadi | FULL MOVIE (HD) | Ahsan Khan, Keertana"
+          },
+          {
+            "id": "WCb6mFAAZ_4",
+            "title": "South Ki Horror Mystery Movie | Mera Badla Revenge 2 | FULL MOVIE (HD) | Jayaram, Ramya Krishnan"
+          },
+          {
+            "id": "n0z4PeLZVYI",
+            "title": "NANA PATEKAR की एक्शन थ्रिलर मूवी | Ab Tak Chappan 2 | FULL MOVIE (HD) | Ashutosh Rana, Gul Panag"
+          },
+          {
+            "id": "545w-Imumr8",
+            "title": "देव आनंद और हेमा मालिनी की सुपरहिट फिल्म | Joshila | FULL MOVIE (HD) | Dev Anand, Hema Malini"
+          },
+          {
+            "id": "CVBtVYCJTrY",
+            "title": "The Real Story Of Terror Barsati Gang | FULL MOVIE (HD) | Thriller Crime Movie"
+          },
+          {
+            "id": "a3Zd1Zip_kk",
+            "title": "देवी मां की भक्ति के आगे झुक गया समाज | Vardaan Devi Maa Ka (Hindi Dubbed) | Best Devotional Movie"
+          },
+          {
+            "id": "uUEyFBR1_u8",
+            "title": "Mammootty Ki Action-Packed Movie | Aur Ek Tezz Khiladi | FULL MOVIE (HD) | Prithviraj Sukumaran"
+          },
+          {
+            "id": "-bUAJLJ9wIE",
+            "title": "South Hindi Dubbed Movie | Psycho Shankara FULL MOVIE (HD) | Pranava Surya"
+          },
+          {
+            "id": "MvQRlmRKrsw",
+            "title": "Bhai Ke Liye Bani DON | Shabri | Full Movie (HD) | Isha Koppikar, Pradeep Ram Singh Rawat"
+          },
+          {
+            "id": "untflYxWYM4",
+            "title": "Naag Bhoomi FULL MOVIE (HD) | Srikanth, Karunakaran, Rikin Saigal, Raiza Wilson"
+          },
+          {
+            "id": "fv_WxoR2YwY",
+            "title": "Jwalamukhi: Man With Fire Hindi Dubbed Movie | Simbu's Biggest Revenge Action Thriller | Vedhika"
+          },
+          {
+            "id": "PSenU7ezoos",
+            "title": "ROBO CHACHA | Full Movie (HD) | K.S.Ravikumar, Tharshan Thiyagarajah | Koogle Kuttappa"
+          },
+          {
+            "id": "yya0eDqCn9k",
+            "title": "Zulm Ka Rakshak FULL MOVIE (HD) | Vijay Raghavendra, Prajwal Devaraj, Sai Kumar"
+          },
+          {
+            "id": "cOj2o_HaHZA",
+            "title": "Anil Kapoor Ki Superhit Film AMBA | Meenakshi Seshadri, Shabana Azmi | FULL MOVIE (HD)"
+          },
+          {
+            "id": "IO-Q85xwptY",
+            "title": "Pareshaan Parinda FULL MOVIE (HD) | Pankaj Kumar, Sadia Nabila, Sakshi Singh, Meeraj Shah"
+          }
+        ]
+      },
+      {
+        "category": "anime-movies",
+        "pass": "official-feed",
+        "channel": "RetroCrush",
+        "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPZkYpT5XIUou8sV8zk-3jQ",
+        "rows": [
+          {
+            "id": "9YNqu2s37SQ",
+            "title": "Teach respect and trust in the heart of the cards! #yugioh"
+          },
+          {
+            "id": "pwL1nDKPRco",
+            "title": "Anime Opening Challenge! Can You Guess It in 10 Seconds? #anime"
+          },
+          {
+            "id": "oYENCkcIJZE",
+            "title": "It's a bird, it's a plane, it's the original Superman Cartoon! #superman"
+          },
+          {
+            "id": "svt5bvHyI4k",
+            "title": "Anime Fans Are Spoiled Now | Retrocrush Podcast Ep 90"
+          },
+          {
+            "id": "QqrS7JaNcD8",
+            "title": "Deep Cut Anime Recommendations with A1 | RetroCrush Chat Ep 7"
+          },
+          {
+            "id": "94gqjPDlS2c",
+            "title": "Lasers are child's play for Superman! #superman"
+          },
+          {
+            "id": "GAP1vX-f3uw",
+            "title": "Guyvers Last Fight? | Retrocrush Podcast Ep 89"
+          },
+          {
+            "id": "vr3MBlMNhO0",
+            "title": "Araura's Creator is a Force of Nature | RetroCrush Chat Ep 6 ft. Ray Coffman"
+          },
+          {
+            "id": "oq6xG1HPeM0",
+            "title": "Oh sh*t... #junkhead"
+          },
+          {
+            "id": "SatvQNJrQcw",
+            "title": "Can You Name This Anime from Its Opening? 🎶 #anime"
+          },
+          {
+            "id": "XSVtXp5erC4",
+            "title": "Let's Teach Nerds to Read! | Retrocrush Podcast Ep 88  Ft. Tony Weaver Jr."
+          },
+          {
+            "id": "GTlEcRNkFw0",
+            "title": "Why Fun Matters More in Cosplay | RetroCrush Chat Bonus Episode ft. Sydsugoi"
+          },
+          {
+            "id": "uD4f2lSBW_4",
+            "title": "A different type of animation has landed! #deathdoesnotexist"
+          },
+          {
+            "id": "iLG0f_u0XEA",
+            "title": "What era is retro anime to you? #retrocrush"
+          },
+          {
+            "id": "Hm-hHw8a9nc",
+            "title": "Shades of Otaku | Official Trailer"
+          }
+        ]
+      },
+      {
+        "category": "movies",
+        "pass": "official-feed",
+        "channel": "Goldmines",
+        "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyoXW-Dse7fURq30EWl_CUA",
+        "rows": [
+          {
+            "id": "X_xs9yPN3KY",
+            "title": "Patas (Hindi) | Dhanush | Tonight At 8 PM | Premiere Only On #Goldmines TV Channel"
+          },
+          {
+            "id": "zsLMsPSbHNY",
+            "title": "Raja The Great (2026) New Released Hindi Dubbed Full Movie | Ravi Teja, Mehreen | Dussehra Special"
+          },
+          {
+            "id": "pBHs6WKqYTw",
+            "title": "Patas (Hindi) | Dhanush | TOMORROW | Premiere Only On #Goldmines TV Channel"
+          },
+          {
+            "id": "PvN6jmjb5TY",
+            "title": "Panja Vaishnav Tej और उसके पिता जी के बीच प्यार भरी नोकझोक | Uppena फिल्म का Best सीन"
+          },
+          {
+            "id": "UGpCxkx6aMU",
+            "title": "Darshan से उलझना इन गुंडों को पड़ा भारी | Darshan Best Action & Dialogue Scene | Viraat Movie Scene"
+          },
+          {
+            "id": "AsTaJtoiQMI",
+            "title": "जया प्रदा के सामने मिष्टी ने ये साबित कर के नासर और आकाश सहदेव शराब पी कर आये हैं"
+          },
+          {
+            "id": "vOG6B4H-Ikc",
+            "title": "Raja the Great (Hindi) | Ravi Teja, Mehreen Pirzada | Releasing Tomorrow On Our YT Channel Goldmines"
+          },
+          {
+            "id": "nOe-3_IFcpM",
+            "title": "येवडु 3 - कीर्ति सुरेश #Birthday स्पेशल हिंदी डब्ड मूवी | पवन कल्याण, अनु इमैनुएल"
+          },
+          {
+            "id": "iva5wsuBkVQ",
+            "title": "Patas (Hindi) | Dhanush | 2 Days To Go | Premiere Only On #Goldmines TV Channel"
+          },
+          {
+            "id": "evcb6m6t4P8",
+            "title": "Amala Paul ब्रम्हानंदम से आशीर्वाद लेती है | Iddarammayilatho फिल्म का Best Comedy सीन"
+          },
+          {
+            "id": "nj97E0mUjzM",
+            "title": "Bramhanandam को लाल रंग जचेगा वो भी गाल पे | Businessman फिल्म का मजेदार Comedy सीन"
+          },
+          {
+            "id": "VJy-qzmHaEM",
+            "title": "पटेल ऑन सेल (HD) साई धरम तेज की #Birthday स्पेशल हिंदी डब्ड मूवी | रेजिना कैसेंड्रा"
+          },
+          {
+            "id": "buKMDb2GYvo",
+            "title": "Raja The Great (Hindi) Trailer | Ravi Teja,Mehreen Pirzada | Releasing On 16th Oct On Our YT Channel"
+          },
+          {
+            "id": "gMfvEsU--50",
+            "title": "Prabhaas Ki Baato Se Ye Ladka Motivate Ho Gaya #RowdyMunna #Prabhas #Shorts #Reels #hindidubbed"
+          },
+          {
+            "id": "EKIlI5tbYzg",
+            "title": "गुरूजी ने दिया Allu Arjun को आतंकवादी को मारने का हुकुम | Badrinaath फिल्म का Best Action सीन"
+          }
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "id": "UlVi3873X_Y",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "Poke X Talks",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Shinchan Horror Movie Explain in Hindi😈 (Part - 1)",
+        "channel_id": "UCHRwuDX0Pkg36i02St_fQ4A",
+        "seconds": 524,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "reason": "Uploader not approved"
+      },
+      {
+        "id": "LcAANWgU5Y4",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "Critical Lucario",
+        "playlist_ids": [],
+        "caption_languages": [
+          "fr-FR",
+          "de-DE",
+          "hi",
+          "hi",
+          "id",
+          "it",
+          "pt-BR",
+          "es-US"
+        ],
+        "title": "Pokemon, Doraemon, shinchan All Deleted Episode Scenes In hindi | Anime/Cartoon Movie Cut Clips",
+        "channel_id": "UCK-aSNwPng3hmzWeQIZMGAA",
+        "seconds": 458,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "reason": "Uploader not approved"
+      },
+      {
+        "id": "WlLvZJv6-7A",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "short video always",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "New Hindi Dubbed Korean Drama 2026 Teach You A Lesson Full Episode Hindi Dubbed | Korean Drama",
+        "channel_id": "UC5Da4HG8_rBgwQCtNncxwVA",
+        "seconds": 61,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "reason": "Uploader not approved"
+      },
+      {
+        "id": "w_rXMheAR6A",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "K - Drama Originals",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Silent Promises | K- Drama | Affair Full Episode in Hindi",
+        "channel_id": "UCJQLYSW_h569OhE0QWWDlbA",
+        "seconds": 3869,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "reason": "Uploader not approved"
+      },
+      {
+        "id": "gKcOjnDJfzk",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Ramayana : The Legend Of Prince Rama",
+        "playlist_ids": [],
+        "caption_languages": [
+          "en"
+        ],
+        "title": "Ramayana: The Legend of Prince Rama (Full animated film 1993)",
+        "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+        "seconds": 7729,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2022-01-22T02:21:57-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=gKcOjnDJfzk",
+        "oembed": true
+      },
+      {
+        "id": "QPkdkknzUkQ",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "Excel Movies",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Ramayana: The Legend Of Prince Rama | Official Hindi Trailer | 24th January",
+        "channel_id": "UCn9BuiRZGR_tPM2GGT4jN-w",
+        "seconds": 132,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "reason": "Uploader not approved"
+      },
+      {
+        "id": "42tDHKICVOM",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "Ramayana : The Legend Of Prince Rama",
+        "playlist_ids": [],
+        "caption_languages": [
+          "ja"
+        ],
+        "title": "\"Ramayana: The Legend of Prince Rama\" Trailer - 4K digitally remastered anime (Official)",
+        "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+        "seconds": 97,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2021-12-25T19:59:05-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=42tDHKICVOM",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      },
+      {
+        "id": "BvbCXhvtWf4",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "en",
+          "ko"
+        ],
+        "title": "Baby face Jang Nara is sorry for having acted a girl in 20s [2017 KBS Drama Awards/2018.01.07]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 163,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2018-01-08T23:47:53-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=BvbCXhvtWf4",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      },
+      {
+        "id": "yhXT3hBaDoU",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "RAIN - INTRO + GANG",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 243,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2017-12-04T20:53:35-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=yhXT3hBaDoU",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      },
+      {
+        "id": "VzvmcXK_x9M",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Goldmines",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Sarrainodu All Best Dialogue Scenes | Allu Arjun Powerful Mass Dialogues",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "seconds": 2677,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-05-04T21:30:18-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=VzvmcXK_x9M",
+        "oembed": true
+      },
+      {
+        "id": "B6h-kQLQqec",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Goldmines",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Sarrainodu (4K ULTRA HD) Full Hindi Dubbed Movie | Allu Arjun, Rakul Preet Singh, Catherine Tresa",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "seconds": 7417,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2022-07-22T10:30:00-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=B6h-kQLQqec",
+        "oembed": true
+      },
+      {
+        "id": "PJwx6bmMUm0",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "[KBS World] Watch K-Dramas within 24 hours!",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 30,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2016-05-23T00:47:23-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=PJwx6bmMUm0",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      },
+      {
+        "id": "a3Zd1Zip_kk",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Shemaroo Movies",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "देवी मां की भक्ति के आगे झुक गया समाज | Vardaan Devi Maa Ka (Hindi Dubbed) | Best Devotional Movie",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "seconds": 7982,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-10T02:30:26-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=a3Zd1Zip_kk",
+        "oembed": true
+      },
+      {
+        "id": "-bUAJLJ9wIE",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Shemaroo Movies",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "South Hindi Dubbed Movie | Psycho Shankara FULL MOVIE (HD) | Pranava Surya",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "seconds": 6082,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-08T02:30:10-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=-bUAJLJ9wIE",
+        "oembed": true
+      },
+      {
+        "id": "fv_WxoR2YwY",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Shemaroo Movies",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "Jwalamukhi: Man With Fire Hindi Dubbed Movie | Simbu's Biggest Revenge Action Thriller | Vedhika",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "seconds": 6618,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-05T02:30:08-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=fv_WxoR2YwY",
+        "oembed": true
+      },
+      {
+        "id": "nOe-3_IFcpM",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Goldmines",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "येवडु 3 - कीर्ति सुरेश #Birthday स्पेशल हिंदी डब्ड मूवी | पवन कल्याण, अनु इमैनुएल",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "seconds": 7469,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-14T22:30:14-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=nOe-3_IFcpM",
+        "oembed": true
+      },
+      {
+        "id": "VJy-qzmHaEM",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Goldmines",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "पटेल ऑन सेल (HD) साई धरम तेज की #Birthday स्पेशल हिंदी डब्ड मूवी | रेजिना कैसेंड्रा",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "seconds": 7169,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-14T19:30:21-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=VJy-qzmHaEM",
+        "oembed": true
+      },
+      {
+        "id": "zsLMsPSbHNY",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "Goldmines",
+        "playlist_ids": [],
+        "caption_languages": [
+          "hi"
+        ],
+        "title": "Raja The Great (2026) New Released Hindi Dubbed Full Movie | Ravi Teja, Mehreen | Dussehra Special",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "seconds": 7355,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2026-10-15T23:30:09-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=zsLMsPSbHNY",
+        "oembed": true
+      },
+      {
+        "id": "AespNs0-l1g",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "zh-Hans",
+          "en",
+          "id",
+          "ko"
+        ],
+        "title": "My Golden Life | 황금빛 내인생 – Ep.1 [SUB : ENG,CHN,IND /2017.09.09]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 3956,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2017-09-09T06:30:01-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=AespNs0-l1g",
+        "oembed": true
+      },
+      {
+        "id": "BLXFVxG1E2Y",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "zh-Hans",
+          "en",
+          "id",
+          "ko"
+        ],
+        "title": "My Golden Life | 황금빛 내인생 – Special 1 [SUB : ENG,CHN,IND /2017.1.6]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 3938,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2018-01-07T20:35:18-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=BLXFVxG1E2Y",
+        "oembed": true
+      },
+      {
+        "id": "tWgAjRFbl0U",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "zh-Hans",
+          "en",
+          "ko"
+        ],
+        "title": "Love & Secret | EP.1 [ENG,CHN]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 2101,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2014-11-23T17:48:47-08:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=tWgAjRFbl0U",
+        "oembed": true
+      },
+      {
+        "id": "984tEySFFb8",
+        "eligible": true,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [],
+        "title": "The Secret of My Love | 내 남자의 비밀 EP.1 [SUB : ENG,CHN / 2017.09.25]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 1982,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "UNPLAYABLE",
+        "player_reason": "Video unavailable",
+        "publish_date": "2017-09-25T04:30:01-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=984tEySFFb8",
+        "oembed": true
+      },
+      {
+        "id": "cdFlwIvzMVs",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "en",
+          "ko"
+        ],
+        "title": "The way you love is wrong! [Angel's Last Mission: Love / ENG]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 129,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2019-08-14T00:12:34-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=cdFlwIvzMVs",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      },
+      {
+        "id": "encnhCcBpR0",
+        "eligible": false,
+        "checked_at": "2026-10-17",
+        "author": "KBS WORLD TV",
+        "playlist_ids": [],
+        "caption_languages": [
+          "en",
+          "ko"
+        ],
+        "title": "Let's begin our date [Angel's Last Mission: Love / ENG]",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "seconds": 98,
+        "india_in_country_metadata": true,
+        "actual_india_playback": "unverified",
+        "player_status": "OK",
+        "player_reason": null,
+        "publish_date": "2019-08-12T22:28:38-07:00",
+        "is_unlisted": false,
+        "is_live": false,
+        "source_url": "https://www.youtube.com/watch?v=encnhCcBpR0",
+        "reason": "Runtime, privacy, iframe or India metadata failed"
+      }
+    ],
+    "new_counts": {
+      "anime-series": {
+        "titles": 12,
+        "uploads": 94
+      },
+      "anime-movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "k-dramas": {
+        "titles": 0,
+        "uploads": 0
+      }
+    },
+    "notes": [
+      "Ramayana full upload and the checked full Hindi films are already represented; do not add duplicate title cards or another copy of the same film edition.",
+      "Sarrainodu dialogue-scene compilation is not a full movie even though runtime and embed checks pass. Semantic full-content review is required after the metadata gate.",
+      "The KBS candidates include already-listed first episodes, clips and a Special recap; The Secret of My Love has no English caption tracks in fetched metadata, and no explicit official burned-in subtitle evidence or edition audio evidence was established in this pass.",
+      "Unreviewed K-drama uploader candidates are held pending primary publisher identity/authorization evidence; names and Hindi titles do not establish ownership.",
+      "KBS and RetroCrush latest public feeds contain variety/music/shorts/podcasts rather than new eligible full drama episodes or feature films."
+    ]
+  },
+  "validation": {
+    "build": "passed; 198 titles and 1308 HTML pages",
+    "audit": "passed; no errors",
+    "unit_tests": "27 passed",
+    "javascript_syntax": "passed",
+    "existing_upload_references_preserved": 754
+  }
+}

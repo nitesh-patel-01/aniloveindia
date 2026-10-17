@@ -19,7 +19,7 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
-    "synopsis": "Watch the main That Time I Got Reincarnated as a Slime TV series in Hindi through official Muse India uploads. Choose a season and one of the individually checked episodes below. This is a partial episode selection; Vision of Coleus is listed separately as a related ONA.",
+    "synopsis": "Watch official Hindi uploads of the main That Time I Got Reincarnated as a Slime TV series. Season 1 has individually checked episodes, while Seasons 2 and 3 also offer publisher-labelled full-season compilations as single videos. Individual episode coverage remains incomplete; Vision of Coleus is a separate related ONA.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
@@ -36,7 +36,26 @@
       "https://www.youtube.com/watch?v=Th3erkgMluw",
       "https://www.youtube.com/watch?v=p1XmQYklKvE",
       "https://www.youtube.com/watch?v=YUdM-TbtFl4",
-      "https://www.youtube.com/watch?v=vsjyfaY3C0o"
+      "https://www.youtube.com/watch?v=vsjyfaY3C0o",
+      "https://www.youtube.com/watch?v=sPgNNOwqeYA",
+      "https://www.youtube.com/watch?v=7m3x5V2WWxc",
+      "https://www.youtube.com/watch?v=i1-OPzYXYpo",
+      "https://www.youtube.com/watch?v=7kWJolF4M1A",
+      "https://www.youtube.com/watch?v=wCEzqN35_Cg",
+      "https://www.youtube.com/watch?v=sqGsV73Ept0",
+      "https://www.youtube.com/watch?v=HgMldTjJwhE",
+      "https://www.youtube.com/watch?v=bg1W7R2d5W8",
+      "https://www.youtube.com/watch?v=7QQDPaUlZKU",
+      "https://www.youtube.com/watch?v=2CHpNSG9jhQ",
+      "https://www.youtube.com/watch?v=sKI5icjheUw",
+      "https://www.youtube.com/watch?v=EqU7HrLK8Lw",
+      "https://www.youtube.com/watch?v=W5Yd0hC9uEQ",
+      "https://www.youtube.com/watch?v=kEHtGlaavi0",
+      "https://www.youtube.com/watch?v=8SHhsvbIJtE",
+      "https://www.youtube.com/watch?v=_tk2GGFUks8",
+      "https://www.youtube.com/watch?v=-NEo6D4IYzw",
+      "https://www.youtube.com/watch?v=oHseb1OKZ2s",
+      "https://www.youtube.com/watch?v=9WTpG3ZLrP0"
     ],
     "thumbnail": "https://i.ytimg.com/vi/B1LyaPY2SYw/hqdefault.jpg",
     "seasons": [
@@ -87,8 +106,204 @@
             "duration_seconds": 1420,
             "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
             "india_playback": "unverified"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 06 (S1E06) | Muse IN",
+            "video_id": "W5Yd0hC9uEQ",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 07 (S1E07) | Muse IN",
+            "video_id": "kEHtGlaavi0",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 08 (S1E08) | Muse IN",
+            "video_id": "7kWJolF4M1A",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 09 (S1E09) | Muse IN",
+            "video_id": "i1-OPzYXYpo",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 10 (S1E10) | Muse IN",
+            "video_id": "wCEzqN35_Cg",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 11 (S1E11) | Muse IN",
+            "video_id": "8SHhsvbIJtE",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "13",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 13 (S1E13) | Muse IN",
+            "video_id": "_tk2GGFUks8",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "14",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 14 (S1E14) | Muse IN",
+            "video_id": "sqGsV73Ept0",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "15",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 15 (S1E15) | Muse IN",
+            "video_id": "bg1W7R2d5W8",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 16 (S1E16) | Muse IN",
+            "video_id": "-NEo6D4IYzw",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "17",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 17 (S1E17) | Muse IN",
+            "video_id": "HgMldTjJwhE",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 18 (S1E18) | Muse IN",
+            "video_id": "oHseb1OKZ2s",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "20",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 20 (S1E20) | Muse IN",
+            "video_id": "7QQDPaUlZKU",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "21",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 21 (S1E21) | Muse IN",
+            "video_id": "9WTpG3ZLrP0",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "22",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 22 (S1E22) | Muse IN",
+            "video_id": "2CHpNSG9jhQ",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "23",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 23 (S1E23) | Muse IN",
+            "video_id": "EqU7HrLK8Lw",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "24",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 24 (S1E24) | Muse IN",
+            "video_id": "sKI5icjheUw",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
           }
         ]
+      },
+      {
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 That Time I Got Reincarnated as a Slime (S2) | Muse IN",
+            "video_id": "7m3x5V2WWxc",
+            "duration_seconds": 34120,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
       },
       {
         "id": "that-time-i-got-reincarnated-as-a-slime-season-3-hindi",
@@ -113,6 +328,16 @@
             "duration_seconds": 1481,
             "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
             "india_playback": "unverified"
+          },
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 That Time I Got Reincarnated as a Slime (S3) | Muse IN",
+            "video_id": "sPgNNOwqeYA",
+            "duration_seconds": 35546,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
           }
         ]
       },
@@ -473,17 +698,18 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=7aVSV69rcQg",
-    "synopsis": "A spy builds a pretend family for his mission, unaware that its other members have extraordinary secrets.",
+    "synopsis": "A spy builds a pretend family for his mission, unaware that its other members have extraordinary secrets. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=7aVSV69rcQg"
+      "https://www.youtube.com/watch?v=7aVSV69rcQg",
+      "https://www.youtube.com/watch?v=1AQtGDYVs7k"
     ],
     "seasons": [
       {
@@ -936,6 +1162,32 @@
           }
         ],
         "listed_uploads": 13
+      },
+      {
+        "id": "spy-x-family-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 SPY×FAMILY (S1) | Muse IN",
+            "video_id": "1AQtGDYVs7k",
+            "duration_seconds": 36249,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
       }
     ],
     "trailers": [],
@@ -988,7 +1240,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese · English sub",
+    "audio_label": "Hindi dub · Japanese · English sub",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -997,20 +1249,124 @@
     ],
     "provider": "Muse Asia",
     "watch_url": "https://www.youtube.com/watch?v=7F5rns5lX6g",
-    "synopsis": "Subaru arrives in an unfamiliar world where a mysterious power turns survival into a repeated struggle.",
+    "synopsis": "Subaru arrives in an unfamiliar world where a mysterious power turns survival into a repeated struggle. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=7F5rns5lX6g",
-      "https://www.youtube.com/watch?v=oJn6iAOtepE"
+      "https://www.youtube.com/watch?v=oJn6iAOtepE",
+      "https://www.youtube.com/watch?v=I85pLPhoHRo",
+      "https://www.youtube.com/watch?v=fLX7f4_xnEU",
+      "https://www.youtube.com/watch?v=AY_sYGIGiS4",
+      "https://www.youtube.com/watch?v=SSm-r0gzKJE",
+      "https://www.youtube.com/watch?v=wwk909MlmFk",
+      "https://www.youtube.com/watch?v=q_puPslPhCM",
+      "https://www.youtube.com/watch?v=dMtxbs6M1gc",
+      "https://www.youtube.com/watch?v=fLsFoF423Ds"
     ],
     "seasons": [
+      {
+        "id": "re-zero-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "01A",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 01A (S1E01A) | Muse IN",
+            "video_id": "fLsFoF423Ds",
+            "duration_seconds": 1764,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "01B",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 01B (S1E01B) | Muse IN",
+            "video_id": "dMtxbs6M1gc",
+            "duration_seconds": 1396,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 02 (S1E02) | Muse IN",
+            "video_id": "q_puPslPhCM",
+            "duration_seconds": 1384,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 03 (S1E03) | Muse IN",
+            "video_id": "wwk909MlmFk",
+            "duration_seconds": 1566,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 04 (S1E04) | Muse IN",
+            "video_id": "SSm-r0gzKJE",
+            "duration_seconds": 1471,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 05 (S1E05) | Muse IN",
+            "video_id": "AY_sYGIGiS4",
+            "duration_seconds": 1479,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 06 (S1E06) | Muse IN",
+            "video_id": "fLX7f4_xnEU",
+            "duration_seconds": 1496,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 07 (S1E07) | Muse IN",
+            "video_id": "I85pLPhoHRo",
+            "duration_seconds": 1604,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
       {
         "id": "re-zero-directors-cut",
         "label": "Director’s Cut",
@@ -2055,7 +2411,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese · English sub",
+    "audio_label": "Hindi dub · Japanese · English sub",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -2064,20 +2420,84 @@
     ],
     "provider": "Muse Asia",
     "watch_url": "https://www.youtube.com/watch?v=2wNQpTgrmDQ",
-    "synopsis": "A prestigious school turns everyday student life into a contest of strategy, reputation and hidden ability.",
+    "synopsis": "A prestigious school turns everyday student life into a contest of strategy, reputation and hidden ability. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=2wNQpTgrmDQ",
-      "https://www.youtube.com/watch?v=wnVJ0LDypXo"
+      "https://www.youtube.com/watch?v=wnVJ0LDypXo",
+      "https://www.youtube.com/watch?v=S7LtjQvh6Qc",
+      "https://www.youtube.com/watch?v=-a19kfqlNs4",
+      "https://www.youtube.com/watch?v=PuNGMTpYWpQ"
     ],
     "seasons": [
+      {
+        "id": "classroom-of-the-elite-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Classroom of the Elite - Episode 01 | Muse IN",
+            "video_id": "S7LtjQvh6Qc",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Classroom of the Elite - Episode 03 | Muse IN",
+            "video_id": "-a19kfqlNs4",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      },
+      {
+        "id": "classroom-of-the-elite-season-3-hindi",
+        "label": "Season 3 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 01 | Muse IN",
+            "video_id": "PuNGMTpYWpQ",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 3
+      },
       {
         "id": "classroom-of-the-elite-season-1",
         "label": "Season 1",
@@ -2644,7 +3064,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese · English sub",
+    "audio_label": "Hindi dub · Japanese · English sub",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -2653,22 +3073,76 @@
     ],
     "provider": "Muse Asia",
     "watch_url": "https://www.youtube.com/watch?v=nida6gx05kk",
-    "synopsis": "Generations of the Joestar family face strange powers and extraordinary adversaries across interconnected adventures.",
+    "synopsis": "Generations of the Joestar family face strange powers and extraordinary adversaries across interconnected adventures. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
       "https://www.youtube.com/watch?v=l26Sc1vO1ho",
       "https://www.youtube.com/watch?v=GApvZTBaYjk",
-      "https://www.youtube.com/watch?v=hTXqHoUQq2M"
+      "https://www.youtube.com/watch?v=hTXqHoUQq2M",
+      "https://www.youtube.com/watch?v=QLFA1MkDkww",
+      "https://www.youtube.com/watch?v=1Wo_PRie640"
     ],
     "seasons": [
+      {
+        "id": "jojos-bizarre-adventure-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 01 [Hindi Dub] | Muse IN",
+            "video_id": "QLFA1MkDkww",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "jojos-bizarre-adventure-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 01 [Hindi Dub] | Muse IN",
+            "video_id": "1Wo_PRie640",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      },
       {
         "id": "jojo-phantom-blood",
         "label": "Phantom Blood & Battle Tendency",
@@ -4096,7 +4570,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese · English sub",
+    "audio_label": "Hindi dub · Japanese · English sub",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -4105,19 +4579,56 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=tvLPRBqfJdI",
-    "synopsis": "A quiet teenager with immense psychic ability tries to grow as a person while navigating unusual encounters.",
+    "synopsis": "A quiet teenager with immense psychic ability tries to grow as a person while navigating unusual encounters. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=tvLPRBqfJdI"
+      "https://www.youtube.com/watch?v=tvLPRBqfJdI",
+      "https://www.youtube.com/watch?v=eZ_rS0vj2Hg",
+      "https://www.youtube.com/watch?v=RUDtS1u1Mcc"
     ],
     "seasons": [
+      {
+        "id": "mob-psycho-100-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Mob Psycho 100 - Episode 01 | Muse IN",
+            "video_id": "eZ_rS0vj2Hg",
+            "duration_seconds": 1470,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Mob Psycho 100 - Episode 02 | Muse IN",
+            "video_id": "RUDtS1u1Mcc",
+            "duration_seconds": 1470,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      },
       {
         "id": "mob-psycho-100-season-3",
         "label": "Season 3",
@@ -8726,7 +9237,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese audio",
+    "audio_label": "Hindi dub · Japanese audio",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -8734,20 +9245,228 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=IFMDTE8BQE8",
-    "synopsis": "Watch One Punch Man from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it.",
+    "synopsis": "Watch One Punch Man from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANILOVE",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=IFMDTE8BQE8"
+      "https://www.youtube.com/watch?v=IFMDTE8BQE8",
+      "https://www.youtube.com/watch?v=sl8LwAqFOvo",
+      "https://www.youtube.com/watch?v=ZbPlicgv0-s",
+      "https://www.youtube.com/watch?v=Lp0Aw98YzlQ",
+      "https://www.youtube.com/watch?v=6eIhwcVbyug",
+      "https://www.youtube.com/watch?v=F0aMd3ZYpvs",
+      "https://www.youtube.com/watch?v=iEvp9WeMFz8",
+      "https://www.youtube.com/watch?v=8Av1Q5_9Pis",
+      "https://www.youtube.com/watch?v=6N5qSUV-w9Y",
+      "https://www.youtube.com/watch?v=YuAGsDl3_og",
+      "https://www.youtube.com/watch?v=oJUooDKyHE4",
+      "https://www.youtube.com/watch?v=z5G3ha4Rp3s",
+      "https://www.youtube.com/watch?v=WSUdAA23tmc",
+      "https://www.youtube.com/watch?v=Wdy87tc3UIk",
+      "https://www.youtube.com/watch?v=isQTg9_ggjg",
+      "https://www.youtube.com/watch?v=dPwdIoaOcbk",
+      "https://www.youtube.com/watch?v=0k1nXqVDV1o"
     ],
     "thumbnail": "https://i.ytimg.com/vi/IFMDTE8BQE8/hqdefault.jpg",
     "seasons": [
+      {
+        "id": "one-punch-man-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] One-Punch Man - Episode 01 (S1E01) | Muse IN",
+            "video_id": "sl8LwAqFOvo",
+            "duration_seconds": 1372,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] One-Punch Man - Episode 02 (S1E02) | Muse IN",
+            "video_id": "ZbPlicgv0-s",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] One-Punch Man - Episode 03 (S1E03) | Muse IN",
+            "video_id": "0k1nXqVDV1o",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] One-Punch Man - Episode 04 (S1E04) | Muse IN",
+            "video_id": "dPwdIoaOcbk",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] One-Punch Man - Episode 05 (S1E05) | Muse IN",
+            "video_id": "isQTg9_ggjg",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] One-Punch Man - Episode 06 (S1E06) | Muse IN",
+            "video_id": "Wdy87tc3UIk",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] One-Punch Man - Episode 07 (S1E07) | Muse IN",
+            "video_id": "WSUdAA23tmc",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] One-Punch Man - Episode 08 (S1E08) | Muse IN",
+            "video_id": "z5G3ha4Rp3s",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] One-Punch Man - Episode 09 (S1E09) | Muse IN",
+            "video_id": "oJUooDKyHE4",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] One-Punch Man - Episode 10 (S1E10) | Muse IN",
+            "video_id": "YuAGsDl3_og",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi Dub] One-Punch Man - Episode 11 (S1E11) | Muse IN",
+            "video_id": "6N5qSUV-w9Y",
+            "duration_seconds": 1460,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] One-Punch Man - Episode 12 (S1E12) | Muse IN",
+            "video_id": "8Av1Q5_9Pis",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "one-punch-man-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] One-Punch Man - Episode 13 (S2E01) | Muse IN",
+            "video_id": "iEvp9WeMFz8",
+            "duration_seconds": 1340,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] One-Punch Man - Episode 14 (S2E02) | Muse IN",
+            "video_id": "F0aMd3ZYpvs",
+            "duration_seconds": 1340,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] One-Punch Man - Episode 15 (S2E03) | Muse IN",
+            "video_id": "6eIhwcVbyug",
+            "duration_seconds": 1339,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] One-Punch Man - Episode 16 (S2E04) | Muse IN",
+            "video_id": "Lp0Aw98YzlQ",
+            "duration_seconds": 1340,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      },
       {
         "id": "one-punch-man-uploads",
         "label": "Full-series compilation",
@@ -9241,7 +9960,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese audio",
+    "audio_label": "Hindi dub · Japanese audio",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -9249,20 +9968,85 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=LV_95b4nZIg",
-    "synopsis": "Watch BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense S2 from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it.",
+    "synopsis": "Watch BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense S2 from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANILOVE",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=LV_95b4nZIg"
+      "https://www.youtube.com/watch?v=LV_95b4nZIg",
+      "https://www.youtube.com/watch?v=yteg_AnSCek",
+      "https://www.youtube.com/watch?v=BYEFnCKnsTE",
+      "https://www.youtube.com/watch?v=6sTzkSjiUBQ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/LV_95b4nZIg/hqdefault.jpg",
     "seasons": [
+      {
+        "id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E01) | Muse IN",
+            "video_id": "6sTzkSjiUBQ",
+            "duration_seconds": 1426,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E10) | Muse IN",
+            "video_id": "yteg_AnSCek",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S2E01) | Muse IN",
+            "video_id": "BYEFnCKnsTE",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      },
       {
         "id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-uploads",
         "label": "Full-series compilation",
@@ -9982,7 +10766,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese audio",
+    "audio_label": "Hindi dub · Japanese audio",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -9990,20 +10774,79 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=2lTDvm6_i6A",
-    "synopsis": "Watch Reborn to Master the Blade: From Hero-King to Extraordinary Squire from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it.",
+    "synopsis": "Watch Reborn to Master the Blade: From Hero-King to Extraordinary Squire from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANILOVE",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=2lTDvm6_i6A"
+      "https://www.youtube.com/watch?v=2lTDvm6_i6A",
+      "https://www.youtube.com/watch?v=eoMJ-UVWrf8",
+      "https://www.youtube.com/watch?v=CgaoYqeOonc",
+      "https://www.youtube.com/watch?v=yinJKCodryw",
+      "https://www.youtube.com/watch?v=g3-EGoG9Kgg"
     ],
     "thumbnail": "https://i.ytimg.com/vi/2lTDvm6_i6A/hqdefault.jpg",
     "seasons": [
+      {
+        "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Reborn to Master the Blade - EP01 | Muse IN",
+            "video_id": "eoMJ-UVWrf8",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Reborn to Master the Blade - EP02 | Muse IN",
+            "video_id": "g3-EGoG9Kgg",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Reborn to Master the Blade - EP05 | Muse IN",
+            "video_id": "CgaoYqeOonc",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Reborn to Master the Blade - EP12 | Muse IN",
+            "video_id": "yinJKCodryw",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      },
       {
         "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-uploads",
         "label": "Full-series compilation",
@@ -10039,7 +10882,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Japanese audio",
+    "audio_label": "Hindi dub · Japanese audio",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -10047,20 +10890,73 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=rrD-KfObcxc",
-    "synopsis": "Watch Campfire Cooking in Another World with My Absurd Skill from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it.",
+    "synopsis": "Watch Campfire Cooking in Another World with My Absurd Skill from Muse India in the embedded YouTube player. This edition is one long compilation upload; use the player timeline to move through it. Official Hindi uploads are also available in the labelled Hindi editions below.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANILOVE",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-17",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=rrD-KfObcxc"
+      "https://www.youtube.com/watch?v=rrD-KfObcxc",
+      "https://www.youtube.com/watch?v=DaQWe2-sajQ",
+      "https://www.youtube.com/watch?v=s_yinYO_7Co"
     ],
     "thumbnail": "https://i.ytimg.com/vi/rrD-KfObcxc/hqdefault.jpg",
     "seasons": [
+      {
+        "id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Campfire Cooking in Another World with My Absurd Skill - Episode 01 [Hindi dub] | Muse IN",
+            "video_id": "DaQWe2-sajQ",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      },
+      {
+        "id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Campfire Cooking in Another World - Episode 13 (S2E01) | Muse IN",
+            "video_id": "s_yinYO_7Co",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      },
       {
         "id": "campfire-cooking-in-another-world-with-my-absurd-skill-uploads",
         "label": "Full-series compilation",
@@ -16481,5 +17377,1016 @@
     "related": [],
     "browse_priority": 1009,
     "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
+  },
+  {
+    "id": "hunter-x-hunter",
+    "title": "Hunter × Hunter",
+    "original_title": "Hunter × Hunter",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Hindi Dub",
+    "watch_url": "https://www.youtube.com/watch?v=LoJNZElISM8",
+    "synopsis": "Watch the individually verified official Hindi uploads of Hunter × Hunter. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=LoJNZElISM8",
+      "https://www.youtube.com/watch?v=yTouVgBm6Tw",
+      "https://www.youtube.com/watch?v=-PKn27OlgVM",
+      "https://www.youtube.com/watch?v=-1d8NO2bB0E",
+      "https://www.youtube.com/watch?v=Pg6WV9r66eY",
+      "https://www.youtube.com/watch?v=hvrVfE2zhoE"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/LoJNZElISM8/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "hunter-x-hunter-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
+        "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "41",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 041 | Muse IN",
+            "video_id": "hvrVfE2zhoE",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "42",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 042 | Muse IN",
+            "video_id": "Pg6WV9r66eY",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "43",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 043 | Muse IN",
+            "video_id": "-1d8NO2bB0E",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "44",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 044 | Muse IN",
+            "video_id": "-PKn27OlgVM",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "45",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 045 | Muse IN",
+            "video_id": "yTouVgBm6Tw",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "46",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 046 | Muse IN",
+            "video_id": "LoJNZElISM8",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "Tokyo Revengers",
+    "original_title": "Tokyo Revengers",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Hindi Dub",
+    "watch_url": "https://www.youtube.com/watch?v=FFIIA9Wocl0",
+    "synopsis": "Watch the individually verified official Hindi uploads of Tokyo Revengers. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=FFIIA9Wocl0",
+      "https://www.youtube.com/watch?v=rl_cX75j3gs",
+      "https://www.youtube.com/watch?v=vei7_tttHvg",
+      "https://www.youtube.com/watch?v=N7FpbO2JJG4",
+      "https://www.youtube.com/watch?v=ape_xXuaPQk",
+      "https://www.youtube.com/watch?v=qt2SkcO7plQ",
+      "https://www.youtube.com/watch?v=rV9QmUSlPds"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/FFIIA9Wocl0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "tokyo-revengers-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
+        "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "13",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 13",
+            "video_id": "qt2SkcO7plQ",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "14",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 14",
+            "video_id": "ape_xXuaPQk",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "15",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 15",
+            "video_id": "N7FpbO2JJG4",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 16",
+            "video_id": "vei7_tttHvg",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "17",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 17",
+            "video_id": "rl_cX75j3gs",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 18",
+            "video_id": "FFIIA9Wocl0",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 Tokyo Revengers | Muse IN",
+            "video_id": "rV9QmUSlPds",
+            "duration_seconds": 34150,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "attack-on-titan",
+    "title": "Attack on Titan",
+    "original_title": "Attack on Titan",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Hindi Dub",
+    "watch_url": "https://www.youtube.com/watch?v=4q70E0nwkAY",
+    "synopsis": "Watch the individually verified official Hindi uploads of Attack on Titan. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=4q70E0nwkAY",
+      "https://www.youtube.com/watch?v=9MwufdbrmX4",
+      "https://www.youtube.com/watch?v=tKkHaK8MozI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/4q70E0nwkAY/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "attack-on-titan-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
+        "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Attack on Titan - Episode 01 (S1E01)",
+            "video_id": "tKkHaK8MozI",
+            "duration_seconds": 1540,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Attack on Titan - Episode 02 (S1E02)",
+            "video_id": "9MwufdbrmX4",
+            "duration_seconds": 1450,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Attack on Titan - Episode 03 (S1E03)",
+            "video_id": "4q70E0nwkAY",
+            "duration_seconds": 1450,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "dan-da-dan",
+    "title": "DAN DA DAN",
+    "original_title": "DAN DA DAN",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=JStare1TEDw",
+    "synopsis": "Watch the individually verified official Hindi uploads of DAN DA DAN. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=JStare1TEDw"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/JStare1TEDw/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "dan-da-dan-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi dub] DAN DA DAN - Episode 01 | Muse IN",
+            "video_id": "JStare1TEDw",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "original_title": "Mushoku Tensei: Jobless Reincarnation",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=giltqyz9RX4",
+    "synopsis": "Watch the individually verified official Hindi uploads of Mushoku Tensei: Jobless Reincarnation. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=giltqyz9RX4",
+      "https://www.youtube.com/watch?v=VGFQZIhx9Cs"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/giltqyz9RX4/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "mushoku-tensei-jobless-reincarnation-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S1) | Muse IN",
+            "video_id": "giltqyz9RX4",
+            "duration_seconds": 34077,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "mushoku-tensei-jobless-reincarnation-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S2) | Muse IN",
+            "video_id": "VGFQZIhx9Cs",
+            "duration_seconds": 35516,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "welcome-to-demon-school-iruma-kun",
+    "title": "Welcome to Demon School! Iruma-kun",
+    "original_title": "Welcome to Demon School! Iruma-kun",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=uUND8uJdoK8",
+    "synopsis": "Watch the individually verified official Hindi uploads of Welcome to Demon School! Iruma-kun. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=uUND8uJdoK8",
+      "https://www.youtube.com/watch?v=ABTMnMEWFc8"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/uUND8uJdoK8/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 1 - Episode 01 | Muse IN",
+            "video_id": "uUND8uJdoK8",
+            "duration_seconds": 1470,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 2 - Episode 01 | Muse IN",
+            "video_id": "ABTMnMEWFc8",
+            "duration_seconds": 1470,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "i-parry-everything",
+    "title": "I PARRY EVERYTHING",
+    "original_title": "I PARRY EVERYTHING",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=rRF5eTtC8Ow",
+    "synopsis": "Watch the individually verified official Hindi uploads of I PARRY EVERYTHING. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=rRF5eTtC8Ow"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/rRF5eTtC8Ow/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "i-parry-everything-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】I PARRY EVERYTHING",
+            "video_id": "rRF5eTtC8Ow",
+            "duration_seconds": 17131,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "cells-at-work",
+    "title": "Cells at Work!",
+    "original_title": "Cells at Work!",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=pQP8SjxORVA",
+    "synopsis": "Watch the individually verified official Hindi uploads of Cells at Work!. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=pQP8SjxORVA",
+      "https://www.youtube.com/watch?v=MDSQr59aW2I",
+      "https://www.youtube.com/watch?v=tK8FlAl7LRs",
+      "https://www.youtube.com/watch?v=IGk5Uge3W_Y",
+      "https://www.youtube.com/watch?v=i1yULgpvGeU",
+      "https://www.youtube.com/watch?v=0d2K0vvpu44"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/pQP8SjxORVA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "cells-at-work-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Cells at Work! - Episode 01 (S1E01)  | Muse IN",
+            "video_id": "pQP8SjxORVA",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Cells at Work! - Episode 02 (S1E02)  | Muse IN",
+            "video_id": "0d2K0vvpu44",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Cells at Work! - Episode 03 (S1E03)  | Muse IN",
+            "video_id": "i1yULgpvGeU",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Cells at Work! - Episode 04 (S1E04)  | Muse IN",
+            "video_id": "IGk5Uge3W_Y",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Cells at Work! - Episode 05 (S1E05)  | Muse IN",
+            "video_id": "tK8FlAl7LRs",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "cells-at-work-season-1-hindi-specials",
+        "label": "Season 1 · Hindi dub · Specials",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "oad",
+            "title": "[Hindi Dub] Cells at Work! - OAD (S1OAD)  | Muse IN",
+            "video_id": "MDSQr59aW2I",
+            "duration_seconds": 1405,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "junji-ito-collection",
+    "title": "Junji Ito Collection",
+    "original_title": "Junji Ito Collection",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=tdiRAT0fLDM",
+    "synopsis": "Watch the individually verified official Hindi uploads of Junji Ito Collection. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=tdiRAT0fLDM",
+      "https://www.youtube.com/watch?v=zteEoAK3AsI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/tdiRAT0fLDM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "junji-ito-collection-hindi-available-specials",
+        "label": "Hindi dub · available uploads · Specials",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "ova",
+            "title": "Junji Ito Collection - OVA [Hindi dub] | Muse IN",
+            "video_id": "tdiRAT0fLDM",
+            "duration_seconds": 1191,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      },
+      {
+        "id": "junji-ito-collection-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "5",
+            "title": "Junji Ito Collection - Episode 05 [Hindi dub] | Muse IN",
+            "video_id": "zteEoAK3AsI",
+            "duration_seconds": 1425,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "i-was-reincarnated-as-the-7th-prince",
+    "title": "I Was Reincarnated as the 7th Prince",
+    "original_title": "I Was Reincarnated as the 7th Prince",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=eYQynxxf1Hc",
+    "synopsis": "Watch the individually verified official Hindi uploads of I Was Reincarnated as the 7th Prince. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=eYQynxxf1Hc"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/eYQynxxf1Hc/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "i-was-reincarnated-as-the-7th-prince-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Hindi Dub】【Complete Series】 I Was Reincarnated as the 7th Prince (S2) | Muse IN",
+            "video_id": "eYQynxxf1Hc",
+            "duration_seconds": 17341,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 2
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+    "title": "The World’s Finest Assassin Gets Reincarnated in Another World",
+    "original_title": "The World’s Finest Assassin Gets Reincarnated in Another World",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=_9HuJ5QRpSw",
+    "synopsis": "Watch the individually verified official Hindi uploads of The World’s Finest Assassin Gets Reincarnated in Another World. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=_9HuJ5QRpSw"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/_9HuJ5QRpSw/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+        "label": "Hindi dub · available uploads",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "The World's Finest Assassin Gets Reincarnated in Another World - EP 01 [Hindi dub] | Muse IN",
+            "video_id": "_9HuJ5QRpSw",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-17"
+  },
+  {
+    "id": "fairy-tail",
+    "title": "Fairy Tail",
+    "original_title": "Fairy Tail",
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=zs-jXgEm8HI",
+    "synopsis": "Watch the individually verified official Hindi uploads of Fairy Tail. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=zs-jXgEm8HI",
+      "https://www.youtube.com/watch?v=b_uQi-lcPZ8"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/zs-jXgEm8HI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "fairy-tail-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Fairy Tail - Episode 001 (S1E01) [Hindi Dub] | Muse IN",
+            "video_id": "zs-jXgEm8HI",
+            "duration_seconds": 1465,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "fairy-tail-season-7-hindi",
+        "label": "Season 7 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "26",
+            "title": "Fairy Tail - Episode 201 (S7E26) [Hindi Dub] | Muse IN",
+            "video_id": "b_uQi-lcPZ8",
+            "duration_seconds": 1485,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
+            "india_playback": "unverified",
+            "added_on": "2026-10-17"
+          }
+        ],
+        "season_number": 7
+      }
+    ],
+    "added_on": "2026-10-17"
   }
 ]
