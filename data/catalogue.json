@@ -14140,7 +14140,62 @@
       "https://www.youtube.com/watch?v=s32IbFff9i0",
       "https://www.youtube.com/watch?v=ZDygQeO9jzo",
       "https://www.youtube.com/watch?v=Y_GBzuo-T6g",
-      "https://www.youtube.com/watch?v=30b-BHrYDms"
+      "https://www.youtube.com/watch?v=30b-BHrYDms",
+      "https://www.youtube.com/watch?v=1TAE09a_nwE",
+      "https://www.youtube.com/watch?v=-INdp_kaWAc",
+      "https://www.youtube.com/watch?v=eqyhH0FaBgc",
+      "https://www.youtube.com/watch?v=WszPVaOgfR8",
+      "https://www.youtube.com/watch?v=kEOn7Y6wE5c",
+      "https://www.youtube.com/watch?v=7tB2LgOx8fA",
+      "https://www.youtube.com/watch?v=VwYQ0DnPjWI",
+      "https://www.youtube.com/watch?v=EbmRA75fF6Y",
+      "https://www.youtube.com/watch?v=WurTQwB-j-U",
+      "https://www.youtube.com/watch?v=w0uuhC6LlFM",
+      "https://www.youtube.com/watch?v=B_uTFBTNI7o",
+      "https://www.youtube.com/watch?v=Vc1z6_nBWKA",
+      "https://www.youtube.com/watch?v=hnUYv2VhcY8",
+      "https://www.youtube.com/watch?v=cE7WXrzkKrI",
+      "https://www.youtube.com/watch?v=c8W-VVZtiyk",
+      "https://www.youtube.com/watch?v=z8QGrmRQsqw",
+      "https://www.youtube.com/watch?v=nMJG40ht_sw",
+      "https://www.youtube.com/watch?v=gyUnw0KCDT0",
+      "https://www.youtube.com/watch?v=WkRmNHUgIVk",
+      "https://www.youtube.com/watch?v=PnDHLNS58FY",
+      "https://www.youtube.com/watch?v=gbn7h1VqKIU",
+      "https://www.youtube.com/watch?v=NEypfVRripI",
+      "https://www.youtube.com/watch?v=CoDKAOsd7Uc",
+      "https://www.youtube.com/watch?v=pR7I8loqsC8",
+      "https://www.youtube.com/watch?v=XliSh3Ar0AQ",
+      "https://www.youtube.com/watch?v=vIz7_2tjcOU",
+      "https://www.youtube.com/watch?v=2M9mpXbnK30",
+      "https://www.youtube.com/watch?v=Gb7GBxRTRr0",
+      "https://www.youtube.com/watch?v=b-qHbNGKnYE",
+      "https://www.youtube.com/watch?v=AcYkCcRdCLo",
+      "https://www.youtube.com/watch?v=bmjLqrc8ugQ",
+      "https://www.youtube.com/watch?v=rpb3jpNSyDI",
+      "https://www.youtube.com/watch?v=bAo4Tiifwjk",
+      "https://www.youtube.com/watch?v=qAtidd45kzI",
+      "https://www.youtube.com/watch?v=7blfEcxZ_U8",
+      "https://www.youtube.com/watch?v=a8QEVZIFypY",
+      "https://www.youtube.com/watch?v=S6TgUS3H7M8",
+      "https://www.youtube.com/watch?v=0T_If4pEFRc",
+      "https://www.youtube.com/watch?v=yCAwN9HPSlY",
+      "https://www.youtube.com/watch?v=lBH6JASM4dk",
+      "https://www.youtube.com/watch?v=-b2KKXXHJPs",
+      "https://www.youtube.com/watch?v=SKHF26ZySME",
+      "https://www.youtube.com/watch?v=_KiEP2atRwU",
+      "https://www.youtube.com/watch?v=N9nr9uqgN9I",
+      "https://www.youtube.com/watch?v=uv3Jdfkymc8",
+      "https://www.youtube.com/watch?v=We3UBNdfbnM",
+      "https://www.youtube.com/watch?v=8ykblfGXgcI",
+      "https://www.youtube.com/watch?v=CL9tRwaOIzU",
+      "https://www.youtube.com/watch?v=QbzRj1lHeP8",
+      "https://www.youtube.com/watch?v=1pZpQ9lfrJA",
+      "https://www.youtube.com/watch?v=SOHgRGpqd8Y",
+      "https://www.youtube.com/watch?v=0LGDfZngevs",
+      "https://www.youtube.com/watch?v=MRPAoi0PjU8",
+      "https://www.youtube.com/watch?v=7lTR0Ys6k7o",
+      "https://www.youtube.com/watch?v=rU_nFxK4iek"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9CGih4gMRlk/hqdefault.jpg",
     "seasons": [
@@ -14154,7 +14209,7 @@
         "subtitle_evidence": "Caption track metadata",
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "23 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
+        "completion_note": "78 checked English-dubbed uploads in this available-episode collection. Original broadcast episode numbers are retained; this does not certify a complete season or series.",
         "last_checked": "2026-10-17",
         "authorization_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel",
         "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
@@ -14230,6 +14285,14 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "07",
+            "title": "SONIC X - EP07 Party Hardly | English Dub | Full Episode",
+            "video_id": "7tB2LgOx8fA",
+            "duration_seconds": 1269,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "8",
             "title": "SONIC X - EP08 Satellite Swindle | English Dub | Full Episode",
             "video_id": "9KYeihPwS7Q",
@@ -14254,6 +14317,14 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "10",
+            "title": "SONIC X - EP10 Unfair Ball | English Dub | Full Episode",
+            "video_id": "VwYQ0DnPjWI",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "11",
             "title": "SONIC X - EP11 Fly Spy | English Dub | Full Episode",
             "video_id": "FTMUZlg7WEg",
@@ -14264,6 +14335,22 @@
             "source_upload_date": "2015-07-01T00:00:01-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "12",
+            "title": "SONIC X - EP12 Beating Eggman Part 1 | English Dub | Full Episode",
+            "video_id": "EbmRA75fF6Y",
+            "duration_seconds": 1278,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "13",
+            "title": "SONIC X - EP13 Beating Eggman Part 2 | English Dub | Full Episode",
+            "video_id": "WurTQwB-j-U",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "14",
@@ -14278,6 +14365,78 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "15",
+            "title": "SONIC X - EP15 Skirmish in the Sky | English Dub | Full Episode",
+            "video_id": "w0uuhC6LlFM",
+            "duration_seconds": 1272,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "16",
+            "title": "SONIC X - EP16 Depth of Danger | English Dub | Full Episode",
+            "video_id": "B_uTFBTNI7o",
+            "duration_seconds": 1278,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "17",
+            "title": "SONIC X - EP17 The Adventures of Knuckles and Hawk | English Dub | Full Episode",
+            "video_id": "Vc1z6_nBWKA",
+            "duration_seconds": 1278,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "18",
+            "title": "SONIC X - EP18 The Dam Scam | English Dub | Full Episode",
+            "video_id": "hnUYv2VhcY8",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "19",
+            "title": "SONIC X - EP19 Sonic's Scream Test | English Dub | Full Episode",
+            "video_id": "cE7WXrzkKrI",
+            "duration_seconds": 1283,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "20",
+            "title": "SONIC X - EP20 Cruise Blues | English Dub | Full Episode",
+            "video_id": "c8W-VVZtiyk",
+            "duration_seconds": 1185,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "21",
+            "title": "SONIC X - EP21 Fast Friends | English Dub | Full Episode",
+            "video_id": "z8QGrmRQsqw",
+            "duration_seconds": 1277,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "22",
+            "title": "SONIC X - EP22 Little Chao Lost | English Dub | Full Episode",
+            "video_id": "nMJG40ht_sw",
+            "duration_seconds": 1278,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "23",
+            "title": "SONIC X - EP23 Emerald Anniversary | English Dub | Full Episode",
+            "video_id": "1TAE09a_nwE",
+            "duration_seconds": 1278,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "24",
             "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode",
             "video_id": "039J77RlR5M",
@@ -14288,6 +14447,14 @@
             "source_upload_date": "2015-07-01T00:00:00-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "25",
+            "title": "SONIC X - EP25 A Dastardly Deed | English Dub | Full Episode",
+            "video_id": "gyUnw0KCDT0",
+            "duration_seconds": 1282,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "26",
@@ -14302,6 +14469,30 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "27",
+            "title": "SONIC X - EP27 Pure Chaos | English Dub | Full Episode",
+            "video_id": "WkRmNHUgIVk",
+            "duration_seconds": 1296,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "28",
+            "title": "SONIC X - EP28 A Chaotic Day | English Dub | Full Episode",
+            "video_id": "PnDHLNS58FY",
+            "duration_seconds": 1273,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "29",
+            "title": "SONIC X - EP29 A Robot Rebels | English Dub | Full Episode",
+            "video_id": "gbn7h1VqKIU",
+            "duration_seconds": 1276,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "30",
             "title": "SONIC X - EP30 Head's up, Tail | English Dub | Full Episode",
             "video_id": "V26oyi5GDVw",
@@ -14312,6 +14503,14 @@
             "source_upload_date": "2015-07-01T00:00:01-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "31",
+            "title": "SONIC X - EP31 Revenge of the Robot | English Dub | Full Episode",
+            "video_id": "kEOn7Y6wE5c",
+            "duration_seconds": 1270,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "32",
@@ -14326,6 +14525,14 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "33",
+            "title": "SONIC X - EP33 Project Shadow | English Dub | Full Episode",
+            "video_id": "eqyhH0FaBgc",
+            "duration_seconds": 1277,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "34",
             "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode",
             "video_id": "NqrXRFdb684",
@@ -14336,6 +14543,30 @@
             "source_upload_date": "2015-07-01T00:00:01-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "35",
+            "title": "SONIC X - EP35 Sonic's Big Break | English Dub | Full Episode",
+            "video_id": "NEypfVRripI",
+            "duration_seconds": 1276,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "36",
+            "title": "SONIC X - EP36 Shadow World | English Dub | Full Episode",
+            "video_id": "CoDKAOsd7Uc",
+            "duration_seconds": 1265,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "37",
+            "title": "SONIC X - EP37 Robotnik's Revenge | English Dub | Full Episode",
+            "video_id": "pR7I8loqsC8",
+            "duration_seconds": 1307,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "38",
@@ -14362,6 +14593,30 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "40",
+            "title": "SONIC X - EP40 Sunblock Solution | English Dub | Full Episode",
+            "video_id": "XliSh3Ar0AQ",
+            "duration_seconds": 1276,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "41",
+            "title": "SONIC X - EP41 Eggman for President | English Dub | Full Episode",
+            "video_id": "vIz7_2tjcOU",
+            "duration_seconds": 1276,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "42",
+            "title": "SONIC X - EP42 A Robot Rebels | English Dub | Full Episode",
+            "video_id": "2M9mpXbnK30",
+            "duration_seconds": 1260,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "43",
             "title": "SONIC X - EP43 Mean Machines | English Dub | Full Episode",
             "video_id": "GxZnyfL9xFw",
@@ -14372,6 +14627,14 @@
             "source_upload_date": "2015-07-01T00:00:01-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "44",
+            "title": "SONIC X - EP44 Sewer Search | English Dub | Full Episode",
+            "video_id": "Gb7GBxRTRr0",
+            "duration_seconds": 1242,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "45",
@@ -14386,6 +14649,70 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "46",
+            "title": "SONIC X - EP46 A Wild Win | English Dub | Full Episode",
+            "video_id": "b-qHbNGKnYE",
+            "duration_seconds": 1267,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "47",
+            "title": "SONIC X - EP47 Map of Mayhem | English Dub | Full Episode",
+            "video_id": "AcYkCcRdCLo",
+            "duration_seconds": 1275,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "48",
+            "title": "SONIC X - EP48 The Volcanic Venture | English Dub | Full Episode",
+            "video_id": "bmjLqrc8ugQ",
+            "duration_seconds": 1291,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "49",
+            "title": "SONIC X - EP49 The Beginning of the End | English Dub | Full Episode",
+            "video_id": "rpb3jpNSyDI",
+            "duration_seconds": 1259,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "50",
+            "title": "SONIC X - EP50 Running out of Time | English Dub | Full Episode",
+            "video_id": "-INdp_kaWAc",
+            "duration_seconds": 1277,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "51",
+            "title": "SONIC X - EP51 Friends 'Til the End | English Dub | Full Episode",
+            "video_id": "bAo4Tiifwjk",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "52",
+            "title": "SONIC X - EP52 A New Start | English Dub | Full Episode",
+            "video_id": "qAtidd45kzI",
+            "duration_seconds": 1243,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "53",
+            "title": "SONIC X - EP 53 A Cosmic Call | English Dub | Full Episode",
+            "video_id": "7blfEcxZ_U8",
+            "duration_seconds": 1287,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "54",
             "title": "SONIC X - EP 54 Cosmic Crisis | English Dub | Full Episode",
             "video_id": "30b-BHrYDms",
@@ -14398,6 +14725,78 @@
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
           },
           {
+            "number": "55",
+            "title": "SONIC X - EP 55 H2 Whoa | English Dub | Full Episode",
+            "video_id": "a8QEVZIFypY",
+            "duration_seconds": 1280,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "56",
+            "title": "SONIC X - EP 56 An Enemy in Need | English Dub | Full Episode",
+            "video_id": "S6TgUS3H7M8",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "57",
+            "title": "SONIC X - EP 57 Chilling Discovery | English Dub | Full Episode",
+            "video_id": "0T_If4pEFRc",
+            "duration_seconds": 1287,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "58",
+            "title": "SONIC X - EP 58 Desperately Seeking Sonic | English Dub | Full Episode",
+            "video_id": "yCAwN9HPSlY",
+            "duration_seconds": 1279,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "59",
+            "title": "SONIC X - EP 59 Galactic Gumshoes | English Dub | Full Episode",
+            "video_id": "lBH6JASM4dk",
+            "duration_seconds": 1265,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "60",
+            "title": "SONIC X - EP 60 Trick Sand | English Dub | Full Episode",
+            "video_id": "-b2KKXXHJPs",
+            "duration_seconds": 1288,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "61",
+            "title": "SONIC X - EP 61 Ship of Doom | English Dub | Full Episode",
+            "video_id": "SKHF26ZySME",
+            "duration_seconds": 1235,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "62",
+            "title": "SONIC X - EP 62 An Underground Odyssey | English Dub | Full Episode",
+            "video_id": "_KiEP2atRwU",
+            "duration_seconds": 1273,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "63",
+            "title": "SONIC X - EP 63 Station Break-In | English Dub | Full Episode",
+            "video_id": "N9nr9uqgN9I",
+            "duration_seconds": 1250,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
             "number": "64",
             "title": "SONIC X - EP 64 A Materex Melee | English Dub | Full Episode",
             "video_id": "hq9LlgTLmP0",
@@ -14408,6 +14807,70 @@
             "source_upload_date": "2017-10-04T01:08:34-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "65",
+            "title": "SONIC X - EP 65 Mission: Match Up | English Dub | Full Episode",
+            "video_id": "uv3Jdfkymc8",
+            "duration_seconds": 1224,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "66",
+            "title": "SONIC X - EP 66 Clash in the Cloister | English Dub | Full Episode",
+            "video_id": "We3UBNdfbnM",
+            "duration_seconds": 1202,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "67",
+            "title": "SONIC X - EP 67 Testing Time | English Dub | Full Episode",
+            "video_id": "8ykblfGXgcI",
+            "duration_seconds": 1222,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "68",
+            "title": "SONIC X - EP 68 A Revolutionary Tale | English Dub | Full Episode",
+            "video_id": "CL9tRwaOIzU",
+            "duration_seconds": 1207,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "69",
+            "title": "SONIC X - EP 69 The Planet of Misfortune | English Dub | Full Episode",
+            "video_id": "QbzRj1lHeP8",
+            "duration_seconds": 1232,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "70",
+            "title": "SONIC X - EP 70 Terror On the Typhoon | English Dub | Full Episode",
+            "video_id": "1pZpQ9lfrJA",
+            "duration_seconds": 1209,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "71",
+            "title": "SONIC X - EP 71 Hedgehog Hunt | English Dub | Full Episode",
+            "video_id": "SOHgRGpqd8Y",
+            "duration_seconds": 1198,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "72",
+            "title": "SONIC X - EP 72 Zelkova Strikes Back | English Dub | Full Episode",
+            "video_id": "0LGDfZngevs",
+            "duration_seconds": 1155,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           },
           {
             "number": "73",
@@ -14430,6 +14893,38 @@
             "source_upload_date": "2017-10-04T01:23:49-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official upload title explicitly identifies English Dub"
+          },
+          {
+            "number": "75",
+            "title": "SONIC X - EP 75 Agent of Mischief | English Dub | Full Episode",
+            "video_id": "MRPAoi0PjU8",
+            "duration_seconds": 1213,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "76",
+            "title": "SONIC X - EP 76 The Light in the Darkness | English Dub | Full Episode",
+            "video_id": "7lTR0Ys6k7o",
+            "duration_seconds": 1262,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "77",
+            "title": "SONIC X - EP 77 A Fearless Friend | English Dub | Full Episode",
+            "video_id": "rU_nFxK4iek",
+            "duration_seconds": 1264,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          },
+          {
+            "number": "78",
+            "title": "SONIC X - EP 78 So Long Sonic | English Dub | Full Episode",
+            "video_id": "WszPVaOgfR8",
+            "duration_seconds": 1154,
+            "metadata_check": "Official TMS publisher, English dub title, full runtime, public watch metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
           }
         ]
       }
@@ -15123,5 +15618,359 @@
     "related": [],
     "added_on": "2026-10-17",
     "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  },
+  {
+    "id": "jaanbaaz-khiladi-komaram-puli",
+    "title": "Jaanbaaz Khiladi (Komaram Puli)",
+    "original_title": "Jaanbaaz Khiladi (Komaram Puli)",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=L0pJUNfJ6oI",
+    "synopsis": "Watch Jaanbaaz Khiladi (Komaram Puli) in Hindi through the official full-length YouTube upload from Goldmines. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=L0pJUNfJ6oI",
+      "https://www.goldmines.co.in/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/L0pJUNfJ6oI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "jaanbaaz-khiladi-komaram-puli-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Jaanbaaz Khiladi (HD) (Komaram Puli) - Pawan Kalyan's Blockbuster Action Hindi Movie |Nikeesha Patel",
+            "video_id": "L0pJUNfJ6oI",
+            "duration_seconds": 7906,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Explicit official title: Hindi Movie"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  },
+  {
+    "id": "the-return-of-rebel",
+    "title": "The Return of Rebel",
+    "original_title": "The Return of Rebel",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=e3lm0bTGZfI",
+    "synopsis": "Watch The Return of Rebel in Hindi through the official full-length YouTube upload from Goldmines. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=e3lm0bTGZfI",
+      "https://www.goldmines.co.in/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/e3lm0bTGZfI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "the-return-of-rebel-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "The Return Of Rebel (Rebel) (4K ULTRA HD) Full Action Hindi Dubbed Movie| Prabhas, Tamannaa, Deeksha",
+            "video_id": "e3lm0bTGZfI",
+            "duration_seconds": 8078,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Explicit official title: Hindi Dubbed Movie"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  },
+  {
+    "id": "siruthai",
+    "title": "Siruthai",
+    "original_title": "Siruthai",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=dIsDOAsE-eM",
+    "synopsis": "Watch Siruthai in Hindi through the official full-length YouTube upload from Goldmines. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=dIsDOAsE-eM",
+      "https://www.goldmines.co.in/"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/dIsDOAsE-eM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "siruthai-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Siruthai 2021 New Released Hindi Dubbed Movie | Karthi, Tamannaah, Santhanam",
+            "video_id": "dIsDOAsE-eM",
+            "duration_seconds": 8236,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Explicit official title: Hindi Dubbed Movie"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  },
+  {
+    "id": "zubeidaa",
+    "title": "Zubeidaa",
+    "original_title": "Zubeidaa",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=Ny9GQPRIh2A",
+    "synopsis": "Watch Zubeidaa in Hindi through the official full-length YouTube upload from Shemaroo Movies. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=Ny9GQPRIh2A",
+      "https://www.youtube.com/@shemaroomovies"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/Ny9GQPRIh2A/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "zubeidaa-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Karisma Kapoor's Superhit Full Romantic Hindi Movie - Zubeidaa - Manoj Bajpayee, Rekha, Amrish Puri",
+            "video_id": "Ny9GQPRIh2A",
+            "duration_seconds": 8116,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Explicit official title: Full Romantic Hindi Movie"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  },
+  {
+    "id": "golmaal-3",
+    "title": "Golmaal 3",
+    "original_title": "Golmaal 3",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
+    "synopsis": "Watch Golmaal 3 in Hindi through the official full-length YouTube upload from Shemaroo Movies. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=XaXKh-s9zws",
+      "https://www.youtube.com/@shemaroomovies"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/XaXKh-s9zws/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "golmaal-3-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Golmaal 3 Full Movie - Ajay Devgan - Kareena Kapoor - Arshad Warsi - Shreyas - Kunal - Tushar",
+            "video_id": "XaXKh-s9zws",
+            "duration_seconds": 7653,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Official upload description categorizes this edition as #Hindi #Movie #Bollywood #FullMovie"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  },
+  {
+    "id": "jab-we-met",
+    "title": "Jab We Met",
+    "original_title": "Jab We Met",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=sosEqOCgYNQ",
+    "synopsis": "Watch Jab We Met in Hindi through the official full-length YouTube upload from Shemaroo Movies. The film plays here using YouTube’s embedded player. Upload date is distinct from the original film release date.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback has not been observed.",
+    "last_checked": "2026-10-17",
+    "verification_method": "Official uploader identity, full runtime, public watch metadata, India country metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=sosEqOCgYNQ",
+      "https://www.youtube.com/@shemaroomovies"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/sosEqOCgYNQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "jab-we-met-movie",
+        "label": "Full movie · Hindi audio",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One checked official full-length Hindi movie upload. Actual India playback remains unverified.",
+        "last_checked": "2026-10-17",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "BOLLYWOOD ROMANTIC HINDI MOVIE - KAREENA KAPOOR KI ROMANTIC HINDI MOVIE - JAB WE MET",
+            "video_id": "sosEqOCgYNQ",
+            "duration_seconds": 8315,
+            "metadata_check": "Official uploader identity, full movie runtime, public player metadata, India country metadata and YouTube oEmbed checked 2026-10-17",
+            "india_playback": "unverified"
+          }
+        ],
+        "audio_language_evidence": "Explicit official title: BOLLYWOOD ROMANTIC HINDI MOVIE"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-17",
+    "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
   }
 ]

@@ -1,0 +1,4503 @@
+{
+  "checked_at": "2026-10-17",
+  "checked_at_timestamp": "2026-10-17T14:13:47.897506+05:30",
+  "actual_india_playback": "unverified",
+  "language_priority": [
+    "Hindi",
+    "English",
+    "Evidenced English-subtitled Japanese/Chinese anime or Korean drama"
+  ],
+  "counts": {
+    "anime-series": {
+      "titles": 0,
+      "uploads": 55
+    },
+    "anime-movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "movies": {
+      "titles": 6,
+      "uploads": 6
+    },
+    "k-dramas": {
+      "titles": 0,
+      "uploads": 0
+    }
+  },
+  "published_additions": [
+    {
+      "video_id": "L0pJUNfJ6oI",
+      "title_id": "jaanbaaz-khiladi-komaram-puli",
+      "season_id": "jaanbaaz-khiladi-komaram-puli-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Explicit official title: Hindi Movie"
+    },
+    {
+      "video_id": "e3lm0bTGZfI",
+      "title_id": "the-return-of-rebel",
+      "season_id": "the-return-of-rebel-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Explicit official title: Hindi Dubbed Movie"
+    },
+    {
+      "video_id": "dIsDOAsE-eM",
+      "title_id": "siruthai",
+      "season_id": "siruthai-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Explicit official title: Hindi Dubbed Movie"
+    },
+    {
+      "video_id": "Ny9GQPRIh2A",
+      "title_id": "zubeidaa",
+      "season_id": "zubeidaa-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Explicit official title: Full Romantic Hindi Movie"
+    },
+    {
+      "video_id": "XaXKh-s9zws",
+      "title_id": "golmaal-3",
+      "season_id": "golmaal-3-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Official upload description categorizes this edition as #Hindi #Movie #Bollywood #FullMovie"
+    },
+    {
+      "video_id": "sosEqOCgYNQ",
+      "title_id": "jab-we-met",
+      "season_id": "jab-we-met-movie",
+      "episode": "full",
+      "category": "movies",
+      "audio_language": "Hindi",
+      "audio_language_evidence": "Explicit official title: BOLLYWOOD ROMANTIC HINDI MOVIE"
+    },
+    {
+      "video_id": "1TAE09a_nwE",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "23",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "-INdp_kaWAc",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "50",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "eqyhH0FaBgc",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "33",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "WszPVaOgfR8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "78",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "kEOn7Y6wE5c",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "31",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "7tB2LgOx8fA",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "07",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "VwYQ0DnPjWI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "10",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "EbmRA75fF6Y",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "12",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "WurTQwB-j-U",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "13",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "w0uuhC6LlFM",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "15",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "B_uTFBTNI7o",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "16",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "Vc1z6_nBWKA",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "17",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "hnUYv2VhcY8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "18",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "cE7WXrzkKrI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "19",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "c8W-VVZtiyk",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "20",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "z8QGrmRQsqw",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "21",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "nMJG40ht_sw",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "22",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "gyUnw0KCDT0",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "25",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "WkRmNHUgIVk",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "27",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "PnDHLNS58FY",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "28",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "gbn7h1VqKIU",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "29",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "NEypfVRripI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "35",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "CoDKAOsd7Uc",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "36",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "pR7I8loqsC8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "37",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "XliSh3Ar0AQ",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "40",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "vIz7_2tjcOU",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "41",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "2M9mpXbnK30",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "42",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "Gb7GBxRTRr0",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "44",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "b-qHbNGKnYE",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "46",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "AcYkCcRdCLo",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "47",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "bmjLqrc8ugQ",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "48",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "rpb3jpNSyDI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "49",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "bAo4Tiifwjk",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "51",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "qAtidd45kzI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "52",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "7blfEcxZ_U8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "53",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "a8QEVZIFypY",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "55",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "S6TgUS3H7M8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "56",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "0T_If4pEFRc",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "57",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "yCAwN9HPSlY",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "58",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "lBH6JASM4dk",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "59",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "-b2KKXXHJPs",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "60",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "SKHF26ZySME",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "61",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "_KiEP2atRwU",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "62",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "N9nr9uqgN9I",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "63",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "uv3Jdfkymc8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "65",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "We3UBNdfbnM",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "66",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "8ykblfGXgcI",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "67",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "CL9tRwaOIzU",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "68",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "QbzRj1lHeP8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "69",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "1pZpQ9lfrJA",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "70",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "SOHgRGpqd8Y",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "71",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "0LGDfZngevs",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "72",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "MRPAoi0PjU8",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "75",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "7lTR0Ys6k7o",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "76",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    },
+    {
+      "video_id": "rU_nFxK4iek",
+      "title_id": "sonic-x",
+      "season_id": "sonic-x-season-1",
+      "episode": "77",
+      "category": "anime-series",
+      "audio_language": "English",
+      "audio_language_evidence": "Explicit official upload title: English Dub | Full Episode"
+    }
+  ],
+  "checks": [
+    {
+      "id": "L0pJUNfJ6oI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Jaanbaaz Khiladi (HD) (Komaram Puli) - Pawan Kalyan's Blockbuster Action Hindi Movie |Nikeesha Patel",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 7906,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-03-11T01:30:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=L0pJUNfJ6oI",
+      "oembed": true,
+      "description": "A lady while searching her missing husband faced inhuman behaviour from the local police. Although her husband was an honest police officer. When she met the goon Saleem, came to know that they had killed her husband. Now Saleem is going to kill the woman but she managed to escape and took shelter in a temple. It revealed that she was pregnant. Few days latter the henchmen of Saleem hounded her and she hide herself under the river. In this horrific situation she gave birth of a child, Komaram Puli, who will be the daredavil police officer in future.\n\nMovie:- Jaanbaaz Khiladi (Komaram Puli)\nStarcast:- Pawan Kalyan, Nikeesha Patel, Manoj Bajpayee\nDirected By:- S. J. Surya\nMusic By :- A. R. Rahman\n\n#JaanbaazKhiladi #KomaramPuli #PawanKalyan #NikeeshaPatel #ManojBajpayee\n\n--------------------------------------\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTelefilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
+      "audio_tracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3lm0bTGZfI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "The Return Of Rebel (Rebel) (4K ULTRA HD) Full Action Hindi Dubbed Movie| Prabhas, Tamannaa, Deeksha",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 8078,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2021-08-05T05:30:16-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=e3lm0bTGZfI",
+      "oembed": true,
+      "description": "Rishi comes to Hyderabad in search of Mafia's deadly duo Stephen and Robert. Nobody knows how they look like. Rishi's mission is to identify them and eliminate them. He starts from the bottom of the mafia pyramid to get to the top. In the process he uses a beautiful girl Tamanna who dislikes her father's criminal activity and settles as a dance teacher in Bangkok. The rest of the story is about what prompted Rishi to search for Stephen and Robert and how he eliminates them.\n\nMovie:- The Return of Rebel (Rebel) \nStarcast:- Prabhas, Tamannaah Bhatia, Deeksha Seth, Krishnam Raju, Brahmanandam, Mukesh Rishi, Ali \nDirected by:- Raghava Lawrence \nCreative Producer:- Manish Shah \nMusic by:- S. Chinna \n\n#TheReturnofRebel #Rebel #Prabhas #TamannaahBhatia #DeekshaSeth\n\n------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
+      "audio_tracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ],
+          "audioTrackId": "hi.4"
+        }
+      ]
+    },
+    {
+      "id": "dIsDOAsE-eM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Siruthai 2021 New Released Hindi Dubbed Movie | Karthi, Tamannaah, Santhanam",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 8236,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2021-11-04T23:30:12-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dIsDOAsE-eM",
+      "oembed": true,
+      "description": "A thief comes across a little girl who says that he's her father. When he learns the truth about his lookalike, who's an honest cop, he decides to turn a new leaf and help get rid of the local baddie.\n\nMovie:- Siruthai \nStarcast:- Karthi, Tamannaah, Santhanam\nDirected by:- Siva\nCreative Producer:- Manish Shah\nMusic by:- Vidyasagar\n\n#Siruthai #Karthi #Tamannaah #Santhanam\n\n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
+      "audio_tracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dmmUFTSx8Ow",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Goldmines",
+      "playlist_ids": [],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "Rummy The Great Gambler (Soodhu Kavvuum) 2019 New Released Dubbed Movie| Vijay Sethupathi",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "seconds": 7153,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2019-11-15T03:30:00-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=dmmUFTSx8Ow",
+      "oembed": true,
+      "description": "Das kidnaps Arumai, the son of a politician, who has been planning his own kidnapping to extract money from his father. Problems arise when an insane police officer is brought to handle the case.\n\nMovie:- Rummy The Great Gambler (Soodhu Kavvuum)\nStarcast:- Vijay Sethupathi, Sanchita Shetty, Bobby Simha, Ashok Selvan, Ramesh Thilak, Karunakaran, M. S. Bhaskar\nDirected by:- Nalan Kumarasamy\nProduced by:- Manish Shah\nMusic by:- Santhosh Narayanan\n\n#VijaySethupathi #SanchitaShetty #RummyTheGreatGambler #SoodhuKavvuum\n\n--------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldmines\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
+      "audio_tracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ],
+          "defaultCaptionTrackIndex": 0,
+          "hasDefaultTrack": true,
+          "captionsInitialState": "CAPTIONS_INITIAL_STATE_OFF_RECOMMENDED"
+        }
+      ]
+    },
+    {
+      "id": "Ny9GQPRIh2A",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Shemaroo Movies",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "Karisma Kapoor's Superhit Full Romantic Hindi Movie - Zubeidaa - Manoj Bajpayee, Rekha, Amrish Puri",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "seconds": 8116,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2025-06-24T01:30:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Ny9GQPRIh2A",
+      "oembed": true,
+      "description": "#shemaroomovies #Hindi #Movie #Bollywood #FullMovie #hdsongs \n\nKarisma Kapoor's Superhit Full Romantic Hindi Movie - Zubeidaa - Manoj Bajpayee, Rekha, Amrish Puri\n\nZubeidaa is a 2001 Indian film directed by Shyam Benegal and written by Khalid Mohammed. It stars Karisma Kapoor, Rekha, Manoj Bajpayee, Surekha Sikri, Rajit Kapoor, Lillete Dubey, Amrish Puri, Farida Jalal, and Shakti Kapoor. A.R. Rahman scored the background music and soundtrack for the movie\n\nज़ुबैदा 2001 की एक भारतीय फ़िल्म है, जो श्याम बेनेगल द्वारा निर्देशित और खालिद मोहम्मद द्वारा लिखित है। इसमें करिश्मा कपूर, रेखा, मनोज बाजपेयी, सुरेखा सीकरी, रजित कपूर, लिलेट दुबे, अमरीश पुरी, फरीदा जलाल और शक्ति कपूर हैं। ए.आर. रहमान ने फिल्म के लिए पृष्ठभूमि संगीत और साउंडट्रैक बनाया\n\nDirected by : Shyam Benegal\nScreenplay by : Khalid Mohamed\nStory by Khalid Mohamed\nProduced by Farouq Rattonsey\nStarring \nKarisma Kapoor\nRekha\nManoj Bajpayee\nAmrish Puri\nFarida Jalal\nLillete Dubey\nShakti Kapoor\nCinematography Rajan Kothari\nEdited by Aseem Sinha\nMusic by A. R. Rahman\nProduction\ncompany \nFKR Productions\nDistributed by Yash Raj Films\nRelease date \n19 January 2001\nClick here to Subscribe the channel : http://www.youtube.com/channel/UCBOmfqgTZi7yDp4-3Lr_3lA?annotation_id=annotation_2452002513&sub_confirmation=1 \n\nTo join our Bollywood Whatsapp community: click -https://rebrand.ly/WhatsAppCommunity\n\nLike, Comment and Share with your friends and family. Watch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on http://www.YouTube.com/ShemarooEnt\n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel @shemaroomovies \n\nBollywood ENT \nFollow us on: \nFacebook - https://www.facebook.com/ShemarooEnt/ \nTwitter - https://twitter.com/ShemarooEnt Instagram - https://www.instagram.com/shemarooent/?hl=en \nShemarooMe : https://shemaroome.onelink.me/ilnR/yt3\n\nBollywood Comedy \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/Comedywalas/ \nTwitter - https://twitter.com/ShemarooComedy Instagram - https://www.instagram.com/shemaroocomedy/?hl=en \n\nBollywood Music \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/ShemarooFilmiGaane/ \nTwitter - https://twitter.com/FilmiGaane Instagram - https://www.instagram.com/shemaroofilmigaane/?hl=en \n\nShemarooMe : https://shemaroome.onelink.me/ilnR/yt3\nFacebook - https://www.facebook.com/ShemarooEnt Twitter - https://twitter.com/ShemarooEnt \nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt",
+      "audio_tracks": []
+    },
+    {
+      "id": "SG0bvpT101c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Shemaroo Movies",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "Rajpal Yadav की रोमांटिक ड्रामा फिल्म Ardh Full Movie | Rubina Dilaik, Hiten Tejwani",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "seconds": 5023,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2026-09-04T02:30:34-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SG0bvpT101c",
+      "oembed": true,
+      "description": "Shiva, a struggling actor, poses as a transgender person to survive in the big city.\n\nMovie Name - Ardh (2022)\nStar Cast - Rajpal Yadav, Rubina Dilaik, Hiten Tejwani, Kulbhushan Kharbanda, Raju Shreshtha, Akash Deep\nDirector - Palash Muchhal\nIn Association with - Milestone Creations\n\n\n#ardh #rajpalyadav #comedy\n\nClick here to Subscribe the channel : http://www.youtube.com/channel/UCBOmfqgTZi7yDp4-3Lr_3lA?annotation_id=annotation_2452002513&sub_confirmation=1 \n\nTo join our Bollywood Whatsapp community: click -https://rebrand.ly/WhatsAppCommunity\n\nLike, Comment and Share with your friends and family. Watch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on http://www.YouTube.com/ShemarooEnt\n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel @shemaroomovies \n\nBollywood ENT \nFollow us on: \nFacebook - https://www.facebook.com/ShemarooEnt/ \nTwitter - https://twitter.com/ShemarooEnt Instagram - https://www.instagram.com/shemarooent/?hl=en \nShemarooMe : https://shemaroome.onelink.me/ilnR/yt3\n\nBollywood Comedy \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/Comedywalas/ \nTwitter - https://twitter.com/ShemarooComedy Instagram - https://www.instagram.com/shemaroocomedy/?hl=en \n\nBollywood Music \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/ShemarooFilmiGaane/ \nTwitter - https://twitter.com/FilmiGaane Instagram - https://www.instagram.com/shemaroofilmigaane/?hl=en \n\nShemarooMe : https://shemaroome.onelink.me/ilnR/yt3\nFacebook - https://www.facebook.com/ShemarooEnt Twitter - https://twitter.com/ShemarooEnt \nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt",
+      "audio_tracks": []
+    },
+    {
+      "id": "XaXKh-s9zws",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Shemaroo Movies",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "Golmaal 3 Full Movie - Ajay Devgan - Kareena Kapoor - Arshad Warsi - Shreyas - Kunal - Tushar",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "seconds": 7653,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-10-06T21:55:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=XaXKh-s9zws",
+      "oembed": true,
+      "description": "#ShemarooMovies #Hindi #Movie #Bollywood #FullMovie #HD \n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt. \n\nFacebook - https://www.facebook.com/ShemarooEnt \nTwitter - https://twitter.com/ShemarooEnt \nGoogle+ -https://plus.google.com/+shemaroo \nPinterest - http://pinterest.com/shemaroo\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt. \n\nSign up for Free and get daily updates on New Videos, exclusive Web Shows, contests & much more\nhttp://youtube.shemaroo.com/default.aspx\n\nSend us your feedback and suggestions at : connect@shemaroo.com .\nDownload the app & watch entertaining Bollywood Movies, Web-series, original TV shows, Popular plays & songs, on ShemarooMe App\nDownload Now : https://shemaroome.app.link/1HCgXsejEbb",
+      "audio_tracks": []
+    },
+    {
+      "id": "sosEqOCgYNQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Shemaroo Movies",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "BOLLYWOOD ROMANTIC HINDI MOVIE - KAREENA KAPOOR KI ROMANTIC HINDI MOVIE - JAB WE MET",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "seconds": 8315,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2022-05-05T23:13:41-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sosEqOCgYNQ",
+      "oembed": true,
+      "description": "#ShemarooMovies #Hindi #Movie #Bollywood #FullMovie #HD \n\nClick here to Subscribe the channel : http://www.youtube.com/channel/UCBOmfqgTZi7yDp4-3Lr_3lA?annotation_id=annotation_2452002513&sub_confirmation=1 \n\nLike, Comment and Share with your friends and family. Watch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on http://www.YouTube.com/ShemarooEnt\n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel @shemaroomovies \n\nBollywood ENT \nFollow us on: \nFacebook - https://www.facebook.com/ShemarooEnt/ \nTwitter - https://twitter.com/ShemarooEnt Instagram - https://www.instagram.com/shemarooent/?hl=en \n\nBollywood Comedy \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/Comedywalas/ \nTwitter - https://twitter.com/ShemarooComedy Instagram - https://www.instagram.com/shemaroocomedy/?hl=en \n\nBollywood Music \nFollow us on: \nFacebook - Follow us on https://www.facebook.com/ShemarooFilmiGaane/ \nTwitter - https://twitter.com/FilmiGaane Instagram - https://www.instagram.com/shemaroofilmigaane/?hl=en \n\nShemarooMe : https://shemaroome.onelink.me/ilnR/yt3\nFacebook - https://www.facebook.com/ShemarooEnt Twitter - https://twitter.com/ShemarooEnt \nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt",
+      "audio_tracks": []
+    },
+    {
+      "id": "vxhlppZYYLU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "KBS WORLD TV",
+      "playlist_ids": [],
+      "caption_languages": [
+        "zh-Hans",
+        "en",
+        "ko"
+      ],
+      "title": "Love To The End | 끝까지 사랑 EP.1 [SUB: ENG, CHN/2018.07.27]",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "seconds": 1932,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2018-07-27T04:30:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vxhlppZYYLU",
+      "oembed": true,
+      "description": "Click the \"Caption\" button to activate subtitle!\n\n* Cast : Kang Euntak, Lee Youngah, Shim Jiho, Hong Suah\n\nLove To The End EP.1\n- Gayeong works at a cosmetics company. She visits a glass bottle factory. There she meets Jeonghan who’s fighting with loan sharks. Meanwhile, Sena intentionally approaches Duyeong on the plane back to Korea. She ignores Jeonghan who came to the airport. Gayeong is kicked out as she gave money to her mom who’s been divorced.\n\n▶Subscribe KBS World Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage: http://www.kbsworld.co.kr \nFacebook: http://www.facebook.com/kbsworld\nTwitter: http://twitter.com/kbsworldtv \nInstagram: https://www.instagram.com/kbsworldtv/\nLine: https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW",
+      "audio_tracks": [
+        {
+          "captionTrackIndices": [
+            0,
+            1,
+            2
+          ],
+          "defaultCaptionTrackIndex": 1,
+          "hasDefaultTrack": true,
+          "captionsInitialState": "CAPTIONS_INITIAL_STATE_OFF_RECOMMENDED"
+        }
+      ]
+    },
+    {
+      "id": "1TAE09a_nwE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP23 Emerald Anniversary | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1TAE09a_nwE",
+      "oembed": true
+    },
+    {
+      "id": "-INdp_kaWAc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP50 Running out of Time | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1277,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-INdp_kaWAc",
+      "oembed": true
+    },
+    {
+      "id": "eqyhH0FaBgc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP33 Project Shadow | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1277,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eqyhH0FaBgc",
+      "oembed": true
+    },
+    {
+      "id": "WszPVaOgfR8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 78 So Long Sonic | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1154,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2018-12-03T17:21:20-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=WszPVaOgfR8",
+      "oembed": true
+    },
+    {
+      "id": "kEOn7Y6wE5c",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP31 Revenge of the Robot | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1270,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=kEOn7Y6wE5c",
+      "oembed": true
+    },
+    {
+      "id": "7tB2LgOx8fA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP07 Party Hardly | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1269,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7tB2LgOx8fA",
+      "oembed": true
+    },
+    {
+      "id": "VwYQ0DnPjWI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP10 Unfair Ball | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=VwYQ0DnPjWI",
+      "oembed": true
+    },
+    {
+      "id": "EbmRA75fF6Y",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP12 Beating Eggman Part 1 | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=EbmRA75fF6Y",
+      "oembed": true
+    },
+    {
+      "id": "WurTQwB-j-U",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP13 Beating Eggman Part 2 | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=WurTQwB-j-U",
+      "oembed": true
+    },
+    {
+      "id": "w0uuhC6LlFM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP15 Skirmish in the Sky | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1272,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=w0uuhC6LlFM",
+      "oembed": true
+    },
+    {
+      "id": "B_uTFBTNI7o",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP16 Depth of Danger | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=B_uTFBTNI7o",
+      "oembed": true
+    },
+    {
+      "id": "Vc1z6_nBWKA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP17 The Adventures of Knuckles and Hawk | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Vc1z6_nBWKA",
+      "oembed": true
+    },
+    {
+      "id": "hnUYv2VhcY8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP18 The Dam Scam | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:02-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hnUYv2VhcY8",
+      "oembed": true
+    },
+    {
+      "id": "cE7WXrzkKrI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP19 Sonic's Scream Test | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1283,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=cE7WXrzkKrI",
+      "oembed": true
+    },
+    {
+      "id": "c8W-VVZtiyk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP20 Cruise Blues | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1185,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=c8W-VVZtiyk",
+      "oembed": true
+    },
+    {
+      "id": "z8QGrmRQsqw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP21 Fast Friends | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1277,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=z8QGrmRQsqw",
+      "oembed": true
+    },
+    {
+      "id": "nMJG40ht_sw",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP22 Little Chao Lost | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1278,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:02-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=nMJG40ht_sw",
+      "oembed": true
+    },
+    {
+      "id": "gyUnw0KCDT0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en",
+        "en"
+      ],
+      "title": "SONIC X - EP25 A Dastardly Deed | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1282,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=gyUnw0KCDT0",
+      "oembed": true
+    },
+    {
+      "id": "WkRmNHUgIVk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP27 Pure Chaos | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1296,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=WkRmNHUgIVk",
+      "oembed": true
+    },
+    {
+      "id": "PnDHLNS58FY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP28 A Chaotic Day | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1273,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=PnDHLNS58FY",
+      "oembed": true
+    },
+    {
+      "id": "gbn7h1VqKIU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP29 A Robot Rebels | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=gbn7h1VqKIU",
+      "oembed": true
+    },
+    {
+      "id": "NEypfVRripI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP35 Sonic's Big Break | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=NEypfVRripI",
+      "oembed": true
+    },
+    {
+      "id": "CoDKAOsd7Uc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP36 Shadow World | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1265,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=CoDKAOsd7Uc",
+      "oembed": true
+    },
+    {
+      "id": "pR7I8loqsC8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP37 Robotnik's Revenge | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1307,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=pR7I8loqsC8",
+      "oembed": true
+    },
+    {
+      "id": "XliSh3Ar0AQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP40 Sunblock Solution | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=XliSh3Ar0AQ",
+      "oembed": true
+    },
+    {
+      "id": "vIz7_2tjcOU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP41 Eggman for President | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1276,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vIz7_2tjcOU",
+      "oembed": true
+    },
+    {
+      "id": "2M9mpXbnK30",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP42 A Robot Rebels | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1260,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2M9mpXbnK30",
+      "oembed": true
+    },
+    {
+      "id": "Gb7GBxRTRr0",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP44 Sewer Search | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1242,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Gb7GBxRTRr0",
+      "oembed": true
+    },
+    {
+      "id": "b-qHbNGKnYE",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP46 A Wild Win | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1267,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=b-qHbNGKnYE",
+      "oembed": true
+    },
+    {
+      "id": "AcYkCcRdCLo",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP47 Map of Mayhem | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1275,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=AcYkCcRdCLo",
+      "oembed": true
+    },
+    {
+      "id": "bmjLqrc8ugQ",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP48 The Volcanic Venture | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1291,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bmjLqrc8ugQ",
+      "oembed": true
+    },
+    {
+      "id": "rpb3jpNSyDI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP49 The Beginning of the End | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1259,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rpb3jpNSyDI",
+      "oembed": true
+    },
+    {
+      "id": "bAo4Tiifwjk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP51 Friends 'Til the End | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:01-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bAo4Tiifwjk",
+      "oembed": true
+    },
+    {
+      "id": "qAtidd45kzI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP52 A New Start | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1243,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2015-07-01T00:00:00-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=qAtidd45kzI",
+      "oembed": true
+    },
+    {
+      "id": "7blfEcxZ_U8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 53 A Cosmic Call | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1287,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:26:02-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7blfEcxZ_U8",
+      "oembed": true
+    },
+    {
+      "id": "a8QEVZIFypY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 55 H2 Whoa | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1280,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:37:16-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=a8QEVZIFypY",
+      "oembed": true
+    },
+    {
+      "id": "S6TgUS3H7M8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 56 An Enemy in Need | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:39:23-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=S6TgUS3H7M8",
+      "oembed": true
+    },
+    {
+      "id": "0T_If4pEFRc",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 57 Chilling Discovery | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1287,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:40:37-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0T_If4pEFRc",
+      "oembed": true
+    },
+    {
+      "id": "yCAwN9HPSlY",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 58 Desperately Seeking Sonic | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1279,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:53:59-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=yCAwN9HPSlY",
+      "oembed": true
+    },
+    {
+      "id": "lBH6JASM4dk",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 59 Galactic Gumshoes | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1265,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:54:47-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=lBH6JASM4dk",
+      "oembed": true
+    },
+    {
+      "id": "-b2KKXXHJPs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 60 Trick Sand | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1288,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T00:57:50-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-b2KKXXHJPs",
+      "oembed": true
+    },
+    {
+      "id": "SKHF26ZySME",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 61 Ship of Doom | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1235,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:01:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SKHF26ZySME",
+      "oembed": true
+    },
+    {
+      "id": "_KiEP2atRwU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 62 An Underground Odyssey | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1273,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:02:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_KiEP2atRwU",
+      "oembed": true
+    },
+    {
+      "id": "N9nr9uqgN9I",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 63 Station Break-In | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1250,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:03:46-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=N9nr9uqgN9I",
+      "oembed": true
+    },
+    {
+      "id": "uv3Jdfkymc8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 65 Mission: Match Up | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1224,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:10:53-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=uv3Jdfkymc8",
+      "oembed": true
+    },
+    {
+      "id": "We3UBNdfbnM",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 66 Clash in the Cloister | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1202,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:12:54-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=We3UBNdfbnM",
+      "oembed": true
+    },
+    {
+      "id": "8ykblfGXgcI",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 67 Testing Time | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1222,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:14:44-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=8ykblfGXgcI",
+      "oembed": true
+    },
+    {
+      "id": "CL9tRwaOIzU",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 68 A Revolutionary Tale | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1207,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:16:18-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=CL9tRwaOIzU",
+      "oembed": true
+    },
+    {
+      "id": "QbzRj1lHeP8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 69 The Planet of Misfortune | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1232,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:18:15-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=QbzRj1lHeP8",
+      "oembed": true
+    },
+    {
+      "id": "1pZpQ9lfrJA",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 70 Terror On the Typhoon | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1209,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:20:35-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1pZpQ9lfrJA",
+      "oembed": true
+    },
+    {
+      "id": "SOHgRGpqd8Y",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 71 Hedgehog Hunt | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1198,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:21:24-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=SOHgRGpqd8Y",
+      "oembed": true
+    },
+    {
+      "id": "0LGDfZngevs",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 72 Zelkova Strikes Back | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1155,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:22:20-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0LGDfZngevs",
+      "oembed": true
+    },
+    {
+      "id": "MRPAoi0PjU8",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 75 Agent of Mischief | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1213,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:24:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=MRPAoi0PjU8",
+      "oembed": true
+    },
+    {
+      "id": "7lTR0Ys6k7o",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 76 The Light in the Darkness | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1262,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:26:33-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7lTR0Ys6k7o",
+      "oembed": true
+    },
+    {
+      "id": "rU_nFxK4iek",
+      "eligible": true,
+      "checked_at": "2026-10-17",
+      "author": "Anime! on TMS Official Channel",
+      "playlist_ids": [
+        "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+        "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+        "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j"
+      ],
+      "caption_languages": [
+        "en"
+      ],
+      "title": "SONIC X - EP 77 A Fearless Friend | English Dub | Full Episode",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "seconds": 1264,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "OK",
+      "player_reason": null,
+      "publish_date": "2017-10-04T01:27:32-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=rU_nFxK4iek",
+      "oembed": true
+    }
+  ],
+  "searches": [
+    {
+      "query": "anime full movie Hindi dubbed official",
+      "rows": [
+        {
+          "video_id": "9K0qBaJSCW4",
+          "title": "HELL\"S PARADISE | EP 1-10 | HINDI DUB",
+          "lead_uploader": "Almation Studio",
+          "lead_channel_id": "UCavWVqcucIA5qmlC5v147xA",
+          "runtime_label": "3:32:30",
+          "views_label": "272,815 views"
+        },
+        {
+          "video_id": "6OeU5PrWFuE",
+          "title": "I Became a Legend After My 10-Year-Long Last Stand || Hindi Dub || Latest 2026 ",
+          "lead_uploader": "Anime Hub",
+          "lead_channel_id": "UCs4IDxF-Edx_NW1p9iytEyw",
+          "runtime_label": "2:24:39",
+          "views_label": "5,665 views"
+        },
+        {
+          "video_id": "crh18V_Uaro",
+          "title": "【Hindi Dubbed】The Weakest Boy Unlocks Forbidden SS Power | episode 1 - 12 anime in hindi dubbed |",
+          "lead_uploader": "DARK_BANKAI",
+          "lead_channel_id": "UCF4uF-MrC3p9cLz5j5iDlDQ",
+          "runtime_label": "4:35:22",
+          "views_label": "419,217 views"
+        },
+        {
+          "video_id": "G8jdxdAE88M",
+          "title": "Naw anime episode 1 - 12 anime in hindi dubbed full movie 🎬🍿",
+          "lead_uploader": "DAIKO PLASY",
+          "lead_channel_id": "UC-dQ9GRt9G-qedP757MJ8Ww",
+          "runtime_label": "4:10:56",
+          "views_label": "122,194 views"
+        },
+        {
+          "video_id": "glubM5ITcIw",
+          "title": "Suzume | The Movie | Full Movie Hindi Dubbed | 4k Resolution | New Anime Movie | #suzume #anime #cat",
+          "lead_uploader": "Transform Gaming",
+          "lead_channel_id": "UCJZH2Wvt0SLaVoujLo9We0A",
+          "runtime_label": "2:01:26",
+          "views_label": "1,237,158 views"
+        },
+        {
+          "video_id": "AbuHLC2KJUs",
+          "title": "Infinity game, Demon lord reborn. Full season  anime.. Hindi dubbed.",
+          "lead_uploader": "Anime world hindi",
+          "lead_channel_id": "UCyl7pSu1LdDxm-jw6qmiJ8A",
+          "runtime_label": "4:02:37",
+          "views_label": "165,041 views"
+        },
+        {
+          "video_id": "wdEUU_tf3Gk",
+          "title": "Your Name Full Movie Hindi Dubbed ",
+          "lead_uploader": "Yours Mbbs",
+          "lead_channel_id": "UCWdtfpJ8sT9TulkaPyayc9w",
+          "runtime_label": "1:46:37",
+          "views_label": "389,901 views"
+        },
+        {
+          "video_id": "qOkvPiOiD-M",
+          "title": "Fireworks Full Movie Hindi Dubbed | Latest Anime Movie in Hindi | Fireworks 2017",
+          "lead_uploader": "Reiner Animez",
+          "lead_channel_id": "UC1yz4dhvMA5DwUaMAKMQNvA",
+          "runtime_label": "1:25:32",
+          "views_label": "238,958 views"
+        },
+        {
+          "video_id": "C0uP5AOpPgs",
+          "title": "A SILENT VOICE || Hindi Dub || Anime Love story || ANIME SQUBE ||",
+          "lead_uploader": "Anime Sqube",
+          "lead_channel_id": "UC_C3DiOaHBor3elRCNs8r8A",
+          "runtime_label": "2:03:13",
+          "views_label": "2,125,918 views"
+        },
+        {
+          "video_id": "Ac-xmaJYXdQ",
+          "title": "New Hindi Dubbed Adventure Anime 🔥 | EP 1–12 | Full Movie",
+          "lead_uploader": "AnimeEve",
+          "lead_channel_id": "UCIveOCpqX_T9eFODT7v4YKA",
+          "runtime_label": "4:29:01",
+          "views_label": "621,783 views"
+        },
+        {
+          "video_id": "gJ9if-XyFkE",
+          "title": "NEW Anime Hindi Dubbed 2026 Episodes 1-12 - Season 1",
+          "lead_uploader": "Anime Nest Hindi",
+          "lead_channel_id": "UCuPRntPG93Byqeq0cxfWt0w",
+          "runtime_label": "3:34:16",
+          "views_label": "927,232 views"
+        },
+        {
+          "video_id": "UOD2poAM7qc",
+          "title": "One Punch Man Season 1 in hindi | episode 1-12 anime in hindi dubbed full movie",
+          "lead_uploader": "PHANTOM_ASURA",
+          "lead_channel_id": "UCr3-mZR-hvAxhzBQsIHkWQg",
+          "runtime_label": "4:33:02",
+          "views_label": "568,734 views"
+        },
+        {
+          "video_id": "4Jw3tJUQOSA",
+          "title": "Solo Leveling Full Complete Series Season 01 & 02 In Hindi Dubbed | Solo Leveling Anime In Hindi",
+          "lead_uploader": "Anime TV India",
+          "lead_channel_id": "UCxXhpxE4zvhcq2Br7S4yoeA",
+          "runtime_label": "3:14:41",
+          "views_label": "1,777,855 views"
+        }
+      ]
+    },
+    {
+      "query": "Doraemon full movie Hindi official",
+      "rows": [
+        {
+          "video_id": "VpNP0Crp-Aw",
+          "title": "Doraemon Nobita’s Treasure Island Movie In Hindi   Doraemon Movie In Hindi",
+          "lead_uploader": "The Noob Gamer",
+          "lead_channel_id": "UCzJHx5udFrhv9qjiGmD4fWg",
+          "runtime_label": "1:45:11",
+          "views_label": "7,370 views"
+        },
+        {
+          "video_id": "0HxNswu9Xuo",
+          "title": "Doraemon Nobita|Nobita's Space Heroes Doraemon full Movie in Hindi | Doraemon New Movies 2026",
+          "lead_uploader": "𝐈𝐒𝐋𝐀𝐌𝐈𝐂 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐔𝐒 𝐕𝐈𝐃𝐄𝐎",
+          "lead_channel_id": "UCyQ69zMyrvmsdrcgvpivj3w",
+          "runtime_label": "1:49:34",
+          "views_label": "23,356 views"
+        },
+        {
+          "video_id": "990UmkUBEbE",
+          "title": "Doremon : Nobita New adventures movie | Full movie Hindi dubbed | 🐁",
+          "lead_uploader": "THE RUL 2XR",
+          "lead_channel_id": "UCe1aWUeHEKldhceVVh1T6cg",
+          "runtime_label": "2:00:01",
+          "views_label": "27,250 views"
+        },
+        {
+          "video_id": "AEK9rTdgrNs",
+          "title": "Doraemon Movie Hindi Dubbed ❄️ Nobita पहुँचा Antarctica! 😱 | Great Adventure Full Movie",
+          "lead_uploader": "Innerza",
+          "lead_channel_id": "UCgJKkd2DZv02HVHNBQWbg9g",
+          "runtime_label": "1:40:28",
+          "views_label": "9,682 views"
+        },
+        {
+          "video_id": "zSPpVqEmrfw",
+          "title": "Doraemon movie : Stand By Me in Hindi || HD 🎬",
+          "lead_uploader": "Trolvex",
+          "lead_channel_id": "UC8ggGevgn0aLhe-mwgMWfpw",
+          "runtime_label": "1:35:48",
+          "views_label": "4,293 views"
+        },
+        {
+          "video_id": "B8gluUeGvsk",
+          "title": "Doraemon: Nobita's Robot Kingdom 🤖 | Full Movie in Hindi | Doraemon Movie | Robot Kingdom",
+          "lead_uploader": "kala cup",
+          "lead_channel_id": "UCJ6UuYvlxV8DJjoHrtiiyxQ",
+          "runtime_label": "1:20:29",
+          "views_label": "4,761 views"
+        },
+        {
+          "video_id": "Uyl42ftXRMI",
+          "title": "Doraemon new episode in hindi - without zoom effect - doraemon cartoon - Doraemonnew episode",
+          "lead_uploader": "ronaldo fans",
+          "lead_channel_id": "UCn1AZZwQIpmohoYzeeltz0Q",
+          "runtime_label": "36:47",
+          "views_label": "13,235 views"
+        },
+        {
+          "video_id": "dUPU1T3TxxM",
+          "title": "Doraemon Movie| doremon, Nobita new adventure full movie in Hindi Dubbed |",
+          "lead_uploader": "Hijazi Welfare Organization",
+          "lead_channel_id": "UCPRRSiE79cwxGjm3LBMKgFw",
+          "runtime_label": "3:00:07",
+          "views_label": "2,657 views"
+        },
+        {
+          "video_id": "pGLLS-9Yo4I",
+          "title": "Doraemon Cartoon 2026 New Full Episode In Hindi Best Episode",
+          "lead_uploader": "Mr Lofi Mashup",
+          "lead_channel_id": "UCVJP7JxAMD-XcNUEcA75lUA",
+          "runtime_label": "1:17:14",
+          "views_label": "96,825 views"
+        },
+        {
+          "video_id": "89lr62uSXL0",
+          "title": "Doraemon New Episode 16-10-2026 - Episode 03 - Doraemon Cartoon - Doraemon In Hindi - Doraemon Movie",
+          "lead_uploader": "Mercy of Allah ",
+          "lead_channel_id": "UCdEkWAmedDhXkASAir7IpTg",
+          "runtime_label": "33:13",
+          "views_label": "19,424 views"
+        },
+        {
+          "video_id": "XZHIzK-KdDs",
+          "title": "Doraemon Latest Episode 2026 |Hindi Dubbed | No Zoom Effect Full Episode Hindi ",
+          "lead_uploader": "MFiaz Movies and Live Episode Channel",
+          "lead_channel_id": null,
+          "runtime_label": "36:13",
+          "views_label": "2,585 views"
+        },
+        {
+          "video_id": "kMpraVhBTXc",
+          "title": "Doraemon Latest Episode 2026 |Hindi Dubbed | No Zoom Effect Full Episode Hindi",
+          "lead_uploader": "Real Islam and Ronaldo Kicks Vids",
+          "lead_channel_id": null,
+          "runtime_label": "34:18",
+          "views_label": "20,900 views"
+        },
+        {
+          "video_id": "B1SAbb3kvG0",
+          "title": "Doraemon new episode in hindi - without zoom effect - doraemon cartoon - doraemon new episode hindi",
+          "lead_uploader": "Rayhan Khan",
+          "lead_channel_id": "UC_2JJIYjVunhUk3AYIC80wA",
+          "runtime_label": "34:22",
+          "views_label": "2,327 views"
+        },
+        {
+          "video_id": "rP4EIYB1yPc",
+          "title": "Doraemon new episode in hindi | New episodes of Doraemon",
+          "lead_uploader": "Farm Snippets",
+          "lead_channel_id": "UCbkudM5Ly3EhsBGX3mA95UA",
+          "runtime_label": "35:26",
+          "views_label": "4,390 views"
+        },
+        {
+          "video_id": "2dT6iHA6ee0",
+          "title": "Doraemon Latest Episode 2026 |Hindi Dubbed | No Zoom Effect Full Episode Hindi",
+          "lead_uploader": "Doremoon Yt",
+          "lead_channel_id": "UCvLnJ1FXJcFrmg0EFKyd-iA",
+          "runtime_label": "20:49",
+          "views_label": "16,446 views"
+        },
+        {
+          "video_id": "V6UXcNbEX-Q",
+          "title": "Doraemon movie dekho 📸#doremon #nobita #movie ",
+          "lead_uploader": "hardtooz size",
+          "lead_channel_id": "UCftleiFuwb6bt3VXUpezcVw",
+          "runtime_label": "1:35:51",
+          "views_label": "248,440 views"
+        },
+        {
+          "video_id": "7X-QqpeA9IM",
+          "title": "Doraemon New Episode In Hindi | Doraemon in Hindi - Doraemon Cartoon in Hindi p5",
+          "lead_uploader": "TGR SARTHAK 1",
+          "lead_channel_id": "UCqy_G2qmWbRL2hFcsvOjusg",
+          "runtime_label": "34:17",
+          "views_label": "12,298 views"
+        },
+        {
+          "video_id": "bqr0lmXP6lg",
+          "title": "Doraemon new episode hindi Nobita Ka Bodyguard 😂 | Doraemon Hindi Cartoon ",
+          "lead_uploader": "Ronaldo Fan",
+          "lead_channel_id": "UC0d3pyc3HxUl5Ij_SKozP_w",
+          "runtime_label": "36:24",
+          "views_label": "31,198 views"
+        },
+        {
+          "video_id": "DjcHElhJnDU",
+          "title": "Doraemon Full Episode Hindi | Doraemon New Episode in Hindi | #doraemon #doraemoninhindi",
+          "lead_uploader": "Wasiq Tech",
+          "lead_channel_id": "UCyn1s3Xu5-JGJZlMceamH0Q",
+          "runtime_label": "52:19",
+          "views_label": "65,355 views"
+        },
+        {
+          "video_id": "29OELyWvBZg",
+          "title": "Doraemon Cartoon | New and best Episode #cartoon #doraemon",
+          "lead_uploader": "Basit Khan",
+          "lead_channel_id": "UCmIfQW3KwiU2D7g7nsFDUOg",
+          "runtime_label": "44:02",
+          "views_label": "701,817 views"
+        }
+      ]
+    },
+    {
+      "query": "Shinchan full movie Hindi official",
+      "rows": [
+        {
+          "video_id": "xixASL-3z9I",
+          "title": "Shinchan in hindi episode ll Welcome to Nobody town ll",
+          "lead_uploader": "Cartoon_world_05",
+          "lead_channel_id": "UCldYXRRnKT5LRSfiXRzn0vg",
+          "runtime_label": "15:50",
+          "views_label": "125,208 views"
+        },
+        {
+          "video_id": "Ga4HeL5Tlrg",
+          "title": "Shin-Chan the Movie- Blitz! Pig’s Hoof’s Secret Mission - In Hindi - Shinchan new Movie - Sony Yay !",
+          "lead_uploader": "Rohit Yadav",
+          "lead_channel_id": "UCItnH1xRaWeUyVz1eaACJHQ",
+          "runtime_label": "1:30:24",
+          "views_label": "100,111 views"
+        },
+        {
+          "video_id": "ZLBdDJIzcIA",
+          "title": "Shinchan latest episode 1 hour! 😂 | Shinchan in Hindi | New Episode | BREAK FREE ",
+          "lead_uploader": "Happy Jaya",
+          "lead_channel_id": "UCca_GUJejwYP0ArbZbaCm9A",
+          "runtime_label": "1:13:33",
+          "views_label": "9,588 views"
+        },
+        {
+          "video_id": "7HD_WY2Yfn8",
+          "title": "Shinchan full movie in Hindi - Protecting the Princess",
+          "lead_uploader": "Desi Aquascraper",
+          "lead_channel_id": "UCW53LZfk-WxVrXFRhm3ECkg",
+          "runtime_label": "14:04",
+          "views_label": "103,388 views"
+        }
+      ]
+    },
+    {
+      "query": "anime movie English dub official",
+      "rows": [
+        {
+          "video_id": "IaZXBs-6oHM",
+          "title": "KICKED HIM OUT, NOW HE RETURNED AS SS-RANK MAGE Eng Dub - New Anime English Dub 2026 🦌🐣 Reborn Ink",
+          "lead_uploader": "Reborn Ink and 4 more",
+          "lead_channel_id": null,
+          "runtime_label": "11:56:39",
+          "views_label": "4,505 views"
+        },
+        {
+          "video_id": "q5SSkP6nK6U",
+          "title": "Spirit Warrior: Revival of Evil (1994) | FULL ANIME OVA | English Dub",
+          "lead_uploader": "HybridMindThoughts",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "runtime_label": "1:28:09",
+          "views_label": "26,834 views"
+        },
+        {
+          "video_id": "qRK91V22iTM",
+          "title": "Ninja War & Love of Blood  Episode 1-12 English Dubbed Anime",
+          "lead_uploader": "Anime WatchVideo",
+          "lead_channel_id": "UCf1udrc8F2EjV17EQRdMDTg",
+          "runtime_label": "3:36:33",
+          "views_label": "319,059 views"
+        },
+        {
+          "video_id": "X3ukGoS8nrA",
+          "title": "TRANSFER STUDENT VS THE SCHOOL BULLIES Eng Dub - New Anime English Dub 2026 🦌🐣 Reborn Ink",
+          "lead_uploader": "Reborn Ink and 4 more",
+          "lead_channel_id": null,
+          "runtime_label": "11:32:26",
+          "views_label": "927 views"
+        },
+        {
+          "video_id": "gwd8pAb61hM",
+          "title": "Reincarnated Into Another World and Became Invincible | New Saga Full Anime (Ep 1–12 English Dub)",
+          "lead_uploader": "Anime Movies Club",
+          "lead_channel_id": "UC9MWHGs0IxDfnuzcPAdhtJw",
+          "runtime_label": "3:40:54",
+          "views_label": "219,791 views"
+        },
+        {
+          "video_id": "ItyA8yVjq6g",
+          "title": "THE LOST CHILD OF CALAMITY HAS AWAKENED Eng Dub - New Anime English Dubbed 💫💦 jerry",
+          "lead_uploader": "jJnzz",
+          "lead_channel_id": "UCD04R42zeyuJK_q-8oWlgzg",
+          "runtime_label": "6:19:21",
+          "views_label": "591,320 views"
+        },
+        {
+          "video_id": "rTRdI486suc",
+          "title": "Hortensia SAGA Episode 1 - 12 English Dub",
+          "lead_uploader": "Random",
+          "lead_channel_id": "UCdKxGg5815x9MQ75_sdiT5g",
+          "runtime_label": "4:07:29",
+          "views_label": "588,616 views"
+        },
+        {
+          "video_id": "L_e8O39Bm98",
+          "title": "The Demon’s Chosen Heir English Dub All Episode. Episode 1 ➜ 12",
+          "lead_uploader": "alefis",
+          "lead_channel_id": "UCYhiN-ppOKIAsKJh0VdBtMg",
+          "runtime_label": "4:41:49",
+          "views_label": "224,232 views"
+        },
+        {
+          "video_id": "26wyfiZ4d8w",
+          "title": "A Powerful King's Rebirth into Love, Magic, and Danger Ep 1–12 | Anime English Dub 2026",
+          "lead_uploader": "Ông Bô My Tạo",
+          "lead_channel_id": "UCYUM2fMnlYEIxipBhMPmXNg",
+          "runtime_label": "8:20:49",
+          "views_label": "76,437 views"
+        },
+        {
+          "video_id": "Xg44r0LerUw",
+          "title": "Ergo Proxy (2006) 2-23 ep English Dubbed HD 1080p full screen 10h",
+          "lead_uploader": "Killer Anime S M",
+          "lead_channel_id": "UCbGEs7zmidI1Emzh-1UKliQ",
+          "runtime_label": "9:31:20",
+          "views_label": "500,014 views"
+        },
+        {
+          "video_id": "vPRTtazJwMY",
+          "title": "Magic Soldier Latest Anime English Dubbed in 2024 In Full Screen",
+          "lead_uploader": "Anime series ",
+          "lead_channel_id": "UC1yBM5K3j5mHxe1dOBrctmA",
+          "runtime_label": "4:43:09",
+          "views_label": "82,592 views"
+        },
+        {
+          "video_id": "ZP4WbT0LG4w",
+          "title": "The Irregular at Magic High School THE MOVIE Yotsuba Succession Arc | Dub Trailer | Crunchyroll",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "1:21",
+          "views_label": "10,855 views"
+        }
+      ]
+    },
+    {
+      "query": "Kdrama Hindi dubbed full episode official",
+      "rows": [
+        {
+          "video_id": "2eXl_2wkklo",
+          "title": "नौकरी के पहले दिन पता चला CEO ही कल रात का आदमी है! भागना चाहा, पर CEO ने कहा – आखिर तुम मिल गईं!",
+          "lead_uploader": "Pyar Drama Hindi",
+          "lead_channel_id": "UCRfsL6TbjDBeRaCjJ0sPv_g",
+          "runtime_label": "2:50:36",
+          "views_label": "51,178 views"
+        },
+        {
+          "video_id": "SWh9u4fIKE4",
+          "title": "My Heart Belongs to His Bodyguard | New Chinese Drama in Hindi Dubbed | Full Movie",
+          "lead_uploader": "𝑭⁴ 𝑪𝒆𝒏𝒕𝒓𝒂𝒍 1",
+          "lead_channel_id": "UCJYtu8nm414JOd-lYmKSidw",
+          "runtime_label": "1:39:22",
+          "views_label": "79,218 views"
+        },
+        {
+          "video_id": "2MuQcN1fc80",
+          "title": "School 2017 – Episode 1 (Hindi Dubbed) | Korean Masala Hindi | K Drama In Hindi",
+          "lead_uploader": "Korean Masala Hindi",
+          "lead_channel_id": "UCDTj8_OpMFtwfyJ9uO5a_pw",
+          "runtime_label": "1:02:12",
+          "views_label": "4,676,036 views"
+        },
+        {
+          "video_id": "p0NGVblds3Y",
+          "title": "Take Charge of My Heart Full KDrama Movie | Kim Young-kwang, Chae Soo-bin | Story Explained & Review",
+          "lead_uploader": "FHit Pictures",
+          "lead_channel_id": "UC2P0jVJnV63O1HFDz_KxQyQ",
+          "runtime_label": "2:15:33",
+          "views_label": "107,634 views"
+        },
+        {
+          "video_id": "a6DFX8op_eQ",
+          "title": "[Hindi Dubbed] My Secret Mom & Dad | Hindi Dubbed | Full Movie | New Chinese Drama In Hindi!",
+          "lead_uploader": "Drama hungama Hindi",
+          "lead_channel_id": "UCybR24cnfuvupv3hNSoFiyQ",
+          "runtime_label": "1:44:10",
+          "views_label": "748,090 views"
+        },
+        {
+          "video_id": "MWyTngBGHxg",
+          "title": "Doctor X: Mafia in White Full Movie | Kim Ji-won, Lee Jung-eun | KDrama | Breakdown &Story Explained",
+          "lead_uploader": "FHit Pictures",
+          "lead_channel_id": "UC2P0jVJnV63O1HFDz_KxQyQ",
+          "runtime_label": "2:15:07",
+          "views_label": "184,739 views"
+        },
+        {
+          "video_id": "aNRm7Fb_GUU",
+          "title": "Love of School K Drama Full Episode in Hindi Dubbed HD",
+          "lead_uploader": "JS ENTERTAINMENT ",
+          "lead_channel_id": "UCteFibYBwW-Ze65L8OfCaHQ",
+          "runtime_label": "5:59:01",
+          "views_label": "2,586,076 views"
+        }
+      ]
+    },
+    {
+      "query": "KBS WORLD drama full episode English subtitles",
+      "rows": [
+        {
+          "video_id": "Vy4US70H810",
+          "title": "[Full/K-Drama] Search WWW EP.1 | #Engsub #LimSoojung #JangKiyong #LeeDaHee #JeonHyejin #BiggerOnTV",
+          "lead_uploader": "Diggin’ K-Contents",
+          "lead_channel_id": "UCsJ_a9JujtcZUaeGlo3x4eg",
+          "runtime_label": "1:09:57",
+          "views_label": "128,485 views"
+        },
+        {
+          "video_id": "4aPllJ8REnE",
+          "title": "[Full] Discovery of Love EP.1 [SUB: ENG, CHN, IND, VIE, MLY] | 연애의 발견",
+          "lead_uploader": "KBS WORLD TV",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "runtime_label": "58:08",
+          "views_label": "5,406,035 views"
+        },
+        {
+          "video_id": "GG-O6CTo004",
+          "title": "[ENG SUB•FULL] Tomorrow, With You｜Ep.01 #leejehoon #shinminah",
+          "lead_uploader": "Diggin’ K-Contents",
+          "lead_channel_id": "UCsJ_a9JujtcZUaeGlo3x4eg",
+          "runtime_label": "1:02:29",
+          "views_label": "697,448 views"
+        },
+        {
+          "video_id": "vxhlppZYYLU",
+          "title": "Love To The End | 끝까지 사랑 EP.1 [SUB: ENG, CHN/2018.07.27]",
+          "lead_uploader": "KBS WORLD TV",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "runtime_label": "32:13",
+          "views_label": "690,207 views"
+        }
+      ]
+    },
+    {
+      "query": "Goldmines new Hindi dubbed full movie",
+      "rows": [
+        {
+          "video_id": "zsLMsPSbHNY",
+          "title": "Raja The Great (2026) New Released Hindi Dubbed Full Movie | Ravi Teja, Mehreen | Dussehra Special",
+          "lead_uploader": "Goldmines",
+          "lead_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+          "runtime_label": "2:02:36",
+          "views_label": "2,807,098 views"
+        },
+        {
+          "video_id": "kVg1yrAGdTs",
+          "title": "DAAMAD SUPERSTAR (2026) New Released Full Hindi Dubbed Movie | Kalyaan Dev, Avika | New South Movie",
+          "lead_uploader": "AD-WISE MEDIA ACTION MOVIEPLEX",
+          "lead_channel_id": "UCSx_w4q5PkAOg9i45uMFHmA",
+          "runtime_label": "1:52:37",
+          "views_label": "559,470 views"
+        },
+        {
+          "video_id": "ZXEZPWFdIt4",
+          "title": "Nagarjuna Akkineni, Lavanya (4K) | Full Power Action South Indian Hindi Dubbed Movie | Latest Movie",
+          "lead_uploader": "RDC South Dubbed",
+          "lead_channel_id": "UCOOiD1QMZG8fwH9oGdGIuUQ",
+          "runtime_label": "1:58:15",
+          "views_label": "3,076 views"
+        },
+        {
+          "video_id": "xNiyJHYOB5c",
+          "title": "Criminal (2026) I Allu Arjun 2026 New Movie I Hindi Dubbed South Indian New Released Superhit Movie",
+          "lead_uploader": "Super High Pictures",
+          "lead_channel_id": "UCrf0ykXh2EFC-lSmxof57Ig",
+          "runtime_label": "2:27:39",
+          "views_label": "1,504,623 views"
+        },
+        {
+          "video_id": "KdZQBRlMkgA",
+          "title": "Sarkari 2 Full Movie Hindi Dubbed | Thalapathy Vijay & Sreeleela | Latest South Indian Movie 2026",
+          "lead_uploader": "Super High Pictures",
+          "lead_channel_id": "UCrf0ykXh2EFC-lSmxof57Ig",
+          "runtime_label": "2:29:36",
+          "views_label": "464,301 views"
+        },
+        {
+          "video_id": "UgJEeOO7L0c",
+          "title": "(THEATER GUNDA ) New South Movie Hindi Dubbed | Vijay Setupathi | Hindi Dubbed Movie | New Movies",
+          "lead_uploader": "ADWISE SOUTH ACTION MOVIES",
+          "lead_channel_id": "UC7M4Vqyf246jTABh18ScGqw",
+          "runtime_label": "2:09:16",
+          "views_label": "5,613,246 views"
+        },
+        {
+          "video_id": "L1p2K5wFLE8",
+          "title": "BAGHEERA (2026) New Released Full Hindi Dubbed Movie | Sriimurali, Rukmini Vasanth, Prakash Raj",
+          "lead_uploader": "AD-WISE MEDIA ACTION MOVIEPLEX",
+          "lead_channel_id": "UCSx_w4q5PkAOg9i45uMFHmA",
+          "runtime_label": "2:26:11",
+          "views_label": "14,226,969 views"
+        },
+        {
+          "video_id": "3VOHM2h3-q0",
+          "title": "HANUMAN 2 I\" Teja Sajja, Amritha Aiyer and Vinay Rai \" Superhit South Indian Hindi Dubbed Movie 2026",
+          "lead_uploader": "Super High Pictures",
+          "lead_channel_id": "UCrf0ykXh2EFC-lSmxof57Ig",
+          "runtime_label": "2:36:27",
+          "views_label": "3,864,711 views"
+        },
+        {
+          "video_id": "XE1zGUvCb48",
+          "title": "Racharikam (2026) New Released Full Action South Hindi Dubbed Movie | Vijay, Apsara | New Movie 2026",
+          "lead_uploader": "Sur Movies Exclusive and 2 more",
+          "lead_channel_id": null,
+          "runtime_label": "1:59:17",
+          "views_label": "1,318,538 views"
+        },
+        {
+          "video_id": "pES0Zuwi66E",
+          "title": "MISSION 118 4K",
+          "lead_uploader": "Premium Digiplex Movies and 5 more",
+          "lead_channel_id": null,
+          "runtime_label": "1:47:57",
+          "views_label": "211,093 views"
+        },
+        {
+          "video_id": "3PA7iuLJBIk",
+          "title": "CLAP - 2026 New Released Superhit South Hindi Dubbed Movie | Aadhi Pinisetty & Aakanksha Latest M...",
+          "lead_uploader": "RDC Movie and 5 more",
+          "lead_channel_id": null,
+          "runtime_label": "1:53:22",
+          "views_label": "5,039 views"
+        },
+        {
+          "video_id": "O5ipKlqj77I",
+          "title": "ऑक्सीजन (HD) - गोपीचंद ब्लॉकबस्टर एक्शन थ्रिलर हिंदी डब्ड मूवी | राशी खन्ना, अनु इमैनुएल",
+          "lead_uploader": "Goldmines Premiere",
+          "lead_channel_id": "UCvUctuMp58UD_kQtcWcNCjw",
+          "runtime_label": "2:06:44",
+          "views_label": "16,864 views"
+        },
+        {
+          "video_id": "phX101ShU8w",
+          "title": "Operation Ravan (2026) New Released Full Action South Hindi Dubbed Movie | Dussehra Special 2026",
+          "lead_uploader": "Anmol Rishtey",
+          "lead_channel_id": "UCWdW8lpmo6X6Lo46lxVlhgA",
+          "runtime_label": "2:08:23",
+          "views_label": "121,831 views"
+        },
+        {
+          "video_id": "IpXdtgkywS8",
+          "title": "Hero No Zero 2 - Karthi Superhit Hindi Dubbed Film |Kajal Aggarwal, Sanathanam, Prabhu, Radhika Apte",
+          "lead_uploader": "Goldmines Dishoom",
+          "lead_channel_id": "UCu7Hg0f3rxqZ6qs-188ZbjQ",
+          "runtime_label": "2:09:41",
+          "views_label": "24,302,021 views"
+        },
+        {
+          "video_id": "Bwj0H5blRhg",
+          "title": "BHEEMA | New (2026) Released South Indian Movie Dubbed In Hindi | Duniya Vijay | Action Movie Hindi",
+          "lead_uploader": "Wamindia Movies and 9 more",
+          "lead_channel_id": null,
+          "runtime_label": "2:06:36",
+          "views_label": "480,485 views"
+        },
+        {
+          "video_id": "L0pJUNfJ6oI",
+          "title": "Jaanbaaz Khiladi (HD) (Komaram Puli) - Pawan Kalyan's Blockbuster Action Hindi Movie |Nikeesha Patel",
+          "lead_uploader": "Goldmines",
+          "lead_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+          "runtime_label": "2:11:46",
+          "views_label": "37,028,355 views"
+        },
+        {
+          "video_id": "qxtm3Z8X1OY",
+          "title": "LINGAA (Hindi Dubbed) RAJINIKANTH NEW MOVIE | South Action Thriller | Jagapathi Babu, Anushka",
+          "lead_uploader": "South Blockbusters",
+          "lead_channel_id": "UCTJ2V43KxHnfxooWAFbYUgA",
+          "runtime_label": "2:29:23",
+          "views_label": "106,186 views"
+        },
+        {
+          "video_id": "6XfRU3kXxpE",
+          "title": "PICHAIKKARAN 2 (2026) Full Hindi Dubbed Movie | Vijay Antony & Kavya Thapar | Action Thriller Movie",
+          "lead_uploader": "Majedar Movies and 3 more",
+          "lead_channel_id": null,
+          "runtime_label": "2:04:52",
+          "views_label": "387,406 views"
+        },
+        {
+          "video_id": "xQG-OXgiS7s",
+          "title": "Bhairava - Vijay's Superhit Hindi Dubbed Full Movie | Keerthy Suresh, Jagapathi Babu, Sathish",
+          "lead_uploader": "Blockbuster Movies",
+          "lead_channel_id": "UCW3VI9s3Dw8o1ekgjI3FCzw",
+          "runtime_label": "2:11:26",
+          "views_label": "2,628,738 views"
+        },
+        {
+          "video_id": "e3lm0bTGZfI",
+          "title": "The Return Of Rebel (Rebel) (4K ULTRA HD) Full Action Hindi Dubbed Movie| Prabhas, Tamannaa, Deeksha",
+          "lead_uploader": "Goldmines",
+          "lead_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+          "runtime_label": "2:14:39",
+          "views_label": "272,732,868 views"
+        },
+        {
+          "video_id": "9WVMbNIhBuo",
+          "title": "Taqdeer (Hello) 4K | Kalyani Priyadarshan, Akhil Akkineni | Superhit South Action Hindi Dubbed Movie",
+          "lead_uploader": "RKD Prime Time",
+          "lead_channel_id": "UCJBJrLWfpSjWhqa2zjgL1_g",
+          "runtime_label": "1:54:07",
+          "views_label": "12,044,026 views"
+        },
+        {
+          "video_id": "EHRZgPDvPMY",
+          "title": "PARTNER (2026) Full Hindi Dubbed Movie | Aadhi Pinisetty & Hansika Motwani | Comedy Drama Movie",
+          "lead_uploader": "RDC South Dubbed",
+          "lead_channel_id": "UCOOiD1QMZG8fwH9oGdGIuUQ",
+          "runtime_label": "1:52:00",
+          "views_label": "183,089 views"
+        },
+        {
+          "video_id": "EqOsmvcG2iQ",
+          "title": "NEW SOUTH INDIAN MOVIES DUBBED IN HINDI 2025 FULL HD - VIJAY THALAPATHY NEW SOUTH MOVIE HINDI MASTER",
+          "lead_uploader": "Hindi Movie",
+          "lead_channel_id": "UCHG5w-Udi0EKl05RWbWY2Bg",
+          "runtime_label": "2:51:05",
+          "views_label": "36,735,994 views"
+        },
+        {
+          "video_id": "dIsDOAsE-eM",
+          "title": "Siruthai 2021 New Released Hindi Dubbed Movie | Karthi, Tamannaah, Santhanam",
+          "lead_uploader": "Goldmines",
+          "lead_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+          "runtime_label": "2:17:16",
+          "views_label": "13,584,907 views"
+        },
+        {
+          "video_id": "wjVLnrdoP2o",
+          "title": "Vijaybhava: The Rise of Kingdom South Indian Full Hindi Dubbed Movie | Vijay Deverakonda",
+          "lead_uploader": "SDE Movieplex",
+          "lead_channel_id": "UCb5_PoKVkJy3DxhuuRpCyHQ",
+          "runtime_label": "2:23:26",
+          "views_label": "12,905,565 views"
+        },
+        {
+          "video_id": "b7QIkFPZbOo",
+          "title": "The Return Of Abhimanyu (4K) - VISHAL BLOCKBUSTER Action Thriller Hindi Dubbed Movie | Samantha |",
+          "lead_uploader": "Goldmines Comedy",
+          "lead_channel_id": "UC9Gc7V2a2y6nScxIVnrN1Tg",
+          "runtime_label": "2:20:23",
+          "views_label": "614,700 views"
+        },
+        {
+          "video_id": "xMuwMRnZJkg",
+          "title": "Lift - South Hindi Dubbed Full Movie | Kavin, Amritha Aiyer | New Horror Thriller Movie",
+          "lead_uploader": "Goldmines Action Heroes",
+          "lead_channel_id": "UC_cirOvovTcibMbIU5HDkLQ",
+          "runtime_label": "1:58:42",
+          "views_label": "7,722 views"
+        },
+        {
+          "video_id": "dmmUFTSx8Ow",
+          "title": "Rummy The Great Gambler (Soodhu Kavvuum) 2019 New Released Dubbed Movie| Vijay Sethupathi",
+          "lead_uploader": "Goldmines",
+          "lead_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+          "runtime_label": "1:59:13",
+          "views_label": "19,249,722 views"
+        }
+      ]
+    },
+    {
+      "query": "Shemaroo Hindi full movie",
+      "rows": [
+        {
+          "video_id": "Ny9GQPRIh2A",
+          "title": "Karisma Kapoor's Superhit Full Romantic Hindi Movie - Zubeidaa - Manoj Bajpayee, Rekha, Amrish Puri",
+          "lead_uploader": "Shemaroo Movies",
+          "lead_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+          "runtime_label": "2:15:16",
+          "views_label": "1,842,369 views"
+        },
+        {
+          "video_id": "mgOxkTQdPKU",
+          "title": "Best Hema Malini Film | Dream Girl (1977) Full Movie | Dharmendra, Prem Chopra, Ashok Kumar, Asrani",
+          "lead_uploader": "Shemaroo",
+          "lead_channel_id": "UCF1JIbMUs6uqoZEY1Haw0GQ",
+          "runtime_label": "2:37:09",
+          "views_label": "47,459 views"
+        },
+        {
+          "video_id": "J--yj22UT34",
+          "title": "PHIR HERA PHERI (2006) FULL COMEDY MOVIE 4K | AKSHAY KUMAR, PARESH RAWAL, SUNIEL SHETTY",
+          "lead_uploader": "Shemaroo 4K Premium",
+          "lead_channel_id": "UCnUThAM6snz59wDb5nl5Zjg",
+          "runtime_label": "2:29:34",
+          "views_label": "10,044,710 views"
+        },
+        {
+          "video_id": "1XZLhDNyYn0",
+          "title": "Salman Khan & Karishma Kapoor's Superhit Comedy Film | Chal Mere Bhai Full Hindi Movie | Sanjay Dutt",
+          "lead_uploader": "Shemaroo",
+          "lead_channel_id": "UCF1JIbMUs6uqoZEY1Haw0GQ",
+          "runtime_label": "2:11:52",
+          "views_label": "168,686 views"
+        },
+        {
+          "video_id": "KyPyjT1FvWs",
+          "title": "BABY 4K Full Movie: Akshay Kumar |Rana Daggubati |Taapsee |Anupam K| Neeraj P|Hindi Movie |Bhushan K",
+          "lead_uploader": "T-Series",
+          "lead_channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+          "runtime_label": "2:33:22",
+          "views_label": "4,456,679 views"
+        },
+        {
+          "video_id": "SG0bvpT101c",
+          "title": "Rajpal Yadav की रोमांटिक ड्रामा फिल्म Ardh Full Movie | Rubina Dilaik, Hiten Tejwani",
+          "lead_uploader": "Shemaroo Movies",
+          "lead_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+          "runtime_label": "1:23:43",
+          "views_label": "8,639,757 views"
+        },
+        {
+          "video_id": "mOksj_jd9v4",
+          "title": "Ajay Devgn | Chori Chori Full Movie | Rani Mukerji, Sonali Bendre | Hindi Romantic Comedy Movie",
+          "lead_uploader": "Ahaan Movies",
+          "lead_channel_id": "UCTbM4tQqSczEgYId_FEe-Hg",
+          "runtime_label": "1:31:34",
+          "views_label": "361,620 views"
+        },
+        {
+          "video_id": "Sve80nFsvks",
+          "title": "Black Friday (2004) Full Movie - K K Menon, Nawazuddin Siddiqui, Gajraj Rao - First Time On YouTube",
+          "lead_uploader": "Shemaroo",
+          "lead_channel_id": "UCF1JIbMUs6uqoZEY1Haw0GQ",
+          "runtime_label": "2:16:51",
+          "views_label": "2,475,526 views"
+        },
+        {
+          "video_id": "NeK1YpCn9Kw",
+          "title": "Phir Hera Pheri (2006) Full Hindi Comedy Movie 4K | Akshay Kumar, Suniel Shetty, Paresh Rawal",
+          "lead_uploader": "Superhit Movies",
+          "lead_channel_id": "UC2uj7oMv3u64EbcR24rpPUQ",
+          "runtime_label": "2:29:34",
+          "views_label": "202,279 views"
+        },
+        {
+          "video_id": "XaXKh-s9zws",
+          "title": "Golmaal 3 Full Movie - Ajay Devgan - Kareena Kapoor - Arshad Warsi - Shreyas - Kunal - Tushar",
+          "lead_uploader": "Shemaroo Movies",
+          "lead_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+          "runtime_label": "2:07:34",
+          "views_label": "66,427,580 views"
+        },
+        {
+          "video_id": "vtq3j2wCndo",
+          "title": "Welcome Full HD Movie | Paresh Rawal Comedy Movie | Akshay Kumar | Katrina Kaif | Nana Patekar",
+          "lead_uploader": "ShemarooMe USA and Shemaroo Global Cinema",
+          "lead_channel_id": null,
+          "runtime_label": "2:27:56",
+          "views_label": "46,108,515 views"
+        },
+        {
+          "video_id": "sosEqOCgYNQ",
+          "title": "BOLLYWOOD ROMANTIC HINDI MOVIE - KAREENA KAPOOR KI ROMANTIC HINDI MOVIE - JAB WE MET",
+          "lead_uploader": "Shemaroo Movies",
+          "lead_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+          "runtime_label": "2:18:36",
+          "views_label": "16,911,555 views"
+        },
+        {
+          "video_id": "rcDgR6uYFCE",
+          "title": "Zubeidaa (2001) Full Movie HD | Rekha, Karisma Kapoor, Manoj Bajpayee | A.R. Rahman",
+          "lead_uploader": "सदाबहार Movies",
+          "lead_channel_id": "UCvLX9u1ZBuUEZMf9gJb9Xqw",
+          "runtime_label": "2:15:21",
+          "views_label": "107,988 views"
+        },
+        {
+          "video_id": "9T25TFMCBH4",
+          "title": "Kamaal Dhamaal Malamaal Full Movie | अब आएगा असली मज़ा | Nana Patekar | Paresh Rawal | Full Comedy",
+          "lead_uploader": "Shemaroo Comedy and 3 more",
+          "lead_channel_id": null,
+          "runtime_label": "2:20:25",
+          "views_label": "10,243,698 views"
+        },
+        {
+          "video_id": "UsivdQAvlvY",
+          "title": "Rathnam | Hindi Dubbed Movies 2026 | Vishal, Priya Bhavani Shankar, Yogi Babu | Hindi Full Movie",
+          "lead_uploader": "Bolly Blockbuster",
+          "lead_channel_id": "UCsT0HSQUpFHlcAqOv80V8Fg",
+          "runtime_label": "2:24:01",
+          "views_label": "574,144 views"
+        },
+        {
+          "video_id": "juWq4-pGqIk",
+          "title": "अनिल कपूर और नाना पाटेकर की सुपरहिट फिल्म: वेलकम बैक | फुल कॉमेडी मूवी",
+          "lead_uploader": "Shemaroo and Shemaroo 2000s Movies",
+          "lead_channel_id": null,
+          "runtime_label": "2:23:11",
+          "views_label": "5,252,364 views"
+        }
+      ]
+    },
+    {
+      "query": "Muse India Hindi full anime",
+      "rows": [
+        {
+          "video_id": "NlLuI69bvKw",
+          "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+          "lead_uploader": "Otaku SenZai ",
+          "lead_channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+          "runtime_label": "4:01",
+          "views_label": "18,653 views"
+        },
+        {
+          "video_id": "4mUiNGQYnmM",
+          "title": "[Hindi Dub] Attack on Titan Episode 38 (S3 E1) Muse In  Part 1",
+          "lead_uploader": "Muse India 2 channel ",
+          "lead_channel_id": "UCIVHJU7kP9rVZl4FPyEpnPg",
+          "runtime_label": "5:01",
+          "views_label": "58,631 views"
+        },
+        {
+          "video_id": "KNTO9XiZrHY",
+          "title": "Upcoming Hindi Dub Anime On Muse India Top 5 Upcoming New Anime In Hindi Dub 🤯",
+          "lead_uploader": "Star X",
+          "lead_channel_id": "UCYBIpzdpVMrnITgW1Yr7MHg",
+          "runtime_label": "2:00",
+          "views_label": "12,552 views"
+        },
+        {
+          "video_id": "cydtKC0k8Yo",
+          "title": "Aa Gaya 😍😭!! Attack On Titan Season 3 Hindi Dub On Muse India YouTube Channel 🔥",
+          "lead_uploader": "LordMurari",
+          "lead_channel_id": "UC0vIhVPxQdWR0qAIsO22-bQ",
+          "runtime_label": "1:50",
+          "views_label": "3,740 views"
+        },
+        {
+          "video_id": "f8rKuARQu5w",
+          "title": "Finally Aa Gya Attack On Titan Season 3 & 4 Hindi Dub On Muse India! Nozel senpai",
+          "lead_uploader": "NOZEL SENPAI ",
+          "lead_channel_id": "UCNNp0MCqttSd5w8fuQmLIpQ",
+          "runtime_label": "1:53",
+          "views_label": "4,896 views"
+        },
+        {
+          "video_id": "r-S6b_uZWjA",
+          "title": "Finally 😍!! Attack On Titan Season 3 Hindi Dub Release Date | Aot S3 In Hindi Dub | Muse India ",
+          "lead_uploader": "Ryuzi Senpai",
+          "lead_channel_id": "UCn0QISpeAFFFHJqDVuJRoWQ",
+          "runtime_label": "2:53",
+          "views_label": "9,938 views"
+        },
+        {
+          "video_id": "viavJezkN5Y",
+          "title": "Levi Hindi Voice By Muse India 😱 | Attack On Titan New Dub VS Old Dub Part 2 | Anime Times 🤬",
+          "lead_uploader": "Pulsemosaic ",
+          "lead_channel_id": "UCbJiEws0UxAHJxi7mNsgyiA",
+          "runtime_label": "6:07",
+          "views_label": "9,392 views"
+        },
+        {
+          "video_id": "gGcmOmGj7x4",
+          "title": "Muse India Vs Anime Time India Hindi Dub – Attack on Titan Hindi Dub Comparison !!",
+          "lead_uploader": "Hankai Live",
+          "lead_channel_id": "UCpGf8eckMDIMb6LusgDwtnA",
+          "runtime_label": "8:32",
+          "views_label": "14,485 views"
+        }
+      ]
+    },
+    {
+      "query": "Crunchyroll India Hindi full season",
+      "rows": [
+        {
+          "video_id": "SRKSGTWemaY",
+          "title": "My Dress-Up Darling Episode 1 | Full Episode | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:55",
+          "views_label": "2,747,172 views"
+        },
+        {
+          "video_id": "qbixinO_ENU",
+          "title": "No Longer Allowed in Another World | FULL EPISODE | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:58",
+          "views_label": "780,757 views"
+        },
+        {
+          "video_id": "AIwYDbYKMT8",
+          "title": "Black Clover 2nd Season Catch Up Watch Party | Watch Full Episodes NOW (Season 1 Part 4)",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "6:21:16",
+          "views_label": "3,223,199 views"
+        },
+        {
+          "video_id": "N7xrCCDnuPw",
+          "title": "Wistoria: Wand and Sword | FULL EPISODE | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:47",
+          "views_label": "579,734 views"
+        },
+        {
+          "video_id": "fo245dFJl8I",
+          "title": "Episode 1 | Gods' Games We Play | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:50",
+          "views_label": "887,288 views"
+        },
+        {
+          "video_id": "8usJuQVzp-Q",
+          "title": "Shangri-La Frontier S1 | Full Episode | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "26:14",
+          "views_label": "186,771 views"
+        },
+        {
+          "video_id": "vylF3IcWkJc",
+          "title": "My Dress-Up Darling Episode 1 | Full Episode | TAMIL DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:58",
+          "views_label": "85,970 views"
+        },
+        {
+          "video_id": "y-fLbYOmBuU",
+          "title": "Twilight Out of Focus | Full Episode | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:57",
+          "views_label": "249,173 views"
+        },
+        {
+          "video_id": "y4oaXLnsUbE",
+          "title": "MARRIAGETOXIN Episode 1 SUB/DUB | The Poison Master's Search for a Bride",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "24:06",
+          "views_label": "575,565 views"
+        },
+        {
+          "video_id": "P7KHDJo_2z8",
+          "title": "Kaya-chan Isn't Scary | Full Episode 1 | ENGLISH DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:51",
+          "views_label": "900,280 views"
+        },
+        {
+          "video_id": "drEyZG1zbS4",
+          "title": "Alya Sometimes Hides Her Feelings in Russian Episode 1",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "24:50",
+          "views_label": "5,794,948 views"
+        },
+        {
+          "video_id": "akdb4PQrn4U",
+          "title": "Let's Play | Full Episode 1 | HINDI DUB",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "23:05",
+          "views_label": "60,508 views"
+        },
+        {
+          "video_id": "JxpVIn26nfk",
+          "title": "Black Clover Episode 1 SUB/DUB | Asta and Yuno",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "24:00",
+          "views_label": "662,851 views"
+        },
+        {
+          "video_id": "EHRmWyzIpSw",
+          "title": "The Apothecary Diaries Episode 1 SUB/DUB | Maomao",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "23:01",
+          "views_label": "813,663 views"
+        },
+        {
+          "video_id": "TLyUUgBKnr8",
+          "title": "May I Ask For One Final Thing? Episode 1 SUB/DUB",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "23:51",
+          "views_label": "2,025,453 views"
+        },
+        {
+          "video_id": "D261aPLKOuk",
+          "title": "Gachiakuta Episode 1 SUB/DUB | The Sphere",
+          "lead_uploader": "Crunchyroll",
+          "lead_channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "runtime_label": "23:50",
+          "views_label": "3,170,069 views"
+        },
+        {
+          "video_id": "uitrVrEpiHc",
+          "title": "NO APOLOGY Could Save Them from Scarlet’s FISTS! | HINDI DUB | May I Ask for One Final Thing?",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "2:16",
+          "views_label": "32,661 views"
+        },
+        {
+          "video_id": "gs6Yts_omv8",
+          "title": "The Ice Elves SNEAKILY introduce themselves to Jinwoo | HINDI DUB | Solo Leveling Season 2",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "1:12",
+          "views_label": "145,462 views"
+        },
+        {
+          "video_id": "ewOHJrTB6es",
+          "title": "Saito's Nightmare: Marrying His Worst Enemy?! | Hindi Dub | I'm Getting Married to a Girl I Hate..",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "1:57",
+          "views_label": "183,018 views"
+        },
+        {
+          "video_id": "pCIrnlG1HdI",
+          "title": "The World's Deadliest Assassin Needs a Bride! 💍| MARRIAGETOXIN: Full Episode 1 | MULTI AUDIO",
+          "lead_uploader": "Crunchyroll India",
+          "lead_channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+          "runtime_label": "24:06",
+          "views_label": "17,589 views"
+        }
+      ]
+    },
+    {
+      "query": "Sonic X English Dub TMS Episode 24",
+      "rows": [
+        {
+          "video_id": "039J77RlR5M",
+          "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "13,821,933 views"
+        },
+        {
+          "video_id": "NqrXRFdb684",
+          "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:14",
+          "views_label": "4,189,837 views"
+        },
+        {
+          "video_id": "uNqSxwLTjG4",
+          "title": "SONIC X - EP14 That's What Friends Are for | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "3,473,978 views"
+        },
+        {
+          "video_id": "1TAE09a_nwE",
+          "title": "SONIC X - EP23 Emerald Anniversary | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "1,864,575 views"
+        },
+        {
+          "video_id": "9CGih4gMRlk",
+          "title": "SONIC X - EP01 Chaos Control Freaks | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:16",
+          "views_label": "11,854,080 views"
+        },
+        {
+          "video_id": "Lj6TQAJaj4s",
+          "title": "SONIC X - EP26 Countdown to Chaos | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:34",
+          "views_label": "4,304,564 views"
+        },
+        {
+          "video_id": "N3Tc95pXpeo",
+          "title": "[OFFICIAL] SONIC X | SHADOW SAGA | English Dub",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "2:08:25",
+          "views_label": "64,988 views"
+        },
+        {
+          "video_id": "-INdp_kaWAc",
+          "title": "SONIC X - EP50 Running out of Time | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:17",
+          "views_label": "1,341,188 views"
+        },
+        {
+          "video_id": "eqyhH0FaBgc",
+          "title": "SONIC X - EP33 Project Shadow | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:18",
+          "views_label": "2,626,315 views"
+        },
+        {
+          "video_id": "OwYJkhG6xNc",
+          "title": "SONIC X - EP32 Flood Fight | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:16",
+          "views_label": "5,539,476 views"
+        },
+        {
+          "video_id": "BNi7ZoeJOOE",
+          "title": "SONIC X - EP04 Chaos Emerald Chaos | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:20",
+          "views_label": "5,222,952 views"
+        },
+        {
+          "video_id": "ZcYxdLTcGvA",
+          "title": "SONIC X - EP09 The Last Resort | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "13,437,092 views"
+        },
+        {
+          "video_id": "5d0m3UcNnWs",
+          "title": "SONIC X - EP38 Showdown in Space | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:13",
+          "views_label": "12,766,713 views"
+        },
+        {
+          "video_id": "WszPVaOgfR8",
+          "title": "SONIC X - EP 78 So Long Sonic | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "19:14",
+          "views_label": "2,710,828 views"
+        }
+      ]
+    },
+    {
+      "query": "Sonic X English Dub TMS Episode 30",
+      "rows": [
+        {
+          "video_id": "V26oyi5GDVw",
+          "title": "SONIC X - EP30 Head's up, Tail | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:16",
+          "views_label": "1,308,708 views"
+        },
+        {
+          "video_id": "0oOb-5w1ThM",
+          "title": "Sonic X episode 30 part 3",
+          "lead_uploader": "Kittygirl1998",
+          "lead_channel_id": "UCjU0NrtvUQ0qWFiTpCIUTSQ",
+          "runtime_label": "1:55",
+          "views_label": "65,229 views"
+        },
+        {
+          "video_id": "kEOn7Y6wE5c",
+          "title": "SONIC X - EP31 Revenge of the Robot | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:11",
+          "views_label": "1,083,147 views"
+        },
+        {
+          "video_id": "ChAMr1dnd9U",
+          "title": "Sonic X episode 30 part 1",
+          "lead_uploader": "Kittygirl1998",
+          "lead_channel_id": "UCjU0NrtvUQ0qWFiTpCIUTSQ",
+          "runtime_label": "9:10",
+          "views_label": "120,104 views"
+        },
+        {
+          "video_id": "wpqwezE7Bsw",
+          "title": "Sonic X - Season 1 Episode 30 (Opening) (Tuesday September 29,2026)",
+          "lead_uploader": "Kobe Manibusan",
+          "lead_channel_id": "UCgSXgf8WPkseO06qllhTEXA",
+          "runtime_label": "4:34",
+          "views_label": "5 views"
+        },
+        {
+          "video_id": "Kb-xwtXbBaw",
+          "title": "AAO Episode 30 - Sonic X",
+          "lead_uploader": "among",
+          "lead_channel_id": "UCID7uNXEgVdbjSYsJFVcXsg",
+          "runtime_label": "20:35",
+          "views_label": "466 views"
+        },
+        {
+          "video_id": "039J77RlR5M",
+          "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "13,821,933 views"
+        },
+        {
+          "video_id": "cuvmhk8WPCE",
+          "title": "Sonic X episode 30 part 2",
+          "lead_uploader": "Kittygirl1998",
+          "lead_channel_id": "UCjU0NrtvUQ0qWFiTpCIUTSQ",
+          "runtime_label": "9:00",
+          "views_label": "77,700 views"
+        },
+        {
+          "video_id": "NqrXRFdb684",
+          "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:14",
+          "views_label": "4,189,837 views"
+        },
+        {
+          "video_id": "Lbc0mrXR3iM",
+          "title": "Sonic X Comparison: Sonic Frees Himself Out Of The Ground (Japanese VS English)",
+          "lead_uploader": "Nathaniel Tan / NatTheChao",
+          "lead_channel_id": "UCWWpiZVQmjA8XN_1mrJU5bQ",
+          "runtime_label": "0:52",
+          "views_label": "862,816 views"
+        },
+        {
+          "video_id": "9CGih4gMRlk",
+          "title": "SONIC X - EP01 Chaos Control Freaks | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:16",
+          "views_label": "11,854,080 views"
+        },
+        {
+          "video_id": "uNqSxwLTjG4",
+          "title": "SONIC X - EP14 That's What Friends Are for | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:19",
+          "views_label": "3,473,978 views"
+        },
+        {
+          "video_id": "gZ9MHB08x0w",
+          "title": "Sonic X Japanese Opening Super Sonic Transformation In 3D - CGI 3D Sonic Animation",
+          "lead_uploader": "TBSF",
+          "lead_channel_id": "UCQsUPVxOrIrA_ibHJRfp3gw",
+          "runtime_label": "0:06",
+          "views_label": "2,019,812 views"
+        },
+        {
+          "video_id": "s32IbFff9i0",
+          "title": "SONIC X - EP39 Defective Detectives | English Dub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "21:16",
+          "views_label": "2,806,436 views"
+        }
+      ]
+    },
+    {
+      "query": "Space Adventure Cobra English Dub TMS full episode",
+      "rows": [
+        {
+          "video_id": "nw6e0p8RgGY",
+          "title": "Space Adventure COBRA - EP01 Resurrection! The Psycho-Gun | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "162,693 views"
+        },
+        {
+          "video_id": "-5qqZM9rMxs",
+          "title": "Space Adventure Cobra (1982) 🚀 Pilot Episode \"Resurrection! The Psycho Gun\"",
+          "lead_uploader": "Brian Razzano",
+          "lead_channel_id": "UCl3i7fD7VqSLQ9crrs8ZamQ",
+          "runtime_label": "22:02",
+          "views_label": "587 views"
+        },
+        {
+          "video_id": "J3DY0M8Qy98",
+          "title": "Space Adventure Cobra 1982 Series   ENGLISH Pilot   Ep  01   Resurrection, The Psycho Gun 720p",
+          "lead_uploader": "Tech Pulse",
+          "lead_channel_id": "UCH3A3f2okJgS5csiXYNOerw",
+          "runtime_label": "21:59",
+          "views_label": "28,486 views"
+        },
+        {
+          "video_id": "5Dkpg3SODa4",
+          "title": "Space Adventure COBRA - EP12 The Dreadful Ultimate Weapon | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "30,937 views"
+        },
+        {
+          "video_id": "gTlfZottJxQ",
+          "title": "Space Adventure COBRA - EP08 Fierce Battle! Cobra versus Boy | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "36,664 views"
+        },
+        {
+          "video_id": "0JksZsVYJyw",
+          "title": "Space Adventure COBRA - EP06 The Magician’s Identity!! | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "32,958 views"
+        },
+        {
+          "video_id": "QIssG4TWbJ0",
+          "title": "Space Adventure COBRA - EP02 Monstrosity! Zigova | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:47",
+          "views_label": "68,285 views"
+        },
+        {
+          "video_id": "YmLmex3ouu4",
+          "title": "Space Adventure COBRA - EP04 Escape!! Sid Prison | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "59,885 views"
+        },
+        {
+          "video_id": "KV2HAbN7N6A",
+          "title": "Space Adventure Cobra 1982 Cobra's Psychogun 4K HDR",
+          "lead_uploader": "FilmClips",
+          "lead_channel_id": "UCtbw4hUyn285ZtBpRRabbzQ",
+          "runtime_label": "0:20",
+          "views_label": "17,765 views"
+        },
+        {
+          "video_id": "LCwECbkU0zQ",
+          "title": "Space Adventure COBRA - EP14 The Great Magician, Galtan | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "65,625 views"
+        },
+        {
+          "video_id": "_D2ZAfAwhYM",
+          "title": "Space Adventure COBRA - EP13 The Roulette of Death | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "32,388 views"
+        },
+        {
+          "video_id": "P9MFNWj_C6c",
+          "title": "Cobra Space Adventure - Teaser Trailer 2026",
+          "lead_uploader": "Sons of a New Revival",
+          "lead_channel_id": "UCQ06BhC676rH570XJI4tLlQ",
+          "runtime_label": "2:22",
+          "views_label": "242,062 views"
+        },
+        {
+          "video_id": "RzjKmy168yo",
+          "title": "Space Adventure COBRA - EP11 Zados, the Sand Planet | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "25,030 views"
+        },
+        {
+          "video_id": "Sk9FbafXVSA",
+          "title": "Space Adventure COBRA movie trailer 2025",
+          "lead_uploader": "Marc B.",
+          "lead_channel_id": "UC_tRb8tIF1K0sDNA4SXOY5g",
+          "runtime_label": "0:50",
+          "views_label": "15,345 views"
+        },
+        {
+          "video_id": "CtiDtC9ML7I",
+          "title": "Space Adventure Cobra (コブラ ) 1982 ITA",
+          "lead_uploader": "Carmine Arcopinto",
+          "lead_channel_id": "UCCZT78dz1OpPx355uNS9Mug",
+          "runtime_label": "1:39:15",
+          "views_label": "27,673 views"
+        },
+        {
+          "video_id": "LY-fGivAlnQ",
+          "title": "Cobra the Animation Psychogun OVA Episode 4 English Subtitles 2008  Buichi Terasawa Space Adventure",
+          "lead_uploader": "kcsnipes",
+          "lead_channel_id": "UC-ost1ZNNgl2SQ9I_aC3tsw",
+          "runtime_label": "30:24",
+          "views_label": "91,580 views"
+        },
+        {
+          "video_id": "u8nM-g6yCUk",
+          "title": "Space Adventure Cobra | KYOTO VIDEO",
+          "lead_uploader": "KaiserBeamz",
+          "lead_channel_id": "UCcxN_gfAE_43Wj6-UWC16bw",
+          "runtime_label": "27:29",
+          "views_label": "10,824 views"
+        },
+        {
+          "video_id": "vnzggtz3gT8",
+          "title": "Cobra",
+          "lead_uploader": "The Deku Butler",
+          "lead_channel_id": "UCSqLkD5CwFp838oheVcMnXA",
+          "runtime_label": "3:00",
+          "views_label": "1,162,672 views"
+        },
+        {
+          "video_id": "kMfhd3n-y5A",
+          "title": "Space Adventure COBRA - EP09 Behold! The Snow Gorilla Pirates! | English Sub | Full Episode",
+          "lead_uploader": "Anime! on TMS Official Channel",
+          "lead_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+          "runtime_label": "24:48",
+          "views_label": "21,889 views"
+        }
+      ]
+    },
+    {
+      "query": "anime full movie English dub Anime Manga Official",
+      "rows": [
+        {
+          "video_id": "0zPQOxv3ZJk",
+          "title": "From a Weak Magic Student to the Strongest Mage – Episodes 1–12 | English Dub 2026",
+          "lead_uploader": "SM DANCE MEDIA",
+          "lead_channel_id": "UC4xHTZzw6z4MOAfaivcCLcQ",
+          "runtime_label": "5:03:31",
+          "views_label": "277,842 views"
+        },
+        {
+          "video_id": "x_S3sv2a1OI",
+          "title": "THE HERO THEY ABANDONED RETURNED STRONGER THAN EVER Episode 1-12 English Dubbed - Anime 2026",
+          "lead_uploader": "Truck  TV",
+          "lead_channel_id": "UC7G8iRbr8XvWkImOneiSadw",
+          "runtime_label": "60:06:07",
+          "views_label": "150,765 views"
+        },
+        {
+          "video_id": "26wyfiZ4d8w",
+          "title": "A Powerful King's Rebirth into Love, Magic, and Danger Ep 1–12 | Anime English Dub 2026",
+          "lead_uploader": "Ông Bô My Tạo",
+          "lead_channel_id": "UCYUM2fMnlYEIxipBhMPmXNg",
+          "runtime_label": "8:20:49",
+          "views_label": "76,437 views"
+        },
+        {
+          "video_id": "V8VEPMHKxz4",
+          "title": "THE USELESS BOY ENTERED A DEADLY GAME AND INHERITED GODLIKE POWER Eng dub - New Anime English Dubbed",
+          "lead_uploader": "jJnzz",
+          "lead_channel_id": "UCD04R42zeyuJK_q-8oWlgzg",
+          "runtime_label": "6:03:31",
+          "views_label": "421,462 views"
+        },
+        {
+          "video_id": "bYtTnKakj0I",
+          "title": "Death March to the Parallel World Rhapsody | English Dub | Isekai Fantasy Anime ",
+          "lead_uploader": "GamerXternite",
+          "lead_channel_id": "UC7YCnMGCX2DCIRds85_7Jgw",
+          "runtime_label": "4:45:25",
+          "views_label": "278,383 views"
+        },
+        {
+          "video_id": "ItyA8yVjq6g",
+          "title": "THE LOST CHILD OF CALAMITY HAS AWAKENED Eng Dub - New Anime English Dubbed 💫💦 jerry",
+          "lead_uploader": "jJnzz",
+          "lead_channel_id": "UCD04R42zeyuJK_q-8oWlgzg",
+          "runtime_label": "6:19:21",
+          "views_label": "591,320 views"
+        },
+        {
+          "video_id": "Jgn8OdkfWW8",
+          "title": "Reincarnated as a Hero with Immortal Powers in Another World Episode 1-12 English Dubbed",
+          "lead_uploader": "Anishot",
+          "lead_channel_id": "UCkHbFQVR0177bO8nzq8kWwA",
+          "runtime_label": "4:00:16",
+          "views_label": "584,280 views"
+        },
+        {
+          "video_id": "1680axo6kc4",
+          "title": "[ENG DUB] The Weakest Summoner Awakens a Super Talent to Dominate | Anime ShortDrama",
+          "lead_uploader": "BingeDub Anime",
+          "lead_channel_id": "UCJIlG5O42tQ_1cccWqaHuhQ",
+          "runtime_label": "1:57:28",
+          "views_label": "309,095 views"
+        },
+        {
+          "video_id": "4Psn0c_vcOg",
+          "title": "【English Dub】I Have Guarded the Demon Pass Alone for a Hundred Years！",
+          "lead_uploader": "Otaku Motion Art",
+          "lead_channel_id": "UCgf2sbX786OvPw8eUmPObeQ",
+          "runtime_label": "2:19:37",
+          "views_label": "110,794 views"
+        },
+        {
+          "video_id": "6OHsyEmyJbU",
+          "title": "Lord of Mysteries New anime 2025 Episode 1 - 13  English Dubbed - New Anime 2025 Eng Dub ♻️⚜️",
+          "lead_uploader": "Demonic Dao Stories",
+          "lead_channel_id": "UCUHAiSNmHpb0ZhX35zuovYA",
+          "runtime_label": "7:19:30",
+          "views_label": "488,209 views"
+        },
+        {
+          "video_id": "Dr2e_tvIF0o",
+          "title": "A LOW-LEVEL GATHERER BECOMES S-RANK LEGEND Eng Dub - New Anime English Dubbed 🤥💟Veloria Reborn",
+          "lead_uploader": "Solyda Vita",
+          "lead_channel_id": "UC48cQFkfs-5xEXO7mojZfLQ",
+          "runtime_label": "60:31:57",
+          "views_label": "577,676 views"
+        },
+        {
+          "video_id": "jzvy_zKU1E0",
+          "title": "⌈ JUST BREATHE ⌋ - A Sign of Affection 💙 || [ English Dub ] Full Season (Episodes 1–12)",
+          "lead_uploader": "HACKER",
+          "lead_channel_id": "UCds3iOQm_7J4Lx6p114q1yw",
+          "runtime_label": "3:47:07",
+          "views_label": "29,045 views"
+        },
+        {
+          "video_id": "L6fTTqQQKwo",
+          "title": "DANMACHI Season 2 English | Anime Represent",
+          "lead_uploader": "Buhay Anime",
+          "lead_channel_id": "UC5Bzk6_lcopoLh4hSmkaNQQ",
+          "runtime_label": "4:44:46",
+          "views_label": "2,488,800 views"
+        },
+        {
+          "video_id": "5TUaZGxEfyk",
+          "title": "Special A English Dub (All episodes in one video)",
+          "lead_uploader": "Saиcнеz20",
+          "lead_channel_id": "UCMr60oU8miI805F08SEQCDg",
+          "runtime_label": "9:28:05",
+          "views_label": "694,214 views"
+        },
+        {
+          "video_id": "-aeCHiZwDaE",
+          "title": "Wrath of the Ninja: The Yotoden Movie (1989) English Dub | FULL HD ANIME MOVIE | Yōtōden",
+          "lead_uploader": "HybridMindThoughts",
+          "lead_channel_id": "UCIulJImklPvF6Qh9CJDTfNQ",
+          "runtime_label": "1:26:27",
+          "views_label": "204,501 views"
+        },
+        {
+          "video_id": "J7-UaW0VJ98",
+          "title": "CLOCKWORK PLANET - Anime English Dub| Episode 1-12 [Fullscreen]《#outlowedit》",
+          "lead_uploader": "Oulter_Editz",
+          "lead_channel_id": "UCHpQOPoV6zxVnGAWhCtJknw",
+          "runtime_label": "4:50:33",
+          "views_label": "441,036 views"
+        },
+        {
+          "video_id": "XVWgutPyxU8",
+          "title": "ENG DUB | I Hid My Power and Ranked E-Class… But Everyone Slowly Found Out I’m the Strongest | Full",
+          "lead_uploader": "Blaze Core Anime",
+          "lead_channel_id": "UCXHS4zp25ITnryx8Q9a1_1w",
+          "runtime_label": "2:15:22",
+          "views_label": "152,497 views"
+        },
+        {
+          "video_id": "N42e88unliA",
+          "title": "Pass the Monster Meat, Milady! | English Dub | Fantasy Cooking Anime",
+          "lead_uploader": "Adilogs",
+          "lead_channel_id": "UCY3YGeEdarI0sEo-uy3Cy6Q",
+          "runtime_label": "3:58:20",
+          "views_label": "420,227 views"
+        },
+        {
+          "video_id": "oXpgvkvKzhw",
+          "title": "Full Anime | MUSHI-SHI (English Dub)",
+          "lead_uploader": "Anime Manga Official",
+          "lead_channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+          "runtime_label": "10:16:51",
+          "views_label": "356,552 views"
+        }
+      ]
+    },
+    {
+      "query": "Gundam SEED English Dub episode 30",
+      "rows": [
+        {
+          "video_id": "v0xJiJ3FYbE",
+          "title": "【EN Dub】Mobile Suit Gundam SEED - Episode30",
+          "lead_uploader": "GUNDAM CHANNEL INTL",
+          "lead_channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+          "runtime_label": "24:22",
+          "views_label": "3,047 views"
+        },
+        {
+          "video_id": "2d_WyNaBA34",
+          "title": "Gundam SEED - Episode 30 (Marathon Version)",
+          "lead_uploader": "Miriallia Haw",
+          "lead_channel_id": "UCzJm_iT7W7vm4oZTdAw6VxA",
+          "runtime_label": "19:31",
+          "views_label": "23,833 views"
+        },
+        {
+          "video_id": "aCoxKeOwZ5o",
+          "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode30 (EN Sub)",
+          "lead_uploader": "GUNDAM CHANNEL INTL",
+          "lead_channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+          "runtime_label": "24:22",
+          "views_label": "22,450 views"
+        },
+        {
+          "video_id": "UBY2btrClyA",
+          "title": "Gundam SEED Destiny - Episode 30 (Marathon Ver)",
+          "lead_uploader": "Miriallia Haw",
+          "lead_channel_id": "UCzJm_iT7W7vm4oZTdAw6VxA",
+          "runtime_label": "20:35",
+          "views_label": "8,958 views"
+        },
+        {
+          "video_id": "ZdeDVY6oL7Q",
+          "title": "Mobile Suit Gundam SEED HD Remaster - Episode30 (EN Sub)",
+          "lead_uploader": "GUNDAM CHANNEL INTL",
+          "lead_channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+          "runtime_label": "24:22",
+          "views_label": "29,760 views"
+        },
+        {
+          "video_id": "0n6cfdJtA-w",
+          "title": "Mobile Suit Gundam Episode 30 (English Dubbed)",
+          "lead_uploader": "MSG Universe ",
+          "lead_channel_id": "UCMZOTXTiN9rakGRLbXuL6aA",
+          "runtime_label": "25:48",
+          "views_label": "19,333 views"
+        },
+        {
+          "video_id": "nVCoLJjGLK0",
+          "title": "【Official Reveil】 Mobile Suit Gundam SEED FREEDOM ZERO",
+          "lead_uploader": "GUNDAM CHANNEL INTL",
+          "lead_channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+          "runtime_label": "11:59",
+          "views_label": "173,556 views"
+        },
+        {
+          "video_id": "b-JE5081fGQ",
+          "title": "Gundam SEED Destiny Final Plus/Special Edition - Extended Ending [English Dubbed]",
+          "lead_uploader": "Arc",
+          "lead_channel_id": "UCwPcJdr2eNJkJTVDhzOXSRg",
+          "runtime_label": "5:20",
+          "views_label": "1,370,598 views"
+        },
+        {
+          "video_id": "XcWxR-h3syE",
+          "title": "New Gunpla Information for Freedom Zero, XARX-Zero & Rogue Orbit [Gundam News]",
+          "lead_uploader": "Kakarot197",
+          "lead_channel_id": "UCkZSITj2mlYvFbursVms1pg",
+          "runtime_label": "10:40",
+          "views_label": "14,078 views"
+        },
+        {
+          "video_id": "kSXTGztiNRQ",
+          "title": "Gundam Wing Endless Waltz - Wing Zero Buster Rifle",
+          "lead_uploader": "Just the Best Parts",
+          "lead_channel_id": "UCoysjhcmkoB8CIAoqHwY--A",
+          "runtime_label": "2:23",
+          "views_label": "964,437 views"
+        },
+        {
+          "video_id": "FEeahlHaGyk",
+          "title": "\"Mobile Suit Gundam SEED FREEDOM ZERO\" Teaser",
+          "lead_uploader": "GUNDAM CHANNEL INTL",
+          "lead_channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+          "runtime_label": "0:59",
+          "views_label": "439,612 views"
+        },
+        {
+          "video_id": "pfOrSqSxTOw",
+          "title": "The Battle of Jaburo in a Nutshell",
+          "lead_uploader": "Exeno2395",
+          "lead_channel_id": "UCqHcGH6AO3osKzGXhh4j33g",
+          "runtime_label": "9:00",
+          "views_label": "3,164 views"
+        },
+        {
+          "video_id": "fIIux3FCLek",
+          "title": "basically the first 9 episodes of Gundam",
+          "lead_uploader": "evilicious",
+          "lead_channel_id": "UCESFLuwF8-DbKXUhCS4qhqg",
+          "runtime_label": "2:04",
+          "views_label": "186,535 views"
+        },
+        {
+          "video_id": "f-CmZTl_iig",
+          "title": "Gundam seed destiny strike freedom first launch",
+          "lead_uploader": "Alphabet soldier 🌈",
+          "lead_channel_id": "UCT0eltkHognKn9QtIc80QRQ",
+          "runtime_label": "1:39",
+          "views_label": "266,626 views"
+        },
+        {
+          "video_id": "X5XpZlskpAA",
+          "title": "Gundam Seed Destiny: Clash of Freedom and Force Impulse (stop-motion)",
+          "lead_uploader": "AerosZero",
+          "lead_channel_id": "UC9UVFpTtv9qexcnxDMSxtDA",
+          "runtime_label": "6:19",
+          "views_label": "343,766 views"
+        },
+        {
+          "video_id": "Ts4Lc-_Ezzw",
+          "title": "Top 10 Gundam Pilots",
+          "lead_uploader": "WatchMojo.com",
+          "lead_channel_id": "UCaWd5_7JhbQBe4dknZhsHJg",
+          "runtime_label": "11:50",
+          "views_label": "1,605,566 views"
+        },
+        {
+          "video_id": "HswROIeVX44",
+          "title": "Gundam SEED - Episode 32 (Marathon Version)",
+          "lead_uploader": "Miriallia Haw",
+          "lead_channel_id": "UCzJm_iT7W7vm4oZTdAw6VxA",
+          "runtime_label": "19:57",
+          "views_label": "22,318 views"
+        },
+        {
+          "video_id": "QyAFactK0DU",
+          "title": "What Happened in Gundam SEED? - The Full Series Explained",
+          "lead_uploader": "Gundam HQ",
+          "lead_channel_id": "UClZpj9mzfn4quIUJ7xgjbpA",
+          "runtime_label": "33:41",
+          "views_label": "271,430 views"
+        },
+        {
+          "video_id": "1XQvFjprhm0",
+          "title": "Gundam SEED - Episode 35 (Marathon Version)",
+          "lead_uploader": "Miriallia Haw",
+          "lead_channel_id": "UCzJm_iT7W7vm4oZTdAw6VxA",
+          "runtime_label": "19:44",
+          "views_label": "34,684 views"
+        }
+      ]
+    },
+    {
+      "query": "KBS World Hindi dubbed full drama",
+      "rows": [
+        {
+          "video_id": "Hp_nCXBA9Zw",
+          "title": "KISS GOBLIN [[Full Drama ]] ((Hindi DUB)) || Korean Drama in Hindi dubbed ",
+          "lead_uploader": "Drama_Dudded",
+          "lead_channel_id": "UCYK0NEf5ShQQaHaaGt7YjvQ",
+          "runtime_label": "2:21:31",
+          "views_label": "39,037 views"
+        },
+        {
+          "video_id": "j26gTb6BfsU",
+          "title": "(Preview) Oh My Venus : EP7 | KBS WORLD TV",
+          "lead_uploader": "KBS WORLD TV",
+          "lead_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "runtime_label": "0:34",
+          "views_label": "104,618 views"
+        }
+      ]
+    },
+    {
+      "query": "Muse India anime movie Hindi full movie",
+      "rows": [
+        {
+          "video_id": "NlLuI69bvKw",
+          "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+          "lead_uploader": "Otaku SenZai ",
+          "lead_channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+          "runtime_label": "4:01",
+          "views_label": "18,653 views"
+        },
+        {
+          "video_id": "r-S6b_uZWjA",
+          "title": "Finally 😍!! Attack On Titan Season 3 Hindi Dub Release Date | Aot S3 In Hindi Dub | Muse India ",
+          "lead_uploader": "Ryuzi Senpai",
+          "lead_channel_id": "UCn0QISpeAFFFHJqDVuJRoWQ",
+          "runtime_label": "2:53",
+          "views_label": "9,938 views"
+        },
+        {
+          "video_id": "gGcmOmGj7x4",
+          "title": "Muse India Vs Anime Time India Hindi Dub – Attack on Titan Hindi Dub Comparison !!",
+          "lead_uploader": "Hankai Live",
+          "lead_channel_id": "UCpGf8eckMDIMb6LusgDwtnA",
+          "runtime_label": "8:32",
+          "views_label": "14,495 views"
+        }
+      ]
+    }
+  ],
+  "playlist_discovery": [
+    {
+      "playlist_id": "PLj2Ugc-vxcWEQlpeFnutiOvQ7B1KNuzLU",
+      "rows": [
+        {
+          "video_id": "9CGih4gMRlk",
+          "title": "SONIC X - EP01 Chaos Control Freaks | English Dub | Full Episode"
+        },
+        {
+          "video_id": "aBgPO32-ka0",
+          "title": "SONIC X - EP02 Sonic to the Rescue | English Dub | Full Episode"
+        },
+        {
+          "video_id": "PzifMBqaEvU",
+          "title": "SONIC X - EP03 Missile Wrist Rampage | English Dub | Full Episode"
+        },
+        {
+          "video_id": "BNi7ZoeJOOE",
+          "title": "SONIC X - EP04 Chaos Emerald Chaos | English Dub | Full Episode"
+        },
+        {
+          "video_id": "qBsRxGQhDKs",
+          "title": "SONIC X - EP05 Cracking Knuckles | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ZDygQeO9jzo",
+          "title": "SONIC X - EP06 Techno Teacher | English Dub | Full Episode"
+        },
+        {
+          "video_id": "7tB2LgOx8fA",
+          "title": "SONIC X - EP07 Party Hardly | English Dub | Full Episode"
+        },
+        {
+          "video_id": "9KYeihPwS7Q",
+          "title": "SONIC X - EP08 Satellite Swindle | English Dub | Full Episode"
+        },
+        {
+          "video_id": "ZcYxdLTcGvA",
+          "title": "SONIC X - EP09 The Last Resort | English Dub | Full Episode"
+        },
+        {
+          "video_id": "VwYQ0DnPjWI",
+          "title": "SONIC X - EP10 Unfair Ball | English Dub | Full Episode"
+        },
+        {
+          "video_id": "FTMUZlg7WEg",
+          "title": "SONIC X - EP11 Fly Spy | English Dub | Full Episode"
+        },
+        {
+          "video_id": "EbmRA75fF6Y",
+          "title": "SONIC X - EP12 Beating Eggman Part 1 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "WurTQwB-j-U",
+          "title": "SONIC X - EP13 Beating Eggman Part 2 | English Dub | Full Episode"
+        },
+        {
+          "video_id": "uNqSxwLTjG4",
+          "title": "SONIC X - EP14 That's What Friends Are for | English Dub | Full Episode"
+        },
+        {
+          "video_id": "w0uuhC6LlFM",
+          "title": "SONIC X - EP15 Skirmish in the Sky | English Dub | Full Episode"
+        },
+        {
+          "video_id": "B_uTFBTNI7o",
+          "title": "SONIC X - EP16 Depth of Danger | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Vc1z6_nBWKA",
+          "title": "SONIC X - EP17 The Adventures of Knuckles and Hawk | English Dub | Full Episode"
+        },
+        {
+          "video_id": "hnUYv2VhcY8",
+          "title": "SONIC X - EP18 The Dam Scam | English Dub | Full Episode"
+        },
+        {
+          "video_id": "cE7WXrzkKrI",
+          "title": "SONIC X - EP19 Sonic's Scream Test | English Dub | Full Episode"
+        },
+        {
+          "video_id": "c8W-VVZtiyk",
+          "title": "SONIC X - EP20 Cruise Blues | English Dub | Full Episode"
+        },
+        {
+          "video_id": "z8QGrmRQsqw",
+          "title": "SONIC X - EP21 Fast Friends | English Dub | Full Episode"
+        },
+        {
+          "video_id": "nMJG40ht_sw",
+          "title": "SONIC X - EP22 Little Chao Lost | English Dub | Full Episode"
+        },
+        {
+          "video_id": "1TAE09a_nwE",
+          "title": "SONIC X - EP23 Emerald Anniversary | English Dub | Full Episode"
+        },
+        {
+          "video_id": "039J77RlR5M",
+          "title": "SONIC X - EP24 How to Catch a Hedgehog | English Dub | Full Episode"
+        },
+        {
+          "video_id": "gyUnw0KCDT0",
+          "title": "SONIC X - EP25 A Dastardly Deed | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Lj6TQAJaj4s",
+          "title": "SONIC X - EP26 Countdown to Chaos | English Dub | Full Episode"
+        }
+      ],
+      "has_continuation": false
+    },
+    {
+      "playlist_id": "PLj2Ugc-vxcWGJbICmPjp8DADICabaURqC",
+      "rows": [
+        {
+          "video_id": "WkRmNHUgIVk",
+          "title": "SONIC X - EP27 Pure Chaos | English Dub | Full Episode"
+        },
+        {
+          "video_id": "PnDHLNS58FY",
+          "title": "SONIC X - EP28 A Chaotic Day | English Dub | Full Episode"
+        },
+        {
+          "video_id": "gbn7h1VqKIU",
+          "title": "SONIC X - EP29 A Robot Rebels | English Dub | Full Episode"
+        },
+        {
+          "video_id": "V26oyi5GDVw",
+          "title": "SONIC X - EP30 Head's up, Tail | English Dub | Full Episode"
+        },
+        {
+          "video_id": "kEOn7Y6wE5c",
+          "title": "SONIC X - EP31 Revenge of the Robot | English Dub | Full Episode"
+        },
+        {
+          "video_id": "OwYJkhG6xNc",
+          "title": "SONIC X - EP32 Flood Fight | English Dub | Full Episode"
+        },
+        {
+          "video_id": "eqyhH0FaBgc",
+          "title": "SONIC X - EP33 Project Shadow | English Dub | Full Episode"
+        },
+        {
+          "video_id": "NqrXRFdb684",
+          "title": "SONIC X - EP34 Shadow Knows | English Dub | Full Episode"
+        },
+        {
+          "video_id": "NEypfVRripI",
+          "title": "SONIC X - EP35 Sonic's Big Break | English Dub | Full Episode"
+        },
+        {
+          "video_id": "CoDKAOsd7Uc",
+          "title": "SONIC X - EP36 Shadow World | English Dub | Full Episode"
+        },
+        {
+          "video_id": "pR7I8loqsC8",
+          "title": "SONIC X - EP37 Robotnik's Revenge | English Dub | Full Episode"
+        },
+        {
+          "video_id": "5d0m3UcNnWs",
+          "title": "SONIC X - EP38 Showdown in Space | English Dub | Full Episode"
+        },
+        {
+          "video_id": "s32IbFff9i0",
+          "title": "SONIC X - EP39 Defective Detectives | English Dub | Full Episode"
+        },
+        {
+          "video_id": "XliSh3Ar0AQ",
+          "title": "SONIC X - EP40 Sunblock Solution | English Dub | Full Episode"
+        },
+        {
+          "video_id": "vIz7_2tjcOU",
+          "title": "SONIC X - EP41 Eggman for President | English Dub | Full Episode"
+        },
+        {
+          "video_id": "2M9mpXbnK30",
+          "title": "SONIC X - EP42 A Robot Rebels | English Dub | Full Episode"
+        },
+        {
+          "video_id": "GxZnyfL9xFw",
+          "title": "SONIC X - EP43 Mean Machines | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Gb7GBxRTRr0",
+          "title": "SONIC X - EP44 Sewer Search | English Dub | Full Episode"
+        },
+        {
+          "video_id": "fQXfRxizraE",
+          "title": "SONIC X - EP45 Prize Fights | English Dub | Full Episode"
+        },
+        {
+          "video_id": "b-qHbNGKnYE",
+          "title": "SONIC X - EP46 A Wild Win | English Dub | Full Episode"
+        },
+        {
+          "video_id": "AcYkCcRdCLo",
+          "title": "SONIC X - EP47 Map of Mayhem | English Dub | Full Episode"
+        },
+        {
+          "video_id": "bmjLqrc8ugQ",
+          "title": "SONIC X - EP48 The Volcanic Venture | English Dub | Full Episode"
+        },
+        {
+          "video_id": "rpb3jpNSyDI",
+          "title": "SONIC X - EP49 The Beginning of the End | English Dub | Full Episode"
+        },
+        {
+          "video_id": "-INdp_kaWAc",
+          "title": "SONIC X - EP50 Running out of Time | English Dub | Full Episode"
+        },
+        {
+          "video_id": "bAo4Tiifwjk",
+          "title": "SONIC X - EP51 Friends 'Til the End | English Dub | Full Episode"
+        },
+        {
+          "video_id": "qAtidd45kzI",
+          "title": "SONIC X - EP52 A New Start | English Dub | Full Episode"
+        }
+      ],
+      "has_continuation": false
+    },
+    {
+      "playlist_id": "PLj2Ugc-vxcWGeCxC1zubwBBaUMLYSUJ7j",
+      "rows": [
+        {
+          "video_id": "7blfEcxZ_U8",
+          "title": "SONIC X - EP 53 A Cosmic Call | English Dub | Full Episode"
+        },
+        {
+          "video_id": "30b-BHrYDms",
+          "title": "SONIC X - EP 54 Cosmic Crisis | English Dub | Full Episode"
+        },
+        {
+          "video_id": "a8QEVZIFypY",
+          "title": "SONIC X - EP 55 H2 Whoa | English Dub | Full Episode"
+        },
+        {
+          "video_id": "S6TgUS3H7M8",
+          "title": "SONIC X - EP 56 An Enemy in Need | English Dub | Full Episode"
+        },
+        {
+          "video_id": "0T_If4pEFRc",
+          "title": "SONIC X - EP 57 Chilling Discovery | English Dub | Full Episode"
+        },
+        {
+          "video_id": "yCAwN9HPSlY",
+          "title": "SONIC X - EP 58 Desperately Seeking Sonic | English Dub | Full Episode"
+        },
+        {
+          "video_id": "lBH6JASM4dk",
+          "title": "SONIC X - EP 59 Galactic Gumshoes | English Dub | Full Episode"
+        },
+        {
+          "video_id": "-b2KKXXHJPs",
+          "title": "SONIC X - EP 60 Trick Sand | English Dub | Full Episode"
+        },
+        {
+          "video_id": "SKHF26ZySME",
+          "title": "SONIC X - EP 61 Ship of Doom | English Dub | Full Episode"
+        },
+        {
+          "video_id": "_KiEP2atRwU",
+          "title": "SONIC X - EP 62 An Underground Odyssey | English Dub | Full Episode"
+        },
+        {
+          "video_id": "N9nr9uqgN9I",
+          "title": "SONIC X - EP 63 Station Break-In | English Dub | Full Episode"
+        },
+        {
+          "video_id": "hq9LlgTLmP0",
+          "title": "SONIC X - EP 64 A Materex Melee | English Dub | Full Episode"
+        },
+        {
+          "video_id": "uv3Jdfkymc8",
+          "title": "SONIC X - EP 65 Mission: Match Up | English Dub | Full Episode"
+        },
+        {
+          "video_id": "We3UBNdfbnM",
+          "title": "SONIC X - EP 66 Clash in the Cloister | English Dub | Full Episode"
+        },
+        {
+          "video_id": "8ykblfGXgcI",
+          "title": "SONIC X - EP 67 Testing Time | English Dub | Full Episode"
+        },
+        {
+          "video_id": "CL9tRwaOIzU",
+          "title": "SONIC X - EP 68 A Revolutionary Tale | English Dub | Full Episode"
+        },
+        {
+          "video_id": "QbzRj1lHeP8",
+          "title": "SONIC X - EP 69 The Planet of Misfortune | English Dub | Full Episode"
+        },
+        {
+          "video_id": "1pZpQ9lfrJA",
+          "title": "SONIC X - EP 70 Terror On the Typhoon | English Dub | Full Episode"
+        },
+        {
+          "video_id": "SOHgRGpqd8Y",
+          "title": "SONIC X - EP 71 Hedgehog Hunt | English Dub | Full Episode"
+        },
+        {
+          "video_id": "0LGDfZngevs",
+          "title": "SONIC X - EP 72 Zelkova Strikes Back | English Dub | Full Episode"
+        },
+        {
+          "video_id": "CkI-2j6V7sQ",
+          "title": "SONIC X - EP 73 The Cosmo Conspiracy | English Dub | Full Episode"
+        },
+        {
+          "video_id": "Y_GBzuo-T6g",
+          "title": "SONIC X - EP 74 Eye Spy | English Dub | Full Episode"
+        },
+        {
+          "video_id": "MRPAoi0PjU8",
+          "title": "SONIC X - EP 75 Agent of Mischief | English Dub | Full Episode"
+        },
+        {
+          "video_id": "7lTR0Ys6k7o",
+          "title": "SONIC X - EP 76 The Light in the Darkness | English Dub | Full Episode"
+        },
+        {
+          "video_id": "rU_nFxK4iek",
+          "title": "SONIC X - EP 77 A Fearless Friend | English Dub | Full Episode"
+        },
+        {
+          "video_id": "WszPVaOgfR8",
+          "title": "SONIC X - EP 78 So Long Sonic | English Dub | Full Episode"
+        }
+      ],
+      "has_continuation": false
+    }
+  ],
+  "skipped": [
+    {
+      "id": "dmmUFTSx8Ow",
+      "reason": "Official upload only says Dubbed Movie; actual audio language not explicitly evidenced."
+    },
+    {
+      "id": "SG0bvpT101c",
+      "reason": "Official upload does not explicitly identify audio language; title text alone is not audio evidence."
+    },
+    {
+      "id": "vxhlppZYYLU",
+      "reason": "English captions verified, but original Korean audio edition not explicitly evidenced in available public audio metadata."
+    },
+    {
+      "channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+      "reason": "Hindi anime episode leads found; primary company-to-regional-channel identity crosslink not established during this run. Linktree/name alone not used as proof."
+    },
+    {
+      "group": "Hindi anime movies including Doraemon, Shinchan and Makoto Shinkai titles",
+      "reason": "Searches surfaced full-length uploads from unreviewed gaming/fan channels; rights-holder authorization not verified."
+    },
+    {
+      "id": "oXpgvkvKzhw",
+      "reason": "Mushi-Shi 10-hour TV compilation is not an anime feature film; not imported as a movie."
+    },
+    {
+      "id": "N3Tc95pXpeo",
+      "reason": "Sonic X saga compilation overlaps episode uploads; not imported as invented individual episodes."
+    }
+  ],
+  "limits": [
+    "Country metadata and oEmbed do not establish observed India playback.",
+    "Search coverage is not exhaustive; no verified current India-wide trending ranking is claimed."
+  ]
+}
