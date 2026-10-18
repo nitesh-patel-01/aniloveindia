@@ -12,6 +12,8 @@ def check(vid):
   if not match:result['reason']='Watch metadata missing';return result
   p=json.loads(match[1]);d=p.get('videoDetails',{});mf=p.get('microformat',{}).get('playerMicroformatRenderer',{});channel=d.get('channelId');seconds=int(d.get('lengthSeconds',0));countries=mf.get('availableCountries',[])
   result.update(author=d.get('author'),playlist_ids=list(dict.fromkeys(re.findall(r'list=(PL[A-Za-z0-9_-]+)',d.get('shortDescription','')))),caption_languages=[c.get('languageCode')for c in p.get('captions',{}).get('playerCaptionsTracklistRenderer',{}).get('captionTracks',[])],title=d.get('title'),channel_id=channel,seconds=seconds,india_in_country_metadata='IN'in countries,actual_india_playback='unverified')
+  if not channel:
+   result.update(reason='Uploader identity metadata unavailable',player_status=p.get('playabilityStatus',{}).get('status'),player_reason=p.get('playabilityStatus',{}).get('reason'));return result
   if channel not in {c['channel_id']for c in json.loads((ROOT/'data/channels.json').read_text())if c.get('identity_reviewed')}:result['reason']='Uploader not approved';return result
   status=p.get('playabilityStatus',{}); reason=str(status).lower()
   result.update(player_status=status.get('status'),player_reason=status.get('reason'),publish_date=mf.get('publishDate'),is_unlisted=mf.get('isUnlisted',False),is_live=bool(d.get('isLiveContent')),source_url='https://www.youtube.com/watch?v='+vid)

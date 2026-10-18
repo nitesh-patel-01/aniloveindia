@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:03:20.416150+05:30",
+  "updated_at": "2026-10-18T13:57:22.028596+05:30",
   "items": [
     {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
@@ -18,7 +18,7 @@
           "video_id": "OUh3DcMZyug"
         }
       ],
-      "reason": "Hindi seasons 1–3 retain all 24 individual episode links. Season 4 episode 8 independently verified in current feed; episodes 4–7 remain unresolved, not invented.",
+      "reason": "Seasons 1–3 each retain episode links 1–24. Continue unresolved Season 4 episode numbers using fresh official upload checks.",
       "next_actions": [
         "Recover additional official Hindi TV episodes in seasons 1-4 via public web indexing and publisher links",
         "Preserve published URLs and do not fabricate missing season links",
@@ -332,6 +332,7 @@
             "44",
             "45",
             "46",
+            "47",
             "51",
             "52",
             "53",
@@ -431,750 +432,8 @@
           "title_id": "hunter-x-hunter",
           "season_id": "hunter-x-hunter-hindi-available",
           "season": null,
-          "episode": "1",
-          "video_id": "9GlbdQz_bKc"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "3",
-          "video_id": "ZXFBixwa_xM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "40",
-          "video_id": "Fus_97Iy_Fw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "5",
-          "video_id": "eFXfwomkiwc"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "6",
-          "video_id": "FZMUHG7GyAQ"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "60",
-          "video_id": "89LPon17fhI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "107",
-          "video_id": "dPNrQ8iJi5I"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "88",
-          "video_id": "Ui3oejwVskE"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "90",
-          "video_id": "yFftwvZnnLI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "11",
-          "video_id": "1kvUsTrpl4o"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "111",
-          "video_id": "t0QOflbZ6t8"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "12",
-          "video_id": "Lnqc23EAxmk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "14",
-          "video_id": "heGE9FO6xnw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "15",
-          "video_id": "pCJEdiafBqw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "18",
-          "video_id": "sayUQetiTc0"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "20",
-          "video_id": "s_dzhaAWXJc"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "21",
-          "video_id": "dWpafbhhofY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "26",
-          "video_id": "6RETmwY8ZNI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "27",
-          "video_id": "adDJUCLMhaY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "28",
-          "video_id": "mxZr84UwHXk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "32",
-          "video_id": "tKyBBHj_WKU"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "33",
-          "video_id": "dwbgfmmJZiM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "56",
-          "video_id": "mGVcW7kyGlg"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "39",
-          "video_id": "HJAgbWogc5A"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "51",
-          "video_id": "EnXfSHWx7ds"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "52",
-          "video_id": "t8QapTQ2j3k"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "53",
-          "video_id": "TgybcBCDN4g"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "54",
-          "video_id": "GOYuf6mctwI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "55",
-          "video_id": "Dg2X2QAw3L0"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "57",
-          "video_id": "SQ3XEZMByZY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "58",
-          "video_id": "uByA17fApXE"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "59",
-          "video_id": "cwxQB8_S47k"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "61",
-          "video_id": "VnwoJBq7imk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "62",
-          "video_id": "1l9UTeVVF1I"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "63",
-          "video_id": "6Im0VkAzJH8"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "64",
-          "video_id": "eiZIlQwGLG4"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "65",
-          "video_id": "poPQjepfPcQ"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "66",
-          "video_id": "eGaxLYdZNA0"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "67",
-          "video_id": "Ph0YFOQNqOw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "68",
-          "video_id": "aYz7GZJWhi4"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "69",
-          "video_id": "vP9ZXnt0oBg"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "70",
-          "video_id": "Y_0cVOKub40"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "71",
-          "video_id": "zKNn1iWcGdI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "72",
-          "video_id": "9p5mvTKLVGs"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "73",
-          "video_id": "2i4MCHIfVpk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "74",
-          "video_id": "mrbsu1WxGYo"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "75",
-          "video_id": "PKF9a7RKFt0"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "76",
-          "video_id": "xfpEyi4N4XY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "77",
-          "video_id": "mhciCklYo-Y"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "78",
-          "video_id": "R_LUwyyP974"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "79",
-          "video_id": "0MnqCXoIsz0"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "81",
-          "video_id": "6532VwpkKZM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "82",
-          "video_id": "e7wzPnyCRqY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "83",
-          "video_id": "Cl5WKkWB1ts"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "87",
-          "video_id": "B2t1UGlz5hI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "86",
-          "video_id": "cSHf59bkhjA"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "89",
-          "video_id": "zFN5cD-CNcw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "91",
-          "video_id": "MmtZQXKWerc"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "92",
-          "video_id": "MiFnEzscH_Y"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "93",
-          "video_id": "i4W2DyyKHeA"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "94",
-          "video_id": "rH5t9i5TOOE"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "95",
-          "video_id": "A9ZASZe1RO8"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "96",
-          "video_id": "6YGtFzT24ns"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "97",
-          "video_id": "SQ-u9wR8Jyg"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "98",
-          "video_id": "WgiE0UZ96qQ"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "99",
-          "video_id": "ljOcRjjRq3Q"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "100",
-          "video_id": "XsthbjVv9nM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "101",
-          "video_id": "l7R2MTgTvgI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "102",
-          "video_id": "eNxBV7YexTw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "103",
-          "video_id": "O4WmXSbOyLg"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "104",
-          "video_id": "Y1vUFZniULk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "105",
-          "video_id": "yLRktxYLiqk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "106",
-          "video_id": "oLJ5Cg_g2DA"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "108",
-          "video_id": "uI6fOoGg8hk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "109",
-          "video_id": "TAeQJQIb1_w"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "110",
-          "video_id": "aUhhAHhMNQg"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "112",
-          "video_id": "Fi8WjAx3KgY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "114",
-          "video_id": "nlwBybOXr-o"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "115",
-          "video_id": "WTKmk1MEapU"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "116",
-          "video_id": "ckMoxatwSBo"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "117",
-          "video_id": "WIEbNfIaOI4"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "118",
-          "video_id": "WAc7rlak06Y"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "119",
-          "video_id": "j_VUx1j6UIY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "120",
-          "video_id": "e6gOc_1opsE"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "121",
-          "video_id": "Cz5NiimtYms"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "122",
-          "video_id": "R3pRcSbKIKY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "123",
-          "video_id": "K6E3fexIUC4"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "125",
-          "video_id": "-DcGHtLLk8M"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "127",
-          "video_id": "scwxmjAnXAA"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "128",
-          "video_id": "ZbWDNZlaC9c"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "131",
-          "video_id": "9q-hFbBbdFk"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "130",
-          "video_id": "fhDoqlvMd6Y"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "132",
-          "video_id": "CS8KdSx1-qM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "133",
-          "video_id": "5dp14mJjJyA"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "134",
-          "video_id": "jAo8PKLUkzM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "135",
-          "video_id": "Lr3YBef2_iM"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "136",
-          "video_id": "JcEm6FGHvYY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "137",
-          "video_id": "Sga2ZZ30LXQ"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "138",
-          "video_id": "D0CVe05qtL4"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "139",
-          "video_id": "4b0EPvjP1bI"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "140",
-          "video_id": "P-vuo3rXaiY"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "141",
-          "video_id": "h5s03oYTSIw"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "142",
-          "video_id": "5PwITi94K4s"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "145",
-          "video_id": "pCpysUUfI1c"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "146",
-          "video_id": "oRs0AvgUNf8"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "147",
-          "video_id": "ZiTyAdrLPRU"
-        },
-        {
-          "title_id": "hunter-x-hunter",
-          "season_id": "hunter-x-hunter-hindi-available",
-          "season": null,
-          "episode": "148",
-          "video_id": "D5iGR-HNN8A"
+          "episode": "47",
+          "video_id": "hupT9Ut6-DM"
         }
       ],
       "remaining_episode_numbers": [
@@ -1200,7 +459,6 @@
         "36",
         "37",
         "38",
-        "47",
         "48",
         "49",
         "50",
@@ -1213,7 +471,56 @@
         "129",
         "143",
         "144"
-      ]
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "hunter-x-hunter-hindi-available",
+            "season_number": null,
+            "individual_episodes": 114,
+            "missing_within_observed_numeric_range": [
+              "2",
+              "4",
+              "7",
+              "8",
+              "9",
+              "10",
+              "13",
+              "16",
+              "17",
+              "19",
+              "22",
+              "23",
+              "24",
+              "25",
+              "29",
+              "30",
+              "31",
+              "34",
+              "35",
+              "36",
+              "37",
+              "38",
+              "48",
+              "49",
+              "50",
+              "80",
+              "84",
+              "85",
+              "113",
+              "124",
+              "126",
+              "129",
+              "143",
+              "144"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "tokyo-revengers",
@@ -1418,6 +725,7 @@
             "19",
             "20",
             "21",
+            "22",
             "24",
             "25"
           ],
@@ -1432,7 +740,13 @@
             "2",
             "4",
             "5",
-            "6"
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
           ],
           "verified_complete": false
         },
@@ -1453,208 +767,86 @@
       "published_this_pass": [
         {
           "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-2-hindi",
-          "season": 2,
-          "episode": "1",
-          "video_id": "XSPJMgHS-ZQ"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-2-hindi",
-          "season": 2,
-          "episode": "2",
-          "video_id": "zGG4nnrob9Q"
-        },
-        {
-          "title_id": "attack-on-titan",
           "season_id": "attack-on-titan-season-1-hindi",
           "season": 1,
-          "episode": "4",
-          "video_id": "dfxZWs8sebA"
+          "episode": "22",
+          "video_id": "ifsLZE50Kws"
         },
         {
           "title_id": "attack-on-titan",
           "season_id": "attack-on-titan-season-2-hindi",
           "season": 2,
-          "episode": "4",
-          "video_id": "bVMJs9ddHAs"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "5",
-          "video_id": "mPyvaRphMDg"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "6",
-          "video_id": "IxKCcu2ksvc"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-2-hindi",
-          "season": 2,
-          "episode": "6",
-          "video_id": "POACZ3iKQNg"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
           "episode": "7",
-          "video_id": "1F0cL21F2sc"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "8",
-          "video_id": "pTpL9Wv5JTM"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "9",
-          "video_id": "9716o8VO_zw"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "10",
-          "video_id": "Xx03RAbBNEg"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "11",
-          "video_id": "dFvJov7Axew"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "12",
-          "video_id": "6N10IPzfr7g"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "13",
-          "video_id": "dgYdw17Zmf0"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "14",
-          "video_id": "2v7CV4YIXIo"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "15",
-          "video_id": "tYDmIGow8RA"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "16",
-          "video_id": "NUuDnSc1Q44"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "17",
-          "video_id": "xhbytHU1WII"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "18",
-          "video_id": "wAfvd2IY-dI"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "19",
-          "video_id": "75Jul4tNcSw"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "20",
-          "video_id": "H0trOBDh1qo"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "21",
-          "video_id": "KGuMtc7Io9E"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "24",
-          "video_id": "fIoLq4Q_h2Q"
-        },
-        {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-1-hindi",
-          "season": 1,
-          "episode": "25",
-          "video_id": "p48NBggl-qc"
+          "video_id": "qPFGXV6YgvM"
         },
         {
           "title_id": "attack-on-titan",
           "season_id": "attack-on-titan-season-2-hindi",
           "season": 2,
-          "episode": "5",
-          "video_id": "jI7690-aBg8"
+          "episode": "8",
+          "video_id": "PAY5XV4uQks"
         },
         {
           "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-3-hindi",
-          "season": 3,
-          "episode": "4",
-          "video_id": "NexZ4n7bHs4"
+          "season_id": "attack-on-titan-season-2-hindi",
+          "season": 2,
+          "episode": "9",
+          "video_id": "7Djj6DbPMFQ"
         },
         {
           "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-3-hindi",
-          "season": 3,
-          "episode": "3",
-          "video_id": "EYHg9pCDBB0"
+          "season_id": "attack-on-titan-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "vj0nJlvKu7Q"
         },
         {
           "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-3-hindi",
-          "season": 3,
-          "episode": "2",
-          "video_id": "Hzm9mihJDnQ"
+          "season_id": "attack-on-titan-season-2-hindi",
+          "season": 2,
+          "episode": "11",
+          "video_id": "DREbGMivvIE"
         },
         {
           "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-3-hindi",
-          "season": 3,
-          "episode": "1",
-          "video_id": "FJ5ZnRTzYpw"
+          "season_id": "attack-on-titan-season-2-hindi",
+          "season": 2,
+          "episode": "12",
+          "video_id": "DcK3YbSHc-o"
         }
-      ]
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "attack-on-titan-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 24,
+            "missing_within_observed_numeric_range": [
+              "23"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "attack-on-titan-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 11,
+            "missing_within_observed_numeric_range": [
+              "3"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "attack-on-titan-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 4,
+            "missing_within_observed_numeric_range": [],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "dan-da-dan",
@@ -2029,11 +1221,34 @@
       "published_hindi_coverage": [
         {
           "season_id": "classroom-of-the-elite-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
             "1",
-            "3"
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "10",
+            "11",
+            "12"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "label": "Season 2 · Hindi dub",
+          "season_number": 2,
+          "episode_numbers": [
+            "2",
+            "7",
+            "8",
+            "9",
+            "10",
+            "13"
           ],
           "verified_complete": false
         },
@@ -2042,11 +1257,217 @@
           "label": "Season 3 · Hindi dub",
           "season_number": 3,
           "episode_numbers": [
-            "1"
+            "1",
+            "3",
+            "4",
+            "5",
+            "6",
+            "9",
+            "11",
+            "12"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "2",
+          "video_id": "a8QaZ2d3T0s"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "2",
+          "video_id": "MCRv1RAtQ_w"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "4",
+          "video_id": "BcvzTlWk1Hk"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "3",
+          "video_id": "g5Yfye_nBfE"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "4",
+          "video_id": "QzG1QlZPBaw"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "5",
+          "video_id": "6TVW_PQ7JyU"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "5",
+          "video_id": "BLqGr2vcBok"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "7nxJHd87U18"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "6",
+          "video_id": "pqYTP2iAe4A"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "XqFV-PI9e_4"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "gSXnyAAhcfg"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "0hU9TBeuZQQ"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "u9-NYqE0M60"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "9",
+          "video_id": "Rt8gGFeVKtA"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "9",
+          "video_id": "_Xfy3pyJSOc"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "10",
+          "video_id": "Ek7qBml3rqc"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "h8U702ZxZYI"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "11",
+          "video_id": "vzgwaU03BYI"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "11",
+          "video_id": "ylAwNowCO0Q"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-hindi-available",
+          "season": 1,
+          "episode": "12",
+          "video_id": "_U_0hrcSWqc"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-3-hindi",
+          "season": 3,
+          "episode": "12",
+          "video_id": "wv5cQtRZ1i8"
+        },
+        {
+          "title_id": "classroom-of-the-elite",
+          "season_id": "classroom-of-the-elite-season-2-hindi",
+          "season": 2,
+          "episode": "13",
+          "video_id": "110X6KLjYtQ"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "classroom-of-the-elite-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 11,
+            "missing_within_observed_numeric_range": [
+              "9"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "classroom-of-the-elite-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 6,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "4",
+              "5",
+              "6",
+              "11",
+              "12"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "classroom-of-the-elite-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 8,
+            "missing_within_observed_numeric_range": [
+              "2",
+              "7",
+              "8",
+              "10"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "mob-psycho-100",
@@ -2064,15 +1485,250 @@
       "published_hindi_coverage": [
         {
           "season_id": "mob-psycho-100-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
             "1",
-            "2"
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "12"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "label": "Season 2 · Hindi dub",
+          "season_number": 2,
+          "episode_numbers": [
+            "1",
+            "2",
+            "4",
+            "7",
+            "10",
+            "11",
+            "13"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "label": "Season 3 · Hindi dub",
+          "season_number": 3,
+          "episode_numbers": [
+            "2",
+            "3",
+            "5",
+            "6",
+            "8",
+            "9"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "2",
+          "video_id": "9rqV04Avkis"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "1",
+          "video_id": "SvjDV1Ku1Ww"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "3",
+          "video_id": "fHeALTJqosQ"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "2",
+          "video_id": "Yw594-LpsxU"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "4",
+          "video_id": "RGNV3CTFJzQ"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "4",
+          "video_id": "nEtqvUpLIrI"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "5",
+          "video_id": "Cdi1zMBjlU4"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "5",
+          "video_id": "WuMNWk9zT_o"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "SqaDcusgyus"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "G2VErCJl8Dw"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "6",
+          "video_id": "hX6PPrrMvW4"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "v-1W9BrhYMg"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "8",
+          "video_id": "US2eDga7hJs"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "Bv4sJHD1L5M"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "9",
+          "video_id": "lOdz8i1h-Tw"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "10",
+          "video_id": "ukVGckdHTwI"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-3-hindi",
+          "season": 3,
+          "episode": "9",
+          "video_id": "jU5dg52cw00"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "D-fBtKX8n7w"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "12",
+          "video_id": "ATPwIKpozYY"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "11",
+          "video_id": "x2XvKtIq8X0"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-season-2-hindi",
+          "season": 2,
+          "episode": "13",
+          "video_id": "SkdXbRZJnIE"
+        },
+        {
+          "title_id": "mob-psycho-100",
+          "season_id": "mob-psycho-100-hindi-available",
+          "season": 1,
+          "episode": "3",
+          "video_id": "bPW_Ko9gxAk"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "mob-psycho-100-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 11,
+            "missing_within_observed_numeric_range": [
+              "11"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "mob-psycho-100-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 7,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "5",
+              "6",
+              "8",
+              "9",
+              "12"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "mob-psycho-100-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 6,
+            "missing_within_observed_numeric_range": [
+              "4",
+              "7"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "welcome-to-demon-school-iruma-kun",
@@ -2093,7 +1749,27 @@
           "label": "Season 1 · Hindi dub",
           "season_number": 1,
           "episode_numbers": [
-            "1"
+            "1",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23"
           ],
           "verified_complete": false
         },
@@ -2102,11 +1778,386 @@
           "label": "Season 2 · Hindi dub",
           "season_number": 2,
           "episode_numbers": [
-            "1"
+            "1",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "19",
+            "20",
+            "21"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "label": "Season 3 · Hindi dub",
+          "season_number": 3,
+          "episode_numbers": [
+            "2",
+            "3",
+            "6",
+            "10",
+            "12",
+            "18"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "2",
+          "video_id": "yYfMCXJ3IFg"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "3",
+          "video_id": "HM_aWqcIQd4"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "3",
+          "video_id": "Xl9PZS0wfkE"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "4",
+          "video_id": "qXTJUy8Qs0Y"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "4",
+          "video_id": "NvzEQgByoXo"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "5",
+          "video_id": "KZV8mhU7kjE"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "5",
+          "video_id": "or5WxWzkzZw"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "6",
+          "video_id": "tL76a1Oavtk"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "6",
+          "video_id": "PFVRH6O_FhY"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "7",
+          "video_id": "zxPji2bTrLE"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "8",
+          "video_id": "o7fgOzsupMY"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "rjV7dx44o6o"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "TnbYloWxNcY"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "9",
+          "video_id": "wUCbKR7mezs"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "9",
+          "video_id": "lIV0OBGgo9Y"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "10",
+          "video_id": "CgxIvAu_upE"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "11",
+          "video_id": "Z3x0PmPObkk"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "11",
+          "video_id": "FSZDrJ_fDK8"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "12",
+          "video_id": "k8bieMHCj3Y"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "13",
+          "video_id": "y-AatLKSdeQ"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "12",
+          "video_id": "M6tvQpv1PUE"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "13",
+          "video_id": "Nc7QaTDcpQ8"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "14",
+          "video_id": "OWC6xB7vFas"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "14",
+          "video_id": "YIM63lvYh80"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "15",
+          "video_id": "UflxKsfQ86c"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "16",
+          "video_id": "42mknSlKNPI"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "15",
+          "video_id": "y0GuGNZLIDg"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "16",
+          "video_id": "7zZK5brWtfs"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "17",
+          "video_id": "fGl0HAcIjs4"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "17",
+          "video_id": "UTidvwFIWmc"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "18",
+          "video_id": "iYuKaYpstV4"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "19",
+          "video_id": "KysVxkAA9KQ"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "18",
+          "video_id": "SyL0pdsdI6s"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "19",
+          "video_id": "nZ1wDvC-e0o"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "20",
+          "video_id": "r0MNA7g43lo"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "20",
+          "video_id": "VtfMTveZjc0"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "21",
+          "video_id": "eUFbeXUPJLY"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "21",
+          "video_id": "G3n0zLAQcRg"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "22",
+          "video_id": "PVItuqCAA0M"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+          "season": 1,
+          "episode": "23",
+          "video_id": "1iKndAoqkF4"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+          "season": 2,
+          "episode": "12",
+          "video_id": "UHocsjp475o"
+        },
+        {
+          "title_id": "welcome-to-demon-school-iruma-kun",
+          "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+          "season": 3,
+          "episode": "6",
+          "video_id": "6umTEpc4GCo"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "welcome-to-demon-school-iruma-kun-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 21,
+            "missing_within_observed_numeric_range": [
+              "2",
+              "10"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "welcome-to-demon-school-iruma-kun-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 17,
+            "missing_within_observed_numeric_range": [
+              "2",
+              "3",
+              "10",
+              "18"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "welcome-to-demon-school-iruma-kun-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 6,
+            "missing_within_observed_numeric_range": [
+              "4",
+              "5",
+              "7",
+              "8",
+              "9",
+              "11",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "i-parry-everything",
@@ -2156,7 +2207,11 @@
             "2",
             "3",
             "4",
-            "5"
+            "5",
+            "7",
+            "8",
+            "10",
+            "12"
           ],
           "verified_complete": false
         },
@@ -2169,7 +2224,56 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "cells-at-work",
+          "season_id": "cells-at-work-season-1-hindi",
+          "season": 1,
+          "episode": "7",
+          "video_id": "e33GhjAkdIg"
+        },
+        {
+          "title_id": "cells-at-work",
+          "season_id": "cells-at-work-season-1-hindi",
+          "season": 1,
+          "episode": "10",
+          "video_id": "Tab-cFyTKp8"
+        },
+        {
+          "title_id": "cells-at-work",
+          "season_id": "cells-at-work-season-1-hindi",
+          "season": 1,
+          "episode": "8",
+          "video_id": "v5ohXA7179U"
+        },
+        {
+          "title_id": "cells-at-work",
+          "season_id": "cells-at-work-season-1-hindi",
+          "season": 1,
+          "episode": "12",
+          "video_id": "jlcpybL4eiI"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "cells-at-work-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 9,
+            "missing_within_observed_numeric_range": [
+              "6",
+              "9",
+              "11"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "junji-ito-collection",
@@ -2196,14 +2300,89 @@
         },
         {
           "season_id": "junji-ito-collection-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
-            "5"
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "4",
+          "video_id": "xAOoX32NjNU"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "EBBP3bDVOCk"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "2lxclTlwK-0"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "rSyU9jWLHPQ"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "9",
+          "video_id": "w7Q3zhBEZLw"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "11",
+          "video_id": "ZxxmKxxE5VU"
+        },
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "season": 1,
+          "episode": "12",
+          "video_id": "riG3AyeSfBY"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "junji-ito-collection-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 8,
+            "missing_within_observed_numeric_range": [
+              "10"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "i-was-reincarnated-as-the-7th-prince",
@@ -2246,17 +2425,98 @@
       "published_hindi_coverage": [
         {
           "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
             "1",
             "2",
+            "3",
+            "4",
             "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
             "12"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "3",
+          "video_id": "MKJ_7Ru_PBQ"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "4",
+          "video_id": "kcj1VymUSZ8"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "p4IMTgiRoZo"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "05qzCmZsvdM"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "jYcGV-dOoZE"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "9",
+          "video_id": "y05yp-lTgJQ"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "10",
+          "video_id": "jiuWnNxpnMA"
+        },
+        {
+          "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
+          "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+          "season": 1,
+          "episode": "11",
+          "video_id": "KKnr-4poUHE"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 12,
+            "missing_within_observed_numeric_range": [],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
@@ -2274,14 +2534,107 @@
       "published_hindi_coverage": [
         {
           "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
-            "1"
+            "1",
+            "2",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12",
+            "complete"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "complete",
+          "video_id": "ZbcEXhWGXbM"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "2",
+          "video_id": "N31PeiKuNRg"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "7ISyVvOzFRo"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "5",
+          "video_id": "6Op7jFFzglY"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "Xw2Y_kbyz_8"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "9",
+          "video_id": "14ev5yRPfKw"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "yx7VdyE9gmY"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "11",
+          "video_id": "pv98--mbf0M"
+        },
+        {
+          "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+          "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+          "season": 1,
+          "episode": "12",
+          "video_id": "wpS31jtTjrg"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 9,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "4",
+              "10"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "fairy-tail",
@@ -2333,10 +2686,21 @@
       "published_hindi_coverage": [
         {
           "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
-          "label": "Hindi dub · available uploads",
-          "season_number": null,
+          "label": "Season 1 · Hindi dub",
+          "season_number": 1,
           "episode_numbers": [
-            "1"
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
           ],
           "verified_complete": false
         },
@@ -2345,11 +2709,155 @@
           "label": "Season 2 · Hindi dub",
           "season_number": 2,
           "episode_numbers": [
-            "1"
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "8"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "2",
+          "video_id": "FBVlaTyADIA"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "3",
+          "video_id": "HRGj1dx4hB0"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "4",
+          "video_id": "hcFhhyCF-Es"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "5",
+          "video_id": "WIeXRKj_icQ"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "6",
+          "video_id": "1GWutUfobPs"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "7",
+          "video_id": "fQaY1E4uS7s"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "8",
+          "video_id": "UZ14h8kjz_Q"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "WoSBFoUia5Q"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "9",
+          "video_id": "DxdBPC_BohE"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "10",
+          "video_id": "LWKQvEZPIOM"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "11",
+          "video_id": "LBh8dE6ypBM"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+          "season": 1,
+          "episode": "12",
+          "video_id": "2CCbnkSoJLU"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+          "season": 2,
+          "episode": "2",
+          "video_id": "ex2XhqqOrTk"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+          "season": 2,
+          "episode": "3",
+          "video_id": "8TazqEOLEN0"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+          "season": 2,
+          "episode": "4",
+          "video_id": "jzQ99RkkyMg"
+        },
+        {
+          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+          "season": 2,
+          "episode": "5",
+          "video_id": "LKznhD5rbdg"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-hindi-available",
+            "season_number": 1,
+            "individual_episodes": 12,
+            "missing_within_observed_numeric_range": [],
+            "verified_complete": false
+          },
+          {
+            "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 6,
+            "missing_within_observed_numeric_range": [
+              "6",
+              "7"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "one-punch-man",
@@ -2393,11 +2901,183 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "one-punch-man-season-3-hindi",
+          "label": "Season 3 · Hindi dub",
+          "season_number": 3,
+          "episode_numbers": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "6",
+          "video_id": "c4nS7TWXslI"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "L6ooYQG2BQ4"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "6FtnUc2hbQM"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "9",
+          "video_id": "r2dvIKsr7sY"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "PLXdOYFBFBA"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "11",
+          "video_id": "yUKX1h56njY"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "season": 2,
+          "episode": "12",
+          "video_id": "rJCMtgl0ESE"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "1",
+          "video_id": "cDLT4qqYn-o"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "2",
+          "video_id": "Ck9V8f4ku9M"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "4",
+          "video_id": "39xo5gGKxdw"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "5",
+          "video_id": "sdK5xLKrx_M"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "6",
+          "video_id": "3yygGjuibZQ"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "7",
+          "video_id": "ejgaIxCTBPs"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "8",
+          "video_id": "jDVjBsSz2m4"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "9",
+          "video_id": "5T4zwsfERDQ"
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "season": 3,
+          "episode": "11",
+          "video_id": "2_iMnEzApv8"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "one-punch-man-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 12,
+            "missing_within_observed_numeric_range": [],
+            "verified_complete": false
+          },
+          {
+            "season_id": "one-punch-man-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 11,
+            "missing_within_observed_numeric_range": [
+              "5"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "one-punch-man-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 9,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "10"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
@@ -2419,7 +3099,16 @@
           "season_number": 1,
           "episode_numbers": [
             "1",
-            "10"
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
           ],
           "verified_complete": false
         },
@@ -2428,11 +3117,168 @@
           "label": "Season 2 · Hindi dub",
           "season_number": 2,
           "episode_numbers": [
-            "1"
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "10",
+            "12"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "2",
+          "video_id": "aFEvJ8RboF4"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "3",
+          "video_id": "skcP3g52TqQ"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "11",
+          "video_id": "LVQqdGPpBN8"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "4",
+          "video_id": "JaNBO3o8Wo4"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "4",
+          "video_id": "N7XdmsrBKr0"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "5",
+          "video_id": "xhinZ07653A"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "5",
+          "video_id": "h_ZaGn9-VVg"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "6",
+          "video_id": "l4vcLAQL_S8"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "6",
+          "video_id": "OT45tgS2E6k"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "7",
+          "video_id": "vlvmrim7OUI"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "tSzl45jhdvY"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "w3XHyN6fQkk"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "8",
+          "video_id": "loJC2pa5fRs"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "9",
+          "video_id": "MWYB_31Kkt0"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "HyAbkdP9xUI"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+          "season": 2,
+          "episode": "12",
+          "video_id": "XOy2frt3YBM"
+        },
+        {
+          "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+          "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+          "season": 1,
+          "episode": "12",
+          "video_id": "QcUJQFfe-_U"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 11,
+            "missing_within_observed_numeric_range": [
+              "2"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 9,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "9",
+              "11"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     },
     {
       "title_id": "jojos-bizarre-adventure",
@@ -2521,1218 +3367,532 @@
             "4",
             "5",
             "6",
-            "7"
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "23",
+            "24",
+            "25"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "re-zero-season-2-hindi",
+          "label": "Season 2 · Hindi dub",
+          "season_number": 2,
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "re-zero-season-3-hindi",
+          "label": "Season 3 · Hindi dub",
+          "season_number": 3,
+          "episode_numbers": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12",
+            "14",
+            "15",
+            "16"
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_backfill_date": "2026-10-18",
+      "published_this_pass": [
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "8",
+          "video_id": "bYKE-n-1P0A"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "9",
+          "video_id": "JZn6mpEiEHo"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "8",
+          "video_id": "Dln-utdvAcw"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "9",
+          "video_id": "bFjM6iH2qu8"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "10",
+          "video_id": "vmMc6KTRFE0"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "10",
+          "video_id": "xg5PosCdo1A"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "11",
+          "video_id": "UfKlUvVlZ1I"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "12",
+          "video_id": "9hX_T3kPzjo"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "11",
+          "video_id": "o4oWeck09u8"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "12",
+          "video_id": "vCyorzaTsMM"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "13",
+          "video_id": "u0DwhJzVp8E"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "13",
+          "video_id": "lgOc4koyDC4"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "14",
+          "video_id": "74D96eGsTBk"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "15",
+          "video_id": "MxaUmhdJkYE"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "14",
+          "video_id": "wz0ORn1QKTA"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "15",
+          "video_id": "XMepJpc2sGM"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "16",
+          "video_id": "SaUozgeqAbc"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "16",
+          "video_id": "7WNJ-LXATls"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "17",
+          "video_id": "1RSC03jGl3o"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "17",
+          "video_id": "cwwIWCAoRms"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "18",
+          "video_id": "teDwwAnaUpg"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "18",
+          "video_id": "YQoEPx9ielQ"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "19",
+          "video_id": "24T759YZRaM"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "19",
+          "video_id": "5XSBm8nJKQE"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "20",
+          "video_id": "KT6aqz_0cvo"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "21",
+          "video_id": "d0r0b8H1pCU"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "20",
+          "video_id": "N8UDSvfMDnE"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "21",
+          "video_id": "s8KnCGM9LWA"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "22",
+          "video_id": "iqyznQyRIKU"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "23",
+          "video_id": "YFWsF8K00R0"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "23",
+          "video_id": "VVsBbFU3TrU"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "24",
+          "video_id": "4HtogGr-hV0"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "24",
+          "video_id": "Ii7YVEbkwz4"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-1-hindi",
+          "season": 1,
+          "episode": "25",
+          "video_id": "eZC7_343NWA"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "25",
+          "video_id": "IPG6JNAU8yE"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "1",
+          "video_id": "AU8T0FLcnfw"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "2",
+          "video_id": "l_l9BX1CcVc"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "3",
+          "video_id": "ggl1x8Y0nzE"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "5",
+          "video_id": "kainyf9KTmc"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "4",
+          "video_id": "6yQp0S-CDEA"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "8",
+          "video_id": "Bv4ggCBIZOs"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "6",
+          "video_id": "kbNLr6wsvCQ"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "7",
+          "video_id": "jSgzAOvj8lc"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "12",
+          "video_id": "0P43a_L6DpM"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "14",
+          "video_id": "upukRgHJIu8"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-2-hindi",
+          "season": 2,
+          "episode": "16",
+          "video_id": "YxeJtfUHnAw"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "2",
+          "video_id": "Cufblf30lEo"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "1",
+          "video_id": "E2fbL5cVPm4"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "4",
+          "video_id": "vuECU0NYODs"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "6",
+          "video_id": "pSrQfiSyj-k"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "5",
+          "video_id": "BC0z6LNMXDg"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "7",
+          "video_id": "IC5vrzfbBHg"
+        },
+        {
+          "title_id": "re-zero",
+          "season_id": "re-zero-season-3-hindi",
+          "season": 3,
+          "episode": "9",
+          "video_id": "00dKc5L1rck"
+        }
+      ],
+      "latest_coverage_review": {
+        "date": "2026-10-18",
+        "source_report": "data/verification/2026-10-18-afternoon-recovery.json",
+        "editions": [
+          {
+            "season_id": "re-zero-season-1-hindi",
+            "season_number": 1,
+            "individual_episodes": 25,
+            "missing_within_observed_numeric_range": [
+              "22"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "re-zero-season-2-hindi",
+            "season_number": 2,
+            "individual_episodes": 23,
+            "missing_within_observed_numeric_range": [
+              "11",
+              "15"
+            ],
+            "verified_complete": false
+          },
+          {
+            "season_id": "re-zero-season-3-hindi",
+            "season_number": 3,
+            "individual_episodes": 13,
+            "missing_within_observed_numeric_range": [
+              "3",
+              "10",
+              "13"
+            ],
+            "verified_complete": false
+          }
+        ],
+        "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
+      }
     }
   ],
   "pending_metadata_retry": {
     "recorded_on": "2026-10-18",
-    "verification_report": "data/verification/2026-10-18-hindi-series-backfill.json",
+    "verification_report": "data/verification/2026-10-18-afternoon-recovery.json",
     "candidates": [
       {
-        "video_id": "JStare1TEDw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "rV9QmUSlPds",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "fhXbOOOijjo",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "ifsLZE50Kws",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "XaAkCrDBOsQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "qPFGXV6YgvM",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "LrLrcXKQq8U",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "PAY5XV4uQks",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "U-fwCdTogPg",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "7Djj6DbPMFQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "WaVKJ17QAls",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "vj0nJlvKu7Q",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "oxX8sBu8Wik",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "DREbGMivvIE",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "kD2QlG9HaX8",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "DcK3YbSHc-o",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "eZ_rS0vj2Hg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "SvjDV1Ku1Ww",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "RUDtS1u1Mcc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "9rqV04Avkis",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "fHeALTJqosQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Yw594-LpsxU",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "RGNV3CTFJzQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "nEtqvUpLIrI",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "WuMNWk9zT_o",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Cdi1zMBjlU4",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "SqaDcusgyus",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "hX6PPrrMvW4",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "G2VErCJl8Dw",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "v-1W9BrhYMg",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Bv4sJHD1L5M",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "US2eDga7hJs",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "lOdz8i1h-Tw",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "jU5dg52cw00",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "ukVGckdHTwI",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "D-fBtKX8n7w",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "x2XvKtIq8X0",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "ATPwIKpozYY",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "SkdXbRZJnIE",
-        "reason": "HTTP 429"
-      },
-      {
         "video_id": "QmtS4HrhiYo",
-        "reason": "HTTP 429"
+        "reason": "Uploader identity metadata unavailable"
       },
       {
         "video_id": "RXO9yUqlEPY",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "bPW_Ko9gxAk",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "S7LtjQvh6Qc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "PuNGMTpYWpQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
+        "reason": "Uploader identity metadata unavailable"
       },
       {
         "video_id": "VR-Mry40BKY",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "a8QaZ2d3T0s",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "MCRv1RAtQ_w",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "-a19kfqlNs4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "g5Yfye_nBfE",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "BcvzTlWk1Hk",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "QzG1QlZPBaw",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "BLqGr2vcBok",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "6TVW_PQ7JyU",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "7nxJHd87U18",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "pqYTP2iAe4A",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "XqFV-PI9e_4",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "gSXnyAAhcfg",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "0hU9TBeuZQQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "u9-NYqE0M60",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Rt8gGFeVKtA",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "_Xfy3pyJSOc",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Ek7qBml3rqc",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "h8U702ZxZYI",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "vzgwaU03BYI",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "ylAwNowCO0Q",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "_U_0hrcSWqc",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "wv5cQtRZ1i8",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "110X6KLjYtQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Nknprc7F608",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "eT2V8p6OJWc",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "pQP8SjxORVA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "MDSQr59aW2I",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "0d2K0vvpu44",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "i1yULgpvGeU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "IGk5Uge3W_Y",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "tK8FlAl7LRs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "e33GhjAkdIg",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "v5ohXA7179U",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "Tab-cFyTKp8",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "jlcpybL4eiI",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "eoMJ-UVWrf8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "g3-EGoG9Kgg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "MKJ_7Ru_PBQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "kcj1VymUSZ8",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "CgaoYqeOonc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "p4IMTgiRoZo",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "jYcGV-dOoZE",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "05qzCmZsvdM",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "y05yp-lTgJQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "jiuWnNxpnMA",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "KKnr-4poUHE",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "yinJKCodryw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "DaQWe2-sajQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "DHkaJD4n_RU",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "FBVlaTyADIA",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "bj6eC3lzZiM",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "HRGj1dx4hB0",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "-DqqIhxe7kQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "hcFhhyCF-Es",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "nktrUuw1cvs",
-        "reason": "HTTP 429"
+        "reason": "Uploader identity metadata unavailable"
       },
       {
         "video_id": "dU7Ve8v1VsQ",
-        "reason": "HTTP 429"
-      },
-      {
-        "video_id": "WIeXRKj_icQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ZjByZsg_wXM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "1GWutUfobPs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "fQaY1E4uS7s",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "UZ14h8kjz_Q",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "WoSBFoUia5Q",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "DxdBPC_BohE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "LWKQvEZPIOM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "LBh8dE6ypBM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "2CCbnkSoJLU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "s_yinYO_7Co",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ex2XhqqOrTk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "8TazqEOLEN0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "jzQ99RkkyMg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "LKznhD5rbdg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "tdiRAT0fLDM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "3bpS3PAPlhk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "WGS41MVFr54",
-        "reason": "Not checked before metadata rate limit stopped this pass"
+        "reason": "Uploader identity metadata unavailable"
       },
       {
         "video_id": "fvBQT3HVymo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "xAOoX32NjNU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "zteEoAK3AsI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "EBBP3bDVOCk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "2lxclTlwK-0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "rSyU9jWLHPQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "w7Q3zhBEZLw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "9hYV8t6p48A",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ZxxmKxxE5VU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "riG3AyeSfBY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "_9HuJ5QRpSw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ZbcEXhWGXbM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "N31PeiKuNRg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6Op7jFFzglY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "7ISyVvOzFRo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Xw2Y_kbyz_8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "yx7VdyE9gmY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "14ev5yRPfKw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "pv98--mbf0M",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "wpS31jtTjrg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6sTzkSjiUBQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "BYEFnCKnsTE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "aFEvJ8RboF4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "skcP3g52TqQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "LVQqdGPpBN8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "JaNBO3o8Wo4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "N7XdmsrBKr0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "xhinZ07653A",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "h_ZaGn9-VVg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "l4vcLAQL_S8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "OT45tgS2E6k",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "vlvmrim7OUI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "tSzl45jhdvY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "loJC2pa5fRs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "w3XHyN6fQkk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "MWYB_31Kkt0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "HyAbkdP9xUI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "yteg_AnSCek",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "XOy2frt3YBM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "QcUJQFfe-_U",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "iEvp9WeMFz8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ytJUUv3WLVk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "F0aMd3ZYpvs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6eIhwcVbyug",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "q6tQlWNvEdw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Lp0Aw98YzlQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "s6L_noQ_LL4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "jlih0z0qq28",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "c4nS7TWXslI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "L6ooYQG2BQ4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "9Bp2E6XBdtk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6FtnUc2hbQM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "VwtkG7B1oVg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "r2dvIKsr7sY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "5TcWN2R-TRc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "PLXdOYFBFBA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "yUKX1h56njY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "8RljolTXCBk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "rJCMtgl0ESE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "N-Iw17H9JVw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "cDLT4qqYn-o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "n8cIeW5du6w",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Ck9V8f4ku9M",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "b-XPBv8Kr4o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "39xo5gGKxdw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "sdK5xLKrx_M",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Dbp4WJy-H8o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "3yygGjuibZQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "MzAVPcKeM7s",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ejgaIxCTBPs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "PDj2s2LsZCE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "jDVjBsSz2m4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "IUqG0jN0J48",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "5T4zwsfERDQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "tzoFT8ePyHk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "2_iMnEzApv8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "jnDUaXiAimI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "NLaSpvkslmA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "n_J6KBE5Xb8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "uUND8uJdoK8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ABTMnMEWFc8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "yYfMCXJ3IFg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "HM_aWqcIQd4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Xl9PZS0wfkE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "qXTJUy8Qs0Y",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "NvzEQgByoXo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "KZV8mhU7kjE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "or5WxWzkzZw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "tL76a1Oavtk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "PFVRH6O_FhY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "zxPji2bTrLE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "rjV7dx44o6o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "o7fgOzsupMY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "TnbYloWxNcY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "lIV0OBGgo9Y",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "wUCbKR7mezs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "CgxIvAu_upE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "FSZDrJ_fDK8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Z3x0PmPObkk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "k8bieMHCj3Y",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "M6tvQpv1PUE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "y-AatLKSdeQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Nc7QaTDcpQ8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "OWC6xB7vFas",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "YIM63lvYh80",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "UflxKsfQ86c",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "y0GuGNZLIDg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "42mknSlKNPI",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "7zZK5brWtfs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "UTidvwFIWmc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "fGl0HAcIjs4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "iYuKaYpstV4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "SyL0pdsdI6s",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "KysVxkAA9KQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "nZ1wDvC-e0o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "r0MNA7g43lo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "VtfMTveZjc0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "eUFbeXUPJLY",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "G3n0zLAQcRg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "PVItuqCAA0M",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "1iKndAoqkF4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "UHocsjp475o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6umTEpc4GCo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "bYKE-n-1P0A",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Dln-utdvAcw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "JZn6mpEiEHo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "bFjM6iH2qu8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "xg5PosCdo1A",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "vmMc6KTRFE0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "UfKlUvVlZ1I",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "o4oWeck09u8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "9hX_T3kPzjo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "vCyorzaTsMM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "u0DwhJzVp8E",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "lgOc4koyDC4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "74D96eGsTBk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "wz0ORn1QKTA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "MxaUmhdJkYE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "XMepJpc2sGM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "SaUozgeqAbc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "7WNJ-LXATls",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "1RSC03jGl3o",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "cwwIWCAoRms",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "teDwwAnaUpg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "YQoEPx9ielQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "5XSBm8nJKQE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "24T759YZRaM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "KT6aqz_0cvo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "N8UDSvfMDnE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "d0r0b8H1pCU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "s8KnCGM9LWA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "iqyznQyRIKU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "YFWsF8K00R0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "VVsBbFU3TrU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "4HtogGr-hV0",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Ii7YVEbkwz4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "eZC7_343NWA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "IPG6JNAU8yE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "AU8T0FLcnfw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "l_l9BX1CcVc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "ggl1x8Y0nzE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "kainyf9KTmc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "6yQp0S-CDEA",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Bv4ggCBIZOs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "kbNLr6wsvCQ",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "jSgzAOvj8lc",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "wwk909MlmFk",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "0P43a_L6DpM",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "upukRgHJIu8",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "YxeJtfUHnAw",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "E2fbL5cVPm4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "Cufblf30lEo",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "vuECU0NYODs",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "SSm-r0gzKJE",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "BC0z6LNMXDg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "AY_sYGIGiS4",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "pSrQfiSyj-k",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "fLX7f4_xnEU",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "IC5vrzfbBHg",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "00dKc5L1rck",
-        "reason": "Not checked before metadata rate limit stopped this pass"
-      },
-      {
-        "video_id": "K75l9xkf29E",
-        "reason": "Not checked before metadata rate limit stopped this pass"
+        "reason": "Uploader identity metadata unavailable"
       }
     ],
-    "resume_instruction": "Resume exact candidate watch/oEmbed checks after temporary YouTube 429 clears. Never import on search evidence alone."
-  }
+    "resume_instruction": "Resume exact upload checks for unresolved metadata; retain language, identity, region and embed gates."
+  },
+  "publisher_review_candidates": [
+    {
+      "channel_id": "UC4Ltqr5kScrEU8B-qqg8cXA",
+      "name": "BEYBLADE BURST Official Hindi",
+      "candidate_video_ids": [
+        "yfiySpwi3Eg",
+        "XZpJwlZ-GjY"
+      ],
+      "reviewed_on": "2026-10-18",
+      "state": "needs_exact_primary_channel_crosslink",
+      "primary_source_checked": "https://www.adkem.jp/works-en/beyblade-burst/",
+      "reason": "ADK identifies the English channel UCktgoAFaL39_rYfiMZiD9jw; the exact Hindi sister channel still needs primary-source authorization evidence. Hindi candidates were not published on name alone."
+    }
+  ]
 }

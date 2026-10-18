@@ -31,3 +31,6 @@ class PublicUploadChecks(unittest.TestCase):
   p=self.player();p['playabilityStatus']={'status':'UNPLAYABLE','reason':'Not available in your country'};r=self.run_check(p);self.assertTrue(r['eligible']);self.assertEqual(r['actual_india_playback'],'unverified')
  def test_india_absent_rejected(self):
   p=self.player();p['microformat']['playerMicroformatRenderer']['availableCountries']=['US'];self.assertFalse(self.run_check(p)['eligible'])
+ def test_missing_identity_is_an_access_limit_not_unapproved_uploader(self):
+  p={'playabilityStatus':{'status':'LOGIN_REQUIRED','reason':'Sign in to confirm you are not a bot'}}
+  r=self.run_check(p);self.assertFalse(r['eligible']);self.assertEqual(r['reason'],'Uploader identity metadata unavailable');self.assertEqual(r['player_status'],'LOGIN_REQUIRED')
