@@ -23794,7 +23794,9 @@
     ],
     "related": [],
     "added_on": "2026-10-18",
-    "discovery": "Exact official full-movie upload checked 2026-10-18"
+    "discovery": "Exact official full-movie upload checked 2026-10-18",
+    "browse_priority": 10,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "khiladi-786",
@@ -25279,7 +25281,9 @@
       "the-rebirth-of-buddha"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 11,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "the-laws-of-the-universe-part-1",
@@ -25348,7 +25352,9 @@
       "the-rebirth-of-buddha"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 12,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "the-laws-of-eternity",
@@ -25415,7 +25421,9 @@
       "the-rebirth-of-buddha"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 14,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "the-rebirth-of-buddha",
@@ -25483,7 +25491,9 @@
       "the-laws-of-eternity"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 15,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "the-laws-of-the-sun",
@@ -25551,7 +25561,9 @@
       "the-laws-of-eternity"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 16,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   },
   {
     "id": "the-mystical-laws",
@@ -25648,6 +25660,8 @@
       "the-laws-of-eternity"
     ],
     "added_on": "2026-10-19",
-    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed"
+    "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
+    "browse_priority": 13,
+    "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
   }
 ]

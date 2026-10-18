@@ -56,5 +56,8 @@
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
-  ]
+  ],
+  "last_display_update": "2026-10-19T02:38:40.403331+05:30",
+  "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
+  "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json"
 }

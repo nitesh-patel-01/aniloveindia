@@ -4123,7 +4123,9 @@
           "reason": "Uploader not approved"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "browse_priority_on_verified_import": 0,
+      "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards."
     },
     {
       "title_id": "pokemon-movies",
@@ -4151,7 +4153,9 @@
           "reason": "Uploader not approved"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "browse_priority_on_verified_import": 1,
+      "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards."
     },
     {
       "title_id": "suzume",
@@ -4177,7 +4181,9 @@
           "reason": "Uploader not approved"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "browse_priority_on_verified_import": 2,
+      "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards."
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -4211,7 +4217,26 @@
           "reason": "Uploader not approved"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "browse_priority_on_verified_import": 3,
+      "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards."
+    },
+    {
+      "title_id": "crayon-shinchan",
+      "title": "Crayon Shinchan",
+      "preferred_audio": "Hindi",
+      "priority": 1,
+      "state": "public_upload_checks_rate_limited",
+      "last_attempted_on": "2026-10-19",
+      "sources": [
+        "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
+        "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
+        "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html"
+      ],
+      "candidate_video_ids": [
+        "84vWRDJvj90"
+      ],
+      "reason": "Broad Hindi and Devanagari searches mostly returned unreviewed reuploaders. Exact watch verification for the reviewed Muse Asia episode returned HTTP 429. Do not infer India eligibility or subtitles from listing titles alone; retry the official video and any publisher playlist when source access recovers."
     }
   ],
   "pending_metadata_retry": {
