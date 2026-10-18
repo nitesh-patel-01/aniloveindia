@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T02:17:55.459163+05:30",
+  "updated_at": "2026-10-19T02:31:43.293635+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -4096,6 +4096,122 @@
       "next_actions": [
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
       ]
+    },
+    {
+      "title_id": "doraemon-movies",
+      "title": "Doraemon films",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "state": "feature_film_source_verification_pending",
+      "last_attempted_on": "2026-10-19",
+      "queries": [
+        "Doraemon full movie Hindi official",
+        "डोरेमोन पूरी फिल्म हिंदी",
+        "Doraemon movie English dub official"
+      ],
+      "candidate_uploads": [
+        {
+          "video_id": "2iMPCPasqpo",
+          "uploader": "ChesssOnTop",
+          "channel_id": "UCjr7WkU1-VPcpg2OVQ6i1mg",
+          "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "4lujSv-ETSs",
+          "uploader": "Toon Flix",
+          "channel_id": "UCQhlOcl-MIep9giMJRkxkDg",
+          "reason": "Uploader not approved"
+        }
+      ],
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+    },
+    {
+      "title_id": "pokemon-movies",
+      "title": "Pokémon films",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "state": "feature_film_source_verification_pending",
+      "last_attempted_on": "2026-10-19",
+      "queries": [
+        "Pokemon full movie Hindi official",
+        "पोकेमॉन मूवी हिंदी",
+        "Pokemon movie English dub official"
+      ],
+      "candidate_uploads": [
+        {
+          "video_id": "ukltEVBGcWA",
+          "uploader": "LUFFY",
+          "channel_id": "UCWHd2wjJBA5c4J08vAKL-HA",
+          "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "_JPnwf7Gwh4",
+          "uploader": "Mujeeb_FFx",
+          "channel_id": "UC4WZ19GaovNydPm6C504o4w",
+          "reason": "Uploader not approved"
+        }
+      ],
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+    },
+    {
+      "title_id": "suzume",
+      "title": "Suzume",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "state": "feature_film_source_verification_pending",
+      "last_attempted_on": "2026-10-19",
+      "queries": [
+        "Suzume full movie Hindi"
+      ],
+      "candidate_uploads": [
+        {
+          "video_id": "glubM5ITcIw",
+          "uploader": "Transform Gaming",
+          "channel_id": "UCJZH2Wvt0SLaVoujLo9We0A",
+          "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "1nNVLA9EGpQ",
+          "uploader": "AMSR Cinema",
+          "channel_id": "UC12AsLIziR4E1gkDQUfkh5Q",
+          "reason": "Uploader not approved"
+        }
+      ],
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
+    },
+    {
+      "title_id": "ne-zha-animated-films",
+      "title": "Ne Zha animated films",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "state": "feature_film_source_verification_pending",
+      "last_attempted_on": "2026-10-19",
+      "queries": [
+        "Ne Zha full movie Hindi official",
+        "Nezha Hindi full movie Ultra",
+        "Ne Zha English full movie official"
+      ],
+      "candidate_uploads": [
+        {
+          "video_id": "tykH1y90Lp0",
+          "uploader": "CARTOON STUDIO100",
+          "channel_id": "UCcBc01ih6r6Ymb5LHwKhPQg",
+          "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "_kKjlMLxR4Q",
+          "uploader": "Dishoom Films",
+          "channel_id": "UCWPcGCm8W5X4888swkODtxw",
+          "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "ITGoSbitWnI",
+          "uploader": "iQIYI English - Get the iQIYI APP",
+          "channel_id": "UCZrZaZM9IfX-uB-9yWf5gfQ",
+          "reason": "Uploader not approved"
+        }
+      ],
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card."
     }
   ],
   "pending_metadata_retry": {

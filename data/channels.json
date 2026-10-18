@@ -84,5 +84,13 @@
     "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
     "identity_reviewed_on": "2026-10-19",
     "identity_note": "The Pokémon Company India announcement directly links this exact Hindi YouTube channel. Each upload still requires independent public full-content, language, India metadata and embed checks."
+  },
+  {
+    "channel_id": "UCXFQq4inDVcznQ6RRE7F7IA",
+    "name": "Happy Science India",
+    "identity_reviewed": true,
+    "identity_evidence_url": "https://happy-science.org/en-in/videos/",
+    "identity_reviewed_on": "2026-10-19",
+    "identity_note": "Publisher’s official India Videos page directly links @HappyScienceIndia; public channel metadata resolves that handle to this exact ID. Review is limited to the publisher’s own full anime films, not all material on the channel."
   }
 ]
