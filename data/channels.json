@@ -76,5 +76,13 @@
     "identity_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
     "identity_reviewed_on": "2026-10-17",
     "identity_note": "Muse India official Instagram announcement links this exact YouTube channel as its Hindi Dub channel. Muse India upload descriptions link the museacg_in Instagram account."
+  },
+  {
+    "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+    "name": "Pokémon Asia Official (Hindi)",
+    "identity_reviewed": true,
+    "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+    "identity_reviewed_on": "2026-10-19",
+    "identity_note": "The Pokémon Company India announcement directly links this exact Hindi YouTube channel. Each upload still requires independent public full-content, language, India metadata and embed checks."
   }
 ]

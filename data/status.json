@@ -1,46 +1,56 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-18T14:20:40.011168+05:30",
+  "last_run": "2026-10-19T02:17:55.459163+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Added Ragna Crimson Hindi edition and three editorial/collection pages",
+  "state": "Catalogue updated: 67 anime episodes and one Hindi film, with dated source checks",
   "added": {
-    "ragna-crimson": 15
+    "fairy-tail": 1,
+    "snowball-earth": 1,
+    "attack-on-titan": 1,
+    "re-zero": 1,
+    "jojos-bizarre-adventure": 1,
+    "assassination-classroom": 1,
+    "daringbaaz-2": 1,
+    "hunter-x-hunter": 1,
+    "pokemon-horizons": 15,
+    "pokemon-diamond-and-pearl": 15,
+    "pokemon-xy": 15,
+    "pokemon-journeys": 15
   },
   "changed_availability": [],
   "link_checks": [],
   "blog": {
-    "published": 0,
-    "skipped": "No editorial blog publication requested in this content update."
+    "published_this_run": 0,
+    "existing_guides_retained": true
   },
   "errors": [
-    "Public channel/playlists can be region-hidden from this checking server; no location spoofing used.",
-    "IN country metadata and oEmbed are not observed playback from India.",
-    "Compilations and duplicate same-language mirrors do not create missing episode links.",
-    "Some watch responses omit uploader metadata. These remain access/verification limits, not evidence of an unauthorized uploader.",
-    "Korean originals require independently evidenced English subtitles and audio edition; search titles alone did not satisfy those checks in this pass."
+    "IN country metadata and successful oEmbed do not demonstrate actual India playback.",
+    "Region-hidden Muse/Pokémon playlist HTML can return zero rows; public Atom feeds expose up to 15 uploads, not complete series.",
+    "Ragna Crimson individual episodes 16–24 remain unresolved.",
+    "No unreviewed uploader is treated as unauthorized merely because primary-source authorization has not yet been established."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
   "last_manual_verification": "2026-10-18",
   "catalogue_counts": {
-    "anime-series": 52,
+    "anime-series": 57,
     "anime-movies": 12,
-    "movies": 85,
+    "movies": 86,
     "k-dramas": 53
   },
-  "upload_count": 1318,
+  "upload_count": 1386,
   "added_this_run": {
     "anime-series": {
-      "titles": 1,
-      "uploads": 15
+      "titles": 5,
+      "uploads": 67
     },
     "anime-movies": {
       "titles": 0,
       "uploads": 0
     },
     "movies": {
-      "titles": 0,
-      "uploads": 0
+      "titles": 1,
+      "uploads": 1
     },
     "k-dramas": {
       "titles": 0,
@@ -48,7 +58,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-18-ragna-crimson.json",
+  "verification_report": "data/verification/2026-10-19-catalogue-update.json",
   "language_priority": [
     "Hindi",
     "English",

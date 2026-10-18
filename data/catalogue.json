@@ -1817,7 +1817,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-19",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=7F5rns5lX6g",
@@ -1882,7 +1882,8 @@
       "https://www.youtube.com/watch?v=pSrQfiSyj-k",
       "https://www.youtube.com/watch?v=BC0z6LNMXDg",
       "https://www.youtube.com/watch?v=IC5vrzfbBHg",
-      "https://www.youtube.com/watch?v=00dKc5L1rck"
+      "https://www.youtube.com/watch?v=00dKc5L1rck",
+      "https://www.youtube.com/watch?v=jcg9tqVVl7s"
     ],
     "seasons": [
       {
@@ -2544,6 +2545,34 @@
         ]
       },
       {
+        "id": "re-zero-season-4-hindi",
+        "label": "Season 4 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly identifies the Hindi audio edition.",
+        "episodes": [
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 68 (S4E02) | Muse IN",
+            "video_id": "jcg9tqVVl7s",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T09:30:07-07:00"
+          }
+        ],
+        "season_number": 4
+      },
+      {
         "id": "re-zero-directors-cut",
         "label": "Director’s Cut",
         "audio_language": "Japanese",
@@ -3086,12 +3115,13 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-19",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=adsNeHmLllg",
       "https://www.youtube.com/watch?v=K1dt4wHzsBY",
-      "https://www.youtube.com/watch?v=w_H7ahP00IE"
+      "https://www.youtube.com/watch?v=w_H7ahP00IE",
+      "https://www.youtube.com/watch?v=uwbNs1tVLM4"
     ],
     "seasons": [
       {
@@ -3103,7 +3133,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-19",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -3117,6 +3147,18 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 16 | Muse IN",
+            "video_id": "uwbNs1tVLM4",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T08:00:09-07:00"
           }
         ]
       },
@@ -4542,7 +4584,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-19",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
@@ -4552,7 +4594,8 @@
       "https://www.youtube.com/watch?v=QLFA1MkDkww",
       "https://www.youtube.com/watch?v=1Wo_PRie640",
       "https://www.youtube.com/watch?v=TnJw8Yc8CCo",
-      "https://www.youtube.com/watch?v=FjB1k32O-wE"
+      "https://www.youtube.com/watch?v=FjB1k32O-wE",
+      "https://www.youtube.com/watch?v=mWKa7dTIVR4"
     ],
     "seasons": [
       {
@@ -4616,7 +4659,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-19",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -4640,6 +4683,18 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 08 [Hindi Dub] | Muse IN",
+            "video_id": "mWKa7dTIVR4",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T08:30:07-07:00"
           }
         ]
       },
@@ -19820,7 +19875,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-19",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=LoJNZElISM8",
@@ -19936,7 +19991,8 @@
       "https://www.youtube.com/watch?v=oRs0AvgUNf8",
       "https://www.youtube.com/watch?v=ZiTyAdrLPRU",
       "https://www.youtube.com/watch?v=D5iGR-HNN8A",
-      "https://www.youtube.com/watch?v=hupT9Ut6-DM"
+      "https://www.youtube.com/watch?v=hupT9Ut6-DM",
+      "https://www.youtube.com/watch?v=T1xlDlyyCnw"
     ],
     "thumbnail": "https://i.ytimg.com/vi/LoJNZElISM8/hqdefault.jpg",
     "seasons": [
@@ -19948,7 +20004,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-19",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -20202,6 +20258,18 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "48",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 048 | Muse IN",
+            "video_id": "T1xlDlyyCnw",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T08:00:35-07:00"
           },
           {
             "number": "51",
@@ -21419,7 +21487,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-19",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=4q70E0nwkAY",
@@ -21460,7 +21528,8 @@
       "https://www.youtube.com/watch?v=7Djj6DbPMFQ",
       "https://www.youtube.com/watch?v=vj0nJlvKu7Q",
       "https://www.youtube.com/watch?v=DREbGMivvIE",
-      "https://www.youtube.com/watch?v=DcK3YbSHc-o"
+      "https://www.youtube.com/watch?v=DcK3YbSHc-o",
+      "https://www.youtube.com/watch?v=L-Vsd6J2L0M"
     ],
     "thumbnail": "https://i.ytimg.com/vi/4q70E0nwkAY/hqdefault.jpg",
     "seasons": [
@@ -21855,7 +21924,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-19",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -21899,6 +21968,18 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Attack on Titan - Episode 43 (S3E06) | Muse IN",
+            "video_id": "L-Vsd6J2L0M",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T09:30:07-07:00"
           }
         ]
       }
@@ -23484,7 +23565,7 @@
     "category": "anime-series",
     "format": "Series",
     "original_language": "Japanese",
-    "audio_label": "Hindi dub",
+    "audio_label": "Hindi dub · English dub",
     "country": "Japan",
     "year": null,
     "genre": [
@@ -23492,18 +23573,19 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=zs-jXgEm8HI",
-    "synopsis": "Watch the individually verified official Hindi uploads of Fairy Tail. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "synopsis": "Choose an individually checked official Hindi or English edition of Fairy Tail below. Each language keeps its own episode list; this available selection is not a complete-series claim.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-19",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=zs-jXgEm8HI",
-      "https://www.youtube.com/watch?v=b_uQi-lcPZ8"
+      "https://www.youtube.com/watch?v=b_uQi-lcPZ8",
+      "https://www.youtube.com/watch?v=dAhe4WlxRNA"
     ],
     "thumbnail": "https://i.ytimg.com/vi/zs-jXgEm8HI/hqdefault.jpg",
     "seasons": [
@@ -23558,6 +23640,34 @@
           }
         ],
         "season_number": 7
+      },
+      {
+        "id": "fairy-tail-season-1-english",
+        "label": "Season 1 · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "audio_language_evidence": "Official upload title explicitly identifies the English audio edition.",
+        "episodes": [
+          {
+            "number": "33",
+            "title": "Fairy Tail - Episode 033 (S1E33) [English Dub]",
+            "video_id": "dAhe4WlxRNA",
+            "duration_seconds": 1455,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T05:30:10-07:00"
+          }
+        ],
+        "season_number": 1
       }
     ],
     "added_on": "2026-10-17"
@@ -23996,5 +24106,1110 @@
       "Ragna Crimson Hindi",
       "रग्ना क्रिमसन"
     ]
+  },
+  {
+    "id": "snowball-earth",
+    "title": "Snowball Earth",
+    "original_title": "Snowball Earth",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Not confirmed",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=llqyMVqzya8",
+    "synopsis": "Choose an individually checked official English episode of Snowball Earth below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=llqyMVqzya8"
+    ],
+    "seasons": [
+      {
+        "id": "snowball-earth-english-available",
+        "label": "English dub · available episodes",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "audio_language_evidence": "Official upload title explicitly identifies the English audio edition.",
+        "episodes": [
+          {
+            "number": "6",
+            "title": "Snowball Earth - Episode 06 [English Dub]",
+            "video_id": "llqyMVqzya8",
+            "duration_seconds": 1380,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T05:00:06-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/llqyMVqzya8/hqdefault.jpg"
+  },
+  {
+    "id": "daringbaaz-2",
+    "title": "Daringbaaz 2",
+    "original_title": "Daringbaaz 2",
+    "alternate_titles": [
+      "Komban"
+    ],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": 2015,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=CU-qOWWJVLs",
+    "synopsis": "A village man’s confrontations put his family in danger in this rural action drama. Watch Shemaroo Movies’ checked full-length Hindi-dubbed upload below. Actual India playback remains unverified.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=CU-qOWWJVLs"
+    ],
+    "seasons": [
+      {
+        "id": "daringbaaz-2-movie",
+        "label": "Full movie · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "audio_language_evidence": "Official uploader description explicitly tags this edition #dubbedmovie and #hindimovie.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "क्या ग़ुस्सैल आदमी शादी के बाद बदल पायेगा | Daringbaaz 2 | FULL MOVIE (HD) | Karthi, Lakshmi Menon",
+            "video_id": "CU-qOWWJVLs",
+            "duration_seconds": 7702,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-18T02:30:17-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/CU-qOWWJVLs/hqdefault.jpg"
+  },
+  {
+    "id": "pokemon-horizons",
+    "title": "Pokémon Horizons: The Series",
+    "original_title": "Pokémon Horizons: The Series",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Pokémon Asia Official (Hindi)",
+    "watch_url": "https://www.youtube.com/watch?v=Aug8U0jcDqI",
+    "synopsis": "Choose an individually checked official Hindi episode of Pokémon Horizons: The Series below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=Aug8U0jcDqI",
+      "https://www.youtube.com/watch?v=WGrMRcmlRHM",
+      "https://www.youtube.com/watch?v=j4Ph7cRUgq8",
+      "https://www.youtube.com/watch?v=GqbZ5EKPdNw",
+      "https://www.youtube.com/watch?v=6i9D78Wsw2M",
+      "https://www.youtube.com/watch?v=pXOHbxSxQfk",
+      "https://www.youtube.com/watch?v=CcQEtZwrV0E",
+      "https://www.youtube.com/watch?v=kXhj3pHpOks",
+      "https://www.youtube.com/watch?v=UtIfFJuFHYA",
+      "https://www.youtube.com/watch?v=Rrnb5ZJ14lc",
+      "https://www.youtube.com/watch?v=UXeLFLzp0Pk",
+      "https://www.youtube.com/watch?v=uCAaIjESc3o",
+      "https://www.youtube.com/watch?v=jc3q4hyKgg8",
+      "https://www.youtube.com/watch?v=F8Kq0xu24fM",
+      "https://www.youtube.com/watch?v=XzAuQbTNUZM",
+      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+    ],
+    "seasons": [
+      {
+        "id": "pokemon-horizons-season-2-hindi",
+        "label": "Season 2: The Search for Laqua · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+        "audio_language_evidence": "The official upload title explicitly labels this Pokémon upload as the Hindi edition. The Pokémon Company India website links this exact publisher channel.",
+        "episodes": [
+          {
+            "number": "30",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 30 | Pokémon Asia Official (Hindi)",
+            "video_id": "XzAuQbTNUZM",
+            "duration_seconds": 1321,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-10T00:00:30-07:00"
+          },
+          {
+            "number": "31",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 31 | Pokémon Asia Official (Hindi)",
+            "video_id": "F8Kq0xu24fM",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-17T00:00:29-07:00"
+          },
+          {
+            "number": "32",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 32 | Pokémon Asia Official (Hindi)",
+            "video_id": "jc3q4hyKgg8",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-24T00:00:10-07:00"
+          },
+          {
+            "number": "33",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 33 | Pokémon Asia Official (Hindi)",
+            "video_id": "uCAaIjESc3o",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-31T00:00:19-07:00"
+          },
+          {
+            "number": "34",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 34 | Pokémon Asia Official (Hindi)",
+            "video_id": "UXeLFLzp0Pk",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-07T00:00:21-07:00"
+          },
+          {
+            "number": "35",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 35 | Pokémon Asia Official (Hindi)",
+            "video_id": "Rrnb5ZJ14lc",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-14T00:00:23-07:00"
+          },
+          {
+            "number": "36",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 36 | Pokémon Asia Official (Hindi)",
+            "video_id": "UtIfFJuFHYA",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-21T00:00:11-07:00"
+          },
+          {
+            "number": "37",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 37 | Pokémon Asia Official (Hindi)",
+            "video_id": "kXhj3pHpOks",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-28T00:00:10-07:00"
+          },
+          {
+            "number": "38",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 38 | Pokémon Asia Official (Hindi)",
+            "video_id": "CcQEtZwrV0E",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-04T00:00:07-07:00"
+          },
+          {
+            "number": "39",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 39 | Pokémon Asia Official (Hindi)",
+            "video_id": "pXOHbxSxQfk",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-11T00:00:11-07:00"
+          },
+          {
+            "number": "40",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 40 | Pokémon Asia Official (Hindi)",
+            "video_id": "6i9D78Wsw2M",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-18T00:00:33-07:00"
+          },
+          {
+            "number": "41",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 41 | Pokémon Asia Official (Hindi)",
+            "video_id": "GqbZ5EKPdNw",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-25T00:00:18-07:00"
+          },
+          {
+            "number": "42",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 42 | Pokémon Asia Official (Hindi)",
+            "video_id": "j4Ph7cRUgq8",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-02T00:00:06-07:00"
+          },
+          {
+            "number": "43",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 43 | Pokémon Asia Official (Hindi)",
+            "video_id": "WGrMRcmlRHM",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-09T00:00:05-07:00"
+          },
+          {
+            "number": "44",
+            "title": "Pokémon Horizons: Season 2—The Search for Laqua | एपिसोड 44 | Pokémon Asia Official (Hindi)",
+            "video_id": "Aug8U0jcDqI",
+            "duration_seconds": 1368,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-16T00:00:26-07:00"
+          }
+        ],
+        "season_number": 2,
+        "playlist_id": "PLxjFnCWdSoEUozxFn9ZCt3HgycHzJAdGo"
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/Aug8U0jcDqI/hqdefault.jpg"
+  },
+  {
+    "id": "pokemon-diamond-and-pearl",
+    "title": "Pokémon: Diamond and Pearl",
+    "original_title": "Pokémon: Diamond and Pearl",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Pokémon Asia Official (Hindi)",
+    "watch_url": "https://www.youtube.com/watch?v=7V1C8COSzUI",
+    "synopsis": "Choose an individually checked official Hindi episode of Pokémon: Diamond and Pearl below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=7V1C8COSzUI",
+      "https://www.youtube.com/watch?v=vr29QzUQv6A",
+      "https://www.youtube.com/watch?v=KNmEGxeUqAM",
+      "https://www.youtube.com/watch?v=UmrbdtCcJMU",
+      "https://www.youtube.com/watch?v=H_2xB3hY9bc",
+      "https://www.youtube.com/watch?v=MdibbinoM_o",
+      "https://www.youtube.com/watch?v=75ZfqYK4Al0",
+      "https://www.youtube.com/watch?v=5pqa-1VFA0c",
+      "https://www.youtube.com/watch?v=pMjS77N6UbQ",
+      "https://www.youtube.com/watch?v=cKJ7Hwz7cWM",
+      "https://www.youtube.com/watch?v=DuL9JRJds70",
+      "https://www.youtube.com/watch?v=mWsBqINwfpc",
+      "https://www.youtube.com/watch?v=2p3NF7hijs8",
+      "https://www.youtube.com/watch?v=ZmmonOcfn-o",
+      "https://www.youtube.com/watch?v=l7xI6gQbicE",
+      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+    ],
+    "seasons": [
+      {
+        "id": "pokemon-diamond-and-pearl-battle-dimension-hindi",
+        "label": "Battle Dimension · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+        "audio_language_evidence": "The official upload title explicitly labels this Pokémon upload as the Hindi edition. The Pokémon Company India website links this exact publisher channel.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 1 | Pokémon Asia Official (Hindi)",
+            "video_id": "l7xI6gQbicE",
+            "duration_seconds": 1212,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-08T00:00:07-07:00"
+          },
+          {
+            "number": "2",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 2 | Pokémon Asia Official (Hindi)",
+            "video_id": "ZmmonOcfn-o",
+            "duration_seconds": 1211,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-15T00:00:27-07:00"
+          },
+          {
+            "number": "3",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 3 | Pokémon Asia Official (Hindi)",
+            "video_id": "2p3NF7hijs8",
+            "duration_seconds": 1186,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-22T00:00:17-07:00"
+          },
+          {
+            "number": "4",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 4 | Pokémon Asia Official (Hindi)",
+            "video_id": "mWsBqINwfpc",
+            "duration_seconds": 1208,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-07-29T00:00:24-07:00"
+          },
+          {
+            "number": "5",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 5 | Pokémon Asia Official (Hindi)",
+            "video_id": "DuL9JRJds70",
+            "duration_seconds": 1219,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-05T00:00:37-07:00"
+          },
+          {
+            "number": "6",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 6 | Pokémon Asia Official (Hindi)",
+            "video_id": "cKJ7Hwz7cWM",
+            "duration_seconds": 1194,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-12T00:00:05-07:00"
+          },
+          {
+            "number": "7",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 7 | Pokémon Asia Official (Hindi)",
+            "video_id": "pMjS77N6UbQ",
+            "duration_seconds": 1179,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-19T00:00:33-07:00"
+          },
+          {
+            "number": "8",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 8 | Pokémon Asia Official (Hindi)",
+            "video_id": "5pqa-1VFA0c",
+            "duration_seconds": 1209,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-08-26T00:00:26-07:00"
+          },
+          {
+            "number": "9",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 9 | Pokémon Asia Official (Hindi)",
+            "video_id": "75ZfqYK4Al0",
+            "duration_seconds": 1200,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-02T00:00:08-07:00"
+          },
+          {
+            "number": "10",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 10 | Pokémon Asia Official (Hindi)",
+            "video_id": "MdibbinoM_o",
+            "duration_seconds": 1217,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-09T00:00:06-07:00"
+          },
+          {
+            "number": "11",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 11 | Pokémon Asia Official (Hindi)",
+            "video_id": "H_2xB3hY9bc",
+            "duration_seconds": 1220,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-16T00:00:24-07:00"
+          },
+          {
+            "number": "12",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 12 | Pokémon Asia Official (Hindi)",
+            "video_id": "UmrbdtCcJMU",
+            "duration_seconds": 1220,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-23T00:00:34-07:00"
+          },
+          {
+            "number": "13",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 13 | Pokémon Asia Official (Hindi)",
+            "video_id": "KNmEGxeUqAM",
+            "duration_seconds": 1207,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-09-30T00:00:05-07:00"
+          },
+          {
+            "number": "14",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 14 | Pokémon Asia Official (Hindi)",
+            "video_id": "vr29QzUQv6A",
+            "duration_seconds": 1220,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-07T00:00:21-07:00"
+          },
+          {
+            "number": "15",
+            "title": "Pokémon: Diamond and Pearl: Battle Dimension | Episode 15 | Pokémon Asia Official (Hindi)",
+            "video_id": "7V1C8COSzUI",
+            "duration_seconds": 1220,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-10-14T00:00:19-07:00"
+          }
+        ],
+        "playlist_id": "PLxjFnCWdSoEUGyB4Kt7Yk0hYzPYD_-tMT"
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/7V1C8COSzUI/hqdefault.jpg"
+  },
+  {
+    "id": "pokemon-xy",
+    "title": "Pokémon the Series: XY",
+    "original_title": "Pokémon the Series: XY",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Pokémon Asia Official (Hindi)",
+    "watch_url": "https://www.youtube.com/watch?v=qvMitRMiczs",
+    "synopsis": "Choose an individually checked official Hindi episode of Pokémon the Series: XY below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=qvMitRMiczs",
+      "https://www.youtube.com/watch?v=gdAR5cHigsU",
+      "https://www.youtube.com/watch?v=8CCoOriaYAU",
+      "https://www.youtube.com/watch?v=l-VcoNHnjMM",
+      "https://www.youtube.com/watch?v=KFyKopEZe-o",
+      "https://www.youtube.com/watch?v=20XHdpKao_Q",
+      "https://www.youtube.com/watch?v=9kQIXfp1Veg",
+      "https://www.youtube.com/watch?v=NNZuk3c6rd0",
+      "https://www.youtube.com/watch?v=nIq1IXcVw54",
+      "https://www.youtube.com/watch?v=peJ5lLoX1gU",
+      "https://www.youtube.com/watch?v=O3RGzC25c3s",
+      "https://www.youtube.com/watch?v=X_N2--zf5YM",
+      "https://www.youtube.com/watch?v=1C45gDzCRxM",
+      "https://www.youtube.com/watch?v=lZpxd6wnFQY",
+      "https://www.youtube.com/watch?v=D2I_6RPsNXU",
+      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+    ],
+    "seasons": [
+      {
+        "id": "pokemon-xy-hindi-available",
+        "label": "XY · Hindi dub · available episodes",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+        "audio_language_evidence": "The official upload title explicitly labels this Pokémon upload as the Hindi edition. The Pokémon Company India website links this exact publisher channel.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Pokémon the Series: XY एपिसोड 1 | Kalos, Where Dreams And Adventures Begin! | Asia Official (Hindi)",
+            "video_id": "qvMitRMiczs",
+            "duration_seconds": 1278,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-09-30T00:00:17-07:00"
+          },
+          {
+            "number": "2",
+            "title": "Pokémon the Series: XY एपिसोड 2 | Lumiose City Pursuit! | Pokémon Asia Official (Hindi)",
+            "video_id": "gdAR5cHigsU",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-10-07T00:00:25-07:00"
+          },
+          {
+            "number": "3",
+            "title": "Pokémon the Series: XY एपिसोड 3 | A Battle Of Aerial Mobility! | Pokémon Asia Official (Hindi)",
+            "video_id": "8CCoOriaYAU",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-10-14T00:00:03-07:00"
+          },
+          {
+            "number": "4",
+            "title": "Pokémon the Series: XY एपिसोड 4 | A Shockingly Cheeky Friendship! | Pokémon Asia Official (Hindi)",
+            "video_id": "l-VcoNHnjMM",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-10-21T00:00:14-07:00"
+          },
+          {
+            "number": "5",
+            "title": "Pokémon the Series: XY एपिसोड 5 | A Blustery Santalune Gym Battle! | Pokémon Asia Official (Hindi)",
+            "video_id": "KFyKopEZe-o",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-10-28T00:00:06-07:00"
+          },
+          {
+            "number": "6",
+            "title": "Pokémon the Series: XY एपिसोड 6 | Battling On Thin Ice! | Pokémon Asia Official (Hindi)",
+            "video_id": "20XHdpKao_Q",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-11-04T00:00:00-07:00"
+          },
+          {
+            "number": "7",
+            "title": "Pokémon the Series: XY एपिसोड 7 | Giving Chase At The Rhyhorn Race! | Pokémon Asia Official (Hindi)",
+            "video_id": "9kQIXfp1Veg",
+            "duration_seconds": 1279,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-11-10T23:00:03-08:00"
+          },
+          {
+            "number": "8",
+            "title": "Pokémon the Series: XY एपिसोड 8 | Grooming Furfrou! | Pokémon Asia Official (Hindi)",
+            "video_id": "NNZuk3c6rd0",
+            "duration_seconds": 1278,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-11-17T23:00:11-08:00"
+          },
+          {
+            "number": "9",
+            "title": "Pokémon the Series: XY एपिसोड 9 | Clemont'S Got A Secret! | Pokémon Asia Official (Hindi)",
+            "video_id": "nIq1IXcVw54",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-11-22T23:00:29-08:00"
+          },
+          {
+            "number": "10",
+            "title": "Pokémon the Series: XY एपिसोड 10 | Mega-Mega Meowth Madness! | Pokémon Asia Official (Hindi)",
+            "video_id": "peJ5lLoX1gU",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-11-29T23:00:19-08:00"
+          },
+          {
+            "number": "11",
+            "title": "Pokémon the Series: XY एपिसोड 11 | The Bamboozling Forest! | Pokémon Asia Official (Hindi)",
+            "video_id": "O3RGzC25c3s",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-12-06T23:00:12-08:00"
+          },
+          {
+            "number": "12",
+            "title": "Pokémon the Series: XY एपिसोड 12 | To Catch A Pokémon Smuggler! | Pokémon Asia Official (Hindi)",
+            "video_id": "X_N2--zf5YM",
+            "duration_seconds": 1279,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-12-13T23:00:09-08:00"
+          },
+          {
+            "number": "13",
+            "title": "Pokémon the Series: XY एपिसोड 13 | Kindergarten Chaos! | Pokémon Asia Official (Hindi)",
+            "video_id": "1C45gDzCRxM",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-12-20T23:00:00-08:00"
+          },
+          {
+            "number": "14",
+            "title": "Pokémon the Series: XY एपिसोड 14 | Seeking Shelter From The Storm! | Pokémon Asia Official (Hindi)",
+            "video_id": "lZpxd6wnFQY",
+            "duration_seconds": 1286,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2022-12-27T23:00:23-08:00"
+          },
+          {
+            "number": "15",
+            "title": "Pokémon the Series: XY एपिसोड 15 | An Appetite For Battle! | Pokémon Asia Official (Hindi)",
+            "video_id": "D2I_6RPsNXU",
+            "duration_seconds": 1280,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2023-01-03T23:00:03-08:00"
+          }
+        ],
+        "playlist_id": "PLxjFnCWdSoEUR0iBvTDaTrCVeAn7_fi1E"
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/qvMitRMiczs/hqdefault.jpg"
+  },
+  {
+    "id": "pokemon-journeys",
+    "title": "Pokémon Journeys: The Series",
+    "original_title": "Pokémon Journeys: The Series",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Pokémon Asia Official (Hindi)",
+    "watch_url": "https://www.youtube.com/watch?v=rkEsQvQzbI0",
+    "synopsis": "Choose an individually checked official Hindi episode of Pokémon Journeys: The Series below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=rkEsQvQzbI0",
+      "https://www.youtube.com/watch?v=xB8e6fdLEMY",
+      "https://www.youtube.com/watch?v=Y4vMSFZ5mGY",
+      "https://www.youtube.com/watch?v=WOjcoiicJ2M",
+      "https://www.youtube.com/watch?v=GF7XHkZ6sNk",
+      "https://www.youtube.com/watch?v=UpTvtGLqnbA",
+      "https://www.youtube.com/watch?v=yl0IbWwPOy0",
+      "https://www.youtube.com/watch?v=8wACX4jO7Ic",
+      "https://www.youtube.com/watch?v=WWgQs3CFzUM",
+      "https://www.youtube.com/watch?v=rWSIduEEdEs",
+      "https://www.youtube.com/watch?v=vQdQKFXmujU",
+      "https://www.youtube.com/watch?v=PTcb0a18deg",
+      "https://www.youtube.com/watch?v=cj3ShILgWJE",
+      "https://www.youtube.com/watch?v=5EYCDz3dVow",
+      "https://www.youtube.com/watch?v=NKJLPz6uMX4",
+      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+    ],
+    "seasons": [
+      {
+        "id": "pokemon-ultimate-journeys-hindi",
+        "label": "Ultimate Journeys · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+        "audio_language_evidence": "The official upload title explicitly labels this Pokémon upload as the Hindi edition. The Pokémon Company India website links this exact publisher channel.",
+        "episodes": [
+          {
+            "number": "40",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 40 | भविष्य हमारी मुट्ठी में! | Pokémon Asia Official (Hindi)",
+            "video_id": "NKJLPz6uMX4",
+            "duration_seconds": 1263,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-05-03T00:00:20-07:00"
+          },
+          {
+            "number": "41",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 41 | एक हुए दोनों हीरो! | Pokémon Asia Official (Hindi)",
+            "video_id": "5EYCDz3dVow",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-05-10T00:00:06-07:00"
+          },
+          {
+            "number": "42",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 42 | एक बड़ी शुरुआत की दहलीज़ पर! | Pokémon Asia Official (Hindi)",
+            "video_id": "cj3ShILgWJE",
+            "duration_seconds": 1254,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-05-17T00:00:21-07:00"
+          },
+          {
+            "number": "43",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 43 | चलते रहना है इस रास्ते पर! | Pokémon Asia Official (Hindi)",
+            "video_id": "PTcb0a18deg",
+            "duration_seconds": 1276,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-05-24T00:00:20-07:00"
+          },
+          {
+            "number": "44",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 44 | किस्मत में लिखी बैटल! | Pokémon Asia Official (Hindi)",
+            "video_id": "vQdQKFXmujU",
+            "duration_seconds": 1276,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-05-31T00:00:28-07:00"
+          },
+          {
+            "number": "45",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 45 | हमारे हीरो और जादूगरनी! | Pokémon Asia Official (Hindi)",
+            "video_id": "rWSIduEEdEs",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-06-07T00:00:30-07:00"
+          },
+          {
+            "number": "46",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 46 | लगाएं अपना पूरा ज़ोर! | Pokémon Asia Official (Hindi)",
+            "video_id": "WWgQs3CFzUM",
+            "duration_seconds": 1276,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-06-14T00:00:26-07:00"
+          },
+          {
+            "number": "47",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 47 | जोशीले स्क्वॉड की कहानी! | Pokémon Asia Official (Hindi)",
+            "video_id": "8wACX4jO7Ic",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-06-21T00:00:02-07:00"
+          },
+          {
+            "number": "48",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 48 | वही चाँद, आज और हमेशा! | Pokémon Asia Official (Hindi)",
+            "video_id": "yl0IbWwPOy0",
+            "duration_seconds": 1276,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-06-28T00:00:28-07:00"
+          },
+          {
+            "number": "49",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 49 | जाओ, लैप्रस, जाओ! | Pokémon Asia Official (Hindi)",
+            "video_id": "UpTvtGLqnbA",
+            "duration_seconds": 1276,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-05T00:00:23-07:00"
+          },
+          {
+            "number": "50",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 50 | खोजते हुए दिल का राज़! | Pokémon Asia Official (Hindi)",
+            "video_id": "GF7XHkZ6sNk",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-12T00:00:17-07:00"
+          },
+          {
+            "number": "51",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 51 | रॉकेट रिवेंजर्स! | Pokémon Asia Official (Hindi)",
+            "video_id": "WOjcoiicJ2M",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-13T00:00:17-07:00"
+          },
+          {
+            "number": "52",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 52 | ऐश और लाटियोस! | Pokémon Asia Official (Hindi)",
+            "video_id": "Y4vMSFZ5mGY",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-14T00:00:15-07:00"
+          },
+          {
+            "number": "53",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 53 | इंद्रधनुष और पोकेमॉन मास्टर! | Pokémon Asia Official (Hindi)",
+            "video_id": "xB8e6fdLEMY",
+            "duration_seconds": 1287,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-15T00:00:36-07:00"
+          },
+          {
+            "number": "54",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 54 | दूर दिखे नीला आसमान! | Pokémon Asia Official (Hindi)",
+            "video_id": "rkEsQvQzbI0",
+            "duration_seconds": 1436,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-07-16T00:00:33-07:00"
+          }
+        ],
+        "playlist_id": "PLxjFnCWdSoEU_WkY4ITVZyr8R3h6J0G92"
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/rkEsQvQzbI0/hqdefault.jpg"
   }
 ]

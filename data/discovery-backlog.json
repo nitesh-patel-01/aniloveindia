@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:57:22.028596+05:30",
+  "updated_at": "2026-10-19T02:17:55.459163+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -38,7 +38,17 @@
         23,
         24
       ],
-      "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links."
+      "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links.",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt": {
+        "date": "2026-10-19",
+        "sources": [
+          "Official playlist HTML and feed",
+          "Whole YouTube search",
+          "Public web indexed official watch pages"
+        ],
+        "result": "Playlist listing remains hidden; feed returns only the already published 1–15. Exact 16–24 uploader IDs were not recovered. No availability claim made for missing uploads."
+      }
     },
     {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
@@ -307,7 +317,8 @@
         "5",
         "6",
         "7"
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "battle-through-the-heavens",
@@ -326,7 +337,8 @@
         "Verify rights-holder company crosslink or primary channel authorization evidence",
         "Then check individual Hindi/English dub or Chinese-with-evidenced-English-subtitle editions, IN metadata and oEmbed",
         "Treat full-series compilations as one video, not invented episodes"
-      ]
+      ],
+      "last_attempted_on": "2026-10-19"
     },
     {
       "title_id": "hunter-x-hunter",
@@ -372,6 +384,7 @@
             "45",
             "46",
             "47",
+            "48",
             "51",
             "52",
             "53",
@@ -465,7 +478,7 @@
           "verified_complete": false
         }
       ],
-      "last_backfill_date": "2026-10-18",
+      "last_backfill_date": "2026-10-19",
       "published_this_pass": [
         {
           "title_id": "hunter-x-hunter",
@@ -498,7 +511,6 @@
         "36",
         "37",
         "38",
-        "48",
         "49",
         "50",
         "80",
@@ -559,7 +571,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": "2026-10-19"
     },
     {
       "title_id": "tokyo-revengers",
@@ -722,7 +735,8 @@
           "episode": "23",
           "video_id": "6hQHRB2rTGQ"
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "attack-on-titan",
@@ -797,12 +811,13 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "6"
           ],
           "verified_complete": false
         }
       ],
-      "last_backfill_date": "2026-10-18",
+      "last_backfill_date": "2026-10-19",
       "published_this_pass": [
         {
           "title_id": "attack-on-titan",
@@ -885,7 +900,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "dan-da-dan",
@@ -1109,7 +1125,8 @@
             "7"
           ]
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "mushoku-tensei-jobless-reincarnation",
@@ -1143,7 +1160,8 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "spy-x-family",
@@ -1242,7 +1260,8 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "classroom-of-the-elite",
@@ -1506,7 +1525,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "mob-psycho-100",
@@ -1767,7 +1787,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "welcome-to-demon-school-iruma-kun",
@@ -2196,7 +2217,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "i-parry-everything",
@@ -2221,7 +2243,8 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "cells-at-work",
@@ -2312,7 +2335,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "junji-ito-collection",
@@ -2421,7 +2445,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "i-was-reincarnated-as-the-7th-prince",
@@ -2446,7 +2471,8 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
@@ -2555,7 +2581,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
@@ -2673,7 +2700,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "fairy-tail",
@@ -2707,7 +2735,8 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -2896,7 +2925,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "one-punch-man",
@@ -3116,7 +3146,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
@@ -3317,7 +3348,8 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
     },
     {
       "title_id": "jojos-bizarre-adventure",
@@ -3357,12 +3389,13 @@
           "season_number": 4,
           "episode_numbers": [
             "6",
-            "7"
+            "7",
+            "8"
           ],
           "verified_complete": false
         }
       ],
-      "last_backfill_date": "2026-10-18",
+      "last_backfill_date": "2026-10-19",
       "published_this_pass": [
         {
           "title_id": "jojos-bizarre-adventure",
@@ -3378,7 +3411,8 @@
           "episode": "6",
           "video_id": "FjB1k32O-wE"
         }
-      ]
+      ],
+      "last_attempted_on": null
     },
     {
       "title_id": "re-zero",
@@ -3478,9 +3512,18 @@
             "16"
           ],
           "verified_complete": false
+        },
+        {
+          "season_id": "re-zero-season-4-hindi",
+          "label": "Season 4 · Hindi dub",
+          "season_number": 4,
+          "episode_numbers": [
+            "2"
+          ],
+          "verified_complete": false
         }
       ],
-      "last_backfill_date": "2026-10-18",
+      "last_backfill_date": "2026-10-19",
       "published_this_pass": [
         {
           "title_id": "re-zero",
@@ -3890,7 +3933,169 @@
           }
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
-      }
+      },
+      "last_attempted_on": null
+    },
+    {
+      "title_id": "pokemon-horizons",
+      "title": "Pokémon Horizons: The Series",
+      "state": "partial_backfill",
+      "priority": 2,
+      "last_backfill_date": "2026-10-19",
+      "preferred_audio": "Hindi",
+      "published_coverage": [
+        {
+          "season_id": "pokemon-horizons-season-2-hindi",
+          "label": "Season 2: The Search for Laqua · Hindi dub",
+          "episode_numbers": [
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "next_actions": [
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ]
+    },
+    {
+      "title_id": "pokemon-diamond-and-pearl",
+      "title": "Pokémon: Diamond and Pearl",
+      "state": "partial_backfill",
+      "priority": 2,
+      "last_backfill_date": "2026-10-19",
+      "preferred_audio": "Hindi",
+      "published_coverage": [
+        {
+          "season_id": "pokemon-diamond-and-pearl-battle-dimension-hindi",
+          "label": "Battle Dimension · Hindi dub",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "next_actions": [
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ]
+    },
+    {
+      "title_id": "pokemon-xy",
+      "title": "Pokémon the Series: XY",
+      "state": "partial_backfill",
+      "priority": 2,
+      "last_backfill_date": "2026-10-19",
+      "preferred_audio": "Hindi",
+      "published_coverage": [
+        {
+          "season_id": "pokemon-xy-hindi-available",
+          "label": "XY · Hindi dub · available episodes",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "next_actions": [
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ]
+    },
+    {
+      "title_id": "pokemon-journeys",
+      "title": "Pokémon Journeys: The Series",
+      "state": "partial_backfill",
+      "priority": 2,
+      "last_backfill_date": "2026-10-19",
+      "preferred_audio": "Hindi",
+      "published_coverage": [
+        {
+          "season_id": "pokemon-ultimate-journeys-hindi",
+          "label": "Ultimate Journeys · Hindi dub",
+          "episode_numbers": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "next_actions": [
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ]
+    },
+    {
+      "title_id": "snowball-earth",
+      "title": "Snowball Earth",
+      "state": "partial_backfill",
+      "priority": 2,
+      "last_backfill_date": "2026-10-19",
+      "preferred_audio": "English",
+      "published_coverage": [
+        {
+          "season_id": "snowball-earth-english-available",
+          "label": "English dub · available episodes",
+          "episode_numbers": [
+            "6"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "next_actions": [
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ]
     }
   ],
   "pending_metadata_retry": {
