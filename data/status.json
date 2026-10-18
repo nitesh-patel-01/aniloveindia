@@ -1,10 +1,17 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-17T21:24:19.193705+05:30",
+  "last_run": "2026-10-18T08:03:20.419252+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Added seven owner-linked Hindi Slime episodes; Seasons 1–3 each list episodes 1–24",
+  "state": "Added 178 Hindi anime episodes and one Hindi full movie",
   "added": {
-    "that-time-i-got-reincarnated-as-a-slime": 7
+    "hunter-x-hunter": 107,
+    "dan-da-dan": 22,
+    "tokyo-revengers": 16,
+    "attack-on-titan": 29,
+    "that-time-i-got-reincarnated-as-a-slime": 1,
+    "jojos-bizarre-adventure": 2,
+    "assassination-classroom": 1,
+    "rdx-love": 1
   },
   "changed_availability": [],
   "link_checks": [],
@@ -13,31 +20,34 @@
     "skipped": "No editorial blog publication requested in this content update."
   },
   "errors": [
-    "Season 4 after episode 3 still needs verified official Hindi upload IDs.",
-    "Actual India playback is unverified; IN country metadata and oEmbed passed."
+    "Public channel/playlists can be region-hidden from this checking server; no location spoofing used.",
+    "IN country metadata and oEmbed are not observed playback from India.",
+    "Compilations and duplicate same-language mirrors do not create missing episode links.",
+    "YouTube returned HTTP 429 during continued metadata checks. Requests were stopped; failed or unchecked candidates remain unpublished for a future retry.",
+    "Some official channel Atom feeds returned HTTP errors. Recent feeds are not complete series listings."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
-  "last_manual_verification": "2026-10-17",
+  "last_manual_verification": "2026-10-18",
   "catalogue_counts": {
     "anime-series": 51,
     "anime-movies": 11,
-    "movies": 83,
+    "movies": 84,
     "k-dramas": 53
   },
-  "upload_count": 898,
+  "upload_count": 1077,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
-      "uploads": 7
+      "uploads": 178
     },
     "anime-movies": {
       "titles": 0,
       "uploads": 0
     },
     "movies": {
-      "titles": 0,
-      "uploads": 0
+      "titles": 1,
+      "uploads": 1
     },
     "k-dramas": {
       "titles": 0,
@@ -45,7 +55,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-17-slime-owner-links.json",
+  "verification_report": "data/verification/2026-10-18-hindi-series-backfill.json",
   "language_priority": [
     "Hindi",
     "English",

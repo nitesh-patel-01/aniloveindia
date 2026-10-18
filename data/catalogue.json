@@ -26,7 +26,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in each upload’s available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "Official Muse India uploader, explicit Hindi dub and season-relative episode metadata, full runtime, India country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=B1LyaPY2SYw",
@@ -105,7 +105,8 @@
       "https://www.youtube.com/watch?v=QjsR91ACUMs",
       "https://www.youtube.com/watch?v=4aoo1ssOwbA",
       "https://www.youtube.com/watch?v=N4eGCObDedE",
-      "https://www.youtube.com/watch?v=R2kbNZGMWHw"
+      "https://www.youtube.com/watch?v=R2kbNZGMWHw",
+      "https://www.youtube.com/watch?v=OUh3DcMZyug"
     ],
     "thumbnail": "https://i.ytimg.com/vi/B1LyaPY2SYw/hqdefault.jpg",
     "seasons": [
@@ -900,7 +901,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Only Hindi episodes 1–3 are individually verified in this listing; recover later official uploads. Actual India playback is unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-18",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
@@ -930,6 +931,16 @@
             "duration_seconds": 1451,
             "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
             "india_playback": "unverified"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 80 (S4E08) | Muse IN",
+            "video_id": "OUh3DcMZyug",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
           }
         ]
       }
@@ -2460,13 +2471,40 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-18",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=adsNeHmLllg",
-      "https://www.youtube.com/watch?v=K1dt4wHzsBY"
+      "https://www.youtube.com/watch?v=K1dt4wHzsBY",
+      "https://www.youtube.com/watch?v=w_H7ahP00IE"
     ],
     "seasons": [
+      {
+        "id": "assassination-classroom-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "season_number": 1,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "15",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 15 | Muse IN",
+            "video_id": "w_H7ahP00IE",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          }
+        ]
+      },
       {
         "id": "assassination-classroom-season-1",
         "label": "Season 1",
@@ -3630,7 +3668,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
@@ -3638,7 +3676,9 @@
       "https://www.youtube.com/watch?v=GApvZTBaYjk",
       "https://www.youtube.com/watch?v=hTXqHoUQq2M",
       "https://www.youtube.com/watch?v=QLFA1MkDkww",
-      "https://www.youtube.com/watch?v=1Wo_PRie640"
+      "https://www.youtube.com/watch?v=1Wo_PRie640",
+      "https://www.youtube.com/watch?v=TnJw8Yc8CCo",
+      "https://www.youtube.com/watch?v=FjB1k32O-wE"
     ],
     "seasons": [
       {
@@ -3692,6 +3732,42 @@
           }
         ],
         "season_number": 2
+      },
+      {
+        "id": "jojos-bizarre-adventure-season-4-hindi",
+        "label": "Season 4 · Hindi dub",
+        "season_number": 4,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "6",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 06 [Hindi Dub] | Muse IN",
+            "video_id": "FjB1k32O-wE",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 07 [Hindi Dub] | Muse IN",
+            "video_id": "TnJw8Yc8CCo",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          }
+        ]
       },
       {
         "id": "jojo-phantom-blood",
@@ -17943,14 +18019,14 @@
     ],
     "provider": "Muse Hindi Dub",
     "watch_url": "https://www.youtube.com/watch?v=LoJNZElISM8",
-    "synopsis": "Watch the individually verified official Hindi uploads of Hunter × Hunter. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "synopsis": "Choose from 113 official Hindi uploads of Hunter × Hunter, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=LoJNZElISM8",
@@ -17958,7 +18034,114 @@
       "https://www.youtube.com/watch?v=-PKn27OlgVM",
       "https://www.youtube.com/watch?v=-1d8NO2bB0E",
       "https://www.youtube.com/watch?v=Pg6WV9r66eY",
-      "https://www.youtube.com/watch?v=hvrVfE2zhoE"
+      "https://www.youtube.com/watch?v=hvrVfE2zhoE",
+      "https://www.youtube.com/watch?v=9GlbdQz_bKc",
+      "https://www.youtube.com/watch?v=ZXFBixwa_xM",
+      "https://www.youtube.com/watch?v=Fus_97Iy_Fw",
+      "https://www.youtube.com/watch?v=eFXfwomkiwc",
+      "https://www.youtube.com/watch?v=FZMUHG7GyAQ",
+      "https://www.youtube.com/watch?v=89LPon17fhI",
+      "https://www.youtube.com/watch?v=dPNrQ8iJi5I",
+      "https://www.youtube.com/watch?v=Ui3oejwVskE",
+      "https://www.youtube.com/watch?v=yFftwvZnnLI",
+      "https://www.youtube.com/watch?v=1kvUsTrpl4o",
+      "https://www.youtube.com/watch?v=t0QOflbZ6t8",
+      "https://www.youtube.com/watch?v=Lnqc23EAxmk",
+      "https://www.youtube.com/watch?v=heGE9FO6xnw",
+      "https://www.youtube.com/watch?v=pCJEdiafBqw",
+      "https://www.youtube.com/watch?v=sayUQetiTc0",
+      "https://www.youtube.com/watch?v=s_dzhaAWXJc",
+      "https://www.youtube.com/watch?v=dWpafbhhofY",
+      "https://www.youtube.com/watch?v=6RETmwY8ZNI",
+      "https://www.youtube.com/watch?v=adDJUCLMhaY",
+      "https://www.youtube.com/watch?v=mxZr84UwHXk",
+      "https://www.youtube.com/watch?v=tKyBBHj_WKU",
+      "https://www.youtube.com/watch?v=dwbgfmmJZiM",
+      "https://www.youtube.com/watch?v=mGVcW7kyGlg",
+      "https://www.youtube.com/watch?v=HJAgbWogc5A",
+      "https://www.youtube.com/watch?v=EnXfSHWx7ds",
+      "https://www.youtube.com/watch?v=t8QapTQ2j3k",
+      "https://www.youtube.com/watch?v=TgybcBCDN4g",
+      "https://www.youtube.com/watch?v=GOYuf6mctwI",
+      "https://www.youtube.com/watch?v=Dg2X2QAw3L0",
+      "https://www.youtube.com/watch?v=SQ3XEZMByZY",
+      "https://www.youtube.com/watch?v=uByA17fApXE",
+      "https://www.youtube.com/watch?v=cwxQB8_S47k",
+      "https://www.youtube.com/watch?v=VnwoJBq7imk",
+      "https://www.youtube.com/watch?v=1l9UTeVVF1I",
+      "https://www.youtube.com/watch?v=6Im0VkAzJH8",
+      "https://www.youtube.com/watch?v=eiZIlQwGLG4",
+      "https://www.youtube.com/watch?v=poPQjepfPcQ",
+      "https://www.youtube.com/watch?v=eGaxLYdZNA0",
+      "https://www.youtube.com/watch?v=Ph0YFOQNqOw",
+      "https://www.youtube.com/watch?v=aYz7GZJWhi4",
+      "https://www.youtube.com/watch?v=vP9ZXnt0oBg",
+      "https://www.youtube.com/watch?v=Y_0cVOKub40",
+      "https://www.youtube.com/watch?v=zKNn1iWcGdI",
+      "https://www.youtube.com/watch?v=9p5mvTKLVGs",
+      "https://www.youtube.com/watch?v=2i4MCHIfVpk",
+      "https://www.youtube.com/watch?v=mrbsu1WxGYo",
+      "https://www.youtube.com/watch?v=PKF9a7RKFt0",
+      "https://www.youtube.com/watch?v=xfpEyi4N4XY",
+      "https://www.youtube.com/watch?v=mhciCklYo-Y",
+      "https://www.youtube.com/watch?v=R_LUwyyP974",
+      "https://www.youtube.com/watch?v=0MnqCXoIsz0",
+      "https://www.youtube.com/watch?v=6532VwpkKZM",
+      "https://www.youtube.com/watch?v=e7wzPnyCRqY",
+      "https://www.youtube.com/watch?v=Cl5WKkWB1ts",
+      "https://www.youtube.com/watch?v=B2t1UGlz5hI",
+      "https://www.youtube.com/watch?v=cSHf59bkhjA",
+      "https://www.youtube.com/watch?v=zFN5cD-CNcw",
+      "https://www.youtube.com/watch?v=MmtZQXKWerc",
+      "https://www.youtube.com/watch?v=MiFnEzscH_Y",
+      "https://www.youtube.com/watch?v=i4W2DyyKHeA",
+      "https://www.youtube.com/watch?v=rH5t9i5TOOE",
+      "https://www.youtube.com/watch?v=A9ZASZe1RO8",
+      "https://www.youtube.com/watch?v=6YGtFzT24ns",
+      "https://www.youtube.com/watch?v=SQ-u9wR8Jyg",
+      "https://www.youtube.com/watch?v=WgiE0UZ96qQ",
+      "https://www.youtube.com/watch?v=ljOcRjjRq3Q",
+      "https://www.youtube.com/watch?v=XsthbjVv9nM",
+      "https://www.youtube.com/watch?v=l7R2MTgTvgI",
+      "https://www.youtube.com/watch?v=eNxBV7YexTw",
+      "https://www.youtube.com/watch?v=O4WmXSbOyLg",
+      "https://www.youtube.com/watch?v=Y1vUFZniULk",
+      "https://www.youtube.com/watch?v=yLRktxYLiqk",
+      "https://www.youtube.com/watch?v=oLJ5Cg_g2DA",
+      "https://www.youtube.com/watch?v=uI6fOoGg8hk",
+      "https://www.youtube.com/watch?v=TAeQJQIb1_w",
+      "https://www.youtube.com/watch?v=aUhhAHhMNQg",
+      "https://www.youtube.com/watch?v=Fi8WjAx3KgY",
+      "https://www.youtube.com/watch?v=nlwBybOXr-o",
+      "https://www.youtube.com/watch?v=WTKmk1MEapU",
+      "https://www.youtube.com/watch?v=ckMoxatwSBo",
+      "https://www.youtube.com/watch?v=WIEbNfIaOI4",
+      "https://www.youtube.com/watch?v=WAc7rlak06Y",
+      "https://www.youtube.com/watch?v=j_VUx1j6UIY",
+      "https://www.youtube.com/watch?v=e6gOc_1opsE",
+      "https://www.youtube.com/watch?v=Cz5NiimtYms",
+      "https://www.youtube.com/watch?v=R3pRcSbKIKY",
+      "https://www.youtube.com/watch?v=K6E3fexIUC4",
+      "https://www.youtube.com/watch?v=-DcGHtLLk8M",
+      "https://www.youtube.com/watch?v=scwxmjAnXAA",
+      "https://www.youtube.com/watch?v=ZbWDNZlaC9c",
+      "https://www.youtube.com/watch?v=9q-hFbBbdFk",
+      "https://www.youtube.com/watch?v=fhDoqlvMd6Y",
+      "https://www.youtube.com/watch?v=CS8KdSx1-qM",
+      "https://www.youtube.com/watch?v=5dp14mJjJyA",
+      "https://www.youtube.com/watch?v=jAo8PKLUkzM",
+      "https://www.youtube.com/watch?v=Lr3YBef2_iM",
+      "https://www.youtube.com/watch?v=JcEm6FGHvYY",
+      "https://www.youtube.com/watch?v=Sga2ZZ30LXQ",
+      "https://www.youtube.com/watch?v=D0CVe05qtL4",
+      "https://www.youtube.com/watch?v=4b0EPvjP1bI",
+      "https://www.youtube.com/watch?v=P-vuo3rXaiY",
+      "https://www.youtube.com/watch?v=h5s03oYTSIw",
+      "https://www.youtube.com/watch?v=5PwITi94K4s",
+      "https://www.youtube.com/watch?v=pCpysUUfI1c",
+      "https://www.youtube.com/watch?v=oRs0AvgUNf8",
+      "https://www.youtube.com/watch?v=ZiTyAdrLPRU",
+      "https://www.youtube.com/watch?v=D5iGR-HNN8A"
     ],
     "thumbnail": "https://i.ytimg.com/vi/LoJNZElISM8/hqdefault.jpg",
     "seasons": [
@@ -17970,11 +18153,191 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-18",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
         "episodes": [
+          {
+            "number": "1",
+            "title": "HUNTER×HUNTER - Episode 001 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "9GlbdQz_bKc",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "HUNTER×HUNTER - Episode 003 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "ZXFBixwa_xM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 005 | Muse IN",
+            "video_id": "eFXfwomkiwc",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "HUNTER×HUNTER - Episode 006 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "FZMUHG7GyAQ",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "11",
+            "title": "HUNTER×HUNTER - Episode 011 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "1kvUsTrpl4o",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "HUNTER×HUNTER - Episode 012 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Lnqc23EAxmk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "14",
+            "title": "HUNTER×HUNTER - Episode 014 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "heGE9FO6xnw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "15",
+            "title": "HUNTER×HUNTER - Episode 015 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "pCJEdiafBqw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "18",
+            "title": "HUNTER×HUNTER - Episode 018 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "sayUQetiTc0",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "20",
+            "title": "HUNTER×HUNTER - Episode 020 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "s_dzhaAWXJc",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "21",
+            "title": "HUNTER×HUNTER - Episode 021 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "dWpafbhhofY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "26",
+            "title": "HUNTER×HUNTER - Episode 026 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "6RETmwY8ZNI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "27",
+            "title": "HUNTER×HUNTER - Episode 027 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "adDJUCLMhaY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "28",
+            "title": "HUNTER×HUNTER - Episode 028 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "mxZr84UwHXk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "32",
+            "title": "HUNTER×HUNTER - Episode 032 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "tKyBBHj_WKU",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "33",
+            "title": "HUNTER×HUNTER - Episode 033 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "dwbgfmmJZiM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "39",
+            "title": "HUNTER×HUNTER - Episode 039 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "HJAgbWogc5A",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "40",
+            "title": "HUNTER×HUNTER - Episode 040 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Fus_97Iy_Fw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
           {
             "number": "41",
             "title": "[Hindi Dub] HUNTER×HUNTER - Episode 041 | Muse IN",
@@ -18034,6 +18397,896 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "51",
+            "title": "HUNTER×HUNTER - Episode 051 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "EnXfSHWx7ds",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "52",
+            "title": "HUNTER×HUNTER - Episode 052 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "t8QapTQ2j3k",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "53",
+            "title": "HUNTER×HUNTER - Episode 053 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "TgybcBCDN4g",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "54",
+            "title": "HUNTER×HUNTER - Episode 054 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "GOYuf6mctwI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "55",
+            "title": "HUNTER×HUNTER - Episode 055 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Dg2X2QAw3L0",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "56",
+            "title": "HUNTER×HUNTER - Episode 056 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "mGVcW7kyGlg",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "57",
+            "title": "HUNTER×HUNTER - Episode 057 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "SQ3XEZMByZY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "58",
+            "title": "HUNTER×HUNTER - Episode 058 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "uByA17fApXE",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "59",
+            "title": "HUNTER×HUNTER - Episode 059 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "cwxQB8_S47k",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "60",
+            "title": "HUNTER×HUNTER - Episode 060 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "89LPon17fhI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "61",
+            "title": "HUNTER×HUNTER - Episode 061 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "VnwoJBq7imk",
+            "duration_seconds": 1414,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "62",
+            "title": "HUNTER×HUNTER - Episode 062 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "1l9UTeVVF1I",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "63",
+            "title": "HUNTER×HUNTER - Episode 063 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "6Im0VkAzJH8",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "64",
+            "title": "HUNTER×HUNTER - Episode 064 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "eiZIlQwGLG4",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "65",
+            "title": "HUNTER×HUNTER - Episode 065 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "poPQjepfPcQ",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "66",
+            "title": "HUNTER×HUNTER - Episode 066 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "eGaxLYdZNA0",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "67",
+            "title": "HUNTER×HUNTER - Episode 067 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Ph0YFOQNqOw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "68",
+            "title": "HUNTER×HUNTER - Episode 068 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "aYz7GZJWhi4",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "69",
+            "title": "HUNTER×HUNTER - Episode 069 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "vP9ZXnt0oBg",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "70",
+            "title": "HUNTER×HUNTER - Episode 070 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Y_0cVOKub40",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "71",
+            "title": "HUNTER×HUNTER - Episode 071 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "zKNn1iWcGdI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "72",
+            "title": "HUNTER×HUNTER - Episode 072 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "9p5mvTKLVGs",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "73",
+            "title": "HUNTER×HUNTER - Episode 073 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "2i4MCHIfVpk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "74",
+            "title": "HUNTER×HUNTER - Episode 074 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "mrbsu1WxGYo",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "75",
+            "title": "HUNTER×HUNTER - Episode 075 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "PKF9a7RKFt0",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "76",
+            "title": "HUNTER×HUNTER - Episode 076 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "xfpEyi4N4XY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "77",
+            "title": "HUNTER×HUNTER - Episode 077 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "mhciCklYo-Y",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "78",
+            "title": "HUNTER×HUNTER - Episode 078 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "R_LUwyyP974",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "79",
+            "title": "HUNTER×HUNTER - Episode 079 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "0MnqCXoIsz0",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "81",
+            "title": "HUNTER×HUNTER - Episode 081 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "6532VwpkKZM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "82",
+            "title": "HUNTER×HUNTER - Episode 082 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "e7wzPnyCRqY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "83",
+            "title": "HUNTER×HUNTER - Episode 083 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Cl5WKkWB1ts",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "86",
+            "title": "HUNTER×HUNTER - Episode 086 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "cSHf59bkhjA",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "87",
+            "title": "HUNTER×HUNTER - Episode 087 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "B2t1UGlz5hI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "88",
+            "title": "HUNTER×HUNTER - Episode 088 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Ui3oejwVskE",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "89",
+            "title": "HUNTER×HUNTER - Episode 089 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "zFN5cD-CNcw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "90",
+            "title": "HUNTER×HUNTER - Episode 090 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "yFftwvZnnLI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "91",
+            "title": "HUNTER×HUNTER - Episode 091 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "MmtZQXKWerc",
+            "duration_seconds": 1414,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "92",
+            "title": "HUNTER×HUNTER - Episode 092 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "MiFnEzscH_Y",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "93",
+            "title": "HUNTER×HUNTER - Episode 093 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "i4W2DyyKHeA",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "94",
+            "title": "HUNTER×HUNTER - Episode 094 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "rH5t9i5TOOE",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "95",
+            "title": "HUNTER×HUNTER - Episode 095 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "A9ZASZe1RO8",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "96",
+            "title": "HUNTER×HUNTER - Episode 096 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "6YGtFzT24ns",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "97",
+            "title": "HUNTER×HUNTER - Episode 097 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "SQ-u9wR8Jyg",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "98",
+            "title": "HUNTER×HUNTER - Episode 098 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "WgiE0UZ96qQ",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "99",
+            "title": "HUNTER×HUNTER - Episode 099 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "ljOcRjjRq3Q",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "100",
+            "title": "HUNTER×HUNTER - Episode 100 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "XsthbjVv9nM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "101",
+            "title": "HUNTER×HUNTER - Episode 101 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "l7R2MTgTvgI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "102",
+            "title": "HUNTER×HUNTER - Episode 102 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "eNxBV7YexTw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "103",
+            "title": "HUNTER×HUNTER - Episode 103 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "O4WmXSbOyLg",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "104",
+            "title": "HUNTER×HUNTER - Episode 104 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Y1vUFZniULk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "105",
+            "title": "HUNTER×HUNTER - Episode 105 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "yLRktxYLiqk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "106",
+            "title": "HUNTER×HUNTER - Episode 106 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "oLJ5Cg_g2DA",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "107",
+            "title": "HUNTER×HUNTER - Episode 107 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "dPNrQ8iJi5I",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "108",
+            "title": "HUNTER×HUNTER - Episode 108 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "uI6fOoGg8hk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "109",
+            "title": "HUNTER×HUNTER - Episode 109 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "TAeQJQIb1_w",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "110",
+            "title": "HUNTER×HUNTER - Episode 110 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "aUhhAHhMNQg",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "111",
+            "title": "HUNTER×HUNTER - Episode 111 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "t0QOflbZ6t8",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "112",
+            "title": "HUNTER×HUNTER - Episode 112 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Fi8WjAx3KgY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "114",
+            "title": "HUNTER×HUNTER - Episode 114 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "nlwBybOXr-o",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "115",
+            "title": "HUNTER×HUNTER - Episode 115 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "WTKmk1MEapU",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "116",
+            "title": "HUNTER×HUNTER - Episode 116 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "ckMoxatwSBo",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "117",
+            "title": "HUNTER×HUNTER - Episode 117 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "WIEbNfIaOI4",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "118",
+            "title": "HUNTER×HUNTER - Episode 118 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "WAc7rlak06Y",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "119",
+            "title": "HUNTER×HUNTER - Episode 119 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "j_VUx1j6UIY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "120",
+            "title": "HUNTER×HUNTER - Episode 120 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "e6gOc_1opsE",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "121",
+            "title": "HUNTER×HUNTER - Episode 121 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Cz5NiimtYms",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "122",
+            "title": "HUNTER×HUNTER - Episode 122 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "R3pRcSbKIKY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "123",
+            "title": "HUNTER×HUNTER - Episode 123 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "K6E3fexIUC4",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "125",
+            "title": "HUNTER×HUNTER - Episode 125 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "-DcGHtLLk8M",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "127",
+            "title": "HUNTER×HUNTER - Episode 127 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "scwxmjAnXAA",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "128",
+            "title": "HUNTER×HUNTER - Episode 128 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "ZbWDNZlaC9c",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "130",
+            "title": "HUNTER×HUNTER - Episode 130 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "fhDoqlvMd6Y",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "131",
+            "title": "HUNTER×HUNTER - Episode 131 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "9q-hFbBbdFk",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "132",
+            "title": "HUNTER×HUNTER - Episode 132 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "CS8KdSx1-qM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "133",
+            "title": "HUNTER×HUNTER - Episode 133 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "5dp14mJjJyA",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "134",
+            "title": "HUNTER×HUNTER - Episode 134 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "jAo8PKLUkzM",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "135",
+            "title": "HUNTER×HUNTER - Episode 135 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Lr3YBef2_iM",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "136",
+            "title": "HUNTER×HUNTER - Episode 136 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "JcEm6FGHvYY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "137",
+            "title": "HUNTER×HUNTER - Episode 137 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "Sga2ZZ30LXQ",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "138",
+            "title": "HUNTER×HUNTER - Episode 138 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "D0CVe05qtL4",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "139",
+            "title": "HUNTER×HUNTER - Episode 139 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "4b0EPvjP1bI",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "140",
+            "title": "HUNTER×HUNTER - Episode 140 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "P-vuo3rXaiY",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "141",
+            "title": "HUNTER×HUNTER - Episode 141 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "h5s03oYTSIw",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "142",
+            "title": "HUNTER×HUNTER - Episode 142 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "5PwITi94K4s",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "145",
+            "title": "HUNTER×HUNTER - Episode 145 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "pCpysUUfI1c",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "146",
+            "title": "HUNTER×HUNTER - Episode 146 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "oRs0AvgUNf8",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "147",
+            "title": "HUNTER×HUNTER - Episode 147 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "ZiTyAdrLPRU",
+            "duration_seconds": 1415,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "148",
+            "title": "HUNTER×HUNTER - Episode 148 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
+            "video_id": "D5iGR-HNN8A",
+            "duration_seconds": 1404,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
           }
         ]
       }
@@ -18055,14 +19308,14 @@
     ],
     "provider": "Muse Hindi Dub",
     "watch_url": "https://www.youtube.com/watch?v=FFIIA9Wocl0",
-    "synopsis": "Watch the individually verified official Hindi uploads of Tokyo Revengers. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "synopsis": "Choose from 23 official Hindi uploads of Tokyo Revengers, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=FFIIA9Wocl0",
@@ -18071,7 +19324,23 @@
       "https://www.youtube.com/watch?v=N7FpbO2JJG4",
       "https://www.youtube.com/watch?v=ape_xXuaPQk",
       "https://www.youtube.com/watch?v=qt2SkcO7plQ",
-      "https://www.youtube.com/watch?v=rV9QmUSlPds"
+      "https://www.youtube.com/watch?v=rV9QmUSlPds",
+      "https://www.youtube.com/watch?v=vBOoJIfGYvk",
+      "https://www.youtube.com/watch?v=pVjITosF53g",
+      "https://www.youtube.com/watch?v=jwttobgA1w0",
+      "https://www.youtube.com/watch?v=gYSPlT0Yl5Y",
+      "https://www.youtube.com/watch?v=-hZLeg6SUfA",
+      "https://www.youtube.com/watch?v=ZJoJuNCDtMY",
+      "https://www.youtube.com/watch?v=9I7RFFq6EQY",
+      "https://www.youtube.com/watch?v=ix2HA4hKbTw",
+      "https://www.youtube.com/watch?v=x1Cls8_TXUs",
+      "https://www.youtube.com/watch?v=m0lDeZ1wYzo",
+      "https://www.youtube.com/watch?v=UwT7wHUmIZA",
+      "https://www.youtube.com/watch?v=BbbAyKvReMw",
+      "https://www.youtube.com/watch?v=H-XH9DIevRc",
+      "https://www.youtube.com/watch?v=ItL6JBUEnCU",
+      "https://www.youtube.com/watch?v=A3UWoLaskns",
+      "https://www.youtube.com/watch?v=6hQHRB2rTGQ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/FFIIA9Wocl0/hqdefault.jpg",
     "seasons": [
@@ -18083,11 +19352,121 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-18",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
         "episodes": [
+          {
+            "number": "1",
+            "title": "Tokyo Revengers - Episode 01 [Hindi dub] | Muse IN",
+            "video_id": "vBOoJIfGYvk",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "2",
+            "title": "Tokyo Revengers - Episode 02 [Hindi dub] | Muse IN",
+            "video_id": "pVjITosF53g",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "Tokyo Revengers - Episode 03 [Hindi dub] | Muse IN",
+            "video_id": "jwttobgA1w0",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "4",
+            "title": "Tokyo Revengers - Episode 04 [Hindi dub] | Muse IN",
+            "video_id": "gYSPlT0Yl5Y",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "Tokyo Revengers - Episode 05 [Hindi dub] | Muse IN",
+            "video_id": "-hZLeg6SUfA",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "Tokyo Revengers - Episode 06 [Hindi dub] | Muse IN",
+            "video_id": "ZJoJuNCDtMY",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "Tokyo Revengers - Episode 07 [Hindi dub] | Muse IN",
+            "video_id": "9I7RFFq6EQY",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "Tokyo Revengers - Episode 08 [Hindi dub] | Muse IN",
+            "video_id": "ix2HA4hKbTw",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "Tokyo Revengers - Episode 09 [Hindi dub] | Muse IN",
+            "video_id": "x1Cls8_TXUs",
+            "duration_seconds": 1427,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "10",
+            "title": "Tokyo Revengers - Episode 10 [Hindi dub] | Muse IN",
+            "video_id": "m0lDeZ1wYzo",
+            "duration_seconds": 1427,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "11",
+            "title": "Tokyo Revengers - Episode 11 [Hindi dub] | Muse IN",
+            "video_id": "UwT7wHUmIZA",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
           {
             "number": "13",
             "title": "[Hindi Dub] Tokyo Revengers - Episode 13",
@@ -18149,6 +19528,56 @@
             "added_on": "2026-10-17"
           },
           {
+            "number": "19",
+            "title": "Tokyo Revengers - Episode 19 [Hindi dub] | Muse IN",
+            "video_id": "BbbAyKvReMw",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "20",
+            "title": "Tokyo Revengers - Episode 20 [Hindi dub] | Muse IN",
+            "video_id": "H-XH9DIevRc",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "21",
+            "title": "Tokyo Revengers - Episode 21 [Hindi dub] | Muse IN",
+            "video_id": "ItL6JBUEnCU",
+            "duration_seconds": 1427,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "22",
+            "title": "Tokyo Revengers - Episode 22 [Hindi dub] | Muse IN",
+            "video_id": "A3UWoLaskns",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "23",
+            "title": "Tokyo Revengers - Episode 23 [Hindi dub] | Muse IN",
+            "video_id": "6hQHRB2rTGQ",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
             "number": "complete",
             "title": "【Hindi Dub】【Complete Series】 Tokyo Revengers | Muse IN",
             "video_id": "rV9QmUSlPds",
@@ -18178,19 +19607,48 @@
     ],
     "provider": "Muse Hindi Dub",
     "watch_url": "https://www.youtube.com/watch?v=4q70E0nwkAY",
-    "synopsis": "Watch the individually verified official Hindi uploads of Attack on Titan. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "synopsis": "Choose from 32 official Hindi uploads of Attack on Titan, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=4q70E0nwkAY",
       "https://www.youtube.com/watch?v=9MwufdbrmX4",
-      "https://www.youtube.com/watch?v=tKkHaK8MozI"
+      "https://www.youtube.com/watch?v=tKkHaK8MozI",
+      "https://www.youtube.com/watch?v=XSPJMgHS-ZQ",
+      "https://www.youtube.com/watch?v=zGG4nnrob9Q",
+      "https://www.youtube.com/watch?v=dfxZWs8sebA",
+      "https://www.youtube.com/watch?v=bVMJs9ddHAs",
+      "https://www.youtube.com/watch?v=mPyvaRphMDg",
+      "https://www.youtube.com/watch?v=IxKCcu2ksvc",
+      "https://www.youtube.com/watch?v=POACZ3iKQNg",
+      "https://www.youtube.com/watch?v=1F0cL21F2sc",
+      "https://www.youtube.com/watch?v=pTpL9Wv5JTM",
+      "https://www.youtube.com/watch?v=9716o8VO_zw",
+      "https://www.youtube.com/watch?v=Xx03RAbBNEg",
+      "https://www.youtube.com/watch?v=dFvJov7Axew",
+      "https://www.youtube.com/watch?v=6N10IPzfr7g",
+      "https://www.youtube.com/watch?v=dgYdw17Zmf0",
+      "https://www.youtube.com/watch?v=2v7CV4YIXIo",
+      "https://www.youtube.com/watch?v=tYDmIGow8RA",
+      "https://www.youtube.com/watch?v=NUuDnSc1Q44",
+      "https://www.youtube.com/watch?v=xhbytHU1WII",
+      "https://www.youtube.com/watch?v=wAfvd2IY-dI",
+      "https://www.youtube.com/watch?v=75Jul4tNcSw",
+      "https://www.youtube.com/watch?v=H0trOBDh1qo",
+      "https://www.youtube.com/watch?v=KGuMtc7Io9E",
+      "https://www.youtube.com/watch?v=fIoLq4Q_h2Q",
+      "https://www.youtube.com/watch?v=p48NBggl-qc",
+      "https://www.youtube.com/watch?v=jI7690-aBg8",
+      "https://www.youtube.com/watch?v=NexZ4n7bHs4",
+      "https://www.youtube.com/watch?v=EYHg9pCDBB0",
+      "https://www.youtube.com/watch?v=Hzm9mihJDnQ",
+      "https://www.youtube.com/watch?v=FJ5ZnRTzYpw"
     ],
     "thumbnail": "https://i.ytimg.com/vi/4q70E0nwkAY/hqdefault.jpg",
     "seasons": [
@@ -18202,7 +19660,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-18",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -18236,9 +19694,331 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 04 (S1E04) | Muse IN",
+            "video_id": "dfxZWs8sebA",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Attack on Titan - Episode 05 (S1E05) | Muse IN",
+            "video_id": "mPyvaRphMDg",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Attack on Titan - Episode 06 (S1E06) | Muse IN",
+            "video_id": "IxKCcu2ksvc",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] Attack on Titan - Episode 07 (S1E07) | Muse IN",
+            "video_id": "1F0cL21F2sc",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] Attack on Titan - Episode 08 (S1E08) | Muse IN",
+            "video_id": "pTpL9Wv5JTM",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] Attack on Titan - Episode 09 (S1E09) | Muse IN",
+            "video_id": "9716o8VO_zw",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] Attack on Titan - Episode 10 (S1E10) | Muse IN",
+            "video_id": "Xx03RAbBNEg",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi Dub] Attack on Titan - Episode 11 (S1E11) | Muse IN",
+            "video_id": "dFvJov7Axew",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Attack on Titan - Episode 12 (S1E12) | Muse IN",
+            "video_id": "6N10IPzfr7g",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "13",
+            "title": "[Hindi Dub] Attack on Titan - Episode 13 (S1E13) | Muse IN",
+            "video_id": "dgYdw17Zmf0",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "14",
+            "title": "[Hindi Dub] Attack on Titan - Episode 14 (S1E14) | Muse IN",
+            "video_id": "2v7CV4YIXIo",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "15",
+            "title": "[Hindi Dub] Attack on Titan - Episode 15 (S1E15) | Muse IN",
+            "video_id": "tYDmIGow8RA",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] Attack on Titan - Episode 16 (S1E16) | Muse IN",
+            "video_id": "NUuDnSc1Q44",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "17",
+            "title": "[Hindi Dub] Attack on Titan - Episode 17 (S1E17) | Muse IN",
+            "video_id": "xhbytHU1WII",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] Attack on Titan - Episode 18 (S1E18) | Muse IN",
+            "video_id": "wAfvd2IY-dI",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "19",
+            "title": "[Hindi Dub] Attack on Titan - Episode 19 (S1E19) | Muse IN",
+            "video_id": "75Jul4tNcSw",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "20",
+            "title": "[Hindi Dub] Attack on Titan - Episode 20 (S1E20) | Muse IN",
+            "video_id": "H0trOBDh1qo",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "21",
+            "title": "[Hindi Dub] Attack on Titan - Episode 21 (S1E21) | Muse IN",
+            "video_id": "KGuMtc7Io9E",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "24",
+            "title": "[Hindi Dub] Attack on Titan - Episode 24 (S1E24) | Muse IN",
+            "video_id": "fIoLq4Q_h2Q",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "25",
+            "title": "[Hindi Dub] Attack on Titan - Episode 25 (S1E25) | Muse IN",
+            "video_id": "p48NBggl-qc",
+            "duration_seconds": 1432,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
           }
         ],
         "season_number": 1
+      },
+      {
+        "id": "attack-on-titan-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "season_number": 2,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Attack on Titan - Episode 26 (S2E01) | Muse IN",
+            "video_id": "XSPJMgHS-ZQ",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Attack on Titan - Episode 27 (S2E02) | Muse IN",
+            "video_id": "zGG4nnrob9Q",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 29 (S2E04) | Muse IN",
+            "video_id": "bVMJs9ddHAs",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Attack on Titan - Episode 30 (S2E05) | Muse IN",
+            "video_id": "jI7690-aBg8",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Attack on Titan - Episode 31 (S2E06) | Muse IN",
+            "video_id": "POACZ3iKQNg",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          }
+        ]
+      },
+      {
+        "id": "attack-on-titan-season-3-hindi",
+        "label": "Season 3 · Hindi dub",
+        "season_number": 3,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Attack on Titan - Episode 38 (S3E01) | Muse IN",
+            "video_id": "FJ5ZnRTzYpw",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Attack on Titan - Episode 39 (S3E02) | Muse IN",
+            "video_id": "Hzm9mihJDnQ",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Attack on Titan - Episode 40 (S3E03) | Muse IN",
+            "video_id": "EYHg9pCDBB0",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 41 (S3E04) | Muse IN",
+            "video_id": "NexZ4n7bHs4",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          }
+        ]
       }
     ],
     "added_on": "2026-10-17"
@@ -18258,29 +20038,53 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=JStare1TEDw",
-    "synopsis": "Watch the individually verified official Hindi uploads of DAN DA DAN. Choose an available episode or a clearly labelled season compilation below. This is an available selection, not a claim that every episode is listed.",
+    "synopsis": "Choose from 23 official Hindi uploads of DAN DA DAN, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-18",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=JStare1TEDw"
+      "https://www.youtube.com/watch?v=JStare1TEDw",
+      "https://www.aniplex.co.jp/dandadan/2nd.html",
+      "https://anime-dandadan.com/news/1807/",
+      "https://www.youtube.com/watch?v=zocj8klcsZk",
+      "https://www.youtube.com/watch?v=z9N2tArA4i0",
+      "https://www.youtube.com/watch?v=FSTkL9cT__A",
+      "https://www.youtube.com/watch?v=pxKYgf_P3Ok",
+      "https://www.youtube.com/watch?v=Ov6dXe1YI34",
+      "https://www.youtube.com/watch?v=kUN0bM3X9P8",
+      "https://www.youtube.com/watch?v=8DqyQ_11dvM",
+      "https://www.youtube.com/watch?v=GrA3ipxzSpo",
+      "https://www.youtube.com/watch?v=iFkFOV4ODUY",
+      "https://www.youtube.com/watch?v=Mo70rbaj-j8",
+      "https://www.youtube.com/watch?v=IbgTj_BqAXs",
+      "https://www.youtube.com/watch?v=Pwtf1O3xjhQ",
+      "https://www.youtube.com/watch?v=41p1v1hpFnw",
+      "https://www.youtube.com/watch?v=GGmv3dkdVZg",
+      "https://www.youtube.com/watch?v=Roq4UFC4jzo",
+      "https://www.youtube.com/watch?v=rDnXAM9hfng",
+      "https://www.youtube.com/watch?v=naM1wgg6ELs",
+      "https://www.youtube.com/watch?v=i6TFTSvCmd4",
+      "https://www.youtube.com/watch?v=cg74V12xUgc",
+      "https://www.youtube.com/watch?v=aWIfHerVK0w",
+      "https://www.youtube.com/watch?v=gIWJKX52SZA",
+      "https://www.youtube.com/watch?v=wUxitqgNDdU"
     ],
     "thumbnail": "https://i.ytimg.com/vi/JStare1TEDw/hqdefault.jpg",
     "seasons": [
       {
         "id": "dan-da-dan-hindi-available",
-        "label": "Hindi dub · available uploads",
+        "label": "Season 1 · Hindi dub",
         "audio_language": "Hindi",
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-18",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -18294,6 +20098,243 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi dub] DAN DA DAN - Episode 02 | Muse IN",
+            "video_id": "zocj8klcsZk",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi dub] DAN DA DAN - Episode 03 | Muse IN",
+            "video_id": "z9N2tArA4i0",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi dub] DAN DA DAN - Episode 04 | Muse IN",
+            "video_id": "FSTkL9cT__A",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi dub] DAN DA DAN - Episode 05 | Muse IN",
+            "video_id": "pxKYgf_P3Ok",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi dub] DAN DA DAN - Episode 06 | Muse IN",
+            "video_id": "Ov6dXe1YI34",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi dub] DAN DA DAN - Episode 07 | Muse IN",
+            "video_id": "kUN0bM3X9P8",
+            "duration_seconds": 1437,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi dub] DAN DA DAN - Episode 08 | Muse IN",
+            "video_id": "8DqyQ_11dvM",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi dub] DAN DA DAN - Episode 09 | Muse IN",
+            "video_id": "GrA3ipxzSpo",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi dub] DAN DA DAN - Episode 10 | Muse IN",
+            "video_id": "iFkFOV4ODUY",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi dub] DAN DA DAN - Episode 11 | Muse IN",
+            "video_id": "Mo70rbaj-j8",
+            "duration_seconds": 1422,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi dub] DAN DA DAN - Episode 12 | Muse IN",
+            "video_id": "IbgTj_BqAXs",
+            "duration_seconds": 1407,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          }
+        ],
+        "season_number": 1
+      },
+      {
+        "id": "dan-da-dan-season-2-hindi",
+        "label": "Season 2 · Hindi dub",
+        "season_number": 2,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi dub] DAN DA DAN - Episode 13 | Muse IN",
+            "video_id": "Pwtf1O3xjhQ",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi dub] DAN DA DAN - Episode 14 | Muse IN",
+            "video_id": "41p1v1hpFnw",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi dub] DAN DA DAN - Episode 15 | Muse IN",
+            "video_id": "GGmv3dkdVZg",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi dub] DAN DA DAN - Episode 16 | Muse IN",
+            "video_id": "Roq4UFC4jzo",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi dub] DAN DA DAN - Episode 17 | Muse IN",
+            "video_id": "rDnXAM9hfng",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi dub] DAN DA DAN - Episode 18 | Muse IN",
+            "video_id": "naM1wgg6ELs",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi dub] DAN DA DAN - Episode 20 | Muse IN",
+            "video_id": "i6TFTSvCmd4",
+            "duration_seconds": 1432,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi dub] DAN DA DAN - Episode 21 | Muse IN",
+            "video_id": "cg74V12xUgc",
+            "duration_seconds": 1432,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi dub] DAN DA DAN - Episode 22 | Muse IN",
+            "video_id": "aWIfHerVK0w",
+            "duration_seconds": 1432,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi dub] DAN DA DAN - Episode 23 | Muse IN",
+            "video_id": "gIWJKX52SZA",
+            "duration_seconds": 1432,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi dub] DAN DA DAN - Episode 24 | Muse IN",
+            "video_id": "wUxitqgNDdU",
+            "duration_seconds": 1417,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "added_on": "2026-10-18"
           }
         ]
       }
@@ -18938,5 +20979,67 @@
       }
     ],
     "added_on": "2026-10-17"
+  },
+  {
+    "id": "rdx-love",
+    "title": "RDX Love",
+    "original_title": "RDX Love",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=7_1ZGFxX3pI",
+    "synopsis": "Watch the official full-length Hindi-dubbed upload of RDX Love from Goldmines in the YouTube player. India is included in upload metadata; actual India playback remains unverified.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+    "last_checked": "2026-10-18",
+    "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=7_1ZGFxX3pI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/7_1ZGFxX3pI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "rdx-love-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "One actual official full movie upload. India playback remains unverified.",
+        "last_checked": "2026-10-18",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "RDX Love (Hindi) 2026 New Released Hindi Dubbed Full Movie | Tejus Kancherla, Payal Rajput",
+            "video_id": "7_1ZGFxX3pI",
+            "duration_seconds": 6674,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Reviewed official distributor, explicit Hindi full movie, runtime, public watch metadata, IN country metadata and oEmbed checked 2026-10-18",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-18",
+            "added_on": "2026-10-18",
+            "source_upload_date": "2026-09-10T23:30:06-07:00"
+          }
+        ],
+        "audio_language_evidence": "Official upload title explicitly identifies Hindi dubbed full movie."
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-18",
+    "discovery": "Official Goldmines full Hindi movie verified 2026-10-18"
   }
 ]
