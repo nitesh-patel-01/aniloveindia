@@ -1,24 +1,10 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-18T13:57:22.153735+05:30",
+  "last_run": "2026-10-18T14:20:40.011168+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Added 223 Hindi anime episodes, 1 actual compilation upload(s), and 2 Hindi full movies",
+  "state": "Added Ragna Crimson Hindi edition and three editorial/collection pages",
   "added": {
-    "attack-on-titan": 7,
-    "mob-psycho-100": 22,
-    "classroom-of-the-elite": 22,
-    "cells-at-work": 4,
-    "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire": 8,
-    "campfire-cooking-in-another-world-with-my-absurd-skill": 16,
-    "junji-ito-collection": 7,
-    "the-worlds-finest-assassin-gets-reincarnated-in-another-world": 9,
-    "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2": 17,
-    "one-punch-man": 16,
-    "welcome-to-demon-school-iruma-kun": 42,
-    "re-zero": 53,
-    "hunter-x-hunter": 1,
-    "spy-x-family-code-white": 1,
-    "khiladi-786": 1
+    "ragna-crimson": 15
   },
   "changed_availability": [],
   "link_checks": [],
@@ -37,24 +23,24 @@
   "cursor": 5,
   "last_manual_verification": "2026-10-18",
   "catalogue_counts": {
-    "anime-series": 51,
+    "anime-series": 52,
     "anime-movies": 12,
     "movies": 85,
     "k-dramas": 53
   },
-  "upload_count": 1303,
+  "upload_count": 1318,
   "added_this_run": {
     "anime-series": {
-      "titles": 0,
-      "uploads": 224
+      "titles": 1,
+      "uploads": 15
     },
     "anime-movies": {
-      "titles": 1,
-      "uploads": 1
+      "titles": 0,
+      "uploads": 0
     },
     "movies": {
-      "titles": 1,
-      "uploads": 1
+      "titles": 0,
+      "uploads": 0
     },
     "k-dramas": {
       "titles": 0,
@@ -62,7 +48,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-18-afternoon-recovery.json",
+  "verification_report": "data/verification/2026-10-18-ragna-crimson.json",
   "language_priority": [
     "Hindi",
     "English",

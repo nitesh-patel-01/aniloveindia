@@ -2,6 +2,45 @@
   "updated_at": "2026-10-18T13:57:22.028596+05:30",
   "items": [
     {
+      "title_id": "ragna-crimson",
+      "title": "Ragna Crimson",
+      "preferred_audio": "Hindi",
+      "priority": 1,
+      "state": "official_playlist_available_individual_backfill_pending",
+      "source_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "playlist_id": "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+      "last_checked": "2026-10-18",
+      "published_hindi_episode_numbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "remaining_episode_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links."
+    },
+    {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
       "title": "That Time I Got Reincarnated as a Slime",
       "priority": 1,

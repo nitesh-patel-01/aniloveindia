@@ -1,0 +1,591 @@
+{
+  "checked_on": "2026-10-18",
+  "new_title": "ragna-crimson",
+  "new_episodes": 15,
+  "checks": [
+    {
+      "id": "yT0T75OgAHo",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 01",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 2840,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-05T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=yT0T75OgAHo",
+      "oembed": true
+    },
+    {
+      "id": "TyjmWzkU3Tg",
+      "eligible": false,
+      "checked_at": "2026-10-18",
+      "author": "Anime Update 0",
+      "playlist_ids": [],
+      "caption_languages": [
+        "hi"
+      ],
+      "title": "Ragna Crimson Anime Hindi Dub Release On Muse Hindi Dub youtube Channel",
+      "channel_id": "UCYCzCwHd8QtoQipfTlx_gyw",
+      "seconds": 19,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "jyWJGqKxoT8",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 03",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-07T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=jyWJGqKxoT8",
+      "oembed": true
+    },
+    {
+      "id": "TvyG1g2K6j0",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 12",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-16T07:30:18-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=TvyG1g2K6j0",
+      "oembed": true
+    },
+    {
+      "id": "vVVqOmYk_gY",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 07",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-11T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vVVqOmYk_gY",
+      "oembed": true
+    },
+    {
+      "id": "CpwnOM4tjTs",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 02",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-06T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=CpwnOM4tjTs",
+      "oembed": true
+    },
+    {
+      "id": "M-suCyIzMks",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 04",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-08T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=M-suCyIzMks",
+      "oembed": true
+    },
+    {
+      "id": "hvInrlDdZ9M",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 05",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-09T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hvInrlDdZ9M",
+      "oembed": true
+    },
+    {
+      "id": "wAM9TgnUu24",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 06",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-10T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wAM9TgnUu24",
+      "oembed": true
+    },
+    {
+      "id": "_5ZffywaGbg",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 08",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-12T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_5ZffywaGbg",
+      "oembed": true
+    },
+    {
+      "id": "J0eZvjgs7kU",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 09",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-13T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=J0eZvjgs7kU",
+      "oembed": true
+    },
+    {
+      "id": "klAD4nLhvnc",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 10",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-14T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=klAD4nLhvnc",
+      "oembed": true
+    },
+    {
+      "id": "Z9TwOUDeBfA",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 11",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-15T07:30:21-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Z9TwOUDeBfA",
+      "oembed": true
+    },
+    {
+      "id": "qLDcHT4M0fw",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 13",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-17T07:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=qLDcHT4M0fw",
+      "oembed": true
+    },
+    {
+      "id": "78iRR_csCqk",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 14",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-18T07:30:36-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=78iRR_csCqk",
+      "oembed": true
+    },
+    {
+      "id": "2mhEKNpsfY4",
+      "eligible": true,
+      "checked_at": "2026-10-18",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Ragna Crimson - Episode 15",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-19T07:30:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=2mhEKNpsfY4",
+      "oembed": true
+    }
+  ],
+  "discovery_queries": [
+    {
+      "episode": 1,
+      "q": "Ragna Crimson Hindi Dub Episode 01 Muse Hindi Dub YouTube",
+      "ids": [
+        "yT0T75OgAHo",
+        "TyjmWzkU3Tg"
+      ]
+    },
+    {
+      "episode": 2,
+      "q": "Ragna Crimson Hindi Dub Episode 02 Muse Hindi Dub YouTube",
+      "ids": [
+        "TyjmWzkU3Tg",
+        "yT0T75OgAHo"
+      ]
+    },
+    {
+      "episode": 3,
+      "q": "Ragna Crimson Hindi Dub Episode 03 Muse Hindi Dub YouTube",
+      "ids": [
+        "jyWJGqKxoT8",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 4,
+      "q": "Ragna Crimson Hindi Dub Episode 04 Muse Hindi Dub YouTube",
+      "ids": [
+        "jyWJGqKxoT8",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 5,
+      "q": "Ragna Crimson Hindi Dub Episode 05 Muse Hindi Dub YouTube",
+      "ids": [
+        "jyWJGqKxoT8",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 6,
+      "q": "Ragna Crimson Hindi Dub Episode 06 Muse Hindi Dub YouTube",
+      "ids": [
+        "vVVqOmYk_gY",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 7,
+      "q": "Ragna Crimson Hindi Dub Episode 07 Muse Hindi Dub YouTube",
+      "ids": [
+        "vVVqOmYk_gY",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 8,
+      "q": "Ragna Crimson Hindi Dub Episode 08 Muse Hindi Dub YouTube",
+      "ids": [
+        "vVVqOmYk_gY",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 9,
+      "q": "Ragna Crimson Hindi Dub Episode 09 Muse Hindi Dub YouTube",
+      "ids": [
+        "vVVqOmYk_gY",
+        "TvyG1g2K6j0"
+      ]
+    },
+    {
+      "episode": 10,
+      "q": "Ragna Crimson Hindi Dub Episode 10 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 11,
+      "q": "Ragna Crimson Hindi Dub Episode 11 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 12,
+      "q": "Ragna Crimson Hindi Dub Episode 12 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 13,
+      "q": "Ragna Crimson Hindi Dub Episode 13 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 14,
+      "q": "Ragna Crimson Hindi Dub Episode 14 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 15,
+      "q": "Ragna Crimson Hindi Dub Episode 15 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 16,
+      "q": "Ragna Crimson Hindi Dub Episode 16 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 17,
+      "q": "Ragna Crimson Hindi Dub Episode 17 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 18,
+      "q": "Ragna Crimson Hindi Dub Episode 18 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 19,
+      "q": "Ragna Crimson Hindi Dub Episode 19 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 20,
+      "q": "Ragna Crimson Hindi Dub Episode 20 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 21,
+      "q": "Ragna Crimson Hindi Dub Episode 21 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 22,
+      "q": "Ragna Crimson Hindi Dub Episode 22 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 23,
+      "q": "Ragna Crimson Hindi Dub Episode 23 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    },
+    {
+      "episode": 24,
+      "q": "Ragna Crimson Hindi Dub Episode 24 Muse Hindi Dub YouTube",
+      "ids": [
+        "TvyG1g2K6j0",
+        "vVVqOmYk_gY"
+      ]
+    }
+  ],
+  "playlist_listing": {
+    "url": "https://www.youtube.com/playlist?list=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+    "rows": [],
+    "alerts": [],
+    "continuations": []
+  },
+  "remaining_individual_episode_numbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "source_limits": [
+    "The checking server receives an empty official playlist listing and channel search; watch-page playlist context exposes unrelated recommendations, not the episode list.",
+    "Search leads and unreviewed reuploads do not become playable episode links.",
+    "Official Hindi playlist player is available as an additional publisher-controlled episode menu; it is not counted as 24 verified individual uploads.",
+    "IN metadata and oEmbed passed for the listed uploads. Actual playback from India remains unobserved."
+  ],
+  "playlist_feed_discovery": {
+    "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+    "episode_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "limitation": "Public feed returned first 15 uploads; start-index pagination returned the same rows. Playlist/channel HTML exposed no episode rows; standard embed index 15 returned unavailable metadata. Individual episodes 16–24 remain unresolved."
+  }
+}

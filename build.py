@@ -1,5 +1,6 @@
 import json, os, re, shutil, html
 from seo_pages import build_landings
+from editorial_guides import GUIDE_ARTICLES, build_guides
 from pathlib import Path
 from datetime import datetime, timezone
 ROOT=Path(__file__).parent
@@ -70,7 +71,8 @@ def build():
  search='<section class="home-search"><div><span class="india-label">IN</span><p>Hindi dubs. English subs.<br><strong>Your next obsession starts here.</strong></p></div><form action="/search/" class="simple-search" role="search"><label class="sr-only" for="home-query">Search anime, movies or K-dramas</label><input id="home-query" name="q" placeholder="Search anime, movies, K-dramas…" type="search"><button class="btn primary">Search</button></form></section>'
  hubs='<nav class="browse-pills" aria-label="Browse categories">'+''.join('<a href="/category/'+k+'/"><span>'+v+'</span><small>'+str(sum(t['category']==k for t in T))+'</small></a>'for k,v in CATS.items())+'</nav>'
  anime=[t for t in T if t['category']=='anime-series'];films=[t for t in T if t['category']=='anime-movies'];movies=sorted([t for t in T if t['category']=='movies'and t['country']=='India'],key=lambda t:t.get('browse_priority',100));dramas=[t for t in T if t['category']=='k-dramas']
- journals='<div class="journal-grid">'+''.join(f'<a class="journal-card" href="/blog/{a[0]}/"><p class="eyebrow">WATCHING GUIDE</p><h3>{a[1]}</h3><p>{a[3]}</p><span class="text-link">Read more →</span></a>'for a in ARTICLES)+'</div>'
+ journal_items=ARTICLES+[(g['slug'],g['title'],'GUIDE',g['summary'])for g in GUIDE_ARTICLES]
+ journals='<div class="journal-grid">'+''.join(f'<a class="journal-card" href="/blog/{a[0]}/"><p class="eyebrow">WATCHING GUIDE</p><h3>{a[1]}</h3><p>{a[3]}</p><span class="text-link">Read more →</span></a>'for a in journal_items)+'</div>'
  page('/','Anime, movies & K-dramas for India',hero+search+hubs+section('PICK A WORLD. PRESS PLAY.','Anime worth staying up for',rail(anime[:14],'Anime'),'/category/anime-series/')+section('YOUR STORY, SEASON BY SEASON','Find your next season',seasoncards(6),'/seasons/')+section('ONE NIGHT. ONE BIG ADVENTURE.','Anime movie night',rail(films,'Anime movies'),'/category/anime-movies/')+'<section class="editorial-banner"><p class="eyebrow">MADE FOR YOUR WATCHLIST</p><h2>Big stories.<br>Zero detours.</h2><p>Choose a title. Pick an episode.<br>The YouTube player stays right here.</p><a class="btn primary" href="/catalogue/">BROWSE EVERYTHING →</a></section>'+section('POPULAR PICKS · HINDI AUDIO','Hindi movie picks on YouTube',rail(movies[:12],'Hindi movies'),'/category/movies/')+section('FULL UPLOADS · ENGLISH SUBTITLES','Popular K-drama picks on YouTube',rail(sorted(dramas,key=lambda t: {'hi-school-love-on':0,'who-are-you-school-2015':1,'if-we-were-a-season':2,'discovery-of-love':3,'to-jenny':4}.get(t['id'],5))[:12],'K-dramas'),'/category/k-dramas/')+section('THE ANILOVE JOURNAL','Get into the story',journals,'/blog/')+'<section class="request-band"><div><p class="eyebrow">LOOKING FOR SOMETHING ELSE?</p><h2>Can’t find your favourite?</h2><p>Send Nitesh a title request. We’ll check its official YouTube availability.</p></div><a class="btn primary" href="/contact/">REQUEST A TITLE →</a></section>')
  page('/seasons/','Anime seasons & editions','<div class="page-intro"><p class="eyebrow">CHOOSE YOUR NEXT CHAPTER</p><h1>Anime seasons</h1><p>Browse uploaded seasons, story arcs and compilation editions. Open a card to choose an episode.</p></div><section class="section">'+seasoncards()+'</section>')
  def discover(path,title,ts,desc):
@@ -91,6 +93,8 @@ def build():
   for edition in editions:
    sid=slug(edition['id'])
    detail+='<section class="season-block" data-season-panel id="'+sid+'"><h3>'+esc(edition['label'])+'</h3><p class="small muted">'+esc(edition['audio_language'])+' audio'+(' · English subtitles' if 'English' in edition.get('subtitle_languages',[]) else '')+' · '+str(len(edition['episodes']))+' listed uploads</p>'+episode_options(edition)+'<div class="episode-grid">'+''.join('<a class="episode-card" href="/watch/'+sid+'/'+str(ep['number'])+'/"><img src="https://i.ytimg.com/vi/'+ep['video_id']+'/hqdefault.jpg" alt="'+esc(ep['title'])+'" loading="lazy" width="480" height="360"><span class="episode-number">'+('FULL MOVIE' if ep['number']=='full' else 'PLAY ALL' if ep['number']=='complete' else 'E'+str(ep['number']))+'</span><h3>'+esc(ep['title'])+'</h3><small>'+str(ep['duration_seconds']//60)+' min</small></a>'for ep in edition['episodes'])+'</div></section>'
+   if edition.get('show_playlist_player')and edition.get('playlist_id'):
+    detail+='<div class="video-shell"><button class="btn primary load-playlist" data-playlist="'+esc(edition['playlist_id'])+'" data-title="'+esc(t['title']+' · '+edition['label'])+'">▶ Open official Hindi playlist player</button><p>Use YouTube’s playlist menu for additional publisher uploads. Only individually checked videos appear in the numbered buttons above.</p></div>'
   detail+='</section>'
   if t['format']=='Movie':detail=detail.replace('Seasons & episodes','Watch the film')
   page('/title/'+t['id']+'/',t['title']+(' — watch movie' if t['format']=='Movie' else ' — seasons & episodes'),detail,t['synopsis'])
@@ -130,6 +134,7 @@ def build():
  page('/admin/','Catalogue operations','''<article class="prose"><p class="eyebrow">OPERATIONS / READ-ONLY STATUS</p><h1>The verification desk<span class="accent">.</span></h1><p>This view exposes no write controls or private records. Catalogue changes are reviewed in the source repository. An authenticated management backend is not connected.</p><div id="job-status">Loading status…</div><h2>Publication gates</h2><ul><li>Official source identity and authorization evidence</li><li>Expected episode list with original source</li><li>Public, embeddable and region-eligible episode checks</li><li>Actual India playback recorded separately</li><li>No publication on missing evidence</li></ul><p><a href="/sourcing/">Review the policy ↗</a></p></article>''',noindex=True)
  page('/404/','Story not found','<article class="prose"><p class="eyebrow">404 / A DIFFERENT UNIVERSE</p><h1>Lost between worlds?</h1><p>That page is not in our catalogue.</p><a class="btn primary" href="/search/">Find your way back ↗</a></article>',noindex=True)
  shutil.copyfile(DIST/'404/index.html',DIST/'404.html')
+ build_guides(page,T,esc,BASE)
  build_landings(page,cards,T,esc,BASE)
  urls=[]
  for p in DIST.rglob('index.html'):
