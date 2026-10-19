@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:02:13.850820+05:30",
+  "updated_at": "2026-10-19T19:14:35.996476+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -49,7 +49,7 @@
         ],
         "result": "Playlist listing remains hidden; feed returns only the already published 1–15. Exact 16–24 uploader IDs were not recovered. No availability claim made for missing uploads."
       },
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
@@ -4054,6 +4054,15 @@
           "season_id": "pokemon-ultimate-journeys-hindi",
           "label": "Ultimate Journeys · Hindi dub",
           "episode_numbers": [
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
             "40",
             "41",
             "42",
@@ -4075,7 +4084,8 @@
       ],
       "next_actions": [
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
-      ]
+      ],
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "snowball-earth",
@@ -4127,7 +4137,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4158,7 +4168,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "suzume",
@@ -4187,7 +4197,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -4224,7 +4234,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -4242,7 +4252,7 @@
         "84vWRDJvj90"
       ],
       "reason": "429 retry recovered official upload metadata, but checked Muse Asia episode 807 and films do not evidence IN availability. Retain unresolved Hindi discovery; no uploads added.",
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
     },
     {
       "title_id": "ben-10-movies",

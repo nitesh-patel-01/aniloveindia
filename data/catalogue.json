@@ -25010,7 +25010,16 @@
       "https://www.youtube.com/watch?v=cj3ShILgWJE",
       "https://www.youtube.com/watch?v=5EYCDz3dVow",
       "https://www.youtube.com/watch?v=NKJLPz6uMX4",
-      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+      "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+      "https://www.youtube.com/watch?v=Qat0ULu6Nw4",
+      "https://www.youtube.com/watch?v=rwTy9WYTq2Q",
+      "https://www.youtube.com/watch?v=4VkZLjWwKhc",
+      "https://www.youtube.com/watch?v=OXgxXk9Hz5w",
+      "https://www.youtube.com/watch?v=O0fIhFNBgTI",
+      "https://www.youtube.com/watch?v=yC6F90KKrrA",
+      "https://www.youtube.com/watch?v=qtGtyitd9po",
+      "https://www.youtube.com/watch?v=rF9i6a9Tmas",
+      "https://www.youtube.com/watch?v=5vJc8pgqc7E"
     ],
     "seasons": [
       {
@@ -25026,6 +25035,114 @@
         "authorization_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
         "audio_language_evidence": "The official upload title explicitly labels this Pokémon upload as the Hindi edition. The Pokémon Company India website links this exact publisher channel.",
         "episodes": [
+          {
+            "number": "31",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 31 | सम्मोहन, बैटल, और हैरानी! | Pokémon Asia Official (Hindi)",
+            "video_id": "5vJc8pgqc7E",
+            "duration_seconds": 1230,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-02-29T23:00:04-08:00"
+          },
+          {
+            "number": "32",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 32 | Pokémon Asia Official (Hindi)",
+            "video_id": "rF9i6a9Tmas",
+            "duration_seconds": 1263,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-03-07T23:00:21-08:00"
+          },
+          {
+            "number": "33",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 33 | लड़ते हुए तराशें ख़ुद को! | Pokémon Asia Official (Hindi)",
+            "video_id": "qtGtyitd9po",
+            "duration_seconds": 1263,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-03-15T00:00:26-07:00"
+          },
+          {
+            "number": "34",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 34 | बस कुछ और क़दम की दूरी! | Pokémon Asia Official (Hindi)",
+            "video_id": "yC6F90KKrrA",
+            "duration_seconds": 1275,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-03-22T00:00:34-07:00"
+          },
+          {
+            "number": "35",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 35 | पानी की बौछार लाई बाढ़! | Pokémon Asia Official (Hindi)",
+            "video_id": "O0fIhFNBgTI",
+            "duration_seconds": 1222,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-03-29T00:00:18-07:00"
+          },
+          {
+            "number": "36",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 36 | इमोशन्स का उतार-चढ़ाव! | Pokémon Asia Official (Hindi)",
+            "video_id": "OXgxXk9Hz5w",
+            "duration_seconds": 1224,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-04-05T00:00:17-07:00"
+          },
+          {
+            "number": "37",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 37 | Pokémon Asia Official (Hindi)",
+            "video_id": "4VkZLjWwKhc",
+            "duration_seconds": 1264,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-04-12T00:00:02-07:00"
+          },
+          {
+            "number": "38",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 38 | पार्टनर, हमेशा के लिए! | Pokémon Asia Official (Hindi)",
+            "video_id": "rwTy9WYTq2Q",
+            "duration_seconds": 1277,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-04-19T00:00:33-07:00"
+          },
+          {
+            "number": "39",
+            "title": "Pokémon Ultimate Journeys | एपिसोड 39 | म्यू की तलाश में! | Pokémon Asia Official (Hindi)",
+            "video_id": "Qat0ULu6Nw4",
+            "duration_seconds": 1263,
+            "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2024-04-26T00:00:16-07:00"
+          },
           {
             "number": "40",
             "title": "Pokémon Ultimate Journeys | एपिसोड 40 | भविष्य हमारी मुट्ठी में! | Pokémon Asia Official (Hindi)",
@@ -25821,5 +25938,199 @@
     "thumbnail": "https://i.ytimg.com/vi/zJnQuw6UuNw/hqdefault.jpg",
     "browse_priority": 4,
     "browse_priority_reason": "Owner-requested animated feature; Hindi edition first, then English."
+  },
+  {
+    "id": "neelkanth-and-the-dawn-of-divine-destiny",
+    "title": "Neelkanth and the Dawn of Divine Destiny",
+    "original_title": "Neelkanth and the Dawn of Divine Destiny",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 8",
+      "SSC8"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=zzvHjVPnWwk",
+    "synopsis": "An Indian animated spiritual adventure from BAPS follows Neelkanth Varni through South India and onward to Gujarat. This is Part 8 of Shri Swaminarayan Charitra, presented as one official Hindi full-film upload.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=zzvHjVPnWwk",
+      "https://www.baps.org/ssc8"
+    ],
+    "seasons": [
+      {
+        "id": "neelkanth-dawn-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc4",
+        "audio_language_evidence": "BAPS primary film page https://www.baps.org/ssc8 embeds the exact upload under Hindi; exact publisher title labels Hindi.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC8 - Hindi - Neelkanth and the Dawn of Divine Destiny: Shri Swaminarayan Charitra",
+            "video_id": "zzvHjVPnWwk",
+            "duration_seconds": 4092,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2026-03-08T05:57:33-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/zzvHjVPnWwk/hqdefault.jpg",
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film."
+  },
+  {
+    "id": "ek-khiladi",
+    "title": "Ek Khiladi",
+    "original_title": "Ek Khiladi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=PdqMlnl4Kyw",
+    "synopsis": "Choose an individually checked official Hindi full movie upload of Ek Khiladi below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=PdqMlnl4Kyw"
+    ],
+    "seasons": [
+      {
+        "id": "ek-khiladi-hindi-movie",
+        "label": "Full movie · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "audio_language_evidence": "Official Goldmines exact upload title explicitly labels Hindi Dubbed Full Movie.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Ek Khiladi Hindi Dubbed Full Movie | Gopichand, Rakul Preet Singh, Brahmanandam",
+            "video_id": "PdqMlnl4Kyw",
+            "duration_seconds": 7537,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2018-08-25T02:30:00-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/PdqMlnl4Kyw/hqdefault.jpg"
+  },
+  {
+    "id": "dangerous-khiladi-2",
+    "title": "Dangerous Khiladi 2",
+    "original_title": "Dangerous Khiladi 2",
+    "alternate_titles": [
+      "Iddarammayilatho"
+    ],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=7s9lsmnYLUw",
+    "synopsis": "Choose an individually checked official Hindi full movie upload of Dangerous Khiladi 2 below. Available uploads are listed honestly; a missing episode is not replaced with a trailer or invented link.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=7s9lsmnYLUw"
+    ],
+    "seasons": [
+      {
+        "id": "dangerous-khiladi-2-hindi-movie",
+        "label": "Full movie · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "audio_language_evidence": "Official Goldmines exact upload title explicitly labels Hindi Dubbed Full Movie.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Dangerous Khiladi 2 (Iddarammayilatho) Hindi Dubbed Full Movie | Allu Arjun, Amala Paul, Catherine",
+            "video_id": "7s9lsmnYLUw",
+            "duration_seconds": 6108,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2018-08-02T05:00:00-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/7s9lsmnYLUw/hqdefault.jpg"
   }
 ]
