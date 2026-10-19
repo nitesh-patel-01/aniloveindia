@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:53:59.090857+05:30",
+  "updated_at": "2026-10-20T02:34:18.728301+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -3024,23 +3024,122 @@
         {
           "season_id": "fairy-tail-season-1-hindi",
           "label": "Season 1 · Hindi dub",
-          "season_number": 1,
           "episode_numbers": [
-            "1"
-          ],
-          "verified_complete": false
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "25",
+            "26",
+            "27",
+            "28",
+            "30",
+            "32",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48"
+          ]
         },
         {
           "season_id": "fairy-tail-season-7-hindi",
           "label": "Season 7 · Hindi dub",
-          "season_number": 7,
           "episode_numbers": [
             "26"
+          ]
+        }
+      ],
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-muse-hindi-backfill.json",
+      "latest_edition_coverage": [
+        {
+          "title_id": "fairy-tail",
+          "season_id": "fairy-tail-season-1-hindi",
+          "listed_episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            28,
+            30,
+            32,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "unresolved_episode_numbers": [
+            24,
+            29,
+            31,
+            33
           ],
           "verified_complete": false
         }
-      ],
-      "last_attempted_on": null
+      ]
     },
     {
       "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -3249,7 +3348,6 @@
         {
           "season_id": "one-punch-man-season-1-hindi",
           "label": "Season 1 · Hindi dub",
-          "season_number": 1,
           "episode_numbers": [
             "1",
             "2",
@@ -3263,13 +3361,11 @@
             "10",
             "11",
             "12"
-          ],
-          "verified_complete": false
+          ]
         },
         {
           "season_id": "one-punch-man-season-2-hindi",
           "label": "Season 2 · Hindi dub",
-          "season_number": 2,
           "episode_numbers": [
             "1",
             "2",
@@ -3282,13 +3378,11 @@
             "10",
             "11",
             "12"
-          ],
-          "verified_complete": false
+          ]
         },
         {
           "season_id": "one-punch-man-season-3-hindi",
           "label": "Season 3 · Hindi dub",
-          "season_number": 3,
           "episode_numbers": [
             "1",
             "2",
@@ -3298,9 +3392,9 @@
             "7",
             "8",
             "9",
-            "11"
-          ],
-          "verified_complete": false
+            "11",
+            "12"
+          ]
         }
       ],
       "last_backfill_date": "2026-10-18",
@@ -3451,7 +3545,52 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-muse-hindi-backfill.json",
+      "latest_edition_coverage": [
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-2-hindi",
+          "listed_episodes": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "unresolved_episode_numbers": [
+            5
+          ],
+          "verified_complete": false
+        },
+        {
+          "title_id": "one-punch-man",
+          "season_id": "one-punch-man-season-3-hindi",
+          "listed_episodes": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12
+          ],
+          "unresolved_episode_numbers": [
+            3,
+            10
+          ],
+          "verified_complete": false
+        }
+      ]
     },
     {
       "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",

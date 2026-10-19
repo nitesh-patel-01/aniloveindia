@@ -1,0 +1,2403 @@
+{
+  "checked_on": "2026-10-20",
+  "base_commit": "81d02b3c63dabeef89cdb2b9ab1ddc21ed0e7d0c",
+  "added_by_category": {
+    "anime-series": {
+      "titles": 0,
+      "uploads": 44
+    },
+    "anime-movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "k-dramas": {
+      "titles": 0,
+      "uploads": 0
+    }
+  },
+  "added": [
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-3-hindi",
+      "episode": "12",
+      "video_id": "v2snc-uc8vI",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "2",
+      "video_id": "g37RlMOi1bE",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "3",
+      "video_id": "HuFSSU4wOVc",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "4",
+      "video_id": "KWYwsx82CK0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "5",
+      "video_id": "1gaKHwBcEd4",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "6",
+      "video_id": "M4SqqMC33Pk",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "7",
+      "video_id": "t2lFpjq5igg",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "8",
+      "video_id": "FgYTjRpKP0w",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "9",
+      "video_id": "-BAcoDDzmKY",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "10",
+      "video_id": "vZvroFmdpdE",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "11",
+      "video_id": "nCQdJtUZnp4",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "12",
+      "video_id": "hZrZxB6lnZ0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "13",
+      "video_id": "_VzdF0h9460",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "14",
+      "video_id": "eZAwa7ECgYU",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "15",
+      "video_id": "7pqbj5lP3_c",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "16",
+      "video_id": "12MBO9Ry9Co",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "17",
+      "video_id": "t9zSZWlRgNc",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "20",
+      "video_id": "YYGCuN_lPiA",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "21",
+      "video_id": "InGhOK2DzM4",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "23",
+      "video_id": "wmmV-QaQNkc",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "22",
+      "video_id": "TrQkY7E_KfM",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "25",
+      "video_id": "pbWqp0XyQp8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "26",
+      "video_id": "GjctPUP6u1M",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "27",
+      "video_id": "Foj4zutA9vQ",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "28",
+      "video_id": "x8BfOLAzE1M",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "30",
+      "video_id": "ePy2St10Z1Y",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "32",
+      "video_id": "_p5X4Nwbsdw",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "35",
+      "video_id": "g409Np6m6d4",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "34",
+      "video_id": "XFVbRDp4EQg",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "18",
+      "video_id": "WsVefxkgRKc",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "19",
+      "video_id": "0y-VQXr0uow",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "36",
+      "video_id": "sFKKUElyhiI",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "37",
+      "video_id": "_dsHiPPVU7k",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "39",
+      "video_id": "M_-oznErK9Q",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "38",
+      "video_id": "R9-YpJ0wOJI",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "40",
+      "video_id": "tpyxeG9pcr8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "41",
+      "video_id": "ee5kEoQrfKc",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "43",
+      "video_id": "UncGIkIwLo8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "42",
+      "video_id": "XtHGaw71Rdo",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "45",
+      "video_id": "GkfTnryFYA8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "44",
+      "video_id": "1oCwjZvJHks",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "47",
+      "video_id": "vyCGmCQkUN0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "46",
+      "video_id": "o0MOJq5UbSo",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "episode": "48",
+      "video_id": "c7_q-jKg8FY",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    }
+  ],
+  "checks": [
+    {
+      "id": "v2snc-uc8vI",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] One-Punch Man - Episode 36 (S3E12) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1436,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-06-05T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=v2snc-uc8vI",
+      "oembed": true
+    },
+    {
+      "id": "g37RlMOi1bE",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 002 (S1E02) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-27T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=g37RlMOi1bE",
+      "oembed": true
+    },
+    {
+      "id": "HuFSSU4wOVc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 003 (S1E03) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-28T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=HuFSSU4wOVc",
+      "oembed": true
+    },
+    {
+      "id": "KWYwsx82CK0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 004 (S1E04) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-29T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=KWYwsx82CK0",
+      "oembed": true
+    },
+    {
+      "id": "1gaKHwBcEd4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 005 (S1E05) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-30T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1gaKHwBcEd4",
+      "oembed": true
+    },
+    {
+      "id": "M4SqqMC33Pk",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 006 (S1E06) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-12-31T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=M4SqqMC33Pk",
+      "oembed": true
+    },
+    {
+      "id": "t2lFpjq5igg",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 007 (S1E07) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-01T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=t2lFpjq5igg",
+      "oembed": true
+    },
+    {
+      "id": "FgYTjRpKP0w",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 008 (S1E08) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-02T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=FgYTjRpKP0w",
+      "oembed": true
+    },
+    {
+      "id": "-BAcoDDzmKY",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 009 (S1E09) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-03T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=-BAcoDDzmKY",
+      "oembed": true
+    },
+    {
+      "id": "vZvroFmdpdE",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 010 (S1E10) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-04T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vZvroFmdpdE",
+      "oembed": true
+    },
+    {
+      "id": "nCQdJtUZnp4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 011 (S1E11) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1465,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-05T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=nCQdJtUZnp4",
+      "oembed": true
+    },
+    {
+      "id": "hZrZxB6lnZ0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 012 (S1E12) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-06T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hZrZxB6lnZ0",
+      "oembed": true
+    },
+    {
+      "id": "_VzdF0h9460",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 013 (S1E13) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-07T07:00:40-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_VzdF0h9460",
+      "oembed": true
+    },
+    {
+      "id": "eZAwa7ECgYU",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 014 (S1E14) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-08T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=eZAwa7ECgYU",
+      "oembed": true
+    },
+    {
+      "id": "7pqbj5lP3_c",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 015 (S1E15) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-09T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7pqbj5lP3_c",
+      "oembed": true
+    },
+    {
+      "id": "9-i7AvTx8MU",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 21",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1427,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T07:30:04-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9-i7AvTx8MU",
+      "oembed": true
+    },
+    {
+      "id": "re95mlNW-LA",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 12 (S1E12)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T06:30:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=re95mlNW-LA",
+      "oembed": true
+    },
+    {
+      "id": "aEsLA7ovyB4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 11 (S1E11)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T06:00:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=aEsLA7ovyB4",
+      "oembed": true
+    },
+    {
+      "id": "8jIB2R52Fzk",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 10 (S1E10)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T05:30:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=8jIB2R52Fzk",
+      "oembed": true
+    },
+    {
+      "id": "ugv45V_KJq0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 20",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-18T07:30:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ugv45V_KJq0",
+      "oembed": true
+    },
+    {
+      "id": "OtfKBWG_hw8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 09 (S1E09)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-18T06:30:26-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=OtfKBWG_hw8",
+      "oembed": true
+    },
+    {
+      "id": "PWpSd0rgPUU",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 08 (S1E08)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-18T06:00:18-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=PWpSd0rgPUU",
+      "oembed": true
+    },
+    {
+      "id": "oSS_ysMUDEI",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 07 (S1E07)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-18T05:30:22-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=oSS_ysMUDEI",
+      "oembed": true
+    },
+    {
+      "id": "EUs0eYKCyJM",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLEethgSC_5-4"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Tokyo Revengers - Episode 19",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1422,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-17T07:30:10-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=EUs0eYKCyJM",
+      "oembed": true
+    },
+    {
+      "id": "nNfkLbsxu9E",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 06 (S1E06)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-17T06:30:39-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=nNfkLbsxu9E",
+      "oembed": true
+    },
+    {
+      "id": "0MnZKvRQKcQ",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 05 (S1E05)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1447,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-17T06:00:32-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0MnZKvRQKcQ",
+      "oembed": true
+    },
+    {
+      "id": "uXD_lcd-4nI",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLY0pk6TxsjlM"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 04 (S1E04)",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-17T05:30:38-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=uXD_lcd-4nI",
+      "oembed": true
+    },
+    {
+      "id": "12MBO9Ry9Co",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 016 (S1E16) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-10T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=12MBO9Ry9Co",
+      "oembed": true
+    },
+    {
+      "id": "t9zSZWlRgNc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 017 (S1E17) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-11T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=t9zSZWlRgNc",
+      "oembed": true
+    },
+    {
+      "id": "YYGCuN_lPiA",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 020 (S1E20) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-14T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=YYGCuN_lPiA",
+      "oembed": true
+    },
+    {
+      "id": "InGhOK2DzM4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 021 (S1E21) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-15T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=InGhOK2DzM4",
+      "oembed": true
+    },
+    {
+      "id": "wmmV-QaQNkc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 023 (S1E23) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-17T07:01:23-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=wmmV-QaQNkc",
+      "oembed": true
+    },
+    {
+      "id": "TrQkY7E_KfM",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 022 (S1E22) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-16T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=TrQkY7E_KfM",
+      "oembed": true
+    },
+    {
+      "id": "pbWqp0XyQp8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 025 (S1E25) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-19T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=pbWqp0XyQp8",
+      "oembed": true
+    },
+    {
+      "id": "GjctPUP6u1M",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 026 (S1E26) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1457,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-20T07:00:19-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GjctPUP6u1M",
+      "oembed": true
+    },
+    {
+      "id": "Foj4zutA9vQ",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 027 (S1E27) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-21T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Foj4zutA9vQ",
+      "oembed": true
+    },
+    {
+      "id": "x8BfOLAzE1M",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 028 (S1E28) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-22T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=x8BfOLAzE1M",
+      "oembed": true
+    },
+    {
+      "id": "ePy2St10Z1Y",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 030 (S1E30) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-24T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ePy2St10Z1Y",
+      "oembed": true
+    },
+    {
+      "id": "_p5X4Nwbsdw",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 032 (S1E32) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-26T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_p5X4Nwbsdw",
+      "oembed": true
+    },
+    {
+      "id": "g409Np6m6d4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 035 (S1E35) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-29T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=g409Np6m6d4",
+      "oembed": true
+    },
+    {
+      "id": "XFVbRDp4EQg",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 034 (S1E34) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-28T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=XFVbRDp4EQg",
+      "oembed": true
+    },
+    {
+      "id": "WsVefxkgRKc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 018 (S1E18) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-12T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=WsVefxkgRKc",
+      "oembed": true
+    },
+    {
+      "id": "0y-VQXr0uow",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 019 (S1E19) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-13T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0y-VQXr0uow",
+      "oembed": true
+    },
+    {
+      "id": "sFKKUElyhiI",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 036 (S1E36) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-30T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=sFKKUElyhiI",
+      "oembed": true
+    },
+    {
+      "id": "_dsHiPPVU7k",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 037 (S1E37) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-01-31T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=_dsHiPPVU7k",
+      "oembed": true
+    },
+    {
+      "id": "M_-oznErK9Q",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 039 (S1E39) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-02T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=M_-oznErK9Q",
+      "oembed": true
+    },
+    {
+      "id": "R9-YpJ0wOJI",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 038 (S1E38) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-01T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=R9-YpJ0wOJI",
+      "oembed": true
+    },
+    {
+      "id": "tpyxeG9pcr8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 040 (S1E40) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-03T07:01:10-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=tpyxeG9pcr8",
+      "oembed": true
+    },
+    {
+      "id": "ee5kEoQrfKc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 041 (S1E41) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-04T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=ee5kEoQrfKc",
+      "oembed": true
+    },
+    {
+      "id": "UncGIkIwLo8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 043 (S1E43) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-06T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=UncGIkIwLo8",
+      "oembed": true
+    },
+    {
+      "id": "XtHGaw71Rdo",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 042 (S1E42) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-05T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=XtHGaw71Rdo",
+      "oembed": true
+    },
+    {
+      "id": "GkfTnryFYA8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 045 (S1E45) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-08T07:00:05-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=GkfTnryFYA8",
+      "oembed": true
+    },
+    {
+      "id": "1oCwjZvJHks",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 044 (S1E44) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-07T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=1oCwjZvJHks",
+      "oembed": true
+    },
+    {
+      "id": "vyCGmCQkUN0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 047 (S1E47) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-10T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=vyCGmCQkUN0",
+      "oembed": true
+    },
+    {
+      "id": "o0MOJq5UbSo",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 046 (S1E46) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-09T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=o0MOJq5UbSo",
+      "oembed": true
+    },
+    {
+      "id": "c7_q-jKg8FY",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9"
+      ],
+      "caption_languages": [],
+      "title": "Fairy Tail - Episode 048 (S1E48) [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1455,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2025-02-11T07:00:06-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=c7_q-jKg8FY",
+      "oembed": true
+    }
+  ],
+  "skipped": [
+    {
+      "video_id": "9-i7AvTx8MU",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "re95mlNW-LA",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "aEsLA7ovyB4",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "8jIB2R52Fzk",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "ugv45V_KJq0",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "OtfKBWG_hw8",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "PWpSd0rgPUU",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "oSS_ysMUDEI",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "EUs0eYKCyJM",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "nNfkLbsxu9E",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "0MnZKvRQKcQ",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    },
+    {
+      "video_id": "uXD_lcd-4nI",
+      "reason": "Not an exact matching reviewed Muse India Hindi upload; existing same-language mirrors are retained without duplicate episode entries."
+    }
+  ],
+  "coverage": [
+    {
+      "title_id": "fairy-tail",
+      "season_id": "fairy-tail-season-1-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27,
+        28,
+        30,
+        32,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "unresolved_episode_numbers": [
+        24,
+        29,
+        31,
+        33
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-2-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "unresolved_episode_numbers": [
+        5
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "one-punch-man",
+      "season_id": "one-punch-man-season-3-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ],
+      "unresolved_episode_numbers": [
+        3,
+        10
+      ],
+      "verified_complete": false
+    }
+  ],
+  "discovery": {
+    "target-feeds.json": [
+      {
+        "name": "playlist:PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "rows": [
+          {
+            "id": "zs-jXgEm8HI",
+            "title": "Fairy Tail - Episode 001 (S1E01) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "g37RlMOi1bE",
+            "title": "Fairy Tail - Episode 002 (S1E02) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "HuFSSU4wOVc",
+            "title": "Fairy Tail - Episode 003 (S1E03) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "KWYwsx82CK0",
+            "title": "Fairy Tail - Episode 004 (S1E04) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "1gaKHwBcEd4",
+            "title": "Fairy Tail - Episode 005 (S1E05) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "M4SqqMC33Pk",
+            "title": "Fairy Tail - Episode 006 (S1E06) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "t2lFpjq5igg",
+            "title": "Fairy Tail - Episode 007 (S1E07) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "FgYTjRpKP0w",
+            "title": "Fairy Tail - Episode 008 (S1E08) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "-BAcoDDzmKY",
+            "title": "Fairy Tail - Episode 009 (S1E09) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "vZvroFmdpdE",
+            "title": "Fairy Tail - Episode 010 (S1E10) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "nCQdJtUZnp4",
+            "title": "Fairy Tail - Episode 011 (S1E11) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "hZrZxB6lnZ0",
+            "title": "Fairy Tail - Episode 012 (S1E12) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "_VzdF0h9460",
+            "title": "Fairy Tail - Episode 013 (S1E13) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "eZAwa7ECgYU",
+            "title": "Fairy Tail - Episode 014 (S1E14) [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "7pqbj5lP3_c",
+            "title": "Fairy Tail - Episode 015 (S1E15) [Hindi Dub] | Muse IN"
+          }
+        ]
+      },
+      {
+        "name": "playlist:PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL15O-LmUZCguPSvEImRhmtU9",
+        "rows": [
+          {
+            "id": "gJst1MyxoNY",
+            "title": "Fairy Tail - Episode 001 (S1E01) [English Sub]"
+          },
+          {
+            "id": "zBCvK-HG6e0",
+            "title": "Fairy Tail - Episode 002 (S1E02) [English Sub]"
+          },
+          {
+            "id": "0Q4h19g28c8",
+            "title": "Fairy Tail - Episode 003 (S1E03) [English Sub]"
+          },
+          {
+            "id": "aSAnd9VP4Kw",
+            "title": "Fairy Tail - Episode 004 (S1E04) [English Sub]"
+          },
+          {
+            "id": "MWCLBsIBx4w",
+            "title": "Fairy Tail - Episode 005 (S1E05) [English Sub]"
+          },
+          {
+            "id": "Ly_ZmQwgHss",
+            "title": "Fairy Tail - Episode 006 (S1E06) [English Sub]"
+          },
+          {
+            "id": "PT81wszzWTU",
+            "title": "Fairy Tail - Episode 007 (S1E07) [English Sub]"
+          },
+          {
+            "id": "zNp7qx8leAU",
+            "title": "Fairy Tail - Episode 008 (S1E08) [English Sub]"
+          },
+          {
+            "id": "0wj0pWrwFd0",
+            "title": "Fairy Tail - Episode 009 (S1E09) [English Sub]"
+          },
+          {
+            "id": "iwDm6tANXKE",
+            "title": "Fairy Tail - Episode 010 (S1E10) [English Sub]"
+          },
+          {
+            "id": "qFvRxYfHgFM",
+            "title": "Fairy Tail - Episode 011 (S1E11) [English Sub]"
+          },
+          {
+            "id": "_YFjErVfb5Q",
+            "title": "Fairy Tail - Episode 012 (S1E12) [English Sub]"
+          },
+          {
+            "id": "O9RBM5ZtVdI",
+            "title": "Fairy Tail - Episode 013 (S1E13) [English Sub]"
+          },
+          {
+            "id": "bo7hqSkQ2Wg",
+            "title": "Fairy Tail - Episode 014 (S1E14) [English Sub]"
+          },
+          {
+            "id": "pllg3kb3X_w",
+            "title": "Fairy Tail - Episode 015 (S1E15) [English Sub]"
+          }
+        ]
+      },
+      {
+        "name": "playlist:PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL14XTDA9wPpCC6zKB2jUh9vY",
+        "rows": [
+          {
+            "id": "sl8LwAqFOvo",
+            "title": "[Hindi Dub] One-Punch Man - Episode 01 (S1E01) | Muse IN"
+          },
+          {
+            "id": "ZbPlicgv0-s",
+            "title": "[Hindi Dub] One-Punch Man - Episode 02 (S1E02) | Muse IN"
+          },
+          {
+            "id": "0k1nXqVDV1o",
+            "title": "[Hindi Dub] One-Punch Man - Episode 03 (S1E03) | Muse IN"
+          },
+          {
+            "id": "dPwdIoaOcbk",
+            "title": "[Hindi Dub] One-Punch Man - Episode 04 (S1E04) | Muse IN"
+          },
+          {
+            "id": "isQTg9_ggjg",
+            "title": "[Hindi Dub] One-Punch Man - Episode 05 (S1E05) | Muse IN"
+          },
+          {
+            "id": "Wdy87tc3UIk",
+            "title": "[Hindi Dub] One-Punch Man - Episode 06 (S1E06) | Muse IN"
+          },
+          {
+            "id": "WSUdAA23tmc",
+            "title": "[Hindi Dub] One-Punch Man - Episode 07 (S1E07) | Muse IN"
+          },
+          {
+            "id": "z5G3ha4Rp3s",
+            "title": "[Hindi Dub] One-Punch Man - Episode 08 (S1E08) | Muse IN"
+          },
+          {
+            "id": "oJUooDKyHE4",
+            "title": "[Hindi Dub] One-Punch Man - Episode 09 (S1E09) | Muse IN"
+          },
+          {
+            "id": "YuAGsDl3_og",
+            "title": "[Hindi Dub] One-Punch Man - Episode 10 (S1E10) | Muse IN"
+          },
+          {
+            "id": "6N5qSUV-w9Y",
+            "title": "[Hindi Dub] One-Punch Man - Episode 11 (S1E11) | Muse IN"
+          },
+          {
+            "id": "8Av1Q5_9Pis",
+            "title": "[Hindi Dub] One-Punch Man - Episode 12 (S1E12) | Muse IN"
+          },
+          {
+            "id": "iEvp9WeMFz8",
+            "title": "[Hindi Dub] One-Punch Man - Episode 13 (S2E01) | Muse IN"
+          },
+          {
+            "id": "F0aMd3ZYpvs",
+            "title": "[Hindi Dub] One-Punch Man - Episode 14 (S2E02) | Muse IN"
+          },
+          {
+            "id": "6eIhwcVbyug",
+            "title": "[Hindi Dub] One-Punch Man - Episode 15 (S2E03) | Muse IN"
+          }
+        ]
+      },
+      {
+        "name": "channel:muse-hindi",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "rows": [
+          {
+            "id": "fmsGTVY4R44",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN"
+          },
+          {
+            "id": "9-i7AvTx8MU",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 21"
+          },
+          {
+            "id": "re95mlNW-LA",
+            "title": "[Hindi Dub] Attack on Titan - Episode 12 (S1E12)"
+          },
+          {
+            "id": "aEsLA7ovyB4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 11 (S1E11)"
+          },
+          {
+            "id": "8jIB2R52Fzk",
+            "title": "[Hindi Dub] Attack on Titan - Episode 10 (S1E10)"
+          },
+          {
+            "id": "T1xlDlyyCnw",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 048 | Muse IN"
+          },
+          {
+            "id": "ugv45V_KJq0",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 20"
+          },
+          {
+            "id": "OtfKBWG_hw8",
+            "title": "[Hindi Dub] Attack on Titan - Episode 09 (S1E09)"
+          },
+          {
+            "id": "PWpSd0rgPUU",
+            "title": "[Hindi Dub] Attack on Titan - Episode 08 (S1E08)"
+          },
+          {
+            "id": "oSS_ysMUDEI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 07 (S1E07)"
+          },
+          {
+            "id": "hupT9Ut6-DM",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 047 | Muse IN"
+          },
+          {
+            "id": "EUs0eYKCyJM",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 19"
+          },
+          {
+            "id": "nNfkLbsxu9E",
+            "title": "[Hindi Dub] Attack on Titan - Episode 06 (S1E06)"
+          },
+          {
+            "id": "0MnZKvRQKcQ",
+            "title": "[Hindi Dub] Attack on Titan - Episode 05 (S1E05)"
+          },
+          {
+            "id": "uXD_lcd-4nI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 04 (S1E04)"
+          }
+        ]
+      }
+    ],
+    "indexed-leads.json": [
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 020\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 021\" \"Hindi\""
+        ],
+        "ids": [
+          "YYGCuN_lPiA",
+          "InGhOK2DzM4"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 022\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 023\" \"Hindi\""
+        ],
+        "ids": [
+          "wmmV-QaQNkc",
+          "TrQkY7E_KfM"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 024\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 025\" \"Hindi\""
+        ],
+        "ids": [
+          "pbWqp0XyQp8"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 026\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 027\" \"Hindi\""
+        ],
+        "ids": [
+          "GjctPUP6u1M",
+          "Foj4zutA9vQ"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 028\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 029\" \"Hindi\""
+        ],
+        "ids": [
+          "x8BfOLAzE1M"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 030\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 031\" \"Hindi\""
+        ],
+        "ids": [
+          "ePy2St10Z1Y"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 032\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 033\" \"Hindi\""
+        ],
+        "ids": [
+          "_p5X4Nwbsdw"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 034\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 035\" \"Hindi\""
+        ],
+        "ids": [
+          "g409Np6m6d4",
+          "XFVbRDp4EQg"
+        ],
+        "isError": false
+      }
+    ],
+    "late-leads.json": [
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 036\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 037\" \"Hindi\""
+        ],
+        "ids": [
+          "sFKKUElyhiI",
+          "_dsHiPPVU7k"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 038\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 039\" \"Hindi\""
+        ],
+        "ids": [
+          "M_-oznErK9Q",
+          "R9-YpJ0wOJI"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 040\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 041\" \"Hindi\""
+        ],
+        "ids": [
+          "tpyxeG9pcr8",
+          "ee5kEoQrfKc"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 042\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 043\" \"Hindi\""
+        ],
+        "ids": [
+          "UncGIkIwLo8",
+          "XtHGaw71Rdo"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 044\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 045\" \"Hindi\""
+        ],
+        "ids": [
+          "GkfTnryFYA8",
+          "1oCwjZvJHks"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 046\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail - Episode 047\" \"Hindi\""
+        ],
+        "ids": [
+          "vyCGmCQkUN0",
+          "o0MOJq5UbSo"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail - Episode 048\" \"Hindi\""
+        ],
+        "ids": [
+          "c7_q-jKg8FY"
+        ],
+        "isError": false
+      }
+    ],
+    "gap-leads.json": [
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E24\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E25\" \"Hindi\""
+        ],
+        "ids": [
+          "pbWqp0XyQp8"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E28\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E29\" \"Hindi\""
+        ],
+        "ids": [
+          "x8BfOLAzE1M"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E30\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E31\" \"Hindi\""
+        ],
+        "ids": [
+          "ePy2St10Z1Y"
+        ],
+        "isError": false
+      },
+      {
+        "queries": [
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E32\" \"Hindi\"",
+          "site:youtube.com/watch \"Fairy Tail\" \"S1E33\" \"Hindi\""
+        ],
+        "ids": [
+          "_p5X4Nwbsdw"
+        ],
+        "isError": false
+      }
+    ],
+    "watch-playlist.json": {
+      "url": "https://www.youtube.com/watch?v=12MBO9Ry9Co&list=PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+      "rows": [
+        {
+          "id": "iR15hYRcKds",
+          "title": "My Sister and I Share the Same BF",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "yIT_9rzls1c",
+          "title": "Sooryavanshi Full Action Drama Movie || Akshay Kumar | Ajay Devgn | Ranveer Singh | Katrina Kaif |",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "THZu1KYmywU",
+          "title": "Jai Jag Janani | Navratri Special",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "IrHTT2IEKpE",
+          "title": "Sung Jinwoo vs The Ant King | Solo Leveling Season 2 -Arise from the Shadow-",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "81Hp-wb5yBc",
+          "title": "Becoming the DRAGON MASTER in Blox Fruits!",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "D9p6GnDe4aI",
+          "title": "30 Days on a Death Ship (A Mysterious Virus Broke Out, We Got Stranded)",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "Yb8BKokAk6I",
+          "title": "Jethalal Ne Kiya Bhide Ko Jabardast Roast !  | FULL MOVIE | Taarak Mehta Ka Ooltah Chashmah",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "plN7JMbadRg",
+          "title": "Eat Everything In A Grocery Store, Win $1,000,000",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "I6q9q2ZZX_Y",
+          "title": "DON'T OPEN THE DOOR AT NIGHT",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "big3jtp_W3M",
+          "title": "उदय शेट्टी KA SWAG (नाना पाटेकर) | Best Scenes Of Nana Patekar | Uday Shetty Comedy | Welcome Movie",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "F3c6uYMiXKE",
+          "title": "DISTURBING Truth About Alauddin Khilji",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "ybczM4i0PxU",
+          "title": "Naruto & Hinata Funny Moments Hindi | naruto & Sasuke Vs Rock Lee | Part-2",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "EHRmWyzIpSw",
+          "title": "The Apothecary Diaries Episode 1 SUB/DUB | Maomao",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "IkXl_yiDV4k",
+          "title": "Chillar Party | Full Movie | Irrfan Khan, Naman Jain, Sanath Menon | Kids Comedy | Bollywood Movie",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "kLBMLt2-Y0k",
+          "title": "I'm A secret Star",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "P6BapipXK44",
+          "title": "Raaz Faash! 😱 | Bulbulay Season 2 | Momo | Khoobsurat | Nabeel | Mehmood Aslam | Comedy",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "PEylwLDmayE",
+          "title": "Paradha 2026 New Release South Thriller Movie | Anupama Parameswaran, Darshana Rajendran, Sangeetha",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "tdtsEnKxSog",
+          "title": "I Can Finally Leave this Forest…",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "AO80OyUPrKQ",
+          "title": "What If Asta Was Reborn With His Memories? (Black Clover)",
+          "kind": "lockupViewModel"
+        },
+        {
+          "id": "Kkcwa_hSKLA",
+          "title": "Bhool Bhulaiyaa (Full Movie): Akshay Kumar | Vidya Balan | Paresh Rawal | Rajpal Yadav| Comedy Movie",
+          "kind": "lockupViewModel"
+        }
+      ]
+    }
+  },
+  "additional_exact_watch_leads": [
+    "https://www.youtube.com/watch?v=12MBO9Ry9Co",
+    "https://www.youtube.com/watch?v=t9zSZWlRgNc",
+    "https://www.youtube.com/watch?v=WsVefxkgRKc",
+    "https://www.youtube.com/watch?v=0y-VQXr0uow",
+    "https://www.youtube.com/watch?v=v2snc-uc8vI"
+  ],
+  "limits": [
+    "India country metadata includes IN and exact YouTube oEmbed passed for additions; actual playback from India is unobserved.",
+    "Public Atom playlist feeds expose a limited prefix; an empty/region-hidden listing does not establish that further uploads are absent.",
+    "The public watch-with-playlist page returned generic recommended lockup rows, not actual Fairy Tail playlist episode rows. Those recommendations were not treated as playlist coverage.",
+    "Ragna Crimson and DAN DA DAN unresolved Hindi gaps remain recorded in the prior report; exact indexed searches in this pass did not establish additional eligible IDs.",
+    "No exhaustive YouTube or complete-season claim. Other audio/subtitle editions were not substituted for missing Hindi episodes."
+  ],
+  "validation": {
+    "build_html_pages": 2132,
+    "audit_errors": [],
+    "unit_tests_passed": 34,
+    "javascript_syntax": "passed",
+    "existing_ids_and_owner_order": "preserved"
+  }
+}
