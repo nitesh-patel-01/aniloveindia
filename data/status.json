@@ -1,12 +1,14 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-20T01:02:10.258013+05:30",
+  "last_run": "2026-10-20T01:53:59.090857+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Verified series backfill prepared",
+  "state": "Verified Hindi anime gaps backfilled",
   "added": {
-    "pokemon-journeys": 30,
-    "the-promise": 101,
-    "house-of-bluebird": 13
+    "hunter-x-hunter": 1,
+    "mob-psycho-100": 8,
+    "attack-on-titan": 2,
+    "jojos-bizarre-adventure": 1,
+    "assassination-classroom": 1
   },
   "changed_availability": [],
   "link_checks": [],
@@ -15,12 +17,11 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "Exact IN country metadata and oEmbed are not evidence of observed India playback.",
-    "My Demon exact user-supplied and longer cross-channel uploads remain source-unapproved; no partial upload renamed a full episode.",
-    "Ragna Crimson 16–24, Hunter Hindi episode49 and DANDADAN S2E7 remain unresolved after exact searches.",
-    "Hwangjini checked uploads lack selectable caption tracks; English-sub delivery mode remains unresolved.",
-    "House of Bluebird remains a partial episode selection; the feed did not establish episodes 15–16 or coverage beyond episode 17.",
-    "Public KBS continuation request exposed no additional rows; final Promise episode leads recovered through public exact-title search."
+    "Actual India playback is unobserved; exact upload country metadata includes IN and YouTube oEmbed passed. The checking server can receive a region restriction while official IN metadata remains present.",
+    "Ragna Crimson Hindi 16–24 and DAN DA DAN Hindi season 2 episode 7 were not recovered as independently verified exact uploads. Empty/region-hidden listings do not establish absence.",
+    "Muse official Mob Hindi descriptions link an incomplete playlist ID PLZiKGmhwMtho. The separate English-sub playlist is not a Hindi playlist.",
+    "Ragna original English-sub editions expose no selectable caption tracks; neither actual audio nor burned-in subtitle delivery was independently established, so they were not added.",
+    "This is a verified batch of additions, not exhaustive YouTube coverage or a complete-series certification."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
@@ -31,11 +32,11 @@
     "movies": 89,
     "k-dramas": 53
   },
-  "upload_count": 1552,
+  "upload_count": 1565,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
-      "uploads": 30
+      "uploads": 13
     },
     "anime-movies": {
       "titles": 0,
@@ -47,11 +48,11 @@
     },
     "k-dramas": {
       "titles": 0,
-      "uploads": 114
+      "uploads": 0
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-20-series-backfill.json",
+  "verification_report": "data/verification/2026-10-20-anime-gap-update.json",
   "language_priority": [
     "Hindi",
     "English",

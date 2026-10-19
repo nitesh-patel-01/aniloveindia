@@ -3115,13 +3115,14 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-20",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=adsNeHmLllg",
       "https://www.youtube.com/watch?v=K1dt4wHzsBY",
       "https://www.youtube.com/watch?v=w_H7ahP00IE",
-      "https://www.youtube.com/watch?v=uwbNs1tVLM4"
+      "https://www.youtube.com/watch?v=uwbNs1tVLM4",
+      "https://www.youtube.com/watch?v=hVK3dHfO1Y0"
     ],
     "seasons": [
       {
@@ -3133,10 +3134,10 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-19",
+        "last_checked": "2026-10-20",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
-        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=hVK3dHfO1Y0",
         "episodes": [
           {
             "number": "15",
@@ -3159,6 +3160,18 @@
             "added_on": "2026-10-19",
             "last_checked": "2026-10-19",
             "source_upload_date": "2026-10-18T08:00:09-07:00"
+          },
+          {
+            "number": "17",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 17 | Muse IN",
+            "video_id": "hVK3dHfO1Y0",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-10-19T08:00:07-07:00"
           }
         ]
       },
@@ -4584,7 +4597,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-20",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
@@ -4595,7 +4608,8 @@
       "https://www.youtube.com/watch?v=1Wo_PRie640",
       "https://www.youtube.com/watch?v=TnJw8Yc8CCo",
       "https://www.youtube.com/watch?v=FjB1k32O-wE",
-      "https://www.youtube.com/watch?v=mWKa7dTIVR4"
+      "https://www.youtube.com/watch?v=mWKa7dTIVR4",
+      "https://www.youtube.com/watch?v=6M7Q_5EFbr8"
     ],
     "seasons": [
       {
@@ -4659,10 +4673,10 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-19",
+        "last_checked": "2026-10-20",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
-        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=6M7Q_5EFbr8",
         "episodes": [
           {
             "number": "6",
@@ -4695,6 +4709,18 @@
             "added_on": "2026-10-19",
             "last_checked": "2026-10-19",
             "source_upload_date": "2026-10-18T08:30:07-07:00"
+          },
+          {
+            "number": "9",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 09 [Hindi Dub] | Muse IN",
+            "video_id": "6M7Q_5EFbr8",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-10-19T08:30:09-07:00"
           }
         ]
       },
@@ -6141,7 +6167,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-20",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=tvLPRBqfJdI",
@@ -6168,7 +6194,15 @@
       "https://www.youtube.com/watch?v=ATPwIKpozYY",
       "https://www.youtube.com/watch?v=x2XvKtIq8X0",
       "https://www.youtube.com/watch?v=SkdXbRZJnIE",
-      "https://www.youtube.com/watch?v=bPW_Ko9gxAk"
+      "https://www.youtube.com/watch?v=bPW_Ko9gxAk",
+      "https://www.youtube.com/watch?v=pQlseTen94A",
+      "https://www.youtube.com/watch?v=QPR-bOtfsMY",
+      "https://www.youtube.com/watch?v=zQruKalHgUM",
+      "https://www.youtube.com/watch?v=7uRrj8xjRX8",
+      "https://www.youtube.com/watch?v=Nccfr3jdSb4",
+      "https://www.youtube.com/watch?v=D-_bDoxSjf0",
+      "https://www.youtube.com/watch?v=0Gmvu7FV09o",
+      "https://www.youtube.com/watch?v=q6A7fwZtLYE"
     ],
     "seasons": [
       {
@@ -6305,11 +6339,11 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 3. Metadata and oEmbed do not prove actual playback from India.",
+        "last_checked": "2026-10-20",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
-        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=Nccfr3jdSb4",
         "episodes": [
           {
             "number": "1",
@@ -6342,6 +6376,30 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "5",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 05 | Muse IN",
+            "video_id": "zQruKalHgUM",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-11T08:30:06-07:00"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 06 | Muse IN",
+            "video_id": "7uRrj8xjRX8",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-12T08:30:06-07:00"
+          },
+          {
             "number": "7",
             "title": "[Hindi Dub] Mob Psycho 100 II - Episode 07 | Muse IN",
             "video_id": "v-1W9BrhYMg",
@@ -6350,6 +6408,30 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 08 | Muse IN",
+            "video_id": "QPR-bOtfsMY",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-14T08:30:06-07:00"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 09 | Muse IN",
+            "video_id": "Nccfr3jdSb4",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-15T08:30:06-07:00"
           },
           {
             "number": "10",
@@ -6372,6 +6454,18 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "12",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 12 | Muse IN",
+            "video_id": "pQlseTen94A",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-18T08:30:06-07:00"
+          },
+          {
             "number": "13",
             "title": "[Hindi Dub] Mob Psycho 100 II - Episode 13 | Muse IN",
             "video_id": "SkdXbRZJnIE",
@@ -6391,11 +6485,11 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 1, 10, 11. Metadata and oEmbed do not prove actual playback from India.",
+        "last_checked": "2026-10-20",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
-        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=q6A7fwZtLYE",
         "episodes": [
           {
             "number": "2",
@@ -6418,6 +6512,18 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "4",
+            "title": "[Hindi Dub] Mob Psycho 100 III - Episode 04 | Muse IN",
+            "video_id": "0Gmvu7FV09o",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-24T08:30:06-07:00"
+          },
+          {
             "number": "5",
             "title": "[Hindi Dub] Mob Psycho 100 III - Episode 05 | Muse IN",
             "video_id": "Cdi1zMBjlU4",
@@ -6438,6 +6544,18 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "7",
+            "title": "[Hindi Dub] Mob Psycho 100 III - Episode 07 | Muse IN",
+            "video_id": "q6A7fwZtLYE",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-08-27T08:30:06-07:00"
+          },
+          {
             "number": "8",
             "title": "[Hindi Dub] Mob Psycho 100 III - Episode 08 | Muse IN",
             "video_id": "US2eDga7hJs",
@@ -6456,6 +6574,18 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Mob Psycho 100 III - Episode 12 | Muse IN",
+            "video_id": "D-_bDoxSjf0",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-09-01T08:30:06-07:00"
           }
         ]
       },
@@ -21365,7 +21495,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-20",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=LoJNZElISM8",
@@ -21482,7 +21612,8 @@
       "https://www.youtube.com/watch?v=ZiTyAdrLPRU",
       "https://www.youtube.com/watch?v=D5iGR-HNN8A",
       "https://www.youtube.com/watch?v=hupT9Ut6-DM",
-      "https://www.youtube.com/watch?v=T1xlDlyyCnw"
+      "https://www.youtube.com/watch?v=T1xlDlyyCnw",
+      "https://www.youtube.com/watch?v=fmsGTVY4R44"
     ],
     "thumbnail": "https://i.ytimg.com/vi/LoJNZElISM8/hqdefault.jpg",
     "seasons": [
@@ -21493,11 +21624,11 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-19",
+        "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 2, 4, 7, 8, 9, 10, 13, 16, 17, 19, 22, 23, 24, 25, 29, 30, 31, 34, 35, 36, 37, 38, 50, 80, 84, 85, 113, 124, 126, 129, 143, 144. Metadata and oEmbed do not prove actual playback from India.",
+        "last_checked": "2026-10-20",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=fmsGTVY4R44",
         "episodes": [
           {
             "number": "1",
@@ -21760,6 +21891,18 @@
             "added_on": "2026-10-19",
             "last_checked": "2026-10-19",
             "source_upload_date": "2026-10-18T08:00:35-07:00"
+          },
+          {
+            "number": "49",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN",
+            "video_id": "fmsGTVY4R44",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-10-19T08:00:31-07:00"
           },
           {
             "number": "51",
@@ -22977,7 +23120,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-20",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=4q70E0nwkAY",
@@ -23019,7 +23162,9 @@
       "https://www.youtube.com/watch?v=vj0nJlvKu7Q",
       "https://www.youtube.com/watch?v=DREbGMivvIE",
       "https://www.youtube.com/watch?v=DcK3YbSHc-o",
-      "https://www.youtube.com/watch?v=L-Vsd6J2L0M"
+      "https://www.youtube.com/watch?v=L-Vsd6J2L0M",
+      "https://www.youtube.com/watch?v=bAkT3CZ-4a0",
+      "https://www.youtube.com/watch?v=9CygW01NIt0"
     ],
     "thumbnail": "https://i.ytimg.com/vi/4q70E0nwkAY/hqdefault.jpg",
     "seasons": [
@@ -23414,10 +23559,10 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-19",
+        "last_checked": "2026-10-20",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
-        "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=9CygW01NIt0",
         "episodes": [
           {
             "number": "1",
@@ -23470,6 +23615,30 @@
             "added_on": "2026-10-19",
             "last_checked": "2026-10-19",
             "source_upload_date": "2026-10-18T09:30:07-07:00"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] Attack on Titan - Episode 44 (S3E07) | Muse IN",
+            "video_id": "9CygW01NIt0",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-10-19T09:00:08-07:00"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] Attack on Titan - Episode 45 (S3E08) | Muse IN",
+            "video_id": "bAkT3CZ-4a0",
+            "duration_seconds": 1435,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-20",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20",
+            "last_checked": "2026-10-20",
+            "source_upload_date": "2026-10-19T09:30:08-07:00"
           }
         ]
       }

@@ -1,0 +1,3635 @@
+{
+  "checked_on": "2026-10-20",
+  "base_commit": "aeb381c1c94d43366fe9599e6ab0c693a7c1fda6",
+  "added_by_category": {
+    "anime-series": {
+      "titles": 0,
+      "uploads": 13
+    },
+    "anime-movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "movies": {
+      "titles": 0,
+      "uploads": 0
+    },
+    "k-dramas": {
+      "titles": 0,
+      "uploads": 0
+    }
+  },
+  "added": [
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "episode": "49",
+      "video_id": "fmsGTVY4R44",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "episode": "12",
+      "video_id": "pQlseTen94A",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "episode": "8",
+      "video_id": "QPR-bOtfsMY",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "episode": "5",
+      "video_id": "zQruKalHgUM",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "episode": "6",
+      "video_id": "7uRrj8xjRX8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "episode": "9",
+      "video_id": "Nccfr3jdSb4",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-3-hindi",
+      "episode": "12",
+      "video_id": "D-_bDoxSjf0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-3-hindi",
+      "episode": "4",
+      "video_id": "0Gmvu7FV09o",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-3-hindi",
+      "episode": "7",
+      "video_id": "q6A7fwZtLYE",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "attack-on-titan",
+      "season_id": "attack-on-titan-season-3-hindi",
+      "episode": "8",
+      "video_id": "bAkT3CZ-4a0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "attack-on-titan",
+      "season_id": "attack-on-titan-season-3-hindi",
+      "episode": "7",
+      "video_id": "9CygW01NIt0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-4-hindi",
+      "episode": "9",
+      "video_id": "6M7Q_5EFbr8",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    },
+    {
+      "title_id": "assassination-classroom",
+      "season_id": "assassination-classroom-season-1-hindi",
+      "episode": "17",
+      "video_id": "hVK3dHfO1Y0",
+      "audio_language": "Hindi",
+      "category": "anime-series"
+    }
+  ],
+  "checks": [
+    {
+      "id": "fmsGTVY4R44",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Hindi Dub",
+      "playlist_ids": [
+        "PLJQGKbVYHSIE"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "seconds": 1415,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T08:00:31-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fmsGTVY4R44",
+      "oembed": true
+    },
+    {
+      "id": "iY1VzlQtN5U",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL14-OQe45sjPiL7UFk3JmuVE"
+      ],
+      "caption_languages": [],
+      "title": "Ragna Crimson - Episode 16 [English Sub]",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-02-03T08:00:11-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=iY1VzlQtN5U",
+      "oembed": true
+    },
+    {
+      "id": "fusYAKSBCtc",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse Asia",
+      "playlist_ids": [
+        "PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      ],
+      "caption_languages": [],
+      "title": "Ragna Crimson - Episode 16 [English Sub]",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2024-02-03T08:00:08-08:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=fusYAKSBCtc",
+      "oembed": true
+    },
+    {
+      "id": "pQlseTen94A",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 II - Episode 12 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-18T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=pQlseTen94A",
+      "oembed": true
+    },
+    {
+      "id": "QPR-bOtfsMY",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 II - Episode 08 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-14T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=QPR-bOtfsMY",
+      "oembed": true
+    },
+    {
+      "id": "zQruKalHgUM",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 II - Episode 05 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-11T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=zQruKalHgUM",
+      "oembed": true
+    },
+    {
+      "id": "7uRrj8xjRX8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 II - Episode 06 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-12T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=7uRrj8xjRX8",
+      "oembed": true
+    },
+    {
+      "id": "Nccfr3jdSb4",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 II - Episode 09 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1450,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-15T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=Nccfr3jdSb4",
+      "oembed": true
+    },
+    {
+      "id": "D-_bDoxSjf0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 12 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-09-01T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=D-_bDoxSjf0",
+      "oembed": true
+    },
+    {
+      "id": "0Gmvu7FV09o",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 04 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-24T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=0Gmvu7FV09o",
+      "oembed": true
+    },
+    {
+      "id": "q6A7fwZtLYE",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLZiKGmhwMtho",
+        "PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 07 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1420,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-08-27T08:30:06-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=q6A7fwZtLYE",
+      "oembed": true
+    },
+    {
+      "id": "bAkT3CZ-4a0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16H1PewtveOnqL8QIV9F4S9"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 45 (S3E08) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1435,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T09:30:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=bAkT3CZ-4a0",
+      "oembed": true
+    },
+    {
+      "id": "9CygW01NIt0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL16H1PewtveOnqL8QIV9F4S9"
+      ],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Attack on Titan - Episode 44 (S3E07) | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1435,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T09:00:08-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=9CygW01NIt0",
+      "oembed": true
+    },
+    {
+      "id": "6M7Q_5EFbr8",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [
+        "PLpm1VVK4UL17iReLWpJ2f1qeiKWmvPMUF",
+        "PLpm1VVK4UL143T1yq6chjw0_Xs3qzPvQI"
+      ],
+      "caption_languages": [],
+      "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 09 [Hindi Dub] | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1440,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T08:30:09-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=6M7Q_5EFbr8",
+      "oembed": true
+    },
+    {
+      "id": "hVK3dHfO1Y0",
+      "eligible": true,
+      "checked_at": "2026-10-20",
+      "author": "Muse India",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 17 | Muse IN",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "seconds": 1376,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "player_status": "UNPLAYABLE",
+      "player_reason": "Video unavailable",
+      "publish_date": "2026-10-19T08:00:07-07:00",
+      "is_unlisted": false,
+      "is_live": false,
+      "source_url": "https://www.youtube.com/watch?v=hVK3dHfO1Y0",
+      "oembed": true
+    }
+  ],
+  "skipped": [
+    {
+      "video_id": "iY1VzlQtN5U",
+      "reason": "Original-audio subtitle delivery not independently verified; not admitted as a Hindi edition."
+    },
+    {
+      "video_id": "fusYAKSBCtc",
+      "reason": "Original-audio subtitle delivery not independently verified; not admitted as a Hindi edition."
+    }
+  ],
+  "coverage": [
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-hindi-available",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "remaining_episode_numbers": [
+        11
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-2-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "remaining_episode_numbers": [
+        3
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "mob-psycho-100",
+      "season_id": "mob-psycho-100-season-3-hindi",
+      "listed_episodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12
+      ],
+      "remaining_episode_numbers": [
+        1,
+        10,
+        11
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "dan-da-dan",
+      "season_id": "dan-da-dan-hindi-available",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "remaining_episode_numbers": [],
+      "verified_complete": false
+    },
+    {
+      "title_id": "dan-da-dan",
+      "season_id": "dan-da-dan-season-2-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "remaining_episode_numbers": [
+        7
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "ragna-crimson",
+      "season_id": "ragna-crimson-season-1-hindi",
+      "listed_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "remaining_episode_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verified_complete": false
+    },
+    {
+      "title_id": "hunter-x-hunter",
+      "season_id": "hunter-x-hunter-hindi-available",
+      "listed_episodes": [
+        1,
+        3,
+        5,
+        6,
+        11,
+        12,
+        14,
+        15,
+        18,
+        20,
+        21,
+        26,
+        27,
+        28,
+        32,
+        33,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        81,
+        82,
+        83,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        125,
+        127,
+        128,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        145,
+        146,
+        147,
+        148
+      ],
+      "remaining_episode_numbers": [
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        13,
+        16,
+        17,
+        19,
+        22,
+        23,
+        24,
+        25,
+        29,
+        30,
+        31,
+        34,
+        35,
+        36,
+        37,
+        38,
+        50,
+        80,
+        84,
+        85,
+        113,
+        124,
+        126,
+        129,
+        143,
+        144
+      ],
+      "verified_complete": false
+    }
+  ],
+  "discovery": {
+    "anime-searches.json": [
+      {
+        "name": "search:Ragna Crimson Hindi Muse 16",
+        "url": "https://www.youtube.com/results?search_query=Ragna%20Crimson%20Hindi%20Muse%2016",
+        "rows": [
+          {
+            "id": "Jj_xHbqOapU",
+            "title": "Ragna crimson hindi dubbed | new anime hindi dub | anime hindi dub ",
+            "kind": "videoRenderer",
+            "uploader": "Manhwa Aura Hindi ",
+            "channel_id": "UC1QlLTMV1zbUNtIupYlPOMA",
+            "runtime": "14:34"
+          },
+          {
+            "id": "5uM9r0jKDl4",
+            "title": "2026 Confirmed? 📅 Ragna Crimson Season 2 Kab Aayega? | Silver Link Studio Update",
+            "kind": "videoRenderer",
+            "uploader": "DTS TOONS",
+            "channel_id": "UCWiwEuGzDKcEsElNfeNQENw",
+            "runtime": "2:14"
+          },
+          {
+            "id": "ZPMS0MHR_s4",
+            "title": "(FULL) Weak Looser Boy Awaken His Super Powers | Ragna Crimson Season 1 & 2 Explained in Hindi/Urdu",
+            "kind": "videoRenderer",
+            "uploader": "All in One Anime",
+            "channel_id": "UCQYUDTp5QgBp1rtDnnVO7Fg",
+            "runtime": "1:25:51"
+          },
+          {
+            "id": "f47teVT-Gxo",
+            "title": "Ragna crimson part 1(hindi dubbed) its a enjoyable anime",
+            "kind": "videoRenderer",
+            "uploader": "punjab Animantion",
+            "channel_id": "UCjiyXpovmc3OEBbQ9r6tjsA",
+            "runtime": "0:06"
+          },
+          {
+            "id": "7YrvkSOVlPA",
+            "title": "《Ragna Crimson》- Episode 01 Part 01 [Hindi dubbed]",
+            "kind": "videoRenderer",
+            "uploader": "NinjaFlix",
+            "channel_id": "UCw2zbb2GXzgWJ33iQn6F0gA",
+            "runtime": "0:14"
+          },
+          {
+            "id": "PLmf0zaXj2Xm3Z43O0yOmY_TO01GUfRm8M",
+            "title": "Ragna Crimson Episodes Explained in hindi",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Ragna Crimson Hindi Muse 17",
+        "url": "https://www.youtube.com/results?search_query=Ragna%20Crimson%20Hindi%20Muse%2017",
+        "rows": [
+          {
+            "id": "2ZBBGD1eSbs",
+            "title": "Kamui Vs Ragna Full fight | Episode 17 | Princess Silverline Death | Ragna Crimson",
+            "kind": "videoRenderer",
+            "uploader": "Animewar",
+            "channel_id": "UCz7nO3_ySY8ZkZkQB5ii6eQ",
+            "runtime": "2:27"
+          },
+          {
+            "id": "eOARIPEmtdU",
+            "title": "I WAS NOT READY FOR THIS!!! NOOO!!! | Ragna Crimson Ep 17 REACTION!",
+            "kind": "videoRenderer",
+            "uploader": "E.D. ANIME",
+            "channel_id": "UCvp82fu0wlwoW4Nleb-lFCg",
+            "runtime": "14:04"
+          },
+          {
+            "id": "ZPMS0MHR_s4",
+            "title": "(FULL) Weak Looser Boy Awaken His Super Powers | Ragna Crimson Season 1 & 2 Explained in Hindi/Urdu",
+            "kind": "videoRenderer",
+            "uploader": "All in One Anime",
+            "channel_id": "UCQYUDTp5QgBp1rtDnnVO7Fg",
+            "runtime": "1:25:51"
+          },
+          {
+            "id": "JFK4EDjID0Y",
+            "title": "Finally Aa Gaya! 😍 Ragna Crimson Hindi Dubbed Finally HERE! | Ragna Crimson In Hindi ",
+            "kind": "videoRenderer",
+            "uploader": "Mr Mg Senpai ",
+            "channel_id": "UCabdnseCTBBTEaUXAkDOzpA",
+            "runtime": "1:23"
+          },
+          {
+            "id": "Hv4rvBp67fw",
+            "title": "Ragna Crimson Season 2 Release Date | Ragna Crimson Hindi Dub | MX Player",
+            "kind": "videoRenderer",
+            "uploader": "Anime Yatra",
+            "channel_id": "UCDGY8CRe3Qj6bSR7hf2Njvg",
+            "runtime": "2:09"
+          },
+          {
+            "id": "16uF-PeEvp0",
+            "title": "Ragna Episode 17  Beautiful and Tragic#ragnacrimson #anime #animeedit",
+            "kind": "videoRenderer",
+            "uploader": "BasicNP",
+            "channel_id": "UC5R1zQ-QVGtu0yGrCkk3IlQ",
+            "runtime": "0:41"
+          },
+          {
+            "id": "7YrvkSOVlPA",
+            "title": "《Ragna Crimson》- Episode 01 Part 01 [Hindi dubbed]",
+            "kind": "videoRenderer",
+            "uploader": "NinjaFlix",
+            "channel_id": "UCw2zbb2GXzgWJ33iQn6F0gA",
+            "runtime": "0:14"
+          },
+          {
+            "id": "PLmf0zaXj2Xm3Z43O0yOmY_TO01GUfRm8M",
+            "title": "Ragna Crimson Episodes Explained in hindi",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Ragna Crimson Muse Hindi Dub",
+        "url": "https://www.youtube.com/results?search_query=Ragna%20Crimson%20Muse%20Hindi%20Dub",
+        "rows": [
+          {
+            "id": "kqhC3hIYqzU",
+            "title": " RAGNA CRIMSON - Episode 01 [Hindi Dub] | Anime IN |",
+            "kind": "videoRenderer",
+            "uploader": "Anime India",
+            "channel_id": "UCFV9930rqQZp9lsSH9reJ3g",
+            "runtime": "14:18"
+          },
+          {
+            "id": "dzGzR5NQtZ8",
+            "title": "Ragna Crimson Full DUB Episode 1 | Season 1 | The Day the Reaper Was Born | HIDIVE",
+            "kind": "videoRenderer",
+            "uploader": "HIDIVE",
+            "channel_id": "UCeFzTMpr7ik6oU5MT_YAYzg",
+            "runtime": "47:32"
+          },
+          {
+            "id": "EHTZRv2l08c",
+            "title": "Anime In Hindi | Ragna Crimson S1 Ep1 Hindi Dubbed 2025 !",
+            "kind": "videoRenderer",
+            "uploader": "Epic Anime",
+            "channel_id": "UCmDq_sl1EYKXBlCDXaBAY_Q",
+            "runtime": "14:34"
+          },
+          {
+            "id": "JFK4EDjID0Y",
+            "title": "Finally Aa Gaya! 😍 Ragna Crimson Hindi Dubbed Finally HERE! | Ragna Crimson In Hindi ",
+            "kind": "videoRenderer",
+            "uploader": "Mr Mg Senpai ",
+            "channel_id": "UCabdnseCTBBTEaUXAkDOzpA",
+            "runtime": "1:23"
+          },
+          {
+            "id": "C0TcWkVkH5Y",
+            "title": "RAGNA CRIMSON - Episode 01 Part 02[Hindi Dub] | Anime IN |",
+            "kind": "videoRenderer",
+            "uploader": "Anime India",
+            "channel_id": "UCFV9930rqQZp9lsSH9reJ3g",
+            "runtime": "14:44"
+          },
+          {
+            "id": "LP97_eIEA-A",
+            "title": "[HINDI Dub] RAGNA CRIMSON S01 E01 [part 1]",
+            "kind": "videoRenderer",
+            "uploader": "AniFusion TV",
+            "channel_id": "UCqkH0j8FVAhMtVcxdT_8EiQ",
+            "runtime": "9:29"
+          },
+          {
+            "id": "f47teVT-Gxo",
+            "title": "Ragna crimson part 1(hindi dubbed) its a enjoyable anime",
+            "kind": "videoRenderer",
+            "uploader": "punjab Animantion",
+            "channel_id": "UCjiyXpovmc3OEBbQ9r6tjsA",
+            "runtime": "0:06"
+          },
+          {
+            "id": "HICWUVVJ9i8",
+            "title": "Ragna Crimson Season 2 Release Date | Hindi Dubbed | MX Player",
+            "kind": "videoRenderer",
+            "uploader": "Anime Yatra",
+            "channel_id": "UCDGY8CRe3Qj6bSR7hf2Njvg",
+            "runtime": "1:44"
+          },
+          {
+            "id": "akZ_FQ6lTmU",
+            "title": "Weak Dragon Hunter Awakens His Power And Becomes The Strongest Dragon Slayer ( 1-14 )",
+            "kind": "videoRenderer",
+            "uploader": "ANIME Decoding  ",
+            "channel_id": "UCm-EbcFCMD60Z6m52Rg5PMA",
+            "runtime": "1:11:16"
+          },
+          {
+            "id": "D1Gmzb2TNgQ",
+            "title": " Ragna Crimson  S1  E2  ( Part-1 )  | Anime In Hindi Dubbed ",
+            "kind": "videoRenderer",
+            "uploader": "Epic Anime",
+            "channel_id": "UCmDq_sl1EYKXBlCDXaBAY_Q",
+            "runtime": "5:01"
+          },
+          {
+            "id": "pQT4KKFDEMU",
+            "title": "Ragna Crimson Season 2 Hindi Dub Release Date | Hindi | MX Player",
+            "kind": "videoRenderer",
+            "uploader": "NEOGEN",
+            "channel_id": "UCAuUGFETjN18QlZqqYaATxg",
+            "runtime": "1:24"
+          },
+          {
+            "id": "Jj_xHbqOapU",
+            "title": "Ragna crimson hindi dubbed | new anime hindi dub | anime hindi dub ",
+            "kind": "videoRenderer",
+            "uploader": "Manhwa Aura Hindi ",
+            "channel_id": "UC1QlLTMV1zbUNtIupYlPOMA",
+            "runtime": "14:34"
+          },
+          {
+            "id": "XBccoCoOT7U",
+            "title": "Ragna Crimson Hindi Dub Release Date On Mx Player | Ragna Crimson In Hindi Dubbed | Hindi ",
+            "kind": "videoRenderer",
+            "uploader": "Ryuzi Senpai",
+            "channel_id": "UCn0QISpeAFFFHJqDVuJRoWQ",
+            "runtime": "2:08"
+          },
+          {
+            "id": "Hv4rvBp67fw",
+            "title": "Ragna Crimson Season 2 Release Date | Ragna Crimson Hindi Dub | MX Player",
+            "kind": "videoRenderer",
+            "uploader": "Anime Yatra",
+            "channel_id": "UCDGY8CRe3Qj6bSR7hf2Njvg",
+            "runtime": "2:09"
+          },
+          {
+            "id": "FVkvYuyPL04",
+            "title": "Mx Player New Hindi Dub Anime Line Up Reveal 😱 | Re Monster & Ragna Crimson Hindi Dub Release Date! ",
+            "kind": "videoRenderer",
+            "uploader": "NOZEL SENPAI ",
+            "channel_id": "UCNNp0MCqttSd5w8fuQmLIpQ",
+            "runtime": "1:37"
+          },
+          {
+            "id": "PLE3xkIcMwqZk",
+            "title": "[THE RAMPARTS OF ICE][HINDI DUBBED]ALL EPISODES",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Mob Psycho 100 Hindi Muse Episode 11",
+        "url": "https://www.youtube.com/results?search_query=Mob%20Psycho%20100%20Hindi%20Muse%20Episode%2011",
+        "rows": [
+          {
+            "id": "esgWoF9dzts",
+            "title": "Mob 100 Season 3 Episode 11 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "10:14"
+          },
+          {
+            "id": "1Nctk0UQ2GE",
+            "title": "Mob Psycho 100 | Season 1 Episode 11 Explained in Hindi | Anime Senpai",
+            "kind": "videoRenderer",
+            "uploader": "Anime Senpai",
+            "channel_id": "UCgRUNFkA2Fg5FQlhRE9DavQ",
+            "runtime": "16:58"
+          },
+          {
+            "id": "-96ZTZBHDVo",
+            "title": "Mob 100 Season 2 Episode 11 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "10:23"
+          },
+          {
+            "id": "0gn7aqX-YCQ",
+            "title": "Mob Psycho Season 3 Episode 11 Hindi | Mob Trauma",
+            "kind": "videoRenderer",
+            "uploader": "A N I M E  J O C K E Y ",
+            "channel_id": "UChxqTlVikUEvrJ-z39QYgbA",
+            "runtime": "11:41"
+          },
+          {
+            "id": "RSdd4hys8Pk",
+            "title": "Mob 100 Episode 11 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "10:41"
+          },
+          {
+            "id": "hVL9r9c_pCs",
+            "title": "Mob psycho 100 episode 11 in Hindi.",
+            "kind": "videoRenderer",
+            "uploader": "Hindustani otaku",
+            "channel_id": "UCgqvNWJpPTa_4UE6TI2wt9w",
+            "runtime": "18:04"
+          },
+          {
+            "id": "joJghLcEk18",
+            "title": "Mob Psycho 100 Season 2 Episode 10-11 Explained In Hindi || Anime In Hindi",
+            "kind": "videoRenderer",
+            "uploader": "A N I M E  J O C K E Y ",
+            "channel_id": "UChxqTlVikUEvrJ-z39QYgbA",
+            "runtime": "12:36"
+          },
+          {
+            "id": "aFJrIRfELiY",
+            "title": "Mob Psycho 100 - EP 11 Eng Sub Full HD",
+            "kind": "videoRenderer",
+            "uploader": "Mizuno AnimeTV",
+            "channel_id": "UCqGkQkavLFFeUdh37-8oioA",
+            "runtime": "1:44"
+          },
+          {
+            "id": "VY3JlZeI9GE",
+            "title": "mob psycho 100 season 2 episode 11 eng sub",
+            "kind": "videoRenderer",
+            "uploader": "Metal Lee",
+            "channel_id": "UC5g6deBie6aGYTSNjZFfMPg",
+            "runtime": "4:23"
+          },
+          {
+            "id": "lioRP8ZAB24",
+            "title": "REIGAN MAXIMUM AURA! | Mob Psycho 100 Season 1 Reaction | Ep 11, \"Master ~Leader~\"",
+            "kind": "videoRenderer",
+            "uploader": "Letts React",
+            "channel_id": "UCT3reBg45JmNuTqvUZQC3OA",
+            "runtime": "29:49"
+          },
+          {
+            "id": "IboTmWpGWk4",
+            "title": "The ENTIRE Story Of Mob Psycho 100 In 104 Minutes",
+            "kind": "videoRenderer",
+            "uploader": "JarAnime",
+            "channel_id": "UCt-P4Z2jWlxAlOLOURgM6gA",
+            "runtime": "1:44:53"
+          },
+          {
+            "id": "dmIdf1uBdEA",
+            "title": "THE REAL MASTER!!!! | MOB PSYCHO 100 - EPISODE 11 | New Anime Fan! | REACTION",
+            "kind": "videoRenderer",
+            "uploader": "G.O.T Games",
+            "channel_id": "UCEpGO4cx6j0PBc5LzkmtYdw",
+            "runtime": "32:31"
+          },
+          {
+            "id": "PLy5K5L-EBh0-5IG0osA2Y9OFyyMrOZVU-",
+            "title": "Mob Psycho 100 season 3{Hindi explain}",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLLnoz-MAjTeclMuWzZP40Fpz3852R9txS",
+            "title": "Mob psycho 100 season 2 in hindi",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Mob Psycho 100 II Hindi Muse Episode 3",
+        "url": "https://www.youtube.com/results?search_query=Mob%20Psycho%20100%20II%20Hindi%20Muse%20Episode%203",
+        "rows": [
+          {
+            "id": "ztVOp0coGvE",
+            "title": "Mob 100 Season 2 Episode 3 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "9:41"
+          },
+          {
+            "id": "TlpL3yi8eJY",
+            "title": "😈 EP3 : Mob Psycho 100 Hindi Live Dub | ",
+            "kind": "videoRenderer",
+            "uploader": "ToonRaidz",
+            "channel_id": "UCc79Ix-U_V-AHDqEtE15O8Q",
+            "runtime": "2:38"
+          },
+          {
+            "id": "T_pz9cZTHXs",
+            "title": "OF COURSE Reigen Dominates Rock, Paper, Scissors | Mob Psycho 2x3 & 2x4 Reaction | DUB",
+            "kind": "videoRenderer",
+            "uploader": "Definitely Not Definitive",
+            "channel_id": "UCbKJne36C-ewDbozVT2W-tA",
+            "runtime": "32:46"
+          },
+          {
+            "id": "YZ3uVHDGXrg",
+            "title": "When The Original OP Starts Playing | Mob Psycho 100 III",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll",
+            "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+            "runtime": "2:30"
+          },
+          {
+            "id": "rJP5mWf82A0",
+            "title": "Mob Psycho 100 | Season 2 Episode 3 Explained in Hindi | Anime Senpai",
+            "kind": "videoRenderer",
+            "uploader": "Anime Senpai",
+            "channel_id": "UCgRUNFkA2Fg5FQlhRE9DavQ",
+            "runtime": "12:40"
+          },
+          {
+            "id": "pooGdbDeTSg",
+            "title": "MOB PSYCHO 100 ( EPISODE 3 ) HINDI DUBBED",
+            "kind": "videoRenderer",
+            "uploader": "West side Dubbers",
+            "channel_id": "UCxoLhic98ZaZxtjzOchq_5g",
+            "runtime": "2:15"
+          },
+          {
+            "id": "3kXNyQ_antE",
+            "title": "Mob 100 Season 3 Episode 3 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "8:06"
+          },
+          {
+            "id": "IboTmWpGWk4",
+            "title": "The ENTIRE Story Of Mob Psycho 100 In 104 Minutes",
+            "kind": "videoRenderer",
+            "uploader": "JarAnime",
+            "channel_id": "UCt-P4Z2jWlxAlOLOURgM6gA",
+            "runtime": "1:44:53"
+          },
+          {
+            "id": "PLLnoz-MAjTeclMuWzZP40Fpz3852R9txS",
+            "title": "Mob psycho 100 season 2 in hindi",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLy5K5L-EBh0-5IG0osA2Y9OFyyMrOZVU-",
+            "title": "Mob Psycho 100 season 3{Hindi explain}",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLJ2e4eymFBL8F0s0IbaotEyldkqu16Z7L",
+            "title": "Mob Psycho 100 Season 2",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLJ2e4eymFBL8TC7UALAuJUUTge_ib8Iq5",
+            "title": "Mob Psycho 100 Season 3",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Mob Psycho 100 III Hindi Muse Episode 1",
+        "url": "https://www.youtube.com/results?search_query=Mob%20Psycho%20100%20III%20Hindi%20Muse%20Episode%201",
+        "rows": [
+          {
+            "id": "xkXZgySF8aQ",
+            "title": "Mob 100 Season 3 Episode 1 in Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anixplain",
+            "channel_id": "UCyVAQKRfhGo9raGYnqJtIfQ",
+            "runtime": "14:27"
+          },
+          {
+            "id": "MvffZs7gZLE",
+            "title": "Mob Psycho 100 Season 3 Episode 1 in Hindi | Explained by MistDemonᴴᴰ",
+            "kind": "videoRenderer",
+            "uploader": "MistDemon Explanations",
+            "channel_id": "UCg32n5qVS7Kxg0E73pU9fww",
+            "runtime": "11:50"
+          },
+          {
+            "id": "TTHuWKgTNFU",
+            "title": "Mob Psycho 100 | Season 3 Episode 1 Explained in Hindi | Anime Senpai",
+            "kind": "videoRenderer",
+            "uploader": "Anime Senpai",
+            "channel_id": "UCgRUNFkA2Fg5FQlhRE9DavQ",
+            "runtime": "12:29"
+          },
+          {
+            "id": "YZ3uVHDGXrg",
+            "title": "When The Original OP Starts Playing | Mob Psycho 100 III",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll",
+            "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+            "runtime": "2:30"
+          },
+          {
+            "id": "kG-BIWRAC6k",
+            "title": "Mob Psycho 100 Episode 1 English Dub | Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll",
+            "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+            "runtime": "24:20"
+          },
+          {
+            "id": "OPN2wOQIRbs",
+            "title": "One of My most Favourite Anime is Over 😭 Mob Psycho 100 season 3 Review",
+            "kind": "videoRenderer",
+            "uploader": "Anime Cloud",
+            "channel_id": "UCKZbgzsJ_XsgGevLAKI1DwA",
+            "runtime": "6:25"
+          },
+          {
+            "id": "VrlGGH_67Y4",
+            "title": "MOB PSYCHO 100 III Episode 1 Season 3|(Explained IN HINDI/URDU)|Pop Hub",
+            "kind": "videoRenderer",
+            "uploader": "Pop Hub Anime",
+            "channel_id": "UCXnLsjt37Nm2eVz7dOOcqXA",
+            "runtime": "8:02"
+          },
+          {
+            "id": "uzn614W5pNQ",
+            "title": "Mob Psycho 💯 Season 3 Episode 1 Hindi | Mob Psycho 100 Episode 1 Explained In Hindi - Anime Xplained",
+            "kind": "videoRenderer",
+            "uploader": "Ani-X",
+            "channel_id": "UC9iJsWEAdE8RuH5_IoJWrnw",
+            "runtime": "7:23"
+          },
+          {
+            "id": "xRIOnDruOZM",
+            "title": "Mob Psycho 100 Season 3 - Opening Full『1』by MOB CHOIR",
+            "kind": "videoRenderer",
+            "uploader": "AniMelody – Anime Music",
+            "channel_id": "UCl2qXNHvpjHldVFM-_ENM9Q",
+            "runtime": "4:24"
+          },
+          {
+            "id": "umqzznKblJ0",
+            "title": "Mob Psycho 100 III Opening 3 | 1 by Mob Choir",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll",
+            "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+            "runtime": "1:40"
+          },
+          {
+            "id": "6nBeEhcjYOA",
+            "title": "Mob psycho 100 Season 3 episode 1 in Hindi.",
+            "kind": "videoRenderer",
+            "uploader": "Hindustani otaku",
+            "channel_id": "UCgqvNWJpPTa_4UE6TI2wt9w",
+            "runtime": "14:16"
+          },
+          {
+            "id": "ywRBWVe3c8w",
+            "title": "Mob Psycho 100 Season 3 Hindi Dub Release Date Confirmed!",
+            "kind": "videoRenderer",
+            "uploader": "Smoke Senpai",
+            "channel_id": "UCscQarukVvX6Fh8nXSsycTA",
+            "runtime": "1:15"
+          },
+          {
+            "id": "rZbxHJ6vL30",
+            "title": "MOB PSYCHO SEASON 03 HINDI EPISODE 01 HINDI DUB",
+            "kind": "videoRenderer",
+            "uploader": "Deka bro's Dubbers ",
+            "channel_id": "UCCMyaZrYSQtFQu_XKq1n3jA",
+            "runtime": "1:05"
+          },
+          {
+            "id": "2fF2hwvB2CI",
+            "title": "6 New Hindi Dub Anime On Muse India & Crunchyoll | Mob Psycho 100 Season 3 Hindi Dub On Muse India",
+            "kind": "videoRenderer",
+            "uploader": "NOZEL SENPAI ",
+            "channel_id": "UCNNp0MCqttSd5w8fuQmLIpQ",
+            "runtime": "4:47"
+          },
+          {
+            "id": "oLALHbB3iXU",
+            "title": "アニメ「モブサイコ100 Ⅲ」OP映像 / MOB PSYCHO 100 III OP",
+            "kind": "videoRenderer",
+            "uploader": "Warner Bros. Japan Anime",
+            "channel_id": "UCcjqSFXBg2cGQg5r0YooMiA",
+            "runtime": "1:37"
+          },
+          {
+            "id": "PLy5K5L-EBh0-5IG0osA2Y9OFyyMrOZVU-",
+            "title": "Mob Psycho 100 season 3{Hindi explain}",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLJ2e4eymFBL8TC7UALAuJUUTge_ib8Iq5",
+            "title": "Mob Psycho 100 Season 3",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:DAN DA DAN Season 2 Episode 7 Hindi Muse",
+        "url": "https://www.youtube.com/results?search_query=DAN%20DA%20DAN%20Season%202%20Episode%207%20Hindi%20Muse",
+        "rows": [
+          {
+            "id": "vw-1JNQQP6I",
+            "title": "Dan Da Dan season 2 episode 6,7 in Hindi dubbed",
+            "kind": "videoRenderer",
+            "uploader": "Mr Dodu",
+            "channel_id": "UCt03_BTUYQ7QalcCt0tn48A",
+            "runtime": "20:48"
+          },
+          {
+            "id": "bycnVnCB0M4",
+            "title": "Dan da Dan Season 2 Episode 7 Explained",
+            "kind": "videoRenderer",
+            "uploader": "The New Storyteller",
+            "channel_id": "UCRpMeKFSalEGRHJfLB3ccBA",
+            "runtime": "5:12"
+          },
+          {
+            "id": "UG5LH6rRab0",
+            "title": "Dandadan Season 2 Episode 7 Explained",
+            "kind": "videoRenderer",
+            "uploader": "Viper Anime Explained",
+            "channel_id": "UCsuBjlk1u-9oybSzdLsTeCQ",
+            "runtime": "8:10"
+          },
+          {
+            "id": "lTx1VlXBBwY",
+            "title": "Vamola Is Here! | DAN DA DAN Season 2",
+            "kind": "videoRenderer",
+            "uploader": "river",
+            "channel_id": "UCiOLfRdaqq86SvyE3mT4o4g",
+            "runtime": "1:20"
+          },
+          {
+            "id": "3Lx8Eg_nCzw",
+            "title": "DAN DA DAN SEASON 2 Episode 7 Explained In Hindi",
+            "kind": "videoRenderer",
+            "uploader": "Anime Soul oi",
+            "channel_id": "UCQYa6BDAOP9t3SQRvv-K8dg",
+            "runtime": "7:15"
+          },
+          {
+            "id": "XM6aRpeXh-M",
+            "title": "The Hayashi's Performance | DAN DA DAN Season 2 | Clip | Netflix Anime",
+            "kind": "videoRenderer",
+            "uploader": "Netflix Anime",
+            "channel_id": "UCBSs9x2KzSLhyyA9IKyt4YA",
+            "runtime": "4:15"
+          },
+          {
+            "id": "qx0NX-iLGiM",
+            "title": "TV Anime \"DAN DA DAN\" HAYASii - Hunting Soul - English ver. Lyric video EP18",
+            "kind": "videoRenderer",
+            "uploader": "MBS animation 公式チャンネル",
+            "channel_id": "UC8yS5dCzbiPGf1HnAwwcnhQ",
+            "runtime": "4:00"
+          },
+          {
+            "id": "PLujspIvl2Q108OSSH9_N0vJzwsx3TWmVJ",
+            "title": "Dan Da Dan Season 2 Hindi Dubbed",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLY9lptWF4vD1CUB00U0N6PuhFB4t_ewBT",
+            "title": "Dandadan season 2 Explained",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Hunter x Hunter Hindi Muse episode 2",
+        "url": "https://www.youtube.com/results?search_query=Hunter%20x%20Hunter%20Hindi%20Muse%20episode%202",
+        "rows": [
+          {
+            "id": "h_YMqVPWJQg",
+            "title": "HUNTER X HUNTER - EPISODE 2 (HOPE × AND × AMBITION) AI 4K LIVE ACTION",
+            "kind": "videoRenderer",
+            "uploader": "Skelix Verse",
+            "channel_id": "UCcGA3uqE-PKGMxM7Ud0Ly_g",
+            "runtime": "13:55"
+          },
+          {
+            "id": "KS48Ku0VaBk",
+            "title": "HUNTER X HUNTER S2 - Episode 2",
+            "kind": "videoRenderer",
+            "uploader": "Just Explain",
+            "channel_id": "UCGcHPBWv-DRV1Ac7jJDkYXg",
+            "runtime": "13:27"
+          },
+          {
+            "id": "yBPiu-PAHHk",
+            "title": "HUNTER X HUNTER ( PART - 2 )  - Full Episode Marathon",
+            "kind": "videoRenderer",
+            "uploader": "Just Explain",
+            "channel_id": "UCGcHPBWv-DRV1Ac7jJDkYXg",
+            "runtime": "1:11:44"
+          },
+          {
+            "id": "94vrD5HckP4",
+            "title": "Hunter x Hunter 2 Movies & Episodes 59 - 148 Hindi Dub On Muse India | Hunter x Hunter Big Update!",
+            "kind": "videoRenderer",
+            "uploader": "Otaku Empire ",
+            "channel_id": "UCbEDMEUQPThl2i1WZHy5Lew",
+            "runtime": "1:52"
+          },
+          {
+            "id": "VTEFSGLP2co",
+            "title": "Hunter x Hunter 2 Movies Hindi Dub | Hunter x hunter Season 7 Release Date Updates! | Muse India ",
+            "kind": "videoRenderer",
+            "uploader": "Otaku Empire ",
+            "channel_id": "UCbEDMEUQPThl2i1WZHy5Lew",
+            "runtime": "3:18"
+          },
+          {
+            "id": "LdRr_lVFes8",
+            "title": "Hunter x Hunter 2011 episode 2 explained in hindi|Hunter x Hunter ep_2 ending explained in hindi",
+            "kind": "videoRenderer",
+            "uploader": "Underrated Xplainer",
+            "channel_id": "UCIlNPdKnCfNc4VmMlGX0K9Q",
+            "runtime": "10:23"
+          },
+          {
+            "id": "y9xRVPDGWNk",
+            "title": "𝗛𝗨𝗡𝗧𝗘𝗥 𝘅 𝗛𝗨𝗡𝗧𝗘𝗥 Episode 2 explained in HINDI #hunterxhunter",
+            "kind": "videoRenderer",
+            "uploader": "SEE ANIME ",
+            "channel_id": "UCEpQo4FPzAJz-OubvmChFEQ",
+            "runtime": "12:52"
+          },
+          {
+            "id": "CjeCDsXsfYY",
+            "title": "Hunter X Hunter Episode 2 Explained in Hindi |  Anime in Hindi | Animes",
+            "kind": "videoRenderer",
+            "uploader": "Anirrator",
+            "channel_id": "UCfLR8XGRqa6w2wFa9S51TZQ",
+            "runtime": "14:46"
+          },
+          {
+            "id": "Q-ImlPFN9Ew",
+            "title": "HUNTER X HUNTER | EPISODE 02 | PROMO | URDU DUB @KidsZonePakistan",
+            "kind": "videoRenderer",
+            "uploader": "Kids Zone Pakistan",
+            "channel_id": "UCVkYbk7C3xPZQh2xr8la_kA",
+            "runtime": "0:54"
+          },
+          {
+            "id": "9CTfzXG8Bqs",
+            "title": "𝗛𝗨𝗡𝗧𝗘𝗥 𝘅 𝗛𝗨𝗡𝗧𝗘𝗥 Episode 73 PART (2) explained in HINDI",
+            "kind": "videoRenderer",
+            "uploader": "SEE ANIME ",
+            "channel_id": "UCEpQo4FPzAJz-OubvmChFEQ",
+            "runtime": "8:27"
+          },
+          {
+            "id": "USSChKosZ_E",
+            "title": "𝗛𝗨𝗡𝗧𝗘𝗥 𝘅 𝗛𝗨𝗡𝗧𝗘𝗥 Episode 70 PART (2) explained in HINDI",
+            "kind": "videoRenderer",
+            "uploader": "SEE ANIME ",
+            "channel_id": "UCEpQo4FPzAJz-OubvmChFEQ",
+            "runtime": "6:13"
+          },
+          {
+            "id": "bavDrwtKP3k",
+            "title": "Hunter x Hunter 2011 S_1 ep_82 explained in hindi|Hunter x Hunter ep_82 ending explained in hindi",
+            "kind": "videoRenderer",
+            "uploader": "Underrated Xplainer",
+            "channel_id": "UCIlNPdKnCfNc4VmMlGX0K9Q",
+            "runtime": "14:46"
+          },
+          {
+            "id": "PL2dTjLOmcqxC-QeX6N19bugzgWJVgz9B4",
+            "title": "𝗛𝗨𝗡𝗧𝗘𝗥 𝘅 𝗛𝗨𝗡𝗧𝗘𝗥 in Hindi",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PL-TwyEOxwkcnRPSblFDKZD0g3-_Vfh3UO",
+            "title": "Hunter x Hunter Full Episodes",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLA2ik6hD35b1G5zADXUoNX0nqSZnfsCL3",
+            "title": "HUNTER X HUNTER 2011 series(Complete)",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PL6wmZ7eAIC0pKNXm85sKYktadza59piVf",
+            "title": "Hunter x hunter 1999 vf (eng)",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLqv7vJZc80G61wxXZypVdP11-BetHj9CR",
+            "title": "Hunter X Hunter ⚔️ Season 2 Anime Explanation In Tamil| Hari's voice",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PL9QKi5AChlMyFNIYVPtPnIIEnbVH6XIH9",
+            "title": "Hunter x Hunter",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PL1IhjEfxASvl3f7EtnxeXcwdugvQS-u8u",
+            "title": "hunter x hunter arabic dub (1999)",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLqv7vJZc80G7d6_hjrDMsesO_P2qpVFDJ",
+            "title": "Hunter X Hunter ⚔️ Season 1 |Anime Explaination in tamil | Hari's Voice Official",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "search:Muse Hindi Dub anime full episode",
+        "url": "https://www.youtube.com/results?search_query=Muse%20Hindi%20Dub%20anime%20full%20episode",
+        "rows": [
+          {
+            "id": "65eeLupymaU",
+            "title": "VINLAND Saga season 1 Full episodes Hindi dubbed Muse Hindi Anime ",
+            "kind": "videoRenderer",
+            "uploader": "Muse Hindi Anime  and Anigo India Officel",
+            "channel_id": null,
+            "runtime": "7:18:10"
+          },
+          {
+            "id": "qbixinO_ENU",
+            "title": "No Longer Allowed in Another World | FULL EPISODE | HINDI DUB",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll India",
+            "channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+            "runtime": "23:58"
+          },
+          {
+            "id": "8usJuQVzp-Q",
+            "title": "Shangri-La Frontier S1 | Full Episode | HINDI DUB",
+            "kind": "videoRenderer",
+            "uploader": "Crunchyroll India",
+            "channel_id": "UC1dpwMXjjPe87utZQRrEr3Q",
+            "runtime": "26:14"
+          },
+          {
+            "id": "j56TcTP1bWg",
+            "title": "HYPE DEAD 💀 Muse India ATTACK ON TITAN Season 3 Hindi Dub vs. MX Player BLEACH Season 2 Episode 1 😢",
+            "kind": "videoRenderer",
+            "uploader": "Detox Anime Void",
+            "channel_id": "UCMrqTATuCRPEXyDMRzn0_HQ",
+            "runtime": "4:59"
+          },
+          {
+            "id": "NlLuI69bvKw",
+            "title": "Top 20+ Hindi Dub Anime on Muse India & MX Player | New Hindi Dubbed Anime List 2026",
+            "kind": "videoRenderer",
+            "uploader": "Otaku SenZai ",
+            "channel_id": "UC8mFp32hAb-GEKi0nOoXIyw",
+            "runtime": "4:01"
+          },
+          {
+            "id": "PLs52VY_WVoolAf5dy7Mr1NnkpkyDwBE5H",
+            "title": "Hell Mode Hindi Dubbed Full Episodes 🔥",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {},
+        "continuations": 1
+      },
+      {
+        "name": "muse-hindi-videos",
+        "url": "https://www.youtube.com/@Muse_HindiDub/videos",
+        "rows": [],
+        "metadata": {
+          "channelMetadataRenderer": {
+            "title": "Muse Hindi Dub",
+            "description": "म्यूज़ इंडिया जापान के सबसे लोकप्रिय एनीमे कंटेन्ट और उनके बारे में अपडेट करता है!\nहमारे वैद्य OTT प्लेटफार्मों पर लाइसेंस प्राप्त एनीमे देखें और अब अपने पसंदीदा एनीमे का समर्थन करें!\n \nअधिक जानकारी के लिए, नीचे लिखे लिंक पर जाएँ : \nYouTube: \nhttps://www.youtube.com/@MuseIndiaChannel\nhttps://www.youtube.com/@MuseINCollection\nhttps://www.youtube.com/@Muse_HindiDub\n\nFacebook: https://www.facebook.com/MuseIndiaChannel/\nInstagram: https://www.instagram.com/museacg_in\n",
+            "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "externalId": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "keywords": "",
+            "ownerUrls": [
+              "http://www.youtube.com/@Muse_HindiDub"
+            ],
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.googleusercontent.com/MGrl_d_xPHPMwxh3voPMzXORcY1-0IN35gG79V3kHClEmb73uuCm-tzpzxXUz_KcMWYfLylZ=s900-c-k-c0x00ffffff-no-rj",
+                  "width": 900,
+                  "height": 900
+                }
+              ]
+            },
+            "channelUrl": "https://www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "isFamilySafe": true,
+            "availableCountryCodes": [
+              "FK",
+              "CX",
+              "MY",
+              "NP",
+              "GM",
+              "BW",
+              "TR",
+              "MV",
+              "SA",
+              "HN",
+              "DJ",
+              "GY",
+              "FR",
+              "MN",
+              "FO",
+              "DM",
+              "EE",
+              "SY",
+              "NF",
+              "MH",
+              "GS",
+              "LC",
+              "GT",
+              "AW",
+              "SN",
+              "GR",
+              "GQ",
+              "HK",
+              "LU",
+              "MA",
+              "CG",
+              "JM",
+              "KI",
+              "MD",
+              "UZ",
+              "FM",
+              "GG",
+              "MX",
+              "OM",
+              "SO",
+              "ZM",
+              "AS",
+              "BH",
+              "GE",
+              "GN",
+              "CR",
+              "GW",
+              "AL",
+              "CA",
+              "UY",
+              "KY",
+              "DZ",
+              "GL",
+              "IM",
+              "NL",
+              "NZ",
+              "PF",
+              "MK",
+              "EC",
+              "GB",
+              "KW",
+              "MG",
+              "AD",
+              "HM",
+              "JO",
+              "LK",
+              "DK",
+              "LA",
+              "PE",
+              "SB",
+              "ST",
+              "PA",
+              "SL",
+              "GI",
+              "VN",
+              "SH",
+              "TG",
+              "MR",
+              "AI",
+              "BE",
+              "MS",
+              "RE",
+              "TC",
+              "CN",
+              "ES",
+              "SD",
+              "DE",
+              "IL",
+              "US",
+              "NA",
+              "SJ",
+              "KR",
+              "CY",
+              "SR",
+              "CI",
+              "KP",
+              "CW",
+              "SC",
+              "SG",
+              "SV",
+              "PL",
+              "LS",
+              "CD",
+              "CH",
+              "FI",
+              "AM",
+              "AT",
+              "AR",
+              "NE",
+              "BB",
+              "BQ",
+              "TF",
+              "CM",
+              "VI",
+              "TJ",
+              "QA",
+              "TD",
+              "TL",
+              "CU",
+              "LI",
+              "ML",
+              "ME",
+              "MP",
+              "GU",
+              "SE",
+              "CL",
+              "SI",
+              "UM",
+              "BT",
+              "KM",
+              "BS",
+              "BL",
+              "CV",
+              "TH",
+              "NI",
+              "PY",
+              "EG",
+              "AU",
+              "BA",
+              "FJ",
+              "BF",
+              "AF",
+              "PN",
+              "JE",
+              "ER",
+              "MW",
+              "UA",
+              "KH",
+              "PT",
+              "IE",
+              "PW",
+              "RS",
+              "HR",
+              "NC",
+              "CZ",
+              "RU",
+              "VA",
+              "SK",
+              "MO",
+              "TO",
+              "RO",
+              "HT",
+              "WS",
+              "BI",
+              "AO",
+              "CK",
+              "LV",
+              "SM",
+              "MF",
+              "MM",
+              "KZ",
+              "PR",
+              "GD",
+              "AE",
+              "AZ",
+              "IR",
+              "BG",
+              "PM",
+              "IS",
+              "IT",
+              "BM",
+              "GP",
+              "ZA",
+              "RW",
+              "VU",
+              "BO",
+              "NU",
+              "ZW",
+              "PH",
+              "YE",
+              "SZ",
+              "AX",
+              "MT",
+              "CF",
+              "JP",
+              "MC",
+              "PS",
+              "KG",
+              "TN",
+              "BY",
+              "AG",
+              "ID",
+              "SS",
+              "KE",
+              "BZ",
+              "SX",
+              "VC",
+              "TT",
+              "WF",
+              "TM",
+              "LY",
+              "TK",
+              "IN",
+              "NO",
+              "IQ",
+              "BN",
+              "ET",
+              "VE",
+              "TW",
+              "BD",
+              "KN",
+              "DO",
+              "MQ",
+              "GH",
+              "GF",
+              "IO",
+              "BV",
+              "GA",
+              "LB",
+              "PK",
+              "NR",
+              "BJ",
+              "BR",
+              "EH",
+              "LR",
+              "TV",
+              "YT",
+              "CO",
+              "AQ",
+              "MU",
+              "VG",
+              "LT",
+              "NG",
+              "UG",
+              "PG",
+              "HU",
+              "MZ",
+              "CC",
+              "TZ"
+            ],
+            "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "vanityChannelUrl": "http://www.youtube.com/@Muse_HindiDub"
+          }
+        },
+        "continuations": 4
+      },
+      {
+        "name": "muse-india-mob",
+        "url": "https://www.youtube.com/@MuseIndiaChannel/search?query=Mob%20Psycho",
+        "rows": [],
+        "metadata": {
+          "channelMetadataRenderer": {
+            "title": "Muse India",
+            "description": "Muse India is the sister channel to Muse Asia. We are here to cater you with copyrighted and legal anime content for free here on YouTube.",
+            "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q",
+            "externalId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "keywords": "Muse museindia musein",
+            "ownerUrls": [
+              "http://www.youtube.com/@MuseIndiaChannel"
+            ],
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.googleusercontent.com/EhiAEsA972_jooWrHY8oLLDS1C9L84-YVNyKclXsNSKB2tYnUqqqi_O10JkcPd64EnaburVG=s900-c-k-c0x00ffffff-no-rj",
+                  "width": 900,
+                  "height": 900
+                }
+              ]
+            },
+            "channelUrl": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "isFamilySafe": true,
+            "facebookProfileId": "MuseIndiaChannel",
+            "availableCountryCodes": [
+              "SG",
+              "CI",
+              "LK",
+              "IS",
+              "OM",
+              "NI",
+              "PT",
+              "EG",
+              "PW",
+              "IM",
+              "MF",
+              "DE",
+              "BR",
+              "NL",
+              "NO",
+              "CF",
+              "DM",
+              "KI",
+              "AW",
+              "GF",
+              "PA",
+              "AE",
+              "PE",
+              "ER",
+              "PF",
+              "YT",
+              "PL",
+              "RE",
+              "IL",
+              "BH",
+              "BL",
+              "JM",
+              "SO",
+              "UY",
+              "BB",
+              "MM",
+              "DK",
+              "CY",
+              "EE",
+              "FJ",
+              "PM",
+              "BV",
+              "SV",
+              "IR",
+              "KP",
+              "KW",
+              "MS",
+              "BI",
+              "TL",
+              "MP",
+              "MU",
+              "MX",
+              "NF",
+              "CA",
+              "WF",
+              "SH",
+              "TH",
+              "VI",
+              "MA",
+              "CR",
+              "PG",
+              "NZ",
+              "PK",
+              "FI",
+              "SA",
+              "CG",
+              "NU",
+              "TT",
+              "FK",
+              "ZM",
+              "CC",
+              "IT",
+              "NP",
+              "FM",
+              "BO",
+              "JO",
+              "VE",
+              "AZ",
+              "GL",
+              "CX",
+              "RS",
+              "AR",
+              "KG",
+              "TO",
+              "NC",
+              "AD",
+              "ES",
+              "GE",
+              "GI",
+              "ID",
+              "TZ",
+              "BA",
+              "BD",
+              "BZ",
+              "TF",
+              "AX",
+              "BF",
+              "KN",
+              "LR",
+              "KY",
+              "GY",
+              "RU",
+              "ZW",
+              "LS",
+              "PY",
+              "SD",
+              "LY",
+              "MG",
+              "BY",
+              "GU",
+              "JE",
+              "LI",
+              "LB",
+              "DZ",
+              "SN",
+              "GA",
+              "MN",
+              "HR",
+              "ET",
+              "VN",
+              "SR",
+              "RW",
+              "BE",
+              "YE",
+              "AO",
+              "IO",
+              "TM",
+              "TD",
+              "LC",
+              "AM",
+              "CO",
+              "TJ",
+              "FO",
+              "MQ",
+              "EC",
+              "VU",
+              "CD",
+              "UZ",
+              "ML",
+              "HK",
+              "TW",
+              "VC",
+              "JP",
+              "CU",
+              "HM",
+              "IQ",
+              "TC",
+              "AT",
+              "SM",
+              "MZ",
+              "ST",
+              "ZA",
+              "BS",
+              "AS",
+              "SZ",
+              "GB",
+              "MK",
+              "AG",
+              "GQ",
+              "AF",
+              "GM",
+              "KE",
+              "BN",
+              "MR",
+              "DO",
+              "HN",
+              "HT",
+              "SC",
+              "GW",
+              "QA",
+              "BG",
+              "MV",
+              "SJ",
+              "VG",
+              "GD",
+              "BJ",
+              "GS",
+              "BW",
+              "MY",
+              "IE",
+              "MC",
+              "SI",
+              "CK",
+              "KM",
+              "CV",
+              "BM",
+              "AQ",
+              "LV",
+              "RO",
+              "TV",
+              "GR",
+              "US",
+              "SB",
+              "KZ",
+              "LU",
+              "CM",
+              "PH",
+              "PN",
+              "MH",
+              "BT",
+              "SE",
+              "SY",
+              "EH",
+              "MO",
+              "TK",
+              "UA",
+              "WS",
+              "KR",
+              "NG",
+              "AL",
+              "LT",
+              "NR",
+              "SS",
+              "SK",
+              "CZ",
+              "BQ",
+              "AI",
+              "TG",
+              "DJ",
+              "KH",
+              "GG",
+              "CN",
+              "MT",
+              "LA",
+              "GT",
+              "AU",
+              "CH",
+              "ME",
+              "GH",
+              "UG",
+              "PR",
+              "VA",
+              "SL",
+              "IN",
+              "PS",
+              "TR",
+              "CW",
+              "GN",
+              "MW",
+              "TN",
+              "HU",
+              "NA",
+              "NE",
+              "SX",
+              "UM",
+              "GP",
+              "CL",
+              "FR",
+              "MD"
+            ],
+            "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "vanityChannelUrl": "http://www.youtube.com/@MuseIndiaChannel"
+          }
+        },
+        "continuations": 0
+      },
+      {
+        "name": "ragna-playlist",
+        "url": "https://www.youtube.com/playlist?list=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+        "rows": [],
+        "metadata": {
+          "playlistMetadataRenderer": {
+            "title": "[Hindi Dub] Ragna Crimson",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/playlist?list=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/playlist?list=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv"
+          }
+        },
+        "continuations": 0
+      }
+    ],
+    "anime-playlists.json": [
+      {
+        "name": "mob-hindi-playlist",
+        "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+        "rows": [],
+        "metadata": {
+          "playlistMetadataRenderer": {
+            "title": "Mob Psycho 100 [EN Sub] | Muse IN",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/playlist?list=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/playlist?list=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-"
+          }
+        },
+        "continuations": 0
+      },
+      {
+        "name": "muse-hindi-playlists",
+        "url": "https://www.youtube.com/@Muse_HindiDub/playlists",
+        "rows": [],
+        "metadata": {
+          "channelMetadataRenderer": {
+            "title": "Muse Hindi Dub",
+            "description": "म्यूज़ इंडिया जापान के सबसे लोकप्रिय एनीमे कंटेन्ट और उनके बारे में अपडेट करता है!\nहमारे वैद्य OTT प्लेटफार्मों पर लाइसेंस प्राप्त एनीमे देखें और अब अपने पसंदीदा एनीमे का समर्थन करें!\n \nअधिक जानकारी के लिए, नीचे लिखे लिंक पर जाएँ : \nYouTube: \nhttps://www.youtube.com/@MuseIndiaChannel\nhttps://www.youtube.com/@MuseINCollection\nhttps://www.youtube.com/@Muse_HindiDub\n\nFacebook: https://www.facebook.com/MuseIndiaChannel/\nInstagram: https://www.instagram.com/museacg_in\n",
+            "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "externalId": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "keywords": "",
+            "ownerUrls": [
+              "http://www.youtube.com/@Muse_HindiDub"
+            ],
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.googleusercontent.com/MGrl_d_xPHPMwxh3voPMzXORcY1-0IN35gG79V3kHClEmb73uuCm-tzpzxXUz_KcMWYfLylZ=s900-c-k-c0x00ffffff-no-rj",
+                  "width": 900,
+                  "height": 900
+                }
+              ]
+            },
+            "channelUrl": "https://www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "isFamilySafe": true,
+            "availableCountryCodes": [
+              "SB",
+              "SE",
+              "VC",
+              "MP",
+              "SL",
+              "VI",
+              "VU",
+              "HR",
+              "GI",
+              "PM",
+              "TZ",
+              "AE",
+              "MG",
+              "MS",
+              "UA",
+              "GM",
+              "WS",
+              "KN",
+              "NC",
+              "CF",
+              "PG",
+              "EG",
+              "GY",
+              "LT",
+              "BT",
+              "MO",
+              "ET",
+              "NR",
+              "GL",
+              "NZ",
+              "ZA",
+              "BG",
+              "KZ",
+              "AD",
+              "BF",
+              "NP",
+              "ME",
+              "GA",
+              "HK",
+              "CW",
+              "MC",
+              "SR",
+              "MH",
+              "AL",
+              "MR",
+              "OM",
+              "AQ",
+              "HM",
+              "SA",
+              "SK",
+              "RO",
+              "PR",
+              "HU",
+              "VA",
+              "CN",
+              "AX",
+              "HN",
+              "NF",
+              "SX",
+              "CC",
+              "SO",
+              "LB",
+              "PH",
+              "CV",
+              "QA",
+              "PY",
+              "IS",
+              "NU",
+              "AG",
+              "SY",
+              "MT",
+              "JO",
+              "MN",
+              "MU",
+              "CL",
+              "CY",
+              "GU",
+              "BJ",
+              "GD",
+              "YE",
+              "SG",
+              "CK",
+              "GH",
+              "SN",
+              "PN",
+              "BO",
+              "CH",
+              "GW",
+              "UY",
+              "CO",
+              "EH",
+              "SD",
+              "IN",
+              "AM",
+              "BA",
+              "CD",
+              "MD",
+              "FM",
+              "AW",
+              "NI",
+              "TK",
+              "BI",
+              "CZ",
+              "MM",
+              "TR",
+              "BL",
+              "CU",
+              "FO",
+              "LY",
+              "GB",
+              "TH",
+              "LS",
+              "KY",
+              "AI",
+              "LU",
+              "FK",
+              "FI",
+              "RE",
+              "PK",
+              "DJ",
+              "AR",
+              "VN",
+              "IM",
+              "KE",
+              "RU",
+              "CA",
+              "GE",
+              "MW",
+              "TG",
+              "TW",
+              "KM",
+              "JM",
+              "KW",
+              "TO",
+              "AT",
+              "ML",
+              "MV",
+              "BZ",
+              "KR",
+              "CR",
+              "PT",
+              "TM",
+              "NA",
+              "PF",
+              "TT",
+              "LC",
+              "LA",
+              "LI",
+              "PL",
+              "TV",
+              "KP",
+              "MQ",
+              "GQ",
+              "GR",
+              "IR",
+              "PE",
+              "LV",
+              "HT",
+              "TL",
+              "VG",
+              "IO",
+              "EE",
+              "SH",
+              "ST",
+              "PW",
+              "NL",
+              "BH",
+              "BQ",
+              "DM",
+              "BM",
+              "SV",
+              "TJ",
+              "CG",
+              "UG",
+              "NG",
+              "ZW",
+              "WF",
+              "AF",
+              "SZ",
+              "MY",
+              "IE",
+              "BN",
+              "TN",
+              "GT",
+              "MZ",
+              "PA",
+              "MX",
+              "KG",
+              "IL",
+              "MA",
+              "PS",
+              "TF",
+              "UM",
+              "RS",
+              "AS",
+              "BY",
+              "SJ",
+              "AO",
+              "EC",
+              "GS",
+              "CM",
+              "SS",
+              "ES",
+              "BS",
+              "KI",
+              "GF",
+              "ZM",
+              "JP",
+              "BR",
+              "MF",
+              "VE",
+              "IT",
+              "DZ",
+              "SI",
+              "AU",
+              "RW",
+              "TD",
+              "YT",
+              "CI",
+              "GG",
+              "DK",
+              "GP",
+              "KH",
+              "MK",
+              "GN",
+              "BV",
+              "TC",
+              "BE",
+              "NO",
+              "DE",
+              "ER",
+              "UZ",
+              "FR",
+              "LK",
+              "NE",
+              "DO",
+              "BB",
+              "SC",
+              "US",
+              "AZ",
+              "ID",
+              "IQ",
+              "SM",
+              "CX",
+              "JE",
+              "BD",
+              "BW",
+              "LR",
+              "FJ"
+            ],
+            "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "vanityChannelUrl": "http://www.youtube.com/@Muse_HindiDub"
+          }
+        },
+        "continuations": 0
+      },
+      {
+        "name": "muse-india-playlists",
+        "url": "https://www.youtube.com/@MuseIndiaChannel/playlists",
+        "rows": [
+          {
+            "id": "PLpm1VVK4UL14KbzP7A1JcnpYq5QmgAj2v",
+            "title": "Muse Anime Ending Themes (2025 Winter)",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLpm1VVK4UL16L6BF7L7_0vasF5UVKCSSw",
+            "title": "Complete Series [EN Sub] | Muse IN",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          },
+          {
+            "id": "PLpm1VVK4UL17Gh9fMPRzEqD0SQWRkKHyH",
+            "title": "Promotion Video",
+            "kind": "lockupViewModel",
+            "uploader": null,
+            "channel_id": null,
+            "runtime": null
+          }
+        ],
+        "metadata": {
+          "channelMetadataRenderer": {
+            "title": "Muse India",
+            "description": "Muse India is the sister channel to Muse Asia. We are here to cater you with copyrighted and legal anime content for free here on YouTube.",
+            "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q",
+            "externalId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "keywords": "Muse museindia musein",
+            "ownerUrls": [
+              "http://www.youtube.com/@MuseIndiaChannel"
+            ],
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.googleusercontent.com/EhiAEsA972_jooWrHY8oLLDS1C9L84-YVNyKclXsNSKB2tYnUqqqi_O10JkcPd64EnaburVG=s900-c-k-c0x00ffffff-no-rj",
+                  "width": 900,
+                  "height": 900
+                }
+              ]
+            },
+            "channelUrl": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "isFamilySafe": true,
+            "facebookProfileId": "MuseIndiaChannel",
+            "availableCountryCodes": [
+              "SZ",
+              "UM",
+              "LS",
+              "SS",
+              "SM",
+              "GU",
+              "EC",
+              "TO",
+              "UZ",
+              "HK",
+              "KW",
+              "DZ",
+              "ES",
+              "JE",
+              "KY",
+              "MR",
+              "TL",
+              "WF",
+              "GD",
+              "MZ",
+              "RE",
+              "PW",
+              "DO",
+              "DM",
+              "BN",
+              "AG",
+              "SL",
+              "AU",
+              "FO",
+              "BZ",
+              "IO",
+              "PM",
+              "FI",
+              "CF",
+              "FJ",
+              "LY",
+              "TK",
+              "US",
+              "JM",
+              "SR",
+              "PT",
+              "WS",
+              "CL",
+              "BH",
+              "GY",
+              "LK",
+              "NL",
+              "TF",
+              "ER",
+              "TJ",
+              "GW",
+              "EH",
+              "MF",
+              "SV",
+              "SH",
+              "LI",
+              "ZW",
+              "BY",
+              "MM",
+              "TV",
+              "RO",
+              "MV",
+              "TZ",
+              "ET",
+              "AX",
+              "BO",
+              "FK",
+              "GG",
+              "SY",
+              "MP",
+              "BI",
+              "SJ",
+              "ST",
+              "GT",
+              "CX",
+              "TN",
+              "CZ",
+              "GE",
+              "GM",
+              "BQ",
+              "GN",
+              "CM",
+              "UA",
+              "MA",
+              "LT",
+              "NP",
+              "LB",
+              "LR",
+              "UG",
+              "PF",
+              "TC",
+              "EE",
+              "SK",
+              "CC",
+              "AL",
+              "SD",
+              "NE",
+              "CN",
+              "PY",
+              "HN",
+              "KH",
+              "MO",
+              "NO",
+              "ZM",
+              "HM",
+              "FR",
+              "NF",
+              "BV",
+              "NZ",
+              "PA",
+              "HU",
+              "GH",
+              "PR",
+              "KN",
+              "AM",
+              "ID",
+              "BJ",
+              "BS",
+              "MK",
+              "MX",
+              "BB",
+              "VN",
+              "MH",
+              "CA",
+              "PE",
+              "VI",
+              "DK",
+              "SX",
+              "GB",
+              "GP",
+              "IN",
+              "AS",
+              "VE",
+              "PL",
+              "MC",
+              "IQ",
+              "IR",
+              "DE",
+              "BR",
+              "SO",
+              "BG",
+              "CG",
+              "UY",
+              "VC",
+              "AQ",
+              "MW",
+              "KM",
+              "LU",
+              "AI",
+              "SG",
+              "CW",
+              "BE",
+              "PN",
+              "HR",
+              "EG",
+              "FM",
+              "BF",
+              "VG",
+              "LC",
+              "MY",
+              "AF",
+              "ML",
+              "NA",
+              "NC",
+              "TD",
+              "JP",
+              "JO",
+              "NI",
+              "PK",
+              "IM",
+              "KR",
+              "IT",
+              "MD",
+              "ZA",
+              "YE",
+              "GQ",
+              "MG",
+              "MT",
+              "AD",
+              "MU",
+              "CY",
+              "KZ",
+              "AO",
+              "BT",
+              "BM",
+              "TT",
+              "PG",
+              "SB",
+              "MQ",
+              "CV",
+              "BL",
+              "AE",
+              "KI",
+              "ME",
+              "SE",
+              "LV",
+              "PS",
+              "CH",
+              "GI",
+              "VU",
+              "CU",
+              "IE",
+              "DJ",
+              "GF",
+              "GL",
+              "GR",
+              "KE",
+              "SI",
+              "BW",
+              "TG",
+              "MS",
+              "PH",
+              "CK",
+              "TR",
+              "MN",
+              "SA",
+              "SC",
+              "NU",
+              "RW",
+              "TM",
+              "IS",
+              "NG",
+              "AT",
+              "KG",
+              "CD",
+              "BA",
+              "TW",
+              "CI",
+              "VA",
+              "QA",
+              "RS",
+              "YT",
+              "CO",
+              "AW",
+              "KP",
+              "HT",
+              "LA",
+              "IL",
+              "AZ",
+              "BD",
+              "NR",
+              "SN",
+              "GA",
+              "RU",
+              "GS",
+              "OM",
+              "CR",
+              "AR",
+              "TH"
+            ],
+            "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+            "vanityChannelUrl": "http://www.youtube.com/@MuseIndiaChannel"
+          }
+        },
+        "continuations": 0
+      }
+    ],
+    "anime-feeds.json": [
+      {
+        "name": "playlist:PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL15H3VL53aWCCaCk_pkpJ5u-",
+        "rows": [
+          {
+            "id": "uSqe1X3Ro_E",
+            "title": "Mob Psycho 100 S1 - Episode 01 [English Sub]"
+          },
+          {
+            "id": "2kOsVEGYuzA",
+            "title": "Mob Psycho 100 S1 - Episode 02 [English Sub]"
+          },
+          {
+            "id": "GNa1Y9tVAXY",
+            "title": "Mob Psycho 100 S1 - Episode 03 [English Sub]"
+          },
+          {
+            "id": "mbfZikWRUIw",
+            "title": "Mob Psycho 100 S1 - Episode 04 [English Sub]"
+          },
+          {
+            "id": "e1DaN7I1GPQ",
+            "title": "Mob Psycho 100 S1 - Episode 05 [English Sub]"
+          },
+          {
+            "id": "JnDyFbT0hkA",
+            "title": "Mob Psycho 100 S1 - Episode 06 [English Sub]"
+          },
+          {
+            "id": "Xdbaf9zHurQ",
+            "title": "Mob Psycho 100 S1 - Episode 07 [English Sub]"
+          },
+          {
+            "id": "DnLj_ccCgz8",
+            "title": "Mob Psycho 100 S1 - Episode 08 [English Sub]"
+          },
+          {
+            "id": "gGSP-mb-xI8",
+            "title": "Mob Psycho 100 S1 - Episode 09 [English Sub]"
+          },
+          {
+            "id": "BeyGEq-McxY",
+            "title": "Mob Psycho 100 S1 - Episode 10 [English Sub]"
+          },
+          {
+            "id": "IXBuJOiiyms",
+            "title": "Mob Psycho 100 S1 - Episode 11 [English Sub]"
+          },
+          {
+            "id": "vcaR9lF90gs",
+            "title": "Mob Psycho 100 S1 - Episode 12 [English Sub]"
+          },
+          {
+            "id": "Yi8JdGi2SLI",
+            "title": "Mob Psycho 100 S2 - Episode 01 [English Sub]"
+          },
+          {
+            "id": "qXUZw1g4CFM",
+            "title": "Mob Psycho 100 S2 - Episode 02 [English Sub]"
+          },
+          {
+            "id": "8p3Pu9RAHAU",
+            "title": "Mob Psycho 100 S2 - Episode 03 [English Sub]"
+          }
+        ]
+      },
+      {
+        "name": "playlist:PLpm1VVK4UL15vn9lYeQzIKfx08vAzF6KY",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL15vn9lYeQzIKfx08vAzF6KY",
+        "rows": [
+          {
+            "id": "JStare1TEDw",
+            "title": "[Hindi dub] DAN DA DAN - Episode 01 | Muse IN"
+          },
+          {
+            "id": "zocj8klcsZk",
+            "title": "[Hindi dub] DAN DA DAN - Episode 02 | Muse IN"
+          },
+          {
+            "id": "z9N2tArA4i0",
+            "title": "[Hindi dub] DAN DA DAN - Episode 03 | Muse IN"
+          },
+          {
+            "id": "FSTkL9cT__A",
+            "title": "[Hindi dub] DAN DA DAN - Episode 04 | Muse IN"
+          },
+          {
+            "id": "pxKYgf_P3Ok",
+            "title": "[Hindi dub] DAN DA DAN - Episode 05 | Muse IN"
+          },
+          {
+            "id": "Ov6dXe1YI34",
+            "title": "[Hindi dub] DAN DA DAN - Episode 06 | Muse IN"
+          },
+          {
+            "id": "kUN0bM3X9P8",
+            "title": "[Hindi dub] DAN DA DAN - Episode 07 | Muse IN"
+          },
+          {
+            "id": "8DqyQ_11dvM",
+            "title": "[Hindi dub] DAN DA DAN - Episode 08 | Muse IN"
+          },
+          {
+            "id": "GrA3ipxzSpo",
+            "title": "[Hindi dub] DAN DA DAN - Episode 09 | Muse IN"
+          },
+          {
+            "id": "iFkFOV4ODUY",
+            "title": "[Hindi dub] DAN DA DAN - Episode 10 | Muse IN"
+          },
+          {
+            "id": "Mo70rbaj-j8",
+            "title": "[Hindi dub] DAN DA DAN - Episode 11 | Muse IN"
+          },
+          {
+            "id": "IbgTj_BqAXs",
+            "title": "[Hindi dub] DAN DA DAN - Episode 12 | Muse IN"
+          },
+          {
+            "id": "Pwtf1O3xjhQ",
+            "title": "[Hindi dub] DAN DA DAN - Episode 13 | Muse IN"
+          },
+          {
+            "id": "41p1v1hpFnw",
+            "title": "[Hindi dub] DAN DA DAN - Episode 14 | Muse IN"
+          },
+          {
+            "id": "GGmv3dkdVZg",
+            "title": "[Hindi dub] DAN DA DAN - Episode 15 | Muse IN"
+          }
+        ]
+      },
+      {
+        "name": "playlist:PLpm1VVK4UL17q8XGLqaByAngUkubMUoc0",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL17q8XGLqaByAngUkubMUoc0",
+        "rows": [
+          {
+            "id": "IaR_bfvqvsk",
+            "title": "DAN DA DAN - Episode 01 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "WspBJTNJrcE",
+            "title": "DAN DA DAN - Preview of Episode 02 | Muse IN"
+          },
+          {
+            "id": "fD2Esv8H4Y4",
+            "title": "DAN DA DAN - Episode 02 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "DiBzMvsTmgg",
+            "title": "DAN DA DAN - Preview of Episode 03 | Muse IN"
+          },
+          {
+            "id": "c9vdOLUQZHo",
+            "title": "DAN DA DAN - Episode 03 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "H4WCadv_fhI",
+            "title": "DAN DA DAN - Preview of Episode 04 | Muse IN"
+          },
+          {
+            "id": "CM4tfPjxfnw",
+            "title": "DAN DA DAN - Episode 04 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "ugcwfG0oWBU",
+            "title": "DAN DA DAN - Turbo Granny Arc [EN Sub] | Muse IN"
+          },
+          {
+            "id": "YBOw0d-0AwA",
+            "title": "DAN DA DAN - Preview of Episode 05 | Muse IN"
+          },
+          {
+            "id": "A0vm0EoeudQ",
+            "title": "DAN DA DAN - Episode 05 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "gDyTJYcsHjU",
+            "title": "DAN DA DAN - Preview of Episode 06 | Muse IN"
+          },
+          {
+            "id": "6r59hEw5Zr4",
+            "title": "DAN DA DAN - Episode 06 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "zypdac__sjs",
+            "title": "DAN DA DAN - Preview of Episode 07 | Muse IN"
+          },
+          {
+            "id": "aDgeq5MlN-A",
+            "title": "DAN DA DAN - Episode 07 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "YlWYosuEY8I",
+            "title": "DAN DA DAN - Acrobatic Silky Arc [EN Sub] | Muse IN"
+          }
+        ]
+      },
+      {
+        "name": "playlist:PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
+        "rows": [
+          {
+            "id": "yT0T75OgAHo",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 01"
+          },
+          {
+            "id": "CpwnOM4tjTs",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 02"
+          },
+          {
+            "id": "jyWJGqKxoT8",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 03"
+          },
+          {
+            "id": "M-suCyIzMks",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 04"
+          },
+          {
+            "id": "hvInrlDdZ9M",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 05"
+          },
+          {
+            "id": "wAM9TgnUu24",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 06"
+          },
+          {
+            "id": "vVVqOmYk_gY",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 07"
+          },
+          {
+            "id": "_5ZffywaGbg",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 08"
+          },
+          {
+            "id": "J0eZvjgs7kU",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 09"
+          },
+          {
+            "id": "klAD4nLhvnc",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 10"
+          },
+          {
+            "id": "Z9TwOUDeBfA",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 11"
+          },
+          {
+            "id": "TvyG1g2K6j0",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 12"
+          },
+          {
+            "id": "qLDcHT4M0fw",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 13"
+          },
+          {
+            "id": "78iRR_csCqk",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 14"
+          },
+          {
+            "id": "2mhEKNpsfY4",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 15"
+          }
+        ]
+      },
+      {
+        "name": "channel:muse-hindi",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "rows": [
+          {
+            "id": "fmsGTVY4R44",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN"
+          },
+          {
+            "id": "9-i7AvTx8MU",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 21"
+          },
+          {
+            "id": "re95mlNW-LA",
+            "title": "[Hindi Dub] Attack on Titan - Episode 12 (S1E12)"
+          },
+          {
+            "id": "aEsLA7ovyB4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 11 (S1E11)"
+          },
+          {
+            "id": "8jIB2R52Fzk",
+            "title": "[Hindi Dub] Attack on Titan - Episode 10 (S1E10)"
+          },
+          {
+            "id": "T1xlDlyyCnw",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 048 | Muse IN"
+          },
+          {
+            "id": "ugv45V_KJq0",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 20"
+          },
+          {
+            "id": "OtfKBWG_hw8",
+            "title": "[Hindi Dub] Attack on Titan - Episode 09 (S1E09)"
+          },
+          {
+            "id": "PWpSd0rgPUU",
+            "title": "[Hindi Dub] Attack on Titan - Episode 08 (S1E08)"
+          },
+          {
+            "id": "oSS_ysMUDEI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 07 (S1E07)"
+          },
+          {
+            "id": "hupT9Ut6-DM",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 047 | Muse IN"
+          },
+          {
+            "id": "EUs0eYKCyJM",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 19"
+          },
+          {
+            "id": "nNfkLbsxu9E",
+            "title": "[Hindi Dub] Attack on Titan - Episode 06 (S1E06)"
+          },
+          {
+            "id": "0MnZKvRQKcQ",
+            "title": "[Hindi Dub] Attack on Titan - Episode 05 (S1E05)"
+          },
+          {
+            "id": "uXD_lcd-4nI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 04 (S1E04)"
+          }
+        ]
+      }
+    ],
+    "india-feed.json": [
+      {
+        "name": "channel:muse-india",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q",
+        "rows": [
+          {
+            "id": "bAkT3CZ-4a0",
+            "title": "[Hindi Dub] Attack on Titan - Episode 45 (S3E08) | Muse IN"
+          },
+          {
+            "id": "skO4UEv8Uj4",
+            "title": "[Telugu Dub] SPY×FAMILY - Episode 49 (S3E12) | Muse IN"
+          },
+          {
+            "id": "kxjPiaF6zAs",
+            "title": "[Tamil Dub] SPY×FAMILY - Episode 49 (S3E12) | Muse IN"
+          },
+          {
+            "id": "9CygW01NIt0",
+            "title": "[Hindi Dub] Attack on Titan - Episode 44 (S3E07) | Muse IN"
+          },
+          {
+            "id": "6M7Q_5EFbr8",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 09 [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "hVK3dHfO1Y0",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 17 | Muse IN"
+          },
+          {
+            "id": "5wl4IXDrNkQ",
+            "title": "ZOMBIE LAND SAGA REVENGE - Episode 05 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "eSDkDP9dq0E",
+            "title": "BLACK TORCH - Episode 12 [EN Sub] | Muse IN"
+          },
+          {
+            "id": "L-Vsd6J2L0M",
+            "title": "[Hindi Dub] Attack on Titan - Episode 43 (S3E06) | Muse IN"
+          },
+          {
+            "id": "jcg9tqVVl7s",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 68 (S4E02) | Muse IN"
+          },
+          {
+            "id": "DD-ppor3M10",
+            "title": "[Telugu Dub] SPY×FAMILY - Episode 48 (S3E11) | Muse IN"
+          },
+          {
+            "id": "r_3_Ja9edRA",
+            "title": "[Tamil Dub] SPY×FAMILY - Episode 48 (S3E11) | Muse IN"
+          },
+          {
+            "id": "mWKa7dTIVR4",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 08 [Hindi Dub] | Muse IN"
+          },
+          {
+            "id": "uwbNs1tVLM4",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 16 | Muse IN"
+          },
+          {
+            "id": "4CfPgDLWJAM",
+            "title": "That Time I Got Reincarnated as a Slime - Episode 95 (S4E23) [English Sub]"
+          }
+        ]
+      }
+    ],
+    "jojo-feeds.json": [
+      {
+        "name": "playlist:PLpm1VVK4UL17iReLWpJ2f1qeiKWmvPMUF",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL17iReLWpJ2f1qeiKWmvPMUF",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "name": "playlist:PLpm1VVK4UL143T1yq6chjw0_Xs3qzPvQI",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpm1VVK4UL143T1yq6chjw0_Xs3qzPvQI",
+        "rows": [
+          {
+            "id": "Yd8R7ZYP3tc",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 01 [English Sub]"
+          },
+          {
+            "id": "cFxTwrIlGl4",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 02 [English Sub]"
+          },
+          {
+            "id": "OpguKSceXh4",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 03 [English Sub]"
+          },
+          {
+            "id": "Y4uoxZntTng",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 04 [English Sub]"
+          },
+          {
+            "id": "HepTOU0tF3s",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 05 [English Sub]"
+          },
+          {
+            "id": "VaQYYpsUzb0",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 06 [English Sub]"
+          },
+          {
+            "id": "sHFxaviuZto",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 07 [English Sub]"
+          },
+          {
+            "id": "MmprYpIp4C0",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 08 [English Sub]"
+          },
+          {
+            "id": "9H9W64tIW8c",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 09 [English Sub]"
+          },
+          {
+            "id": "Z_ZFDtHoBWk",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 10 [English Sub]"
+          },
+          {
+            "id": "g-CSzPiUivY",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 11 [English Sub]"
+          },
+          {
+            "id": "I5zSGaas6dE",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 12 [English Sub]"
+          },
+          {
+            "id": "HVgwtFqOEh4",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 13 [English Sub]"
+          },
+          {
+            "id": "PW249f226hU",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 14 [English Sub]"
+          },
+          {
+            "id": "uun2WxQ6zas",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind Episode 15 [English Sub]"
+          }
+        ]
+      },
+      {
+        "name": "channel:muse-hindi",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "rows": [
+          {
+            "id": "fmsGTVY4R44",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN"
+          },
+          {
+            "id": "9-i7AvTx8MU",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 21"
+          },
+          {
+            "id": "re95mlNW-LA",
+            "title": "[Hindi Dub] Attack on Titan - Episode 12 (S1E12)"
+          },
+          {
+            "id": "aEsLA7ovyB4",
+            "title": "[Hindi Dub] Attack on Titan - Episode 11 (S1E11)"
+          },
+          {
+            "id": "8jIB2R52Fzk",
+            "title": "[Hindi Dub] Attack on Titan - Episode 10 (S1E10)"
+          },
+          {
+            "id": "T1xlDlyyCnw",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 048 | Muse IN"
+          },
+          {
+            "id": "ugv45V_KJq0",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 20"
+          },
+          {
+            "id": "OtfKBWG_hw8",
+            "title": "[Hindi Dub] Attack on Titan - Episode 09 (S1E09)"
+          },
+          {
+            "id": "PWpSd0rgPUU",
+            "title": "[Hindi Dub] Attack on Titan - Episode 08 (S1E08)"
+          },
+          {
+            "id": "oSS_ysMUDEI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 07 (S1E07)"
+          },
+          {
+            "id": "hupT9Ut6-DM",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 047 | Muse IN"
+          },
+          {
+            "id": "EUs0eYKCyJM",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 19"
+          },
+          {
+            "id": "nNfkLbsxu9E",
+            "title": "[Hindi Dub] Attack on Titan - Episode 06 (S1E06)"
+          },
+          {
+            "id": "0MnZKvRQKcQ",
+            "title": "[Hindi Dub] Attack on Titan - Episode 05 (S1E05)"
+          },
+          {
+            "id": "uXD_lcd-4nI",
+            "title": "[Hindi Dub] Attack on Titan - Episode 04 (S1E04)"
+          }
+        ]
+      }
+    ],
+    "index-leads.json": [
+      {
+        "url": "https://animemirchi.com/mob-psycho-100-in-india/",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://t.me/s/aniblueindia?q=Mob",
+        "youtube_ids": [],
+        "playlists": []
+      },
+      {
+        "url": "https://t.me/s/aniblueindia?q=DAN+DA+DAN",
+        "youtube_ids": [],
+        "playlists": []
+      },
+      {
+        "url": "https://t.me/s/aniblueindia?q=Ragna",
+        "youtube_ids": [],
+        "playlists": []
+      }
+    ],
+    "lastfm-leads.json": [
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 - Episode 11 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+-+Episode+11+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 03 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+03+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 05 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+05+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 06 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+06+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 08 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+08+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 09 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+09+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 II - Episode 12 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+II+-+Episode+12+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 01 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+01+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 04 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+04+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 07 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+07+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 10 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+10+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 11 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+11+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi Dub] Mob Psycho 100 III - Episode 12 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+Dub%5D+Mob+Psycho+100+III+-+Episode+12+%7C+Muse+IN",
+        "youtube_ids": []
+      },
+      {
+        "name": "[Hindi dub] DAN DA DAN - Episode 19 | Muse IN",
+        "url": "https://www.last.fm/music/Muse+India/_/%5BHindi+dub%5D+DAN+DA+DAN+-+Episode+19+%7C+Muse+IN",
+        "youtube_ids": []
+      }
+    ]
+  },
+  "indexed_official_watch_leads": [
+    {
+      "video_id": "fmsGTVY4R44",
+      "url": "https://www.youtube.com/watch?v=fmsGTVY4R44",
+      "official_upload_title": "[Hindi Dub] HUNTER×HUNTER - Episode 049 | Muse IN"
+    },
+    {
+      "video_id": "iY1VzlQtN5U",
+      "url": "https://www.youtube.com/watch?v=iY1VzlQtN5U",
+      "official_upload_title": "Ragna Crimson - Episode 16 [English Sub]"
+    },
+    {
+      "video_id": "fusYAKSBCtc",
+      "url": "https://www.youtube.com/watch?v=fusYAKSBCtc",
+      "official_upload_title": "Ragna Crimson - Episode 16 [English Sub]"
+    },
+    {
+      "video_id": "pQlseTen94A",
+      "url": "https://www.youtube.com/watch?v=pQlseTen94A",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 II - Episode 12 | Muse IN"
+    },
+    {
+      "video_id": "QPR-bOtfsMY",
+      "url": "https://www.youtube.com/watch?v=QPR-bOtfsMY",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 II - Episode 08 | Muse IN"
+    },
+    {
+      "video_id": "zQruKalHgUM",
+      "url": "https://www.youtube.com/watch?v=zQruKalHgUM",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 II - Episode 05 | Muse IN"
+    },
+    {
+      "video_id": "7uRrj8xjRX8",
+      "url": "https://www.youtube.com/watch?v=7uRrj8xjRX8",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 II - Episode 06 | Muse IN"
+    },
+    {
+      "video_id": "Nccfr3jdSb4",
+      "url": "https://www.youtube.com/watch?v=Nccfr3jdSb4",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 II - Episode 09 | Muse IN"
+    },
+    {
+      "video_id": "D-_bDoxSjf0",
+      "url": "https://www.youtube.com/watch?v=D-_bDoxSjf0",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 III - Episode 12 | Muse IN"
+    },
+    {
+      "video_id": "0Gmvu7FV09o",
+      "url": "https://www.youtube.com/watch?v=0Gmvu7FV09o",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 III - Episode 04 | Muse IN"
+    },
+    {
+      "video_id": "q6A7fwZtLYE",
+      "url": "https://www.youtube.com/watch?v=q6A7fwZtLYE",
+      "official_upload_title": "[Hindi Dub] Mob Psycho 100 III - Episode 07 | Muse IN"
+    },
+    {
+      "video_id": "bAkT3CZ-4a0",
+      "url": "https://www.youtube.com/watch?v=bAkT3CZ-4a0",
+      "official_upload_title": "[Hindi Dub] Attack on Titan - Episode 45 (S3E08) | Muse IN"
+    },
+    {
+      "video_id": "9CygW01NIt0",
+      "url": "https://www.youtube.com/watch?v=9CygW01NIt0",
+      "official_upload_title": "[Hindi Dub] Attack on Titan - Episode 44 (S3E07) | Muse IN"
+    },
+    {
+      "video_id": "6M7Q_5EFbr8",
+      "url": "https://www.youtube.com/watch?v=6M7Q_5EFbr8",
+      "official_upload_title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 09 [Hindi Dub] | Muse IN"
+    },
+    {
+      "video_id": "hVK3dHfO1Y0",
+      "url": "https://www.youtube.com/watch?v=hVK3dHfO1Y0",
+      "official_upload_title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 17 | Muse IN"
+    }
+  ],
+  "web_search_passes": [
+    "Exact Hindi Muse Mob Psycho season 1 episode 11; season 2 episodes 3,5,6,8,9,12; season 3 episodes 1,4,7,10,11,12",
+    "Ragna Crimson Hindi episodes16,17,24; Muse Hindi Dub playlists/feed and English-sub mirror candidates",
+    "DAN DA DAN Hindi episode19 and season2 episode7 variants; both official playlist feeds",
+    "Hunter x Hunter Hindi episodes002,004,007,008,049; official Hindi channel feed",
+    "Muse India recent full Hindi uploads for additional anime; Assassination Classroom and Attack on Titan missing season-specific episode queries"
+  ],
+  "limits": [
+    "Actual India playback is unobserved; exact upload country metadata includes IN and YouTube oEmbed passed. The checking server can receive a region restriction while official IN metadata remains present.",
+    "Ragna Crimson Hindi 16–24 and DAN DA DAN Hindi season 2 episode 7 were not recovered as independently verified exact uploads. Empty/region-hidden listings do not establish absence.",
+    "Muse official Mob Hindi descriptions link an incomplete playlist ID PLZiKGmhwMtho. The separate English-sub playlist is not a Hindi playlist.",
+    "Ragna original English-sub editions expose no selectable caption tracks; neither actual audio nor burned-in subtitle delivery was independently established, so they were not added.",
+    "This is a verified batch of additions, not exhaustive YouTube coverage or a complete-series certification."
+  ],
+  "validation": {
+    "build_html_pages": 2088,
+    "audit_errors": [],
+    "unit_tests_passed": 34,
+    "javascript_syntax": "passed",
+    "all_existing_episode_objects_and_owner_order": "preserved"
+  }
+}
