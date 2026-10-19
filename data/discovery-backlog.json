@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:10:36.667029+05:30",
+  "updated_at": "2026-10-20T01:02:10.258013+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -39,7 +39,7 @@
         24
       ],
       "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links.",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "latest_attempt": {
         "date": "2026-10-19",
         "sources": [
@@ -49,7 +49,7 @@
         ],
         "result": "Playlist listing remains hidden; feed returns only the already published 1–15. Exact 16–24 uploader IDs were not recovered. No availability claim made for missing uploads."
       },
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json"
     },
     {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
@@ -573,7 +573,8 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": "2026-10-19"
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json"
     },
     {
       "title_id": "tokyo-revengers",
@@ -1127,7 +1128,8 @@
           ]
         }
       ],
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json"
     },
     {
       "title_id": "mushoku-tensei-jobless-reincarnation",
@@ -4047,13 +4049,43 @@
       "title": "Pokémon Journeys: The Series",
       "state": "partial_backfill",
       "priority": 2,
-      "last_backfill_date": "2026-10-19",
+      "last_backfill_date": "2026-10-20",
       "preferred_audio": "Hindi",
       "published_coverage": [
         {
           "season_id": "pokemon-ultimate-journeys-hindi",
           "label": "Ultimate Journeys · Hindi dub",
           "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
             "31",
             "32",
             "33",
@@ -4085,7 +4117,8 @@
       "next_actions": [
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
       ],
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
+      "remaining_episode_numbers": []
     },
     {
       "title_id": "snowball-earth",
@@ -4314,8 +4347,8 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "supplied_part_not_eligible_full_upload",
-      "last_attempted_on": "2026-10-19",
-      "latest_attempt_report": "data/verification/2026-10-19-search-seo-drama-review.json",
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
       "candidate_uploads": [
         {
           "video_id": "3v60U6DPGMY",
@@ -4334,8 +4367,8 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "supplied_part_not_eligible_full_upload",
-      "last_attempted_on": "2026-10-19",
-      "latest_attempt_report": "data/verification/2026-10-19-search-seo-drama-review.json",
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
       "candidate_uploads": [
         {
           "video_id": "5DGJ10sSX-w",
@@ -4346,6 +4379,156 @@
       ],
       "next_actions": [
         "Review any independently supplied rights-holder crosslink and complete official episode uploads; do not import short fan/commentary parts as full episodes."
+      ]
+    },
+    {
+      "title_id": "the-promise",
+      "title": "The Promise",
+      "priority": 2,
+      "last_backfill_date": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
+      "published_coverage": [
+        {
+          "season_id": "the-promise-uploads",
+          "label": "Available episodes",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "80",
+            "81",
+            "82",
+            "83",
+            "84",
+            "85",
+            "86",
+            "87",
+            "88",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99",
+            "100",
+            "101",
+            "102"
+          ],
+          "verified_complete": false
+        }
+      ],
+      "remaining_episode_numbers": []
+    },
+    {
+      "title_id": "house-of-bluebird",
+      "title": "House of Bluebird",
+      "priority": 2,
+      "last_backfill_date": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
+      "published_coverage": [
+        {
+          "season_id": "house-of-bluebird-uploads",
+          "label": "Available episodes",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "17"
+          ],
+          "verified_complete": false
+        }
       ]
     }
   ],

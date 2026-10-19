@@ -1,13 +1,12 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-19T19:14:35.996476+05:30",
+  "last_run": "2026-10-20T01:02:10.258013+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Verified catalogue additions prepared",
+  "state": "Verified series backfill prepared",
   "added": {
-    "pokemon-journeys": 9,
-    "neelkanth-and-the-dawn-of-divine-destiny": 1,
-    "ek-khiladi": 1,
-    "dangerous-khiladi-2": 1
+    "pokemon-journeys": 30,
+    "the-promise": 101,
+    "house-of-bluebird": 13
   },
   "changed_availability": [],
   "link_checks": [],
@@ -16,40 +15,43 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "Doraemon, Pokémon feature films, Suzume and animated Ne Zha editions were not added: exact checked sources lacked independently established authorization or metadata. This is not a claim that no eligible uploads exist.",
-    "Unrelated live-action Nezha films, trailers, fan stories, recaps, songs and TV compilations were not classified as anime features.",
-    "IN country metadata and oEmbed do not prove observed playback from India."
+    "Exact IN country metadata and oEmbed are not evidence of observed India playback.",
+    "My Demon exact user-supplied and longer cross-channel uploads remain source-unapproved; no partial upload renamed a full episode.",
+    "Ragna Crimson 16–24, Hunter Hindi episode49 and DANDADAN S2E7 remain unresolved after exact searches.",
+    "Hwangjini checked uploads lack selectable caption tracks; English-sub delivery mode remains unresolved.",
+    "House of Bluebird remains a partial episode selection; the feed did not establish episodes 15–16 or coverage beyond episode 17.",
+    "Public KBS continuation request exposed no additional rows; final Promise episode leads recovered through public exact-title search."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
-  "last_manual_verification": "2026-10-18",
+  "last_manual_verification": "2026-10-20",
   "catalogue_counts": {
     "anime-series": 57,
     "anime-movies": 20,
     "movies": 89,
     "k-dramas": 53
   },
-  "upload_count": 1408,
+  "upload_count": 1552,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
-      "uploads": 9
+      "uploads": 30
     },
     "anime-movies": {
-      "titles": 1,
-      "uploads": 1
+      "titles": 0,
+      "uploads": 0
     },
     "movies": {
-      "titles": 2,
-      "uploads": 2
+      "titles": 0,
+      "uploads": 0
     },
     "k-dramas": {
       "titles": 0,
-      "uploads": 0
+      "uploads": 114
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-19-evening-update.json",
+  "verification_report": "data/verification/2026-10-20-series-backfill.json",
   "language_priority": [
     "Hindi",
     "English",
