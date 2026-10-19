@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-19T02:31:43.293635+05:30",
+  "last_run": "2026-10-19T08:09:24.150215+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Six Hindi anime films added, plus a separate English edition of The Mystical Laws",
+  "state": "Verified catalogue additions prepared",
   "added": {
     "the-laws-of-the-universe-part-0": 1,
     "the-laws-of-the-universe-part-1": 1,
@@ -28,22 +28,22 @@
   "catalogue_counts": {
     "anime-series": 57,
     "anime-movies": 18,
-    "movies": 86,
+    "movies": 87,
     "k-dramas": 53
   },
-  "upload_count": 1393,
+  "upload_count": 1394,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
       "uploads": 0
     },
     "anime-movies": {
-      "titles": 6,
-      "uploads": 7
-    },
-    "movies": {
       "titles": 0,
       "uploads": 0
+    },
+    "movies": {
+      "titles": 1,
+      "uploads": 1
     },
     "k-dramas": {
       "titles": 0,
@@ -51,7 +51,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-19-hindi-anime-movies.json",
+  "verification_report": "data/verification/2026-10-19-morning-update.json",
   "language_priority": [
     "Hindi",
     "English",
