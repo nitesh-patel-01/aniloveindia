@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T02:34:18.728301+05:30",
+  "updated_at": "2026-10-20T02:48:42.404868+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -2750,7 +2750,61 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-post-adsense-update.json",
+      "latest_edition_coverage": [
+        {
+          "title_id": "junji-ito-collection",
+          "season_id": "junji-ito-collection-hindi-available",
+          "listed_episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "unresolved_episode_numbers": [],
+          "verified_complete": false
+        }
+      ],
+      "published_coverage": [
+        {
+          "season_id": "junji-ito-collection-hindi-available-specials",
+          "label": "Hindi dub · available uploads · Specials",
+          "audio_language": "Hindi",
+          "episode_numbers": [
+            "ova"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "junji-ito-collection-hindi-available",
+          "label": "Season 1 · Hindi dub",
+          "audio_language": "Hindi",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "verified_complete": false
+        }
+      ]
     },
     {
       "title_id": "i-was-reincarnated-as-the-7th-prince",
@@ -3080,7 +3134,7 @@
         }
       ],
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-muse-hindi-backfill.json",
+      "latest_attempt_report": "data/verification/2026-10-20-post-adsense-update.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3136,6 +3190,138 @@
             29,
             31,
             33
+          ],
+          "verified_complete": false
+        },
+        {
+          "title_id": "fairy-tail",
+          "season_id": "fairy-tail-season-2-hindi",
+          "listed_episodes": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            24
+          ],
+          "unresolved_episode_numbers": [
+            3,
+            7,
+            13,
+            19,
+            23
+          ],
+          "verified_complete": false
+        }
+      ],
+      "published_coverage": [
+        {
+          "season_id": "fairy-tail-season-1-hindi",
+          "label": "Season 1 · Hindi dub",
+          "audio_language": "Hindi",
+          "episode_numbers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "25",
+            "26",
+            "27",
+            "28",
+            "30",
+            "32",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "fairy-tail-season-2-hindi",
+          "label": "Season 2 · Hindi dub",
+          "audio_language": "Hindi",
+          "episode_numbers": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "20",
+            "21",
+            "22",
+            "24"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "fairy-tail-season-7-hindi",
+          "label": "Season 7 · Hindi dub",
+          "audio_language": "Hindi",
+          "episode_numbers": [
+            "26"
+          ],
+          "verified_complete": false
+        },
+        {
+          "season_id": "fairy-tail-season-1-english",
+          "label": "Season 1 · English dub",
+          "audio_language": "English",
+          "episode_numbers": [
+            "33"
           ],
           "verified_complete": false
         }
@@ -4941,11 +5127,12 @@
       "title": "House of Bluebird",
       "priority": 2,
       "last_backfill_date": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-series-backfill.json",
+      "latest_attempt_report": "data/verification/2026-10-20-post-adsense-update.json",
       "published_coverage": [
         {
           "season_id": "house-of-bluebird-uploads",
           "label": "Available episodes",
+          "audio_language": "Korean",
           "episode_numbers": [
             "1",
             "2",
@@ -4961,10 +5148,109 @@
             "12",
             "13",
             "14",
-            "17"
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50"
           ],
           "verified_complete": false
         }
+      ],
+      "last_attempted_on": "2026-10-20",
+      "latest_edition_coverage": [
+        {
+          "title_id": "house-of-bluebird",
+          "season_id": "house-of-bluebird-uploads",
+          "listed_episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "unresolved_episode_numbers": [
+            15,
+            16
+          ],
+          "verified_complete": false
+        }
+      ],
+      "remaining_episode_numbers": [
+        15,
+        16
       ]
     },
     {
