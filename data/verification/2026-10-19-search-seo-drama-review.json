@@ -1,0 +1,80 @@
+{
+  "checked_on": "2026-10-19",
+  "base_commit": "9ac9c37b4e1ba9151bf6428a35b15d8ef914e9b3",
+  "search_fix": {
+    "confirmed_live_symptom": "/search/?q=pokemon displayed Interactive search could not load and all static titles.",
+    "root_cause": "Search spread missing alternate_titles arrays on newer catalogue items; this threw and aborted every nonempty global query.",
+    "changes": [
+      "Null-safe metadata indexing",
+      "Accent and punctuation normalization; multiword and compact-spacing matching",
+      "Bounded single-edit typo matching",
+      "Clear category scope and global search link",
+      "Preserve request form subject; correct robots state on clearing category query",
+      "Slim generated search index: 110736 bytes instead of 991928-byte full browser catalogue"
+    ],
+    "new_landings": [
+      "/discover/pokemon-hindi-episodes/",
+      "/discover/hindi-anime-movies/"
+    ]
+  },
+  "drama_checks": [
+    {
+      "id": "3v60U6DPGMY",
+      "eligible": false,
+      "checked_at": "2026-10-19",
+      "author": "Kdrama Hindi OS",
+      "playlist_ids": [],
+      "caption_languages": [],
+      "title": "Our Sticky Love In Hindi Dubbed Episode 1 Part 1",
+      "channel_id": "UCTTTIQw5WFrLZwQitE0eclA",
+      "seconds": 112,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    },
+    {
+      "id": "5DGJ10sSX-w",
+      "eligible": false,
+      "checked_at": "2026-10-19",
+      "author": "Fit Dramas",
+      "playlist_ids": [
+        "PLarlJTFppcvCo5D9iezsDOBlXWyS0udlG",
+        "PLarlJTFppcvDiMoqGA7nTTKQ2TiSKe5Aa",
+        "PLarlJTFppcvCeCt1y4srHq8GLDku5MqH5",
+        "PLarlJTFppcvD0ovhAKvQxFdh4-nzSNGs7",
+        "PLarlJTFppcvAt5xPC9qfim8rlcXf0Xbdq",
+        "PLarlJTFppcvC_Kzx2c4qs-ZvdA-08HHHa",
+        "PLarlJTFppcvDX6uPchZ_0BCuJ3u-l_3bP",
+        "PLarlJTFppcvBTEGwok6xuMrqKkuj3d95Q",
+        "PLarlJTFppcvACEFbXXtEm3lLqHMa9nHe3",
+        "PLarlJTFppcvDZv_3FAeiFYkCoswV-yONU",
+        "PLarlJTFppcvBREhjXYmZgNmAbBnieRVGF",
+        "PLarlJTFppcvAtc-0hG-hwltmrdkjbnU_S",
+        "PLarlJTFppcvC1OYlGYlLbJS7v2x0_6jz5",
+        "PLarlJTFppcvBVfAFpFxpTYR_-wC48ohSR",
+        "PLarlJTFppcvBW4VtqtJ9mSU2aSoYPqWHv",
+        "PLarlJTFppcvAO_WARaTmA2x7zWF2pFa2i",
+        "PLarlJTFppcvDQspicC3UW3gi_ssyHI-L9"
+      ],
+      "caption_languages": [],
+      "title": "My Demon | Season 1 | Episode 1 | Part 01",
+      "channel_id": "UCk6g1uoGyHozZmnw33RTqpA",
+      "seconds": 142,
+      "india_in_country_metadata": true,
+      "actual_india_playback": "unverified",
+      "reason": "Uploader not approved"
+    }
+  ],
+  "drama_publication": {
+    "added": 0,
+    "reason": "Both supplied uploads are short episode parts (112 and 142 seconds). Primary-source uploader authorization was not established. Fit Dramas description identifies commentary/review material and disclaims ownership. No full episodes or fabricated links imported.",
+    "primary_series_source": "https://www.netflix.com/title/82048302"
+  },
+  "validation": {
+    "build": "passed: 1931 HTML pages",
+    "audit": "passed: zero errors",
+    "unit_tests": "34 passed",
+    "javascript_syntax": "passed"
+  },
+  "ranking_note": "Relevant query intent, structured data, crawlable links and sitemap coverage improved; no measured keyword volumes or ranking guarantee claimed."
+}

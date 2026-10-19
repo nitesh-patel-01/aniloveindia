@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:14:35.996476+05:30",
+  "updated_at": "2026-10-19T21:10:36.667029+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -4307,6 +4307,46 @@
       "last_attempted_on": "2026-10-19",
       "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json",
       "reason": "Broad Hindi and English/alternate-title searches did not establish an eligible authorized exact full upload. Continue publisher identity review; no placeholder card."
+    },
+    {
+      "title_id": "our-sticky-love",
+      "title": "Our Sticky Love",
+      "preferred_audio": "Hindi",
+      "priority": 1,
+      "state": "supplied_part_not_eligible_full_upload",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-search-seo-drama-review.json",
+      "candidate_uploads": [
+        {
+          "video_id": "3v60U6DPGMY",
+          "channel_id": "UCTTTIQw5WFrLZwQitE0eclA",
+          "seconds": 112,
+          "reason": "Short partial episode; primary-source uploader/series authorization not established."
+        }
+      ],
+      "next_actions": [
+        "Review any independently supplied rights-holder crosslink and complete official episode uploads; do not import short fan/commentary parts as full episodes."
+      ]
+    },
+    {
+      "title_id": "my-demon",
+      "title": "My Demon",
+      "preferred_audio": "Hindi",
+      "priority": 1,
+      "state": "supplied_part_not_eligible_full_upload",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-search-seo-drama-review.json",
+      "candidate_uploads": [
+        {
+          "video_id": "5DGJ10sSX-w",
+          "channel_id": "UCk6g1uoGyHozZmnw33RTqpA",
+          "seconds": 142,
+          "reason": "Short partial episode; primary-source uploader/series authorization not established."
+        }
+      ],
+      "next_actions": [
+        "Review any independently supplied rights-holder crosslink and complete official episode uploads; do not import short fan/commentary parts as full episodes."
+      ]
     }
   ],
   "pending_metadata_retry": {

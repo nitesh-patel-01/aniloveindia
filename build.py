@@ -77,7 +77,7 @@ def build():
  page('/seasons/','Anime seasons & editions','<div class="page-intro"><p class="eyebrow">CHOOSE YOUR NEXT CHAPTER</p><h1>Anime seasons</h1><p>Browse uploaded seasons, story arcs and compilation editions. Open a card to choose an episode.</p></div><section class="section">'+seasoncards()+'</section>')
  def discover(path,title,ts,desc):
   search='<form class="simple-search" role="search"><label class="sr-only" for="query">Search anime, movies or series</label><input id="query" name="q" type="search" placeholder="Search anime, movies or series…" autocomplete="off"><button class="btn primary" type="submit">Search</button></form>'
-  page(path,title,f'<div class="page-intro"><p class="eyebrow">WATCH HERE. POWERED BY YOUTUBE.</p><h1>{title}<span class="accent">.</span></h1><p>{desc}</p></div><section class="section catalogue" data-category="{esc(path.split("/")[-2] if path.startswith("/category/") else "")}">{search}<p id="result-count" role="status">{len(ts)} titles</p><div id="results">{cards(ts)}</div><div id="empty" hidden><h2>Can’t find it? Request it.</h2><p>Tell us the title and language you want. Your request goes to Nitesh.</p>{requestform()}</div></section>',noindex=path=='/search/')
+  page(path,title,f'<div class="page-intro"><p class="eyebrow">WATCH HERE. POWERED BY YOUTUBE.</p><h1>{title}<span class="accent">.</span></h1><p>{desc}</p></div><section class="section catalogue" data-category="{esc(path.split("/")[-2] if path.startswith("/category/") else "")}">{search}<p id="result-count" role="status">{len(ts)} titles</p><p id="search-scope" hidden></p><div id="results">{cards(ts)}</div><div id="empty" hidden><h2>Can’t find it? Request it.</h2><p>Tell us the title and language you want. Your request goes to Nitesh.</p>{requestform()}</div></section>',noindex=path=='/search/')
  discover('/catalogue/','Find something to watch',T,'Search the YouTube catalogue and watch right here.')
  discover('/search/','Find your story',T,'One search. If it is missing, send us a request.')
  for k,v in CATS.items():
@@ -142,6 +142,14 @@ def build():
   if any(route.startswith('/'+s+'/') for s in ['admin','settings','watchlist','404','search']):continue
   urls.append(BASE+route)
  write(Path('sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+esc(u)+'</loc></url>' for u in urls)+'</urlset>')
+ # Keep interactive search small; episode detail remains on title/watch pages.
+ search_index=[]
+ for t in T:
+  item={key:t[key]for key in ['id','title','original_title','alternate_titles','category','format','original_language','audio_label','genre','provider','thumbnail','browse_priority']if key in t}
+  item['seasons']=[{key:s.get(key)for key in ['label','audio_language','subtitle_languages']}for s in t['seasons']]
+  item['upload_count']=sum(len(s['episodes'])for s in t['seasons'])
+  search_index.append(item)
+ write(Path('data/search-index.json'),json.dumps(search_index,ensure_ascii=False,separators=(',',':')))
  write(Path('robots.txt'),'User-agent: *\nAllow: /\nSitemap: '+BASE+'/sitemap.xml\n')
  write(Path('llms.txt'),'# AniLove India\nIndependent anime-first legal entertainment discovery.\nProvider links are not verified playback. No complete embedded seasons verified at launch.\n- [Catalogue]('+BASE+'/catalogue/)\n- [Sourcing policy]('+BASE+'/sourcing/)\n- [Contact]('+BASE+'/contact/)\n')
  write(Path('humans.txt'),'Owner: Nitesh Patel\nAI-assisted development and editorial drafts.\nOriginal abstract artwork.\n')

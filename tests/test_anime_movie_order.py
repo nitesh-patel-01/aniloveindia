@@ -12,7 +12,7 @@ class AnimeMovieOrdering(unittest.TestCase):
   self.assertEqual(re.findall(r'<article class="title-card" data-id="([^"]+)"',rail),expected)
   # Execute the actual search renderer with a minimal DOM to catch client/server order divergence.
   function=next(line for line in (ROOT/'assets/app.js').read_text().splitlines()if line.startswith('function filter()'))
-  code='''const catalogue=JSON.parse(require('fs').readFileSync(0,'utf8'));const elements={"#query":{value:""},".catalogue":{dataset:{category:"anime-movies"}},"#results":{},"#result-count":{},"#empty":{}};const $=key=>elements[key]||null;const localCard=t=>t.id+"|";const history={replaceState(){}};const location={pathname:"/category/anime-movies/"};'''+function+';filter();console.log(elements["#results"].innerHTML);'
+  code='''const catalogue=JSON.parse(require('fs').readFileSync(0,'utf8'));const elements={"#query":{value:""},".catalogue":{dataset:{category:"anime-movies"}},"#results":{},"#result-count":{},"#empty":{}};const $=key=>elements[key]||null;const localCard=t=>t.id+"|";const history={replaceState(){}};const location={pathname:"/category/anime-movies/"};'''+function+(ROOT/'assets/search.js').read_text().replace('export function','function')+';filter();console.log(elements["#results"].innerHTML);'
   rendered=subprocess.check_output(['node','-e',code],input=json.dumps(catalogue,ensure_ascii=False),text=True)
   self.assertEqual(rendered.strip().removeprefix('<div class="cards">').removesuffix('</div>').strip('|').split('|'),expected)
 
