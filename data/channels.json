@@ -92,5 +92,13 @@
     "identity_evidence_url": "https://happy-science.org/en-in/videos/",
     "identity_reviewed_on": "2026-10-19",
     "identity_note": "Publisher’s official India Videos page directly links @HappyScienceIndia; public channel metadata resolves that handle to this exact ID. Review is limited to the publisher’s own full anime films, not all material on the channel."
+  },
+  {
+    "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+    "name": "Swaminarayan Aksharpith",
+    "identity_reviewed": true,
+    "identity_evidence_url": "https://www.baps.org/ssc4",
+    "identity_reviewed_on": "2026-10-19",
+    "identity_note": "BAPS official film page directly embeds zJnQuw6UuNw under Hindi and 7xEUtdME9n0 under English; exact public upload metadata identifies both as this channel. Authorization review covers BAPS-produced Swaminarayan Charitra films only."
   }
 ]

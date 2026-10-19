@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-19T08:09:24.150215+05:30",
+  "last_run": "2026-10-19T09:02:13.850820+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Verified catalogue additions prepared",
+  "state": "Verified owner-requested film additions prepared",
   "added": {
     "the-laws-of-the-universe-part-0": 1,
     "the-laws-of-the-universe-part-1": 1,
@@ -27,23 +27,23 @@
   "last_manual_verification": "2026-10-18",
   "catalogue_counts": {
     "anime-series": 57,
-    "anime-movies": 18,
+    "anime-movies": 19,
     "movies": 87,
     "k-dramas": 53
   },
-  "upload_count": 1394,
+  "upload_count": 1396,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
       "uploads": 0
     },
     "anime-movies": {
-      "titles": 0,
-      "uploads": 0
+      "titles": 1,
+      "uploads": 2
     },
     "movies": {
-      "titles": 1,
-      "uploads": 1
+      "titles": 0,
+      "uploads": 0
     },
     "k-dramas": {
       "titles": 0,
@@ -51,7 +51,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-19-morning-update.json",
+  "verification_report": "data/verification/2026-10-19-owner-film-requests.json",
   "language_priority": [
     "Hindi",
     "English",

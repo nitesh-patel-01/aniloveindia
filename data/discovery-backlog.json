@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:09:24.150215+05:30",
+  "updated_at": "2026-10-19T09:02:13.850820+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -4127,7 +4127,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4158,7 +4158,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
     },
     {
       "title_id": "suzume",
@@ -4224,7 +4224,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -4243,6 +4243,60 @@
       ],
       "reason": "429 retry recovered official upload metadata, but checked Muse Asia episode 807 and films do not evidence IN availability. Retain unresolved Hindi discovery; no uploads added.",
       "latest_attempt_report": "data/verification/2026-10-19-morning-update.json"
+    },
+    {
+      "title_id": "ben-10-movies",
+      "title": "Ben 10 movies",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "alternate_search_terms": [
+        "Secret of the Omnitrix",
+        "Destroy All Aliens",
+        "Versus the Universe"
+      ],
+      "state": "official_full_upload_unresolved",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json",
+      "reason": "Broad Hindi and English/alternate-title searches did not establish an eligible authorized exact full upload. Continue publisher identity review; no placeholder card."
+    },
+    {
+      "title_id": "a-silent-voice",
+      "title": "A Silent Voice",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "alternate_search_terms": [
+        "Koe no Katachi"
+      ],
+      "state": "official_full_upload_unresolved",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json",
+      "reason": "Broad Hindi and English/alternate-title searches did not establish an eligible authorized exact full upload. Continue publisher identity review; no placeholder card."
+    },
+    {
+      "title_id": "your-name",
+      "title": "Your Name",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "alternate_search_terms": [
+        "Kimi no Na wa"
+      ],
+      "state": "official_full_upload_unresolved",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json",
+      "reason": "Broad Hindi and English/alternate-title searches did not establish an eligible authorized exact full upload. Continue publisher identity review; no placeholder card."
+    },
+    {
+      "title_id": "i-want-to-eat-your-pancreas",
+      "title": "I Want to Eat Your Pancreas",
+      "priority": 1,
+      "preferred_audio": "Hindi",
+      "alternate_search_terms": [
+        "Kimi no Suizou wo Tabetai"
+      ],
+      "state": "official_full_upload_unresolved",
+      "last_attempted_on": "2026-10-19",
+      "latest_attempt_report": "data/verification/2026-10-19-owner-film-requests.json",
+      "reason": "Broad Hindi and English/alternate-title searches did not establish an eligible authorized exact full upload. Continue publisher identity review; no placeholder card."
     }
   ],
   "pending_metadata_retry": {

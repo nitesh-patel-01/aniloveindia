@@ -25724,5 +25724,102 @@
     "added_on": "2026-10-19",
     "related": [],
     "thumbnail": "https://i.ytimg.com/vi/PXd8Uio4TSs/hqdefault.jpg"
+  },
+  {
+    "id": "neelkanth-and-the-snows-of-the-himalayas",
+    "title": "Neelkanth and the Snows of the Himalayas",
+    "original_title": "Neelkanth and the Snows of the Himalayas",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 4",
+      "SSC4",
+      "Neelkanth and the Snows of Himalaya"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi · English",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=zJnQuw6UuNw",
+    "synopsis": "An Indian animated spiritual adventure from BAPS follows Neelkanth Varni through the Himalayas, from Ayodhya toward Badrinath. Part 4 of Shri Swaminarayan Charitra is available here as separate official Hindi and English full-film uploads.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-19",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=zJnQuw6UuNw",
+      "https://www.youtube.com/watch?v=7xEUtdME9n0",
+      "https://www.baps.org/ssc4"
+    ],
+    "seasons": [
+      {
+        "id": "neelkanth-snows-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc4",
+        "audio_language_evidence": "BAPS official film page directly embeds this exact upload under Hindi; official video title explicitly labels Hindi.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC4 - Hindi - Neelkanth and the Snows of the Himalayas: Shri Swaminarayan Charitra - Pt 4",
+            "video_id": "zJnQuw6UuNw",
+            "duration_seconds": 4220,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2019-09-05T10:17:20-07:00"
+          }
+        ]
+      },
+      {
+        "id": "neelkanth-snows-english-movie",
+        "label": "Full movie · English",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-19",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc4",
+        "audio_language_evidence": "BAPS official film page directly embeds this exact upload under English; official video title explicitly labels English.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC4 - English - Neelkanth and the Snows of the Himalayas: Shri Swaminarayan Charitra - Pt 4",
+            "video_id": "7xEUtdME9n0",
+            "duration_seconds": 4220,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-19",
+            "india_playback": "unverified",
+            "added_on": "2026-10-19",
+            "last_checked": "2026-10-19",
+            "source_upload_date": "2019-09-05T10:17:42-07:00"
+          }
+        ]
+      }
+    ],
+    "added_on": "2026-10-19",
+    "related": [],
+    "thumbnail": "https://i.ytimg.com/vi/zJnQuw6UuNw/hqdefault.jpg",
+    "browse_priority": 4,
+    "browse_priority_reason": "Owner-requested animated feature; Hindi edition first, then English."
   }
 ]
