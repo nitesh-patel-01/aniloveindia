@@ -1,0 +1,159 @@
+{
+  "checked_on": "2026-10-20",
+  "checked_at": "2026-10-20T18:56:49+05:30",
+  "run_period": "evening",
+  "base_commit": "36ce26d86a42ebc4a03d9370f1f96b45af185ddf",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "added_by_category": {
+    "anime-series": 0,
+    "anime-movies": 0,
+    "movies": 0,
+    "k-dramas": 0
+  },
+  "catalogue_snapshot": {
+    "title_count": 219,
+    "by_category": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    },
+    "upload_count": 1674
+  },
+  "searches": {
+    "anime-series": [
+      "Hindi/Devanagari and English Muse India / Muse Hindi Dub full episode searches",
+      "Pokémon Asia Official (Hindi) Diamond and Pearl episodes 26, 27, 29",
+      "Pokémon Horizons recent Hindi episodes",
+      "Crayon Shinchan / Shin-chan / शिनचैन official full Hindi episodes",
+      "Beyblade official Hindi full episodes",
+      "TMS official full anime episodes and series",
+      "Slime Season 4 Hindi episode gaps"
+    ],
+    "anime-movies": [
+      "Doraemon / डोरेमोन full feature Hindi official",
+      "Pokémon / पोकेमॉन full feature Hindi official",
+      "Suzume / Suzume no Tojimari / सुज़ुमे full movie Hindi official",
+      "Animated Ne Zha / Nezha / 哪吒 full feature Hindi or English official",
+      "TMS / RetroCrush / Gundam official full anime movies"
+    ],
+    "movies": [
+      "Goldmines Hindi full movie official October 2026",
+      "Shemaroo Movies Hindi full movie official October 2026",
+      "New official Hindi or English full movie uploads"
+    ],
+    "k-dramas": [
+      "KBS WORLD TV My Golden Life episodes 2–6 English subtitles",
+      "KBS WORLD TV full drama episodes with English subtitles",
+      "Korean Classic Film full movie search, kept separate from Other Movies"
+    ]
+  },
+  "candidates": [
+    {
+      "video_id": "FQnnwWaqdzk",
+      "title": "Pokémon: Diamond and Pearl Episode 26",
+      "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+      "published_on": "2026-01-06",
+      "views_at_search": 542702,
+      "catalogue_id_present": false,
+      "status": "not_added_verification_incomplete",
+      "reason": "Direct watch page throttled and public oEmbed disabled; exact uploader channel ID, runtime, actual audio, India country metadata, embeddability and season mapping remain unverified."
+    },
+    {
+      "video_id": "_IiljJe9E0E",
+      "title": "Pokémon: Diamond and Pearl Episode 27",
+      "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+      "published_on": "2026-01-13",
+      "views_at_search": 270171,
+      "catalogue_id_present": false,
+      "status": "not_added_verification_incomplete",
+      "reason": "Direct watch page throttled and public oEmbed disabled; exact uploader channel ID, runtime, actual audio, India country metadata, embeddability and season mapping remain unverified."
+    },
+    {
+      "video_id": "st8npKe9WIo",
+      "title": "Pokémon: Diamond and Pearl Episode 29",
+      "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+      "published_on": "2026-01-27",
+      "views_at_search": 345022,
+      "catalogue_id_present": false,
+      "status": "not_added_verification_incomplete",
+      "reason": "Direct watch page throttled and public oEmbed disabled; exact uploader channel ID, runtime, actual audio, India country metadata, embeddability and season mapping remain unverified."
+    },
+    {
+      "video_id": null,
+      "title": "Pururun! Shizuku-chan 51-episode TMS campaign",
+      "status": "not_added_edition_unverified",
+      "primary_source": "TMS Entertainment announcement dated 2026-07-01",
+      "reason": "Official campaign began 2026-07-03; episodes 1–3 were advertised as permanent and later groups had limited windows. No exact video IDs or English-subtitle evidence were verified, so Japanese-audio eligibility is not established."
+    },
+    {
+      "video_id": "8mhC_bFdHEY",
+      "title": "Shinchan New episode without zoom effect",
+      "uploader": "Sonia Sethi",
+      "status": "skipped_unauthorized_reupload",
+      "reason": "Unreviewed uploader; no primary-source authorization evidence."
+    },
+    {
+      "video_id": "VFSOlTSyWKo",
+      "title": "Shin chan’s 20 Years of Masti in India",
+      "uploader": "Sony SAB",
+      "status": "skipped_not_full_episode",
+      "reason": "Promotional/anniversary video, not a full episode."
+    },
+    {
+      "video_id": "etVMaKdQR2o",
+      "title": "Claimed Ne Zha Hindi full movie",
+      "uploader": "BANGLA Video",
+      "status": "skipped_unauthorized",
+      "reason": "No primary-source rights-holder authorization evidence."
+    },
+    {
+      "video_id": "-yLpZx1EX0Q",
+      "title": "Claimed Ne Zha 2 Hindi full movie",
+      "uploader": "Learn Skills Zone",
+      "status": "skipped_unauthorized",
+      "reason": "No primary-source rights-holder authorization evidence."
+    },
+    {
+      "video_id": "33uqlnzrhsE",
+      "title": "Claimed Suzume Hindi full movie",
+      "uploader": "UA 20 MARCH",
+      "status": "skipped_unauthorized",
+      "reason": "Unreviewed uploader; no rights-holder authorization evidence."
+    },
+    {
+      "video_id": "7MnhlIIACcY",
+      "title": "Your Name & Suzume Movie Official Hindi Dub",
+      "uploader": "SaiYox",
+      "status": "skipped_unverified_source_and_full_content",
+      "reason": "Unreviewed uploader; authorization and full-feature status not established."
+    },
+    {
+      "video_id": "CncVazPN0b0",
+      "title": "My Golden Life EP.2",
+      "uploader_label": "KBS WORLD TV indexed result",
+      "status": "not_added_verification_incomplete",
+      "reason": "Actual Korean audio, English subtitles, runtime, India metadata and oEmbed remain unverified."
+    },
+    {
+      "video_id": "HmqoC0oual8",
+      "title": "My Golden Life EP.3",
+      "uploader_label": "KBS WORLD TV indexed result",
+      "status": "not_added_verification_incomplete",
+      "reason": "Actual Korean audio, English subtitles, runtime, India metadata and oEmbed remain unverified."
+    }
+  ],
+  "category_results": {
+    "anime-series": "Three absent Pokémon episode IDs are promising Hindi leads but fail per-video metadata gates; no new series/season entry created.",
+    "anime-movies": "No new authorized full feature passed all gates. Ne Zha and Suzume claims lacked rights-holder evidence; historical limited releases were not treated as currently available.",
+    "movies": "No exact new Hindi/English full-film upload passed verification.",
+    "k-dramas": "My Golden Life EP.2–3 remain unresolved because actual audio/subtitles, runtime, India metadata and oEmbed could not be verified."
+  },
+  "access_limits": [
+    "Direct YouTube watch pages were throttled and public oEmbed/Atom endpoints were disabled; runtime, exact uploader ID, actual audio, India metadata and embeddability could not be confirmed.",
+    "Public AniLove sitemap and representative pages could not be fetched by the web tool; this does not establish site downtime.",
+    "No local build/audit/unit-test run was possible in this remote-only pass; the catalogue was not changed. Vercel's configured build command remains python3 build.py."
+  ],
+  "outcome": "No catalogue additions. Exact candidate IDs and skip reasons are recorded here and the backlog is being updated for the next run."
+}

@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-20T12:05:36+05:30",
+  "last_run": "2026-10-20T18:56:49+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Public discovery completed; no new uploads passed all publication gates",
+  "state": "Evening public discovery completed; no new uploads passed all publication gates",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,12 +11,14 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No catalogue additions: fresh-looking anime IDs were duplicates; other candidates lacked exact public watch/oEmbed, authorization, language, runtime or India metadata.",
-    "Direct YouTube watch pages were throttled and public oEmbed/Atom-feed fetches were disabled in this environment; unverified candidates were not imported.",
-    "Actual India playback remains unobserved for new candidates; no exhaustive YouTube coverage claim."
+    "Three Pokémon Diamond and Pearl Hindi episode leads are absent from the catalogue, but exact watch pages were throttled and public oEmbed was disabled; runtime, exact uploader channel ID, actual audio, India country metadata and embeddability remain unverified.",
+    "Movie search surfaced unauthorized full-film claims and unverified/limited releases; no new authorized full feature passed the gates.",
+    "My Golden Life episode leads still lack verifiable actual audio/subtitle, runtime, India metadata and oEmbed evidence.",
+    "Production sitemap and representative pages could not be fetched by the web tool; this does not establish site downtime.",
+    "No local build/audit/unit tests were run in this remote-only pass. The catalogue was not changed; the configured Vercel build command is python3 build.py."
   ],
-  "next_scheduled_run": null,
-  "cursor": 5,
+  "next_scheduled_run": "2026-10-20T19:00:00+05:30",
+  "cursor": 6,
   "last_manual_verification": "2026-10-20",
   "catalogue_counts": {
     "anime-series": 57,
@@ -44,19 +46,21 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "verification_report": "data/verification/2026-10-20-evening-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
   ],
   "last_display_update": "2026-10-19T02:38:40.403331+05:30",
-  "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
+  "display_state": "No new eligible uploads passed the source, language, full-content, India and embed verification gates; unresolved candidates are recorded in the discovery backlog.",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-20-evening-discovery.json",
   "latest_discovery_run": {
     "date": "2026-10-20",
-    "base_commit": "2a3d359f1de496e99f55db0168a72dcac1ad5276",
+    "run_period": "evening",
+    "base_commit": "36ce26d86a42ebc4a03d9370f1f96b45af185ddf",
+    "checked_at": "2026-10-20T18:56:49+05:30",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
@@ -64,6 +68,16 @@
       "anime-movies": 0,
       "movies": 0,
       "k-dramas": 0
+    },
+    "catalogue_snapshot": {
+      "title_count": 219,
+      "upload_count": 1674,
+      "by_category": {
+        "anime-series": 57,
+        "anime-movies": 20,
+        "movies": 89,
+        "k-dramas": 53
+      }
     }
   }
 }
