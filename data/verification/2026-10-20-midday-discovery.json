@@ -1,0 +1,107 @@
+{
+  "checked_on": "2026-10-20",
+  "run_period": "midday",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "catalogue_snapshot": {
+    "titles": 219,
+    "uploads": 1674,
+    "categories": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    }
+  },
+  "searches": {
+    "anime-series": [
+      "Muse India/Muse Hindi Dub Hindi episode leads",
+      "Pokémon Asia Official Hindi full episodes",
+      "Crayon Shinchan Hindi full episode official"
+    ],
+    "anime-movies": [
+      "Doraemon/Pokémon Hindi full feature",
+      "Suzume official full movie",
+      "Ne Zha animated full feature",
+      "RetroCrush/TMS/Gundam official anime movies"
+    ],
+    "movies": [
+      "Shemaroo Movies Hindi full movie October 2026",
+      "Goldmines Hindi full movie October 2026"
+    ],
+    "k-dramas": [
+      "KBS WORLD TV My Golden Life EP.2/3/29/40 subtitles"
+    ]
+  },
+  "candidates": [
+    {
+      "id": "o0IqkvANLtk",
+      "title": "Pokémon: Diamond and Pearl Episode 1 Hindi",
+      "channel": "Pokémon Asia Official (Hindi)",
+      "result": "Not added: runtime, India metadata and oEmbed could not be verified."
+    },
+    {
+      "id": "PhtzTncQ0lE",
+      "title": "Fairy Tail S3E01",
+      "result": "Not added: exact uploader ID/runtime/India metadata/oEmbed unavailable."
+    },
+    {
+      "id": "ikUN1-6xHoI",
+      "title": "Fairy Tail S3E02",
+      "result": "Not added: exact uploader ID/runtime/India metadata/oEmbed unavailable."
+    },
+    {
+      "id": "CncVazPN0b0",
+      "title": "My Golden Life EP.2",
+      "channel": "KBS WORLD TV",
+      "result": "Not added: actual audio, runtime, India metadata and oEmbed unverified."
+    },
+    {
+      "id": "HmqoC0oual8",
+      "title": "My Golden Life EP.3",
+      "channel": "KBS WORLD TV",
+      "result": "Not added: actual audio, runtime, India metadata and oEmbed unverified."
+    },
+    {
+      "id": "EYvKlrX_Csw",
+      "uploader": "Shinchan4u",
+      "result": "Skipped: no primary-source rights-holder authorization."
+    },
+    {
+      "id": "SXY3CwUmf1k",
+      "uploader": "Dosto Subscribe Kr Do",
+      "result": "Skipped: no primary-source rights-holder authorization."
+    },
+    {
+      "id": "-yLpZx1EX0Q",
+      "uploader": "Learn Skills Zone",
+      "result": "Skipped: no authorization evidence for claimed Ne Zha full movie."
+    },
+    {
+      "id": "etVMaKdQR2o",
+      "uploader": "BANGLA Video",
+      "result": "Skipped: no authorization evidence for claimed Ne Zha full movie."
+    },
+    {
+      "id": "ETlOSBR92Fs",
+      "uploader": "A24",
+      "result": "Skipped: trailer, not a full feature."
+    }
+  ],
+  "unresolved": [
+    "Fairy Tail S3E01-03/S3E06-08/S3E11",
+    "My Golden Life EP.2-3",
+    "Pokémon Horizons Hindi EP.45-46",
+    "Assassination Classroom Hindi EP.18-19",
+    "Doraemon/Pokémon films",
+    "Suzume",
+    "animated Ne Zha",
+    "Crayon Shinchan"
+  ],
+  "access_limits": [
+    "YouTube watch pages failed/throttled; oEmbed and Atom-feed fetches were disabled, so runtime, embeddability and India metadata could not be confirmed.",
+    "Public homepage and sitemap fetches failed in the web tool; this does not prove the site is down.",
+    "Authorized desktop was offline and the execution container could not resolve github.com, so local audit/unit tests were not run."
+  ],
+  "outcome": "No catalogue additions. No new content is claimed live."
+}
