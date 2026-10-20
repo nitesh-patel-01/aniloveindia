@@ -26920,8 +26920,8 @@
           24
         ],
         "expected_episode_source_url": "https://ragna-crimson.com/story/",
-        "completion_note": "The anime has episodes 1–24 in the original story listing. Only individually checked uploads are numbered here. The official playlist can expose additional videos in YouTube’s menu; its current complete availability and actual India playback are not certified.",
-        "last_checked": "2026-10-18",
+        "completion_note": "Episodes 1–17 have individual episode links in this catalogue. The official Muse Hindi Dub playlist is linked for further episodes through episode 24 where available; individual episode links are added only after their exact video IDs are verified. Season completeness and actual India playback are not certified.",
+        "last_checked": "2026-10-20",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "playlist_id": "PL58yVIn3OxOF_vVMt2e8ggmJMHeacDjlv",
@@ -27076,6 +27076,26 @@
             "metadata_check": "Reviewed Muse Hindi Dub publisher, explicit Hindi audio and episode number, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 16",
+            "video_id": "UeQNx_2izd0",
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Owner-provided episode embed URL; official Muse Hindi Dub playlist linked for the series. Runtime and India playback not independently verified in this update.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "17",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 17",
+            "video_id": "phgyeZK0jDk",
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Owner-provided episode embed URL; official Muse Hindi Dub playlist linked for the series. Runtime and India playback not independently verified in this update.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
           }
         ]
       }
