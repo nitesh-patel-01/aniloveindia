@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:01:47+05:30",
+  "updated_at": "2026-10-20T12:05:36+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -2640,7 +2640,8 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "junji-ito-collection",
@@ -3135,7 +3136,7 @@
         }
       ],
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3813,7 +3814,7 @@
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-muse-hindi-backfill.json",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "one-punch-man",
@@ -4640,7 +4641,8 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "pokemon-horizons",
@@ -4677,7 +4679,8 @@
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
         "2026-10-20 search did not surface exact official Hindi episode 45/46 watch pages; retain episodes 30–44 and retry public feed/pagination plus exact metadata checks."
       ],
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "last_attempted_on": "2026-10-20"
     },
     {
       "title_id": "pokemon-diamond-and-pearl",
@@ -4899,7 +4902,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4937,7 +4940,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -4974,7 +4977,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -5046,12 +5049,18 @@
           "runtime": "1:14",
           "reason": "Official trailer only, not a full feature.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "-yLpZx1EX0Q",
+          "uploader": "Learn Skills Zone",
+          "reason": "Unreviewed channel; authorization not established.",
+          "observed_on": "2026-10-20"
         }
       ],
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -5072,7 +5081,7 @@
         "V79ZivIRF0Y"
       ],
       "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "lv2st0cDaYM",
@@ -5449,7 +5458,7 @@
       "title": "Assassination Classroom",
       "priority": 1,
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-anime-gap-update.json",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
       "published_hindi_coverage": [
         {
           "season_id": "assassination-classroom-season-1-hindi",
@@ -5473,7 +5482,7 @@
         "1"
       ],
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -5668,5 +5677,13 @@
       "primary_source_checked": "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html",
       "reason": "Official franchise source is only a lead; no exact YouTube episode passed English-subtitle, IN and embed checks."
     }
-  ]
+  ],
+  "latest_run": {
+    "date": "2026-10-20",
+    "report": "data/verification/2026-10-20-afternoon-discovery.json",
+    "catalogue_additions": 0,
+    "added_titles": 0,
+    "added_uploads": 0,
+    "summary": "Four-category YouTube discovery completed; fresh-looking results were duplicates or failed source/language/runtime/embed/India metadata gates."
+  }
 }

@@ -1,0 +1,286 @@
+{
+  "checked_on": "2026-10-20",
+  "run_period": "afternoon",
+  "base_commit": "2a3d359f1de496e99f55db0168a72dcac1ad5276",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "added_by_category": {
+    "anime-series": 0,
+    "anime-movies": 0,
+    "movies": 0,
+    "k-dramas": 0
+  },
+  "added": [],
+  "catalogue_snapshot": {
+    "title_count": 219,
+    "by_category": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    },
+    "upload_count": 1674,
+    "cached_eligible_ids": 363,
+    "cached_eligible_missing_from_catalogue": 0,
+    "playlist_index_unique_ids": 363,
+    "playlist_index_missing_from_catalogue": 0
+  },
+  "discovery": {
+    "anime-series": {
+      "queries": [
+        "Assassination Classroom Hindi episodes 18–19 Muse India",
+        "Re:ZERO Hindi episode search",
+        "JoJo Golden Wind Hindi Muse IN",
+        "Attack on Titan Season 3 Hindi Muse IN",
+        "Cells at Work S1E10 Hindi Muse IN",
+        "Pokémon Horizons Hindi episodes 45–46",
+        "Fairy Tail Hindi episodes 73–84",
+        "Muse India and Muse Hindi Dub current uploads"
+      ],
+      "candidates": [
+        {
+          "video_id": "Tab-cFyTKp8",
+          "title": "Cells at Work! S1E10 Hindi",
+          "status": "duplicate",
+          "reason": "Already in catalogue; cached check records 1420 seconds, reviewed Muse India channel, India country metadata and oEmbed on 2026-10-18. Actual India playback unverified."
+        },
+        {
+          "video_id": "q_puPslPhCM",
+          "title": "Re:ZERO S1E02 Hindi",
+          "status": "duplicate",
+          "reason": "Already in catalogue; cached check dated 2026-10-17."
+        },
+        {
+          "video_id": "v2snc-uc8vI",
+          "title": "One-Punch Man S3E12 Hindi",
+          "status": "duplicate",
+          "reason": "Already in catalogue; runtime, reviewed Muse India uploader, India country metadata and oEmbed checked 2026-10-20."
+        },
+        {
+          "video_id": "PhtzTncQ0lE",
+          "title": "Fairy Tail S3E01",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "ikUN1-6xHoI",
+          "title": "Fairy Tail S3E02",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "kM6JddkwwrQ",
+          "title": "Fairy Tail S3E03",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "LHrj8EtmGOI",
+          "title": "Fairy Tail S3E06",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "_jZe1Mu-a3A",
+          "title": "Fairy Tail S3E07",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "zncNPfEqgb0",
+          "title": "Fairy Tail S3E08",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "_oI_LkeRDC4",
+          "title": "Fairy Tail S3E11",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed lead only; exact watch/oEmbed, actual uploader ID, runtime, India metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": null,
+          "title": "Assassination Classroom S1E18–19 Hindi",
+          "status": "no_exact_watch_id_found"
+        },
+        {
+          "video_id": null,
+          "title": "Pokémon Horizons Hindi episodes 45–46",
+          "status": "no_exact_watch_id_found"
+        }
+      ],
+      "result": "No new episode passed all publication gates; exact fresh-looking IDs were duplicates or unverified leads."
+    },
+    "anime-movies": {
+      "queries": [
+        "Doraemon/डोरेमोन full feature Hindi official",
+        "Pokémon/पोकेमॉन full feature Hindi official",
+        "Suzume no Tojimari full movie Hindi official",
+        "Ne Zha/Nezha/哪吒 full movie Hindi or English",
+        "TMS, RetroCrush and Gundam official full anime movies"
+      ],
+      "candidates": [
+        {
+          "video_id": "-yLpZx1EX0Q",
+          "title": "Ne Zha 2 Hindi full movie",
+          "uploader": "Learn Skills Zone",
+          "status": "skipped_unauthorized",
+          "reason": "No primary-source rights-holder authorization evidence."
+        },
+        {
+          "video_id": "etVMaKdQR2o",
+          "title": "Ne Zha Hindi full movie",
+          "uploader": "BANGLA Video",
+          "status": "skipped_unauthorized",
+          "reason": "Unreviewed uploader; no primary-source authorization."
+        },
+        {
+          "video_id": "ETlOSBR92Fs",
+          "title": "A24 trailer result",
+          "status": "skipped_not_full_feature",
+          "reason": "Trailer only."
+        }
+      ],
+      "result": "No new authorized full feature passed all gates; Doraemon surfaced as a teaser/news lead, and other full-film claims were unreviewed."
+    },
+    "movies": {
+      "queries": [
+        "Goldmines Hindi full movies October 2026",
+        "Shemaroo Movies Hindi full movies October 2026",
+        "Patas Hindi full movie Goldmines",
+        "new Hindi-dubbed full movie official YouTube"
+      ],
+      "candidates": [
+        {
+          "video_id": "uc9wd88XRF8",
+          "title": "Do Khiladi (SMP)",
+          "status": "duplicate",
+          "reason": "Already in catalogue."
+        },
+        {
+          "video_id": null,
+          "title": "Patas (Hindi)",
+          "status": "not_verified_full_movie",
+          "reason": "Results were promotional countdowns, not an exact verified full-film upload."
+        }
+      ],
+      "result": "No new eligible Hindi/English full movie passed all gates."
+    },
+    "k-dramas": {
+      "queries": [
+        "KBS WORLD TV My Golden Life EP.2 English subtitles",
+        "KBS WORLD TV My Golden Life EP.3 English subtitles",
+        "KBS WORLD TV My Golden Life EP.4 English subtitles",
+        "KBS WORLD TV full drama episode English subtitles"
+      ],
+      "candidates": [
+        {
+          "video_id": "CncVazPN0b0",
+          "title": "My Golden Life EP.2",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed title labels ENG/CHN/IND subtitles, but exact audio, runtime, India metadata and oEmbed were not confirmed."
+        },
+        {
+          "video_id": "HmqoC0oual8",
+          "title": "My Golden Life EP.3",
+          "status": "not_added_metadata_inaccessible",
+          "reason": "Indexed title labels ENG/CHN/IND subtitles, but exact audio, runtime, India metadata and oEmbed were not confirmed."
+        }
+      ],
+      "result": "No new drama episode passed all gates."
+    }
+  },
+  "skipped": [
+    {
+      "video_id": "Tab-cFyTKp8",
+      "reason": "Duplicate already in catalogue."
+    },
+    {
+      "video_id": "q_puPslPhCM",
+      "reason": "Duplicate already in catalogue."
+    },
+    {
+      "video_id": "v2snc-uc8vI",
+      "reason": "Duplicate already in catalogue."
+    },
+    {
+      "video_id": "-yLpZx1EX0Q",
+      "reason": "Unreviewed uploader; authorization absent."
+    },
+    {
+      "video_id": "etVMaKdQR2o",
+      "reason": "Unreviewed uploader; authorization absent."
+    },
+    {
+      "video_id": "ETlOSBR92Fs",
+      "reason": "Trailer, not full feature."
+    },
+    {
+      "video_id": "uc9wd88XRF8",
+      "reason": "Duplicate already in catalogue."
+    }
+  ],
+  "unresolved_searches": [
+    {
+      "title_id": "fairy-tail",
+      "episodes": [
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E11"
+      ],
+      "reason": "Exact watch/oEmbed metadata inaccessible; runtime, uploader ID, India metadata and embeddability unconfirmed."
+    },
+    {
+      "title_id": "my-golden-life",
+      "episodes": [
+        2,
+        3
+      ],
+      "reason": "Audio language, runtime, India metadata and oEmbed unconfirmed."
+    },
+    {
+      "title_id": "pokemon-horizons",
+      "episodes": [
+        45,
+        46
+      ],
+      "reason": "No exact official Hindi watch IDs surfaced."
+    },
+    {
+      "title_id": "assassination-classroom",
+      "episodes": [
+        18,
+        19
+      ],
+      "reason": "No exact official Hindi watch IDs surfaced."
+    },
+    {
+      "title_id": "doraemon-movies",
+      "reason": "No authorized full feature found in this pass."
+    },
+    {
+      "title_id": "pokemon-movies",
+      "reason": "No authorized full feature found in this pass."
+    },
+    {
+      "title_id": "suzume",
+      "reason": "No authorized full feature found in this pass."
+    },
+    {
+      "title_id": "ne-zha-animated-films",
+      "reason": "Full-film claims came from unreviewed channels."
+    },
+    {
+      "title_id": "crayon-shinchan",
+      "reason": "No exact official full episode passed all gates."
+    }
+  ],
+  "access_limits": [
+    "Direct YouTube watch pages were throttled and oEmbed/feed endpoints were disabled in this environment; unresolved candidates were not imported.",
+    "Actual India playback remains unverified for newly surfaced candidates. No exhaustive YouTube coverage claim."
+  ]
+}
