@@ -1,0 +1,268 @@
+{
+  "checked_on": "2026-10-20",
+  "base_commit": "e3ecfe0d852d7c954ec265725ef7ffc01f2ff114",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "added_by_category": {
+    "anime-series": 0,
+    "anime-movies": 0,
+    "movies": 0,
+    "k-dramas": 0
+  },
+  "added": [],
+  "verified_candidates_not_added": [
+    {
+      "video_id": "ejgaIxCTBPs",
+      "title": "One-Punch Man S3E07 Hindi",
+      "status": "duplicate",
+      "reason": "Exact video ID is already in the catalogue."
+    },
+    {
+      "video_id": "AddbOISDTms",
+      "title": "Who Are You EP16",
+      "status": "duplicate-edition",
+      "reason": "The same Korean-audio/English-subtitle episode number is already listed as 66IWEpzAuPQ."
+    },
+    {
+      "video_id": "zsLMsPSbHNY",
+      "title": "Raja the Great",
+      "status": "duplicate",
+      "reason": "Exact video ID is already in the catalogue."
+    },
+    {
+      "video_id": "uc9wd88XRF8",
+      "title": "Do Khiladi",
+      "status": "duplicate",
+      "reason": "Exact video ID is already in the catalogue."
+    }
+  ],
+  "discovery": {
+    "anime-series": {
+      "queries": [
+        "Fairy Tail Hindi Dub episodes 73–84 Muse India",
+        "One-Punch Man S3E03/S3E07/S3E08/S3E10 Hindi Muse IN",
+        "Slime S4E04–S4E07 Hindi Muse IN",
+        "Ragna Crimson episodes 16–17 Hindi Muse IN",
+        "Pokémon Horizons Hindi episodes 45–46 official",
+        "Pokémon Ultimate Journeys episode 55 Hindi official",
+        "Shinchan Hindi full episode official Sony YAY",
+        "शिनचैन हिंदी फुल एपिसोड Sony YAY",
+        "Crayon Shinchan Muse Asia English-subtitled full episode"
+      ],
+      "leads": [
+        {
+          "video_id": "PhtzTncQ0lE",
+          "title": "Fairy Tail 073 / S3E01 Hindi Dub",
+          "published_on": "2025-07-18",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "ikUN1-6xHoI",
+          "title": "Fairy Tail 074 / S3E02 Hindi Dub",
+          "published_on": "2025-07-19",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "kM6JddkwwrQ",
+          "title": "Fairy Tail 075 / S3E03 Hindi Dub",
+          "published_on": "2025-07-20",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "LHrj8EtmGOI",
+          "title": "Fairy Tail 078 / S3E06 Hindi Dub",
+          "published_on": "2025-07-23",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "_jZe1Mu-a3A",
+          "title": "Fairy Tail 079 / S3E07 Hindi Dub",
+          "published_on": "2025-07-24",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "zncNPfEqgb0",
+          "title": "Fairy Tail 080 / S3E08 Hindi Dub",
+          "published_on": "2025-07-25",
+          "uploader_label": "Muse India"
+        },
+        {
+          "video_id": "_oI_LkeRDC4",
+          "title": "Fairy Tail 083 / S3E11 Hindi Dub",
+          "published_on": "2025-07-28",
+          "uploader_label": "Muse India"
+        }
+      ],
+      "result": "These are indexed leads, not verified additions. Exact watch metadata/oEmbed was throttled or inaccessible; runtime, actual uploader ID, IN country metadata and embeddability remain unconfirmed."
+    },
+    "anime-movies": {
+      "queries": [
+        "Doraemon full movie Hindi official / डोरेमोन पूरी फिल्म हिंदी",
+        "Pokémon full movie Hindi official / पोकेमॉन मूवी हिंदी",
+        "Suzume no Tojimari full movie Hindi official",
+        "Ne Zha/Nezha/哪吒 full movie Hindi official",
+        "Anime! on TMS full movie English dub",
+        "GUNDAM CHANNEL INTL full movie English dub",
+        "RetroCrush full anime movie English"
+      ],
+      "result": "No new authorized full feature passed all gates. Results were unauthorized full-film claims, trailers, split parts or existing titles.",
+      "skipped_ids": [
+        "1oZ3DQSWoIE",
+        "mr5ACT0VvHk",
+        "dG9vFw0cjb0",
+        "u95881QcLwA",
+        "33uqlnzrhsE",
+        "etVMaKdQR2o",
+        "tykH1y90Lp0",
+        "n4nArwTbKb8",
+        "AUISM-CrrYY",
+        "dTPbtdFXTpg",
+        "ETlOSBR92Fs"
+      ]
+    },
+    "movies": {
+      "queries": [
+        "Patas Hindi full movie Goldmines Dhanush",
+        "Goldmines Hindi dubbed full movie October 2026",
+        "Shemaroo Movies full Hindi movie October 2026",
+        "THE BOSS CM RDC South Dubbed full movie Hindi"
+      ],
+      "result": "Raja the Great and Do Khiladi are already catalogued. Patas results were premiere countdowns/promos, not a verified full-film upload. The Boss CM is a new-channel lead pending primary-source authorization and exact YouTube metadata.",
+      "skipped_ids": [
+        "pBHs6WKqYTw",
+        "iva5wsuBkVQ",
+        "GcldI-4aEuA",
+        "ffiB-RRaP8Q",
+        "ZYEPdVsZG-o",
+        "sdOQ6TnM5Es"
+      ]
+    },
+    "k-dramas": {
+      "queries": [
+        "My Golden Life EP.2 KBS WORLD TV full episode",
+        "My Golden Life EP.3 KBS WORLD TV full episode",
+        "KBS WORLD TV full episode English subtitles",
+        "Who Are You School 2015 EP.16 KBS WORLD TV"
+      ],
+      "leads": [
+        {
+          "video_id": "CncVazPN0b0",
+          "title": "My Golden Life EP.2",
+          "published_on": "2017-09-10",
+          "uploader_label": "KBS WORLD TV",
+          "subtitle_label": "ENG, CHN, IND"
+        },
+        {
+          "video_id": "HmqoC0oual8",
+          "title": "My Golden Life EP.3",
+          "published_on": "2017-09-16",
+          "uploader_label": "KBS WORLD TV",
+          "subtitle_label": "ENG, CHN, IND"
+        }
+      ],
+      "result": "Official titles label English subtitles, but exact audio track, runtime, IN country metadata and oEmbed could not be independently verified."
+    }
+  },
+  "skipped": [
+    {
+      "video_id": "u95881QcLwA",
+      "reason": "Official Pokémon Hindi trailer, not a full feature."
+    },
+    {
+      "video_id": "ETlOSBR92Fs",
+      "reason": "Official A24 trailer, not a full feature."
+    },
+    {
+      "video_id": "lv2st0cDaYM",
+      "reason": "Shinchan reupload by Sandip wagle; title mentioning Sony YAY does not make it the official channel."
+    },
+    {
+      "video_id": "JFL41rTf1L8",
+      "reason": "Shinchan upload from an unreviewed channel."
+    },
+    {
+      "video_id": "V79ZivIRF0Y",
+      "reason": "Muse Asia promo, not a full episode or feature."
+    },
+    {
+      "video_id": "sdOQ6TnM5Es",
+      "reason": "RDC South Dubbed lead lacks primary-source authorization evidence and exact YouTube watch/IN/oEmbed verification."
+    }
+  ],
+  "unresolved_searches": [
+    {
+      "title_id": "ragna-crimson",
+      "episodes": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "reason": "No exact official Hindi IDs surfaced."
+    },
+    {
+      "title_id": "that-time-i-got-reincarnated-as-a-slime",
+      "season_id": "that-time-i-got-reincarnated-as-a-slime-season-4-hindi",
+      "episodes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "reason": "No exact official Hindi IDs surfaced; episode 8 does not prove availability of 4–7."
+    },
+    {
+      "title_id": "pokemon-horizons",
+      "episodes": [
+        45,
+        46
+      ],
+      "reason": "No exact official Hindi watch pages surfaced beyond current episodes 30–44."
+    },
+    {
+      "title_id": "crayon-shinchan",
+      "reason": "Official Sony YAY/TV Asahi source crosslink and exact eligible full-video metadata remain unresolved."
+    }
+  ],
+  "source_review": [
+    {
+      "channel": "RDC South Dubbed",
+      "channel_id": "UCOOiD1QMZG8fwH9oGdGIuUQ",
+      "video_id": "sdOQ6TnM5Es",
+      "state": "needs_primary_source_authorization_evidence"
+    },
+    {
+      "channel": "Sony YAY!",
+      "channel_id": "UC760cHmgkk00FRT1dw2DMdA",
+      "state": "needs_primary_source_crosslink_for_shinchan"
+    },
+    {
+      "channel": "TV Asahi / Crayon Shinchan",
+      "channel_id": null,
+      "source_url": "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html",
+      "state": "exact_upload_unverified"
+    }
+  ],
+  "limits": [
+    "Exact YouTube watch-page fetches returned throttling/errors; oEmbed endpoints were inaccessible in this run.",
+    "New candidates did not pass every required check for actual uploader ID, full-content status, runtime, availableCountries including IN, playability and oEmbed; none was imported.",
+    "Actual India playback is unobserved. Search results are discovery leads, not proof of availability.",
+    "No exhaustive YouTube coverage or trending-rank claim is made."
+  ],
+  "validation": {
+    "catalogue_changed": false,
+    "catalogue_titles_before": 219,
+    "catalogue_titles_after": 219,
+    "json_validation": "Report parsed successfully before commit.",
+    "build": "Not run locally; no connected execution device is available. Check the new commit's Vercel status after publication.",
+    "audit": "Not run locally in this runtime.",
+    "unit_tests": "Not run locally in this runtime.",
+    "node_syntax": "Not run; assets/app.js unchanged.",
+    "previous_head_vercel_status": "success for base commit only."
+  }
+}

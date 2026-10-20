@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T02:48:42.404868+05:30",
+  "updated_at": "2026-10-20T08:01:47+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -3072,7 +3072,8 @@
       ],
       "next_actions": [
         "Recover earlier and later official upload IDs from publisher playlists, public feed and indexed watch pages.",
-        "Merge exact season-relative episodes into existing Hindi editions; do not infer completion from search results or compilations."
+        "Merge exact season-relative episodes into existing Hindi editions; do not infer completion from search results or compilations.",
+        "Retry exact watch/oEmbed checks for indexed Fairy Tail Season 3 Hindi leads in the 2026-10-20 morning discovery report before creating a Season 3 entry."
       ],
       "published_hindi_coverage": [
         {
@@ -3134,7 +3135,7 @@
         }
       ],
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-post-adsense-update.json",
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3325,7 +3326,87 @@
           ],
           "verified_complete": false
         }
-      ]
+      ],
+      "unverified_edition_leads": [
+        {
+          "video_id": "PhtzTncQ0lE",
+          "episode": "S3E01",
+          "published_on": "2025-07-18",
+          "source_url": "https://www.youtube.com/watch?v=PhtzTncQ0lE",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "ikUN1-6xHoI",
+          "episode": "S3E02",
+          "published_on": "2025-07-19",
+          "source_url": "https://www.youtube.com/watch?v=ikUN1-6xHoI",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "kM6JddkwwrQ",
+          "episode": "S3E03",
+          "published_on": "2025-07-20",
+          "source_url": "https://www.youtube.com/watch?v=kM6JddkwwrQ",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "LHrj8EtmGOI",
+          "episode": "S3E06",
+          "published_on": "2025-07-23",
+          "source_url": "https://www.youtube.com/watch?v=LHrj8EtmGOI",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "_jZe1Mu-a3A",
+          "episode": "S3E07",
+          "published_on": "2025-07-24",
+          "source_url": "https://www.youtube.com/watch?v=_jZe1Mu-a3A",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "zncNPfEqgb0",
+          "episode": "S3E08",
+          "published_on": "2025-07-25",
+          "source_url": "https://www.youtube.com/watch?v=zncNPfEqgb0",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "_oI_LkeRDC4",
+          "episode": "S3E11",
+          "published_on": "2025-07-28",
+          "source_url": "https://www.youtube.com/watch?v=_oI_LkeRDC4",
+          "uploader_label": "Muse India (indexed result)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        }
+      ],
+      "reason": "Existing Hindi Season 1/2 and Season 7 entries are preserved. Public search surfaced Season 3 Hindi leads for episodes 73–75, 78–80 and 83, but exact watch metadata was throttled/inaccessible. No Season 3 entries or completion claims added."
     },
     {
       "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -4566,7 +4647,7 @@
       "title": "Pokémon Horizons: The Series",
       "state": "partial_backfill",
       "priority": 2,
-      "last_backfill_date": "2026-10-19",
+      "last_backfill_date": "2026-10-20",
       "preferred_audio": "Hindi",
       "published_coverage": [
         {
@@ -4593,8 +4674,10 @@
         }
       ],
       "next_actions": [
-        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
-      ]
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
+        "2026-10-20 search did not surface exact official Hindi episode 45/46 watch pages; retain episodes 30–44 and retry public feed/pagination plus exact metadata checks."
+      ],
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
     },
     {
       "title_id": "pokemon-diamond-and-pearl",
@@ -4769,7 +4852,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "queries": [
         "Doraemon full movie Hindi official",
         "डोरेमोन पूरी फिल्म हिंदी",
@@ -4787,12 +4870,36 @@
           "uploader": "Toon Flix",
           "channel_id": "UCQhlOcl-MIep9giMJRkxkDg",
           "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "1oZ3DQSWoIE",
+          "uploader": "Watch cartoon",
+          "channel_id": "UCetSRpoVMAcyBdyNYmv1JZw",
+          "runtime": "1:40:53",
+          "reason": "Unreviewed uploader; no rights-holder authorization.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "mr5ACT0VvHk",
+          "uploader": "Just Pocket",
+          "channel_id": "UCKXpufTGJF4uE0OYj4HUJSQ",
+          "runtime": "54:18",
+          "reason": "Unreviewed uploader and shorter/partial upload.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "dG9vFw0cjb0",
+          "uploader": "BOTXAEL MOVIE",
+          "channel_id": "UCN_wb4lOplKBAfB6PzxsIYA",
+          "runtime": "49:30",
+          "reason": "Unreviewed uploader; no primary-source authorization.",
+          "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4800,7 +4907,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "queries": [
         "Pokemon full movie Hindi official",
         "पोकेमॉन मूवी हिंदी",
@@ -4818,12 +4925,19 @@
           "uploader": "Mujeeb_FFx",
           "channel_id": "UC4WZ19GaovNydPm6C504o4w",
           "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "u95881QcLwA",
+          "uploader": "POKÉMON [Hindi]",
+          "channel_id": null,
+          "reason": "Official trailer only, not a full feature; exact uploader ID not recovered.",
+          "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -4831,7 +4945,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "queries": [
         "Suzume full movie Hindi"
       ],
@@ -4847,12 +4961,20 @@
           "uploader": "AMSR Cinema",
           "channel_id": "UC12AsLIziR4E1gkDQUfkh5Q",
           "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "33uqlnzrhsE",
+          "uploader": "UA 20 MARCH",
+          "channel_id": null,
+          "published_on": "2024-09-01",
+          "reason": "Unreviewed uploader; no rights-holder authorization.",
+          "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -4860,7 +4982,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "queries": [
         "Ne Zha full movie Hindi official",
         "Nezha Hindi full movie Ultra",
@@ -4884,12 +5006,52 @@
           "uploader": "iQIYI English - Get the iQIYI APP",
           "channel_id": "UCZrZaZM9IfX-uB-9yWf5gfQ",
           "reason": "Uploader not approved"
+        },
+        {
+          "video_id": "etVMaKdQR2o",
+          "uploader": "BANGLA Video",
+          "channel_id": null,
+          "published_on": "2025-05-02",
+          "reason": "Unreviewed uploader; no primary-source authorization.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "n4nArwTbKb8",
+          "uploader": "Tiger Toon",
+          "channel_id": "UCN78v9BhlSQo2O0uctOSTgQ",
+          "runtime": "1:26:27",
+          "reason": "Unreviewed uploader; no primary-source authorization.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "AUISM-CrrYY",
+          "uploader": "ANIMATED MOVIES",
+          "channel_id": "UCteWD1-kqK5Ndquhq0pmz7Q",
+          "runtime": "54:23",
+          "reason": "Unreviewed uploader; full-feature status and authorization not established.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "dTPbtdFXTpg",
+          "uploader": "UpsideDown",
+          "channel_id": "UCFDXxrEc5Wyb3Jkvzht4JDQ",
+          "runtime": "2:21:31",
+          "reason": "Unreviewed uploader; no primary-source authorization.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "ETlOSBR92Fs",
+          "uploader": "A24",
+          "channel_id": null,
+          "runtime": "1:14",
+          "reason": "Official trailer only, not a full feature.",
+          "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -4897,17 +5059,46 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "exact_uploads_failed_india_metadata_gate",
-      "last_attempted_on": "2026-10-19",
+      "last_attempted_on": "2026-10-20",
       "sources": [
         "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
         "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
         "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html"
       ],
       "candidate_video_ids": [
-        "84vWRDJvj90"
+        "84vWRDJvj90",
+        "lv2st0cDaYM",
+        "JFL41rTf1L8",
+        "V79ZivIRF0Y"
       ],
-      "reason": "429 retry recovered official upload metadata, but checked Muse Asia episode 807 and films do not evidence IN availability. Retain unresolved Hindi discovery; no uploads added.",
-      "latest_attempt_report": "data/verification/2026-10-19-evening-update.json"
+      "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
+      "candidate_uploads": [
+        {
+          "video_id": "lv2st0cDaYM",
+          "uploader": "Sandip wagle",
+          "channel_id": "UCUK9V5ZTfbhHfzkayvjr5Ag",
+          "runtime": "27:38",
+          "reason": "Title mentions Sony YAY, but uploader is not Sony YAY.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "JFL41rTf1L8",
+          "uploader": "gaming criminal",
+          "channel_id": "UCZ4wPPDk1hyrrmd1bXuFZFw",
+          "runtime": "40:39",
+          "reason": "Unreviewed uploader; no primary-source authorization.",
+          "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "V79ZivIRF0Y",
+          "uploader": "Muse Asia",
+          "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+          "runtime": "1:00",
+          "reason": "Short promo, not a full episode or movie.",
+          "observed_on": "2026-10-20"
+        }
+      ]
     },
     {
       "title_id": "ben-10-movies",
@@ -5270,11 +5461,61 @@
           ]
         }
       ]
+    },
+    {
+      "title_id": "my-golden-life",
+      "title": "My Golden Life",
+      "priority": 3,
+      "preferred_audio": "Hindi first, English second, Korean audio only with evidenced English subtitles",
+      "state": "official_episode_metadata_retry_pending",
+      "source_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "published_episode_numbers": [
+        "1"
+      ],
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-morning-discovery.json",
+      "candidate_uploads": [
+        {
+          "video_id": "CncVazPN0b0",
+          "episode": "2",
+          "title": "My Golden Life EP.2 [SUB : ENG,CHN,IND]",
+          "uploader": "KBS WORLD TV",
+          "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "published_on": "2017-09-10",
+          "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
+          "subtitle_evidence": "Official title labels ENG",
+          "audio_language": "unverified",
+          "india_metadata": "unverified",
+          "oembed": "unverified",
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed."
+        },
+        {
+          "video_id": "HmqoC0oual8",
+          "episode": "3",
+          "title": "My Golden Life EP.3 [SUB : ENG,CHN,IND]",
+          "uploader": "KBS WORLD TV",
+          "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "published_on": "2017-09-16",
+          "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
+          "subtitle_evidence": "Official title labels ENG",
+          "audio_language": "unverified",
+          "india_metadata": "unverified",
+          "oembed": "unverified",
+          "observed_on": "2026-10-20",
+          "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed."
+        }
+      ],
+      "reason": "KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed.",
+      "next_actions": [
+        "Retry exact public watch-page metadata and oEmbed for episodes 2–3.",
+        "Do not infer audio or India availability from title or uploader location."
+      ]
     }
   ],
   "pending_metadata_retry": {
-    "recorded_on": "2026-10-18",
-    "verification_report": "data/verification/2026-10-18-afternoon-recovery.json",
+    "recorded_on": "2026-10-20",
+    "verification_report": "data/verification/2026-10-20-morning-discovery.json",
     "candidates": [
       {
         "video_id": "QmtS4HrhiYo",
@@ -5295,9 +5536,95 @@
       {
         "video_id": "fvBQT3HVymo",
         "reason": "Uploader identity metadata unavailable"
+      },
+      {
+        "video_id": "PhtzTncQ0lE",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E01",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=PhtzTncQ0lE",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "ikUN1-6xHoI",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E02",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=ikUN1-6xHoI",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "kM6JddkwwrQ",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E03",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=kM6JddkwwrQ",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "LHrj8EtmGOI",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E06",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=LHrj8EtmGOI",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "_jZe1Mu-a3A",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E07",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=_jZe1Mu-a3A",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "zncNPfEqgb0",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E08",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=zncNPfEqgb0",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "_oI_LkeRDC4",
+        "title_id": "fairy-tail",
+        "season_id": "fairy-tail-season-3-hindi",
+        "episode": "S3E11",
+        "audio_language": "Hindi",
+        "source_url": "https://www.youtube.com/watch?v=_oI_LkeRDC4",
+        "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "CncVazPN0b0",
+        "title_id": "my-golden-life",
+        "episode": "2",
+        "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
+        "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed.",
+        "observed_on": "2026-10-20"
+      },
+      {
+        "video_id": "HmqoC0oual8",
+        "title_id": "my-golden-life",
+        "episode": "3",
+        "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
+        "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed.",
+        "observed_on": "2026-10-20"
       }
     ],
-    "resume_instruction": "Resume exact upload checks for unresolved metadata; retain language, identity, region and embed gates."
+    "resume_instruction": "Retry exact public YouTube watch metadata and oEmbed; never infer audio, subtitles, India availability or authorization from search snippets."
   },
   "publisher_review_candidates": [
     {
@@ -5311,6 +5638,35 @@
       "state": "needs_exact_primary_channel_crosslink",
       "primary_source_checked": "https://www.adkem.jp/works-en/beyblade-burst/",
       "reason": "ADK identifies the English channel UCktgoAFaL39_rYfiMZiD9jw; the exact Hindi sister channel still needs primary-source authorization evidence. Hindi candidates were not published on name alone."
+    },
+    {
+      "channel_id": "UCOOiD1QMZG8fwH9oGdGIuUQ",
+      "name": "RDC South Dubbed",
+      "candidate_video_ids": [
+        "sdOQ6TnM5Es"
+      ],
+      "reviewed_on": "2026-10-20",
+      "state": "needs_primary_source_authorization_evidence",
+      "primary_source_checked": null,
+      "reason": "Public search/third-party metadata surfaced a Hindi movie lead, but no accessible primary-source channel/rights-holder crosslink was established. Keep unreviewed."
+    },
+    {
+      "channel_id": "UC760cHmgkk00FRT1dw2DMdA",
+      "name": "Sony YAY!",
+      "candidate_video_ids": [],
+      "reviewed_on": "2026-10-20",
+      "state": "needs_primary_source_crosslink_for_shinchan",
+      "primary_source_checked": null,
+      "reason": "Official-channel identity surfaced, but no primary-source rights crosslink for exact full Shinchan uploads was established in this pass."
+    },
+    {
+      "channel_id": null,
+      "name": "TV Asahi / Crayon Shinchan official source",
+      "candidate_video_ids": [],
+      "reviewed_on": "2026-10-20",
+      "state": "exact_upload_unverified",
+      "primary_source_checked": "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html",
+      "reason": "Official franchise source is only a lead; no exact YouTube episode passed English-subtitle, IN and embed checks."
     }
   ]
 }
