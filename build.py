@@ -107,8 +107,7 @@ def build():
   for edition in editions:
    sid=slug(edition['id'])
    detail+='<section class="season-block" data-season-panel id="'+sid+'"><h3>'+esc(edition['label'])+'</h3><p class="small muted">'+esc(edition['audio_language'])+' audio'+(' · English subtitles' if 'English' in edition.get('subtitle_languages',[]) else '')+' · '+str(len(edition['episodes']))+' listed uploads</p>'+episode_options(edition)+'<div class="episode-grid">'+''.join('<a class="episode-card" href="/watch/'+sid+'/'+str(ep['number'])+'/"><img src="https://i.ytimg.com/vi/'+ep['video_id']+'/hqdefault.jpg" alt="'+esc(ep['title'])+'" loading="lazy" width="480" height="360"><span class="episode-number">'+('FULL MOVIE' if ep['number']=='full' else 'PLAY ALL' if ep['number']=='complete' else 'E'+str(ep['number']))+'</span><h3>'+esc(ep['title'])+'</h3><small>'+str(ep['duration_seconds']//60)+' min</small></a>'for ep in edition['episodes'])+'</div></section>'
-   if edition.get('show_playlist_player')and edition.get('playlist_id'):
-    detail+='<div class="video-shell"><button class="btn primary load-playlist" data-playlist="'+esc(edition['playlist_id'])+'" data-title="'+esc(t['title']+' · '+edition['label'])+'">▶ Open official Hindi playlist player</button><p>Use YouTube’s playlist menu for additional publisher uploads. Only individually checked videos appear in the numbered buttons above.</p></div>'
+   # Playlist-wide player removed; only individually listed episode buttons remain.
   detail+='</section>'
   if t['format']=='Movie':detail=detail.replace('Seasons & episodes','Watch the film')
   page('/title/'+t['id']+'/',t['title']+(' — watch movie' if t['format']=='Movie' else ' — seasons & episodes'),detail,t['synopsis'])
@@ -120,7 +119,7 @@ def build():
    listing='<article class="prose"><p class="eyebrow">OFFICIAL YOUTUBE EPISODES</p><h1>'+esc(t['title'])+'</h1><h2>'+esc(season.get('label',sid))+'</h2><p>'+esc(season.get('completion_note','Selected episodes; season completion not verified.'))+'</p><ol>'
    for ep in episodes:listing+='<li><a href="/watch/'+sid+'/'+str(ep['number'])+'/">Episode '+str(ep['number'])+' — '+esc(ep.get('title','Episode '+str(ep['number'])))+'</a></li>'
    listing+='</ol>'
-   if season.get('playlist_id'):listing+='<div class="video-shell"><button class="btn primary load-playlist" data-playlist="'+esc(season['playlist_id'])+'" data-title="'+esc(t['title'])+'">▶ Play official playlist here</button><p>Use YouTube’s playlist menu for more uploaded episodes. The uploader controls availability.</p></div>'
+
    listing+='<p>Audio: '+esc(season['audio_language'])+' · Subtitles: '+esc(', '.join(season.get('subtitle_languages',[])) or 'Not specified')+'</p><p>Source: <a href="'+esc(season['authorization_evidence_url'])+'">Authorization evidence</a></p></article>'
    page('/season/'+sid+'/',t['title']+' — '+season.get('label',sid),listing)
    for i,ep in enumerate(episodes):
