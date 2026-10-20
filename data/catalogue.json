@@ -26920,7 +26920,7 @@
           24
         ],
         "expected_episode_source_url": "https://ragna-crimson.com/story/",
-        "completion_note": "Episodes 1–17 have individual episode links in this catalogue. The official Muse Hindi Dub playlist is linked for further episodes through episode 24 where available; individual episode links are added only after their exact video IDs are verified. Season completeness and actual India playback are not certified.",
+        "completion_note": "Episodes 1–17 have individual video IDs. Episodes 18–24 open the owner-provided Muse Hindi Dub playlist at the corresponding episode index; exact per-episode video IDs and India playback are not independently verified. Playlist ordering must match episode numbering for the indexed player to open the intended episode.",
         "last_checked": "2026-10-20",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
@@ -27094,6 +27094,83 @@
             "duration_seconds": 1420,
             "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
             "metadata_check": "Owner-provided episode embed URL; official Muse Hindi Dub playlist linked for the series. Runtime and India playback not independently verified in this update.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 18",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 17,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "19",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 19",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 18,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "20",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 20",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 19,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "21",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 21",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 20,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "22",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 22",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 21,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "23",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 23",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 22,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
+            "india_playback": "unverified",
+            "added_on": "2026-10-20"
+          },
+          {
+            "number": "24",
+            "title": "[Hindi Dub] Ragna Crimson - Episode 24",
+            "video_id": "yT0T75OgAHo",
+            "playlist_index": 23,
+            "duration_seconds": 1420,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Added as a playlist-indexed episode using the owner-provided official Muse Hindi Dub playlist. The playlist item at the corresponding index is expected to be this episode; individual video ID, runtime and India playback have not been independently checked.",
             "india_playback": "unverified",
             "added_on": "2026-10-20"
           }
