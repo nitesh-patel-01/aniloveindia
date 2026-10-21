@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-20T12:05:36+05:30",
+  "last_run": "2026-10-21T07:56:38+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Public discovery completed; no new uploads passed all publication gates",
+  "state": "Morning discovery completed; no new uploads passed all publication gates. Verified Pokémon Hindi channel added to the reviewed-source allowlist; three missing episode leads queued for metadata retry.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,12 +11,16 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No catalogue additions: fresh-looking anime IDs were duplicates; other candidates lacked exact public watch/oEmbed, authorization, language, runtime or India metadata.",
-    "Direct YouTube watch pages were throttled and public oEmbed/Atom-feed fetches were disabled in this environment; unverified candidates were not imported.",
-    "Actual India playback remains unobserved for new candidates; no exhaustive YouTube coverage claim."
+    "Three Pokémon Diamond and Pearl episode leads are absent from the catalogue, but direct watch metadata was throttled; runtime, per-video uploader ID, actual audio, India country metadata and embeddability remain unverified.",
+    "Doraemon, Pokémon, Suzume and Ne Zha searches produced no new authorized full anime feature. Ne Zha 2 Hindi full-movie claims from unreviewed channels were skipped.",
+    "The Goldmines-branded movie result came from a channel ID that does not match the reviewed Goldmines source; no new movie was added.",
+    "My Golden Life episode leads still lack verifiable audio/subtitle, runtime, India metadata and oEmbed evidence.",
+    "Production homepage and sitemap were inaccessible to the web fetcher; this does not establish site downtime.",
+    "No local build/audit/unit-test run was possible because DNS/network access from the available runtime failed. The catalogue was not changed; Vercel's configured build command remains python3 build.py.",
+    "Actual India playback remains unobserved; no exhaustive YouTube coverage claim."
   ],
-  "next_scheduled_run": null,
-  "cursor": 5,
+  "next_scheduled_run": "2026-10-20T19:00:00+05:30",
+  "cursor": 7,
   "last_manual_verification": "2026-10-20",
   "catalogue_counts": {
     "anime-series": 57,
@@ -43,20 +47,20 @@
       "uploads": 0
     }
   },
-  "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "discovery_method": "Connected agent checks public YouTube metadata and official rights-holder sources; no YouTube API key required",
+  "verification_report": "data/verification/2026-10-21-morning-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
   ],
   "last_display_update": "2026-10-19T02:38:40.403331+05:30",
-  "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
+  "display_state": "No new eligible uploads passed the source, language, full-content, India and embed verification gates; unresolved candidates are recorded in the discovery backlog.",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-21-morning-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-20",
-    "base_commit": "2a3d359f1de496e99f55db0168a72dcac1ad5276",
+    "date": "2026-10-21",
+    "base_commit": "f3faa1ff3e761f1c72327310a019cd044f5fc636",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
