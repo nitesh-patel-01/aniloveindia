@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T12:05:36+05:30",
+  "updated_at": "2026-10-21T07:56:38+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -41,15 +41,15 @@
       "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links.",
       "last_attempted_on": "2026-10-20",
       "latest_attempt": {
-        "date": "2026-10-19",
+        "date": "2026-10-20",
         "sources": [
-          "Official playlist HTML and feed",
-          "Whole YouTube search",
-          "Public web indexed official watch pages"
+          "Muse Hindi Dub official channel search",
+          "Muse India official channel search",
+          "public web-indexed official watch pages"
         ],
-        "result": "Playlist listing remains hidden; feed returns only the already published 1–15. Exact 16–24 uploader IDs were not recovered. No availability claim made for missing uploads."
+        "result": "No new exact per-episode IDs were recovered in this pass. Direct watch/feed access remains limited; no additional episode IDs or completeness claims added."
       },
-      "latest_attempt_report": "data/verification/2026-10-20-anime-gap-update.json",
+      "latest_attempt_report": "data/verification/2026-10-20-evening-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "ragna-crimson",
@@ -103,7 +103,7 @@
           "video_id": "OUh3DcMZyug"
         }
       ],
-      "reason": "Seasons 1–3 each retain episode links 1–24. Continue unresolved Season 4 episode numbers using fresh official upload checks.",
+      "reason": "Seasons 1–3 each retain episode links 1–24. Continue unresolved Season 4 episode numbers using fresh official upload checks. Evening 2026-10-20 query did not yield exact new official Hindi Season 4 episode IDs; existing coverage and unresolved episodes 4–7 are preserved.",
       "next_actions": [
         "Recover additional official Hindi TV episodes in seasons 1-4 via public web indexing and publisher links",
         "Preserve published URLs and do not fabricate missing season links",
@@ -354,7 +354,8 @@
         "6",
         "7"
       ],
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-evening-discovery.json"
     },
     {
       "title_id": "battle-through-the-heavens",
@@ -3136,7 +3137,7 @@
         }
       ],
       "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-20-evening-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3407,7 +3408,7 @@
           "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
         }
       ],
-      "reason": "Existing Hindi Season 1/2 and Season 7 entries are preserved. Public search surfaced Season 3 Hindi leads for episodes 73–75, 78–80 and 83, but exact watch metadata was throttled/inaccessible. No Season 3 entries or completion claims added."
+      "reason": "Existing Hindi Season 1/2 and Season 7 entries are preserved. Public search surfaced Season 3 Hindi leads for episodes 73–75, 78–80 and 83, but exact watch metadata was throttled/inaccessible. No Season 3 entries or completion claims added. Evening 2026-10-20 retry did not recover independently verifiable watch/oEmbed metadata for the indexed Season 3 Hindi leads; no episode was added."
     },
     {
       "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -4677,9 +4678,10 @@
       ],
       "next_actions": [
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
-        "2026-10-20 search did not surface exact official Hindi episode 45/46 watch pages; retain episodes 30–44 and retry public feed/pagination plus exact metadata checks."
+        "2026-10-20 search did not surface exact official Hindi episode 45/46 watch pages; retain episodes 30–44 and retry public feed/pagination plus exact metadata checks.",
+        "2026-10-20 evening: third-party index surfaced Hindi Episode 41 without an exact watch ID; episode 41 is already within existing coverage 30–44. No addition."
       ],
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-20-evening-discovery.json",
       "last_attempted_on": "2026-10-20"
     },
     {
@@ -4687,7 +4689,7 @@
       "title": "Pokémon: Diamond and Pearl",
       "state": "partial_backfill",
       "priority": 2,
-      "last_backfill_date": "2026-10-19",
+      "last_backfill_date": "2026-10-21",
       "preferred_audio": "Hindi",
       "published_coverage": [
         {
@@ -4714,8 +4716,134 @@
         }
       ],
       "next_actions": [
-        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
-      ]
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
+        "2026-10-20 evening: indexed official-channel leads for original Diamond and Pearl episodes 26, 27 and 29 are absent from the current catalogue, but exact watch/oEmbed metadata and season mapping remain unresolved. Do not create a season entry until all gates pass.",
+        "Retry exact YouTube watch metadata and oEmbed for FQnnwWaqdzk, _IiljJe9E0E, st8npKe9WIo, pOv-hwwyhFQ, fgzZJZB5lGs and DFhENa0vpFU; confirm actual uploader, runtime, audio, IN country metadata, embeddability and season/edition mapping before import."
+      ],
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
+      "candidate_uploads": [
+        {
+          "video_id": "FQnnwWaqdzk",
+          "title": "Pokémon: Diamond and Pearl Episode 26",
+          "episode_number": 26,
+          "published_on": "2026-01-06",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": null,
+          "india_country_metadata": null,
+          "embeddable": null,
+          "catalogue_id_present": false,
+          "reason": "Exact watch page throttled and public oEmbed disabled; actual uploader ID, runtime, audio track, India metadata, embeddability and season mapping unverified."
+        },
+        {
+          "video_id": "_IiljJe9E0E",
+          "title": "Pokémon: Diamond and Pearl Episode 27",
+          "episode_number": 27,
+          "published_on": "2026-01-13",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": null,
+          "india_country_metadata": null,
+          "embeddable": null,
+          "catalogue_id_present": false,
+          "reason": "Exact watch page throttled and public oEmbed disabled; actual uploader ID, runtime, audio track, India metadata, embeddability and season mapping unverified."
+        },
+        {
+          "video_id": "st8npKe9WIo",
+          "title": "Pokémon: Diamond and Pearl Episode 29",
+          "episode_number": 29,
+          "published_on": "2026-01-27",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "observed_on": "2026-10-20",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": null,
+          "india_country_metadata": null,
+          "embeddable": null,
+          "catalogue_id_present": false,
+          "reason": "Exact watch page throttled and public oEmbed disabled; actual uploader ID, runtime, audio track, India metadata, embeddability and season mapping unverified."
+        },
+        {
+          "video_id": "pOv-hwwyhFQ",
+          "title": "Pokémon: Diamond and Pearl Episode 49",
+          "episode_number": 49,
+          "published_on": "2026-06-17",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+          "source_url": "https://www.youtube.com/watch?v=pOv-hwwyhFQ",
+          "observed_on": "2026-10-21",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": "Not directly inspected; the official source identifies the channel as the Hindi edition, but this individual video's audio track was not fetched.",
+          "india_country_metadata": null,
+          "embeddable": null,
+          "oembed": "unavailable in this run",
+          "catalogue_id_present": false,
+          "reason": "Exact YouTube watch metadata was throttled and public oEmbed unavailable. Individual video uploader ID, runtime, audio track, India country metadata, embeddability and season/edition mapping remain unverified."
+        },
+        {
+          "video_id": "fgzZJZB5lGs",
+          "title": "Pokémon: Diamond and Pearl Episode 50",
+          "episode_number": 50,
+          "published_on": "2026-06-24",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+          "source_url": "https://www.youtube.com/watch?v=fgzZJZB5lGs",
+          "observed_on": "2026-10-21",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": "Not directly inspected; the official source identifies the channel as the Hindi edition, but this individual video's audio track was not fetched.",
+          "india_country_metadata": null,
+          "embeddable": null,
+          "oembed": "unavailable in this run",
+          "catalogue_id_present": false,
+          "reason": "Exact YouTube watch metadata was throttled and public oEmbed unavailable. Individual video uploader ID, runtime, audio track, India country metadata, embeddability and season/edition mapping remain unverified."
+        },
+        {
+          "video_id": "DFhENa0vpFU",
+          "title": "Pokémon: Diamond and Pearl Episode 51",
+          "episode_number": 51,
+          "published_on": "2026-07-01",
+          "uploader_label": "Pokémon Asia Official (Hindi) in indexed YouTube result",
+          "expected_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_channel_id_confirmed_for_video": false,
+          "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+          "source_url": "https://www.youtube.com/watch?v=DFhENa0vpFU",
+          "observed_on": "2026-10-21",
+          "status": "not_added_verification_incomplete",
+          "duration_seconds": null,
+          "actual_audio": "Not directly inspected; the official source identifies the channel as the Hindi edition, but this individual video's audio track was not fetched.",
+          "india_country_metadata": null,
+          "embeddable": null,
+          "oembed": "unavailable in this run",
+          "catalogue_id_present": false,
+          "reason": "Exact YouTube watch metadata was throttled and public oEmbed unavailable. Individual video uploader ID, runtime, audio track, India country metadata, embeddability and season/edition mapping remain unverified."
+        }
+      ],
+      "latest_attempt": {
+        "date": "2026-10-21",
+        "sources": [
+          "Official Pokémon India page linking the exact Pokémon Asia Official (Hindi) channel",
+          "Publicly indexed official YouTube watch results for Diamond and Pearl episodes 49–51"
+        ],
+        "result": "Three episode IDs absent from the catalogue were found. Direct watch metadata was throttled and oEmbed unavailable, so no episodes were published."
+      },
+      "reason": "Official Pokémon India source confirms the Hindi channel identity and exact channel ID. Indexed YouTube results surfaced episodes 26, 27, 29, 49, 50 and 51 absent from the catalogue, but direct watch/oEmbed metadata remains unavailable. Keep candidates unlisted until video-level uploader, runtime, audio, India metadata, embeddability and season assignment are verified."
     },
     {
       "title_id": "pokemon-xy",
@@ -4855,11 +4983,16 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Doraemon full movie Hindi official",
         "डोरेमोन पूरी फिल्म हिंदी",
-        "Doraemon movie English dub official"
+        "Doraemon movie English dub official",
+        "Doraemon / डोरेमोन full feature Hindi official",
+        "Pokémon / पोकेमॉन full feature Hindi official",
+        "Suzume / Suzume no Tojimari / सुज़ुमे full movie Hindi official",
+        "Animated Ne Zha / Nezha / 哪吒 full feature Hindi or English official",
+        "TMS / RetroCrush / Gundam official full anime movies"
       ],
       "candidate_uploads": [
         {
@@ -4899,10 +5032,10 @@
           "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "2026-10-21 Hindi/Devanagari and English searches did not surface a newly verified authorized full feature; no exact new official upload passed source and metadata checks. Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-20 pass: no exact new authorized full-feature upload passed all gates; unreviewed claims and limited historical releases remain excluded.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4910,11 +5043,16 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Pokemon full movie Hindi official",
         "पोकेमॉन मूवी हिंदी",
-        "Pokemon movie English dub official"
+        "Pokemon movie English dub official",
+        "Doraemon / डोरेमोन full feature Hindi official",
+        "Pokémon / पोकेमॉन full feature Hindi official",
+        "Suzume / Suzume no Tojimari / सुज़ुमे full movie Hindi official",
+        "Animated Ne Zha / Nezha / 哪吒 full feature Hindi or English official",
+        "TMS / RetroCrush / Gundam official full anime movies"
       ],
       "candidate_uploads": [
         {
@@ -4937,10 +5075,10 @@
           "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "2026-10-21 searches did not surface a newly verified authorized full Pokémon feature. Official channel identity evidence does not authorize any unreviewed movie upload. Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-20 pass: no exact new authorized full-feature upload passed all gates; unreviewed claims and limited historical releases remain excluded.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -4948,9 +5086,14 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
-        "Suzume full movie Hindi"
+        "Suzume full movie Hindi",
+        "Doraemon / डोरेमोन full feature Hindi official",
+        "Pokémon / पोकेमॉन full feature Hindi official",
+        "Suzume / Suzume no Tojimari / सुज़ुमे full movie Hindi official",
+        "Animated Ne Zha / Nezha / 哪吒 full feature Hindi or English official",
+        "TMS / RetroCrush / Gundam official full anime movies"
       ],
       "candidate_uploads": [
         {
@@ -4972,12 +5115,20 @@
           "published_on": "2024-09-01",
           "reason": "Unreviewed uploader; no rights-holder authorization.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "7MnhlIIACcY",
+          "uploader": "SaiYox",
+          "channel_id": null,
+          "observed_on": "2026-10-20",
+          "status": "skipped_unverified_source_and_full_content",
+          "reason": "Unreviewed uploader; rights-holder authorization and full-feature status not established."
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "2026-10-21 searches found no new official full-feature upload with verified Hindi/English audio and eligible source authorization. Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-20 pass: no exact new authorized full-feature upload passed all gates; unreviewed claims and limited historical releases remain excluded.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -4985,11 +5136,16 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Ne Zha full movie Hindi official",
         "Nezha Hindi full movie Ultra",
-        "Ne Zha English full movie official"
+        "Ne Zha English full movie official",
+        "Doraemon / डोरेमोन full feature Hindi official",
+        "Pokémon / पोकेमॉन full feature Hindi official",
+        "Suzume / Suzume no Tojimari / सुज़ुमे full movie Hindi official",
+        "Animated Ne Zha / Nezha / 哪吒 full feature Hindi or English official",
+        "TMS / RetroCrush / Gundam official full anime movies"
       ],
       "candidate_uploads": [
         {
@@ -5055,12 +5211,29 @@
           "uploader": "Learn Skills Zone",
           "reason": "Unreviewed channel; authorization not established.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "Z_ni5I1Pip0",
+          "uploader": "Tyson Devil Gaming",
+          "channel_id": null,
+          "observed_on": "2026-10-21",
+          "status": "skipped_unauthorized",
+          "reason": "Full Hindi-dubbed claim from unreviewed uploader; no rights-holder authorization evidence."
+        },
+        {
+          "video_id": "oPKb8E7kLnQ",
+          "uploader": "Hassan K Vlogs",
+          "channel_id": null,
+          "published_on": "2026-05-12",
+          "observed_on": "2026-10-21",
+          "status": "skipped_unauthorized",
+          "reason": "Full Hindi-dubbed claim from unreviewed uploader; no rights-holder authorization evidence."
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "2026-10-21 search surfaced Ne Zha 2 Hindi full-movie claims from unreviewed uploaders (Z_ni5I1Pip0 and oPKb8E7kLnQ). No primary-source rights-holder authorization was found. No movie added.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -5068,7 +5241,7 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "exact_uploads_failed_india_metadata_gate",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "sources": [
         "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
         "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
@@ -5080,8 +5253,8 @@
         "JFL41rTf1L8",
         "V79ZivIRF0Y"
       ],
-      "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "reason": "2026-10-21 broad Hindi/Devanagari and English search did not surface an exact new official full episode passing the source and video-metadata gates; prior unresolved IDs remain queued. 2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved. Evening 2026-10-20: additional results were an unreviewed reupload and a promotional video, not an eligible full episode.",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "lv2st0cDaYM",
@@ -5106,6 +5279,22 @@
           "runtime": "1:00",
           "reason": "Short promo, not a full episode or movie.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "8mhC_bFdHEY",
+          "uploader": "Sonia Sethi",
+          "channel_id": null,
+          "observed_on": "2026-10-20",
+          "status": "skipped_unauthorized_reupload",
+          "reason": "Unreviewed reupload; no primary-source authorization."
+        },
+        {
+          "video_id": "VFSOlTSyWKo",
+          "uploader": "Sony SAB",
+          "channel_id": null,
+          "observed_on": "2026-10-20",
+          "status": "skipped_not_full_episode",
+          "reason": "Promotional/anniversary video, not a full episode."
         }
       ]
     },
@@ -5481,8 +5670,8 @@
       "published_episode_numbers": [
         "1"
       ],
-      "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -5515,10 +5704,26 @@
           "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed."
         }
       ],
-      "reason": "KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed.",
+      "reason": "2026-10-21 retry for episodes 4–5 did not surface exact new indexed watch IDs. Existing EP.2–3 candidates remain unresolved because audio, subtitles, runtime, India metadata and oEmbed are not independently confirmed. KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed. Evening 2026-10-20 retry: exact watch pages remain throttled; actual Korean audio, English subtitles, runtime, India metadata and oEmbed were not verified. No episode added.",
       "next_actions": [
         "Retry exact public watch-page metadata and oEmbed for episodes 2–3.",
         "Do not infer audio or India availability from title or uploader location."
+      ]
+    },
+    {
+      "title_id": "pururun-shizuku-chan",
+      "title": "Pururun! Shizuku-chan",
+      "priority": 3,
+      "preferred_audio": "Japanese only with evidenced English subtitles",
+      "state": "official_campaign_found_edition_unverified",
+      "source_channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "last_attempted_on": "2026-10-20",
+      "latest_attempt_report": "data/verification/2026-10-20-evening-discovery.json",
+      "candidate_uploads": [],
+      "reason": "TMS Entertainment primary announcement dated 2026-07-01 describes a 51-episode YouTube campaign beginning 2026-07-03. Episodes 1–3 were advertised as permanent and later groups had limited windows. No exact video IDs or English-subtitle evidence were verified; no edition is added.",
+      "next_actions": [
+        "Search the reviewed official TMS channel for currently public exact episode IDs.",
+        "Verify actual audio and English subtitles, exact uploader channel ID, runtime, India country metadata and oEmbed before adding any episode."
       ]
     }
   ],
