@@ -111,11 +111,7 @@ def build():
    detail+='<section class="season-block" data-season-panel id="'+sid+'"><h3>'+esc(edition['label'])+'</h3><p class="small muted">'+esc(edition['audio_language'])+' audio'+(' · English subtitles' if 'English' in edition.get('subtitle_languages',[]) else '')+' · '+str(len(edition['episodes']))+' listed uploads</p>'+episode_options(edition)+'<div class="episode-grid">'+''.join('<a class="episode-card" href="/watch/'+sid+'/'+str(ep['number'])+'/"><img src="https://i.ytimg.com/vi/'+ep['video_id']+'/hqdefault.jpg" alt="'+esc(ep['title'])+'" loading="lazy" decoding="async" width="480" height="360"><span class="episode-number">'+('FULL MOVIE' if ep['number']=='full' else 'PLAY ALL' if ep['number']=='complete' else 'E'+str(ep['number']))+'</span><h3>'+esc(ep['title'])+'</h3><small>'+str(ep['duration_seconds']//60)+' min</small></a>'for ep in edition['episodes'])+'</div></section>'
    # Playlist-wide player removed; only individually listed episode buttons remain.
   detail+='</section>'
-  for playlist in OFFICIAL_PLAYLIST_EMBEDS:
-   if playlist['title_match'].casefold() in t['title'].casefold():
-    embed_src=('https://www.youtube-nocookie.com/embed/videoseries?list='+esc(playlist["playlist_id"])+'&amp;rel=0') if playlist.get("playlist_id") else ('https://www.youtube-nocookie.com/embed/'+esc(playlist["video_id"])+'?rel=0')
-    detail+=f'<section class="section official-playlist"><div class="section-heading"><div><p class="eyebrow">OFFICIAL YOUTUBE '+('PLAYLIST' if playlist.get("playlist_id") else 'VIDEO')+'</p><h2>{esc(playlist["label"])}</h2></div></div><div class="video-shell"><iframe src="{embed_src}" title="{esc(playlist["label"])}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><p class="small muted">{esc(playlist["note"])}</p></section>'
-  if t['format']=='Movie':detail=detail.replace('Seasons & episodes','Watch the film')
+  # Playlist iframe sections removed: they were rendering as blank/placeholder boxes on some pages.\n  if t['format']=='Movie':detail=detail.replace('Seasons & episodes','Watch the film')
   page('/title/'+t['id']+'/',t['title']+(' — watch movie' if t['format']=='Movie' else ' — seasons & episodes'),detail,t['synopsis'])
  # Render only source-reviewed, validated editions; never create demo episode records.
  for t in T:
