@@ -1,0 +1,189 @@
+{
+  "checked_on": "2026-10-21",
+  "checked_at": "2026-10-21T18:55:58+05:30",
+  "run_period": "evening",
+  "base_commit": "8445e22218f08e22383b1bf7971cfcb213679316",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "added_by_category": {
+    "anime-series": 0,
+    "anime-movies": 0,
+    "movies": 0,
+    "k-dramas": 0
+  },
+  "catalogue_snapshot": {
+    "title_count": 219,
+    "by_category": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    },
+    "upload_count": 1674,
+    "cached_eligible_ids": 363,
+    "exact_catalogue_comparison": "Unavailable in this run: the GitHub connector returned an empty content body for the large current data/catalogue.json blob. No catalogue entry was modified."
+  },
+  "searches": {
+    "anime-series": [
+      "Pokémon Asia Official Hindi Diamond and Pearl episodes 52–54",
+      "Muse India and Muse Hindi Dub latest Hindi full episodes",
+      "Sony YAY / TV Asahi Crayon Shinchan official full episodes",
+      "Muse India and Muse Hindi Dub playlist/feed checks"
+    ],
+    "anime-movies": [
+      "Doraemon Hindi official full feature",
+      "Pokémon Hindi official full feature",
+      "Suzume Hindi official full feature",
+      "Ne Zha 2 Hindi official full feature",
+      "Ramayana: The Legend of Prince Rama official Hindi full film",
+      "TMS, Gundam, Muse and Anime Manga Official full anime features"
+    ],
+    "movies": [
+      "Shemaroo Movies official full Hindi films",
+      "Goldmines official full Hindi films",
+      "New official Hindi/English full movie uploads"
+    ],
+    "k-dramas": [
+      "KBS WORLD TV My Golden Life episode 4 English subtitles",
+      "KBS WORLD TV full drama episodes with English subtitles"
+    ]
+  },
+  "candidates": [
+    {
+      "category": "anime-series",
+      "title": "Pokémon: Diamond and Pearl",
+      "episode": 49,
+      "video_id": "pOv-hwwyhFQ",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "reviewed_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "exact_uploader_id_for_video": false,
+      "indexed_published_on": "2026-06-17",
+      "claimed_audio": "Hindi label only; actual audio unverified",
+      "runtime_seconds": null,
+      "oembed": null,
+      "india_country_metadata": "unverified",
+      "embeddability": "unverified",
+      "result": "not_added_metadata_unverified",
+      "reason": "Direct watch/oEmbed metadata unavailable; exact current catalogue tuple could not be rechecked."
+    },
+    {
+      "category": "anime-series",
+      "title": "Pokémon: Diamond and Pearl",
+      "episode": 50,
+      "video_id": "fgzZJZB5lGs",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "reviewed_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "exact_uploader_id_for_video": false,
+      "indexed_published_on": "2026-06-24",
+      "claimed_audio": "Hindi label only; actual audio unverified",
+      "runtime_seconds": null,
+      "oembed": null,
+      "india_country_metadata": "unverified",
+      "embeddability": "unverified",
+      "result": "not_added_metadata_unverified",
+      "reason": "Direct watch/oEmbed metadata unavailable; exact current catalogue tuple could not be rechecked."
+    },
+    {
+      "category": "anime-series",
+      "title": "Pokémon: Diamond and Pearl",
+      "episode": 51,
+      "video_id": "DFhENa0vpFU",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "reviewed_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "exact_uploader_id_for_video": false,
+      "source": "Carried forward from prior discovery turn; not re-surfaced in current search.",
+      "runtime_seconds": null,
+      "oembed": null,
+      "india_country_metadata": "unverified",
+      "embeddability": "unverified",
+      "result": "carried_forward_unverified",
+      "reason": "Keep as a lead only until the video-level and exact catalogue checks pass."
+    },
+    {
+      "category": "k-dramas",
+      "title": "My Golden Life",
+      "episodes": [
+        2,
+        3
+      ],
+      "video_ids": [
+        "CncVazPN0b0",
+        "HmqoC0oual8"
+      ],
+      "uploader": "KBS WORLD TV",
+      "audio_language": "unverified",
+      "english_subtitle_track": "unverified",
+      "runtime_seconds": null,
+      "oembed": null,
+      "india_country_metadata": "unverified",
+      "embeddability": "unverified",
+      "result": "not_added_metadata_unverified",
+      "reason": "Previously indexed subtitle labels are not proof of actual English subtitle tracks or Korean audio."
+    },
+    {
+      "category": "anime-movies",
+      "title": "Ne Zha 2 Hindi full movie claim",
+      "video_ids": [
+        "-yLpZx1EX0Q",
+        "Z_ni5I1Pip0"
+      ],
+      "result": "skipped_unreviewed_uploaders",
+      "reason": "No primary-source rights-holder/distributor authorization evidence."
+    },
+    {
+      "category": "anime-movies",
+      "title": "Ramayana: The Legend of Prince Rama - Hindi - 1/5",
+      "video_id": "qv9z4rp375U",
+      "uploader": "Cinema Anime India",
+      "result": "skipped_not_full_feature_and_unreviewed_uploader",
+      "reason": "Part 1/5, not a single full-feature upload; primary-source authorization not established."
+    }
+  ],
+  "unresolved_searches": [
+    {
+      "title_id": "pokemon-diamond-and-pearl",
+      "episodes": [
+        49,
+        50,
+        51
+      ],
+      "reason": "Exact watch/oEmbed metadata and exact catalogue comparison remain unavailable."
+    },
+    {
+      "title_id": "my-golden-life",
+      "episodes": [
+        2,
+        3
+      ],
+      "reason": "Actual Korean audio, English subtitle tracks, runtime, India metadata and embeddability remain unverified."
+    },
+    {
+      "title_id": "doraemon-movies",
+      "reason": "No newly verified authorized full feature found."
+    },
+    {
+      "title_id": "pokemon-movies",
+      "reason": "No newly verified authorized full feature found."
+    },
+    {
+      "title_id": "suzume",
+      "reason": "No newly verified authorized full feature found."
+    },
+    {
+      "title_id": "ne-zha-animated-films",
+      "reason": "Full-film claims were from unreviewed uploaders."
+    },
+    {
+      "title_id": "crayon-shinchan",
+      "reason": "No exact official full episode passed all gates."
+    }
+  ],
+  "access_limits": [
+    "YouTube direct watch and oEmbed endpoints were inaccessible to the available web fetcher.",
+    "The large current main data/catalogue.json blob returned an empty content body through the GitHub connector, preventing exact tuple comparison for new candidates.",
+    "Production homepage, sitemap and representative pages were inaccessible to the available web fetcher.",
+    "No local checkout/runtime was available for build, audit, unit tests or JavaScript syntax checks; no catalogue/source-code changes were made.",
+    "Actual India playback remains unobserved. No exhaustive YouTube coverage claim."
+  ],
+  "result": "No new upload passed all publication gates. Catalogue unchanged; candidates remain unresolved."
+}
