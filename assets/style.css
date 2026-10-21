@@ -52,3 +52,9 @@
 @media(min-width:761px){.editorial-banner>h2,.editorial-banner>p{max-width:55%}}
 
 .footer-social{grid-column:1/-1;display:flex;align-items:center;justify-content:center;gap:12px;padding:18px 0 0;border-top:1px solid #343944}.footer-social>a{margin:0}.header-tools .header-instagram{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:32px;height:36px;color:inherit}.header-instagram svg{width:21px;height:21px}.header-instagram:hover{color:#ff7427}
+
+/* Share actions and high-contrast 404 recovery link */
+.share-button{white-space:nowrap}
+.episode-share-actions{margin:12px 0 20px}
+.not-found-return,.not-found-return:visited{display:inline-flex!important;align-items:center!important;justify-content:center!important;background:#ff9559!important;color:#090a0e!important;font-size:12px!important;font-weight:800!important;line-height:1.4!important;letter-spacing:.2px!important;opacity:1!important;min-width:237px}
+.not-found-return:hover,.not-found-return:focus-visible{background:#ff7427!important;color:#090a0e!important}
