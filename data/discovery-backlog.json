@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T12:05:36+05:30",
+  "updated_at": "2026-10-21T08:08:23+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -354,7 +354,8 @@
         "6",
         "7"
       ],
-      "last_attempted_on": null
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "battle-through-the-heavens",
@@ -2025,8 +2026,8 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-anime-gap-update.json",
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "mob-psycho-100",
@@ -3135,8 +3136,8 @@
           ]
         }
       ],
-      "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -4679,8 +4680,8 @@
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
         "2026-10-20 search did not surface exact official Hindi episode 45/46 watch pages; retain episodes 30–44 and retry public feed/pagination plus exact metadata checks."
       ],
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
-      "last_attempted_on": "2026-10-20"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
+      "last_attempted_on": "2026-10-21"
     },
     {
       "title_id": "pokemon-diamond-and-pearl",
@@ -4715,6 +4716,28 @@
       ],
       "next_actions": [
         "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+      ],
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
+      "candidate_uploads": [
+        {
+          "video_id": "o0IqkvANLtk",
+          "title": "Pokémon: Diamond and Pearl | Episode 1 | Pokémon Asia Official (Hindi)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "observed_on": "2026-10-21",
+          "matched_catalogue_video_id": "l7xI6gQbicE",
+          "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video l7xI6gQbicE. Preserve the existing valid entry; do not add an alternate duplicate."
+        },
+        {
+          "video_id": "_sJcPvTBaOw",
+          "title": "Pokémon: Diamond and Pearl | Episode 3 | Pokémon Asia Official (Hindi)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "observed_on": "2026-10-21",
+          "matched_catalogue_video_id": "2p3NF7hijs8",
+          "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video 2p3NF7hijs8. Preserve the existing valid entry; do not add an alternate duplicate."
+        }
       ]
     },
     {
@@ -4855,7 +4878,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Doraemon full movie Hindi official",
         "डोरेमोन पूरी फिल्म हिंदी",
@@ -4897,12 +4920,20 @@
           "runtime": "49:30",
           "reason": "Unreviewed uploader; no primary-source authorization.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "ylKI84b7UCo",
+          "title": "Doraemon Movie | Nobita new adventure full movie in Hindi Dubbed",
+          "uploader": "Jaishankar gaming free fire",
+          "channel_id": null,
+          "observed_on": "2026-10-21",
+          "reason": "No primary-source rights-holder/distributor authorization. Uploader is not an approved official source."
         }
       ],
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4910,7 +4941,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Pokemon full movie Hindi official",
         "पोकेमॉन मूवी हिंदी",
@@ -4940,7 +4971,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -4948,7 +4979,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Suzume full movie Hindi"
       ],
@@ -4977,7 +5008,7 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -4985,7 +5016,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "queries": [
         "Ne Zha full movie Hindi official",
         "Nezha Hindi full movie Ultra",
@@ -5055,12 +5086,20 @@
           "uploader": "Learn Skills Zone",
           "reason": "Unreviewed channel; authorization not established.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "Z_ni5I1Pip0",
+          "title": "Ne Zha 2 (2025) Full Movie Hindi Dubbed | Animated Fantasy Action Movie",
+          "uploader": "Tyson Devil Gaming",
+          "channel_id": null,
+          "observed_on": "2026-10-21",
+          "reason": "No primary-source rights-holder/distributor authorization. A full-movie claim and title language are not authorization or audio evidence."
         }
       ],
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -5068,7 +5107,7 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "exact_uploads_failed_india_metadata_gate",
-      "last_attempted_on": "2026-10-20",
+      "last_attempted_on": "2026-10-21",
       "sources": [
         "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
         "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
@@ -5078,10 +5117,11 @@
         "84vWRDJvj90",
         "lv2st0cDaYM",
         "JFL41rTf1L8",
-        "V79ZivIRF0Y"
+        "V79ZivIRF0Y",
+        "EYvKlrX_Csw"
       ],
       "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "lv2st0cDaYM",
@@ -5106,6 +5146,14 @@
           "runtime": "1:00",
           "reason": "Short promo, not a full episode or movie.",
           "observed_on": "2026-10-20"
+        },
+        {
+          "video_id": "EYvKlrX_Csw",
+          "title": "Shinchan full episode in Hindi",
+          "uploader": "Shinchan4u",
+          "channel_id": null,
+          "observed_on": "2026-10-21",
+          "reason": "No primary-source rights-holder authorization; the channel is not a reviewed official source."
         }
       ]
     },
@@ -5457,8 +5505,8 @@
       "title_id": "assassination-classroom",
       "title": "Assassination Classroom",
       "priority": 1,
-      "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "published_hindi_coverage": [
         {
           "season_id": "assassination-classroom-season-1-hindi",
@@ -5481,8 +5529,8 @@
       "published_episode_numbers": [
         "1"
       ],
-      "last_attempted_on": "2026-10-20",
-      "latest_attempt_report": "data/verification/2026-10-20-afternoon-discovery.json",
+      "last_attempted_on": "2026-10-21",
+      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -5492,12 +5540,12 @@
           "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
           "published_on": "2017-09-10",
           "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
-          "subtitle_evidence": "Official title labels ENG",
+          "subtitle_evidence": "unverified; title label alone is not accepted as proof",
           "audio_language": "unverified",
           "india_metadata": "unverified",
           "oembed": "unverified",
-          "observed_on": "2026-10-20",
-          "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed."
+          "observed_on": "2026-10-21",
+          "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
         },
         {
           "video_id": "HmqoC0oual8",
@@ -5507,12 +5555,44 @@
           "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
           "published_on": "2017-09-16",
           "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
-          "subtitle_evidence": "Official title labels ENG",
+          "subtitle_evidence": "unverified; title label alone is not accepted as proof",
           "audio_language": "unverified",
           "india_metadata": "unverified",
           "oembed": "unverified",
-          "observed_on": "2026-10-20",
-          "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed."
+          "observed_on": "2026-10-21",
+          "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+        },
+        {
+          "video_id": "o4Avwo0kJo0",
+          "episode": "29",
+          "title": "My Golden Life Episode 29",
+          "uploader": "KBS WORLD TV",
+          "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "published_on": "2017-12-16",
+          "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
+          "subtitle_evidence": "unverified; title label alone is not accepted as proof",
+          "audio_language": "unverified",
+          "india_metadata": "unverified",
+          "runtime_seconds": null,
+          "oembed": "unverified",
+          "observed_on": "2026-10-21",
+          "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+        },
+        {
+          "video_id": "AOImQNN_IF4",
+          "episode": "44",
+          "title": "My Golden Life Episode 44",
+          "uploader": "KBS WORLD TV",
+          "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "published_on": "2018-02-11",
+          "source_url": "https://www.youtube.com/watch?v=AOImQNN_IF4",
+          "subtitle_evidence": "unverified; title label alone is not accepted as proof",
+          "audio_language": "unverified",
+          "india_metadata": "unverified",
+          "runtime_seconds": null,
+          "oembed": "unverified",
+          "observed_on": "2026-10-21",
+          "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
         }
       ],
       "reason": "KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed.",
@@ -5621,19 +5701,59 @@
         "title_id": "my-golden-life",
         "episode": "2",
         "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
-        "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed.",
-        "observed_on": "2026-10-20"
+        "reason": "Exact watch/oEmbed unavailable; actual audio/subtitle tracks, runtime, exact uploader channel ID and IN country metadata remain unverified. Official title labels are not accepted as proof.",
+        "observed_on": "2026-10-21"
       },
       {
         "video_id": "HmqoC0oual8",
         "title_id": "my-golden-life",
         "episode": "3",
         "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
-        "reason": "Exact watch metadata inaccessible; runtime, actual audio and IN country metadata not independently confirmed.",
-        "observed_on": "2026-10-20"
+        "reason": "Exact watch/oEmbed unavailable; actual audio/subtitle tracks, runtime, exact uploader channel ID and IN country metadata remain unverified. Official title labels are not accepted as proof.",
+        "observed_on": "2026-10-21"
+      },
+      {
+        "video_id": "o4Avwo0kJo0",
+        "category": "k-dramas",
+        "title_id": "my-golden-life",
+        "episode": "29",
+        "audio_language": "unverified",
+        "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
+        "uploader_label": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "uploader_id_confirmed_for_video": false,
+        "observed_on": "2026-10-21",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "AOImQNN_IF4",
+        "category": "k-dramas",
+        "title_id": "my-golden-life",
+        "episode": "44",
+        "audio_language": "unverified",
+        "source_url": "https://www.youtube.com/watch?v=AOImQNN_IF4",
+        "uploader_label": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "uploader_id_confirmed_for_video": false,
+        "observed_on": "2026-10-21",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "ENjpuSm6-jM",
+        "category": "movies",
+        "title_id": "hadh-kar-di-aapne",
+        "audio_language": "unverified",
+        "source_url": "https://www.youtube.com/watch?v=ENjpuSm6-jM",
+        "uploader_label": "Shemaroo Movies",
+        "uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "uploader_id_confirmed_for_video": false,
+        "observed_on": "2026-10-21",
+        "reason": "Official distributor channel identity is reviewed and the description claims a full film, but exact uploader channel ID for this video, audio language, runtime, oEmbed/embeddability and IN country metadata could not be verified."
       }
     ],
-    "resume_instruction": "Retry exact public YouTube watch metadata and oEmbed; never infer audio, subtitles, India availability or authorization from search snippets."
+    "resume_instruction": "Retry exact public YouTube watch metadata and oEmbed for pending IDs. Do not infer audio, subtitles, India availability, full-content status or authorization from titles, badges or uploader names. Compare against current catalogue by exact ID and canonical title/season/episode/language/edition before any import.",
+    "latest_attempt_on": "2026-10-21",
+    "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
   },
   "publisher_review_candidates": [
     {
@@ -5679,11 +5799,134 @@
     }
   ],
   "latest_run": {
-    "date": "2026-10-20",
-    "report": "data/verification/2026-10-20-afternoon-discovery.json",
+    "date": "2026-10-21",
+    "report": "data/verification/2026-10-21-morning-discovery.json",
     "catalogue_additions": 0,
     "added_titles": 0,
     "added_uploads": 0,
-    "summary": "Four-category YouTube discovery completed; fresh-looking results were duplicates or failed source/language/runtime/embed/India metadata gates."
+    "candidate_count": 13,
+    "eligible_candidates": 0,
+    "searches_completed": {
+      "anime-series": 19,
+      "anime-movies": 13,
+      "movies": 7,
+      "k-dramas": 6
+    },
+    "counts": {
+      "exact_video_id_duplicates": 3,
+      "canonical_tuple_duplicates": 2,
+      "metadata_gate_unverified": 5,
+      "unauthorized_or_unreviewed": 3,
+      "not_full_content": 0,
+      "added_titles": 0,
+      "added_uploads": 0
+    },
+    "candidate_results": [
+      {
+        "video_id": "o0IqkvANLtk",
+        "title": "Pokémon: Diamond and Pearl | Episode 1 | Pokémon Asia Official (Hindi)",
+        "uploader": "Pokémon Asia Official (Hindi)",
+        "uploader_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "result": "not_added_duplicate_canonical_tuple",
+        "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video l7xI6gQbicE. Preserve the existing valid entry; do not add an alternate duplicate."
+      },
+      {
+        "video_id": "_sJcPvTBaOw",
+        "title": "Pokémon: Diamond and Pearl | Episode 3 | Pokémon Asia Official (Hindi)",
+        "uploader": "Pokémon Asia Official (Hindi)",
+        "uploader_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+        "result": "not_added_duplicate_canonical_tuple",
+        "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video 2p3NF7hijs8. Preserve the existing valid entry; do not add an alternate duplicate."
+      },
+      {
+        "video_id": "B1LyaPY2SYw",
+        "title": "That Time I Got Reincarnated as a Slime - Episode 01 (S1E01) | Muse IN",
+        "uploader": "Muse India",
+        "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "result": "not_added_exact_video_id_duplicate",
+        "reason": "Exact video ID already exists in the catalogue."
+      },
+      {
+        "video_id": "W5Yd0hC9uEQ",
+        "title": "That Time I Got Reincarnated as a Slime - Episode 06 (S1E06) | Muse IN",
+        "uploader": "Muse India",
+        "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "result": "not_added_exact_video_id_duplicate",
+        "reason": "Exact video ID already exists in the catalogue."
+      },
+      {
+        "video_id": "x2XvKtIq8X0",
+        "title": "Mob Psycho 100 II - Episode 11 | Muse IN",
+        "uploader": "Muse India",
+        "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "result": "not_added_exact_video_id_duplicate",
+        "reason": "Exact video ID already exists in the catalogue."
+      },
+      {
+        "video_id": "CncVazPN0b0",
+        "title": "My Golden Life Episode 2",
+        "uploader": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "result": "not_added_metadata_unverified",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "HmqoC0oual8",
+        "title": "My Golden Life Episode 3",
+        "uploader": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "result": "not_added_metadata_unverified",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "o4Avwo0kJo0",
+        "title": "My Golden Life Episode 29",
+        "uploader": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "result": "not_added_metadata_unverified",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "AOImQNN_IF4",
+        "title": "My Golden Life Episode 44",
+        "uploader": "KBS WORLD TV",
+        "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "result": "not_added_metadata_unverified",
+        "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+      },
+      {
+        "video_id": "ENjpuSm6-jM",
+        "title": "Hadh Kar Di Aapne (Full Film)",
+        "uploader": "Shemaroo Movies",
+        "uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "result": "not_added_metadata_unverified",
+        "reason": "Official distributor channel identity is reviewed and the description claims a full film, but exact uploader channel ID for this video, audio language, runtime, oEmbed/embeddability and IN country metadata could not be verified."
+      },
+      {
+        "video_id": "Z_ni5I1Pip0",
+        "title": "Ne Zha 2 (2025) Full Movie Hindi Dubbed | Animated Fantasy Action Movie",
+        "uploader": "Tyson Devil Gaming",
+        "uploader_channel_id": null,
+        "result": "skipped_unauthorized_unverified",
+        "reason": "No primary-source rights-holder/distributor authorization. A full-movie claim and title language are not authorization or audio evidence."
+      },
+      {
+        "video_id": "ylKI84b7UCo",
+        "title": "Doraemon Movie | Nobita new adventure full movie in Hindi Dubbed",
+        "uploader": "Jaishankar gaming free fire",
+        "uploader_channel_id": null,
+        "result": "skipped_unauthorized_unverified",
+        "reason": "No primary-source rights-holder/distributor authorization. Uploader is not an approved official source."
+      },
+      {
+        "video_id": "EYvKlrX_Csw",
+        "title": "Shinchan full episode in Hindi",
+        "uploader": "Shinchan4u",
+        "uploader_channel_id": null,
+        "result": "skipped_unauthorized_unverified",
+        "reason": "No primary-source rights-holder authorization; the channel is not a reviewed official source."
+      }
+    ],
+    "summary": "Four-category morning search completed against the current remote catalogue. No eligible additions: candidates were duplicates, unauthorized/unreviewed, or failed required metadata gates."
   }
 }

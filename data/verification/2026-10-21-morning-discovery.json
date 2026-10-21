@@ -1,0 +1,484 @@
+{
+  "checked_on": "2026-10-21",
+  "checked_at": "2026-10-21T08:08:23+05:30",
+  "run_period": "morning",
+  "added_titles": 0,
+  "added_uploads": 0,
+  "catalogue_snapshot": {
+    "title_count": 219,
+    "by_category": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    },
+    "upload_count": 1674,
+    "comparison_method": "Compared exact video IDs and canonical title/season/episode/audio language/edition against the current remote main data/catalogue.json fetched through the GitHub Git Blob API."
+  },
+  "searches": {
+    "anime-series": [
+      "site:youtube.com/watch Muse India Hindi dubbed full episode anime October 2026 official",
+      "site:youtube.com/watch Muse Hindi Dub anime full episode Hindi official 2026",
+      "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" full episode anime October 2026",
+      "site:youtube.com/watch \"Muse IN\" \"Hindi Dub\" \"Episode\" anime",
+      "site:youtube.com/watch \"Pokémon Horizons\" \"Hindi\" \"Episode 45\" official",
+      "site:youtube.com/watch \"Pokémon Horizons\" \"Episode 46\" \"Pokémon Asia Official (Hindi)\" Hindi",
+      "site:youtube.com/watch \"Assassination Classroom Season 1 - Episode 18\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"Assassination Classroom\" \"Episode 19\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"Fairy Tail\" \"Hindi\" \"Episode 1\" official anime",
+      "site:youtube.com/watch \"Hunter x Hunter\" \"Episode 050\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"Attack on Titan\" \"Episode 46\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"Mob Psycho 100\" \"Episode 11\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"DAN DA DAN\" \"Episode 19\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch \"Crayon Shin-chan\" official full episode Hindi YouTube",
+      "site:youtube.com/watch \"शिनचैन\" full episode Hindi official",
+      "https://www.youtube.com/@MuseIndiaChannel/playlists",
+      "https://www.youtube.com/@Muse_HindiDub/playlists",
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q"
+    ],
+    "anime-movies": [
+      "site:youtube.com/watch official full anime movie Hindi dubbed Doraemon Pokémon Ne Zha 2026",
+      "site:youtube.com/watch \"Doraemon Movie\" \"Hindi Dubbed\" official full movie",
+      "site:youtube.com/watch \"Pokémon movie\" \"Hindi\" official full movie",
+      "site:youtube.com/watch \"Suzume no Tojimari\" \"full movie\" official Hindi",
+      "site:youtube.com/watch \"Ne Zha\" animated full movie official Hindi",
+      "site:youtube.com/watch \"डोरेमोन\" \"पूरी फिल्म\" official Hindi movie",
+      "site:youtube.com/watch \"Doraemon\" \"movie\" \"official channel\" Hindi full film",
+      "site:youtube.com/watch \"Pokémon\" \"movie\" \"Hindi\" \"Pokémon Asia Official\" full",
+      "site:youtube.com/watch \"哪吒\" \"full movie\" \"Hindi dub\" official YouTube",
+      "site:youtube.com/watch \"TMS Anime\" full anime movie official full feature",
+      "site:youtube.com/watch \"GundamInfo\" \"Full Movie\" official",
+      "site:youtube.com/watch \"Muse India\" \"full movie\" anime Hindi official",
+      "site:youtube.com/watch \"Muse Asia\" \"full movie\" anime English subtitles official"
+    ],
+    "movies": [
+      "site:youtube.com/watch official Hindi full movie Shemaroo Goldmines 2026",
+      "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" \"Hindi\" 2026 official",
+      "site:youtube.com/watch \"Shemaroo\" \"Full Hindi Movie\" \"Official\" 2026",
+      "site:youtube.com/watch \"Goldmines\" \"Full Hindi Movie\" \"Official\" 2026",
+      "site:youtube.com/watch \"Goldmines Telefilms\" \"Full Movie\" Hindi 2026",
+      "site:youtube.com/watch \"Shemaroo Movies\" \"पूरी फिल्म\" हिंदी 2026",
+      "site:youtube.com/watch \"Goldmines\" \"पूरी फिल्म\" हिंदी 2026"
+    ],
+    "k-dramas": [
+      "site:youtube.com/watch KBS World My Golden Life full episode English subtitles official",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"My Golden Life\" \"Ep. 2\" SUB ENG",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"My Golden Life\" \"Ep. 3\" SUB ENG",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"My Golden Life\" \"Ep.29\" SUB ENG",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"My Golden Life\" \"Ep 44\" SUB ENG",
+      "site:youtube.com/watch \"Korean Classic Film\" full movie official English subtitles 2026"
+    ]
+  },
+  "muse_backfill": {
+    "playlist_urls": [
+      "https://www.youtube.com/@MuseIndiaChannel/playlists",
+      "https://www.youtube.com/@Muse_HindiDub/playlists"
+    ],
+    "atom_feeds_attempted": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCYYhAzgWuxPauRXdPpLAX3Q"
+    ],
+    "result": "Playlist pages returned only a limited YouTube shell; Atom feed requests were blocked by the web fetch layer. Search-indexed official Muse results were still compared with the catalogue.",
+    "limitation": "Recent feeds are not complete series lists; no missing episodes or season completion inferred from feed absence."
+  },
+  "candidate_count": 13,
+  "eligible_candidates": 0,
+  "candidates": [
+    {
+      "video_id": "o0IqkvANLtk",
+      "title": "Pokémon: Diamond and Pearl | Episode 1 | Pokémon Asia Official (Hindi)",
+      "category": "anime-series",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "uploader_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=o0IqkvANLtk",
+      "source_channel_url": "https://www.youtube.com/channel/UCm1hOHNgH6x8MF22676CmZA",
+      "published_on": "2025-07-16",
+      "channel_identity_reviewed": true,
+      "claimed_audio": "Hindi in title/channel label; not independently verified for this video",
+      "full_content_status": "Episode upload claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_match_video_id": "l7xI6gQbicE",
+        "canonical_title_id": "pokemon-diamond-and-pearl",
+        "season_id": "pokemon-diamond-and-pearl-battle-dimension-hindi",
+        "episode": "1",
+        "audio_language": "Hindi dub",
+        "edition": "Battle Dimension Hindi"
+      },
+      "result": "not_added_duplicate_canonical_tuple",
+      "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video l7xI6gQbicE. Preserve the existing valid entry; do not add an alternate duplicate."
+    },
+    {
+      "video_id": "_sJcPvTBaOw",
+      "title": "Pokémon: Diamond and Pearl | Episode 3 | Pokémon Asia Official (Hindi)",
+      "category": "anime-series",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "uploader_channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=_sJcPvTBaOw",
+      "source_channel_url": "https://www.youtube.com/channel/UCm1hOHNgH6x8MF22676CmZA",
+      "published_on": "2025-07-30",
+      "channel_identity_reviewed": true,
+      "claimed_audio": "Hindi in title/channel label; not independently verified for this video",
+      "full_content_status": "Episode upload claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_match_video_id": "2p3NF7hijs8",
+        "canonical_title_id": "pokemon-diamond-and-pearl",
+        "season_id": "pokemon-diamond-and-pearl-battle-dimension-hindi",
+        "episode": "3",
+        "audio_language": "Hindi dub",
+        "edition": "Battle Dimension Hindi"
+      },
+      "result": "not_added_duplicate_canonical_tuple",
+      "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video 2p3NF7hijs8. Preserve the existing valid entry; do not add an alternate duplicate."
+    },
+    {
+      "video_id": "B1LyaPY2SYw",
+      "title": "That Time I Got Reincarnated as a Slime - Episode 01 (S1E01) | Muse IN",
+      "category": "anime-series",
+      "uploader": "Muse India",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
+      "source_channel_url": "https://www.youtube.com/@MuseIndiaChannel",
+      "published_on": "2024-06-30",
+      "channel_identity_reviewed": true,
+      "claimed_audio": "Hindi Dub in title; not independently reverified in this run",
+      "catalogue_comparison": {
+        "exact_video_id_present": true,
+        "existing_title_id": "that-time-i-got-reincarnated-as-a-slime",
+        "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+        "episode": "1"
+      },
+      "result": "not_added_exact_video_id_duplicate",
+      "reason": "Exact video ID already exists in the catalogue."
+    },
+    {
+      "video_id": "W5Yd0hC9uEQ",
+      "title": "That Time I Got Reincarnated as a Slime - Episode 06 (S1E06) | Muse IN",
+      "category": "anime-series",
+      "uploader": "Muse India",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=W5Yd0hC9uEQ",
+      "source_channel_url": "https://www.youtube.com/@MuseIndiaChannel",
+      "published_on": "2024-07-05",
+      "channel_identity_reviewed": true,
+      "claimed_audio": "Hindi Dub in title; not independently reverified in this run",
+      "catalogue_comparison": {
+        "exact_video_id_present": true,
+        "existing_title_id": "that-time-i-got-reincarnated-as-a-slime",
+        "season_id": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+        "episode": "6"
+      },
+      "result": "not_added_exact_video_id_duplicate",
+      "reason": "Exact video ID already exists in the catalogue."
+    },
+    {
+      "video_id": "x2XvKtIq8X0",
+      "title": "Mob Psycho 100 II - Episode 11 | Muse IN",
+      "category": "anime-series",
+      "uploader": "Muse India",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=x2XvKtIq8X0",
+      "source_channel_url": "https://www.youtube.com/@MuseIndiaChannel",
+      "published_on": "2026-08-17",
+      "channel_identity_reviewed": true,
+      "claimed_audio": "Hindi Dub in title; not independently reverified in this run",
+      "catalogue_comparison": {
+        "exact_video_id_present": true,
+        "existing_title_id": "mob-psycho-100",
+        "season_id": "mob-psycho-100-season-2-hindi",
+        "episode": "11"
+      },
+      "result": "not_added_exact_video_id_duplicate",
+      "reason": "Exact video ID already exists in the catalogue."
+    },
+    {
+      "video_id": "CncVazPN0b0",
+      "title": "My Golden Life Episode 2",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
+      "source_channel_url": "https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig",
+      "published_on": "2017-09-10",
+      "channel_identity_reviewed": true,
+      "claimed_subtitles": "Official search-result title labels SUB: ENG/CHN/IND; title text alone is not accepted as subtitle-track evidence",
+      "audio_language": "unverified",
+      "subtitle_track_evidence": "unverified",
+      "full_content_status": "Episode claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_title_id": "my-golden-life",
+        "existing_episode_numbers": [
+          "1"
+        ],
+        "candidate_episode_missing": true
+      },
+      "result": "not_added_metadata_unverified",
+      "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+    },
+    {
+      "video_id": "HmqoC0oual8",
+      "title": "My Golden Life Episode 3",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
+      "source_channel_url": "https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig",
+      "published_on": "2017-09-16",
+      "channel_identity_reviewed": true,
+      "claimed_subtitles": "Official search-result title labels SUB: ENG/CHN/IND; title text alone is not accepted as subtitle-track evidence",
+      "audio_language": "unverified",
+      "subtitle_track_evidence": "unverified",
+      "full_content_status": "Episode claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_title_id": "my-golden-life",
+        "existing_episode_numbers": [
+          "1"
+        ],
+        "candidate_episode_missing": true
+      },
+      "result": "not_added_metadata_unverified",
+      "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+    },
+    {
+      "video_id": "o4Avwo0kJo0",
+      "title": "My Golden Life Episode 29",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
+      "source_channel_url": "https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig",
+      "published_on": "2017-12-16",
+      "channel_identity_reviewed": true,
+      "claimed_subtitles": "Official search-result title labels SUB: ENG/CHN/IND; title text alone is not accepted as subtitle-track evidence",
+      "audio_language": "unverified",
+      "subtitle_track_evidence": "unverified",
+      "full_content_status": "Episode claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_title_id": "my-golden-life",
+        "existing_episode_numbers": [
+          "1"
+        ],
+        "candidate_episode_missing": true
+      },
+      "result": "not_added_metadata_unverified",
+      "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+    },
+    {
+      "video_id": "AOImQNN_IF4",
+      "title": "My Golden Life Episode 44",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=AOImQNN_IF4",
+      "source_channel_url": "https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig",
+      "published_on": "2018-02-11",
+      "channel_identity_reviewed": true,
+      "claimed_subtitles": "Official search-result title labels SUB: ENG/CHN/IND; title text alone is not accepted as subtitle-track evidence",
+      "audio_language": "unverified",
+      "subtitle_track_evidence": "unverified",
+      "full_content_status": "Episode claimed; exact watch page unavailable",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "canonical_title_id": "my-golden-life",
+        "existing_episode_numbers": [
+          "1"
+        ],
+        "candidate_episode_missing": true
+      },
+      "result": "not_added_metadata_unverified",
+      "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+    },
+    {
+      "video_id": "ENjpuSm6-jM",
+      "title": "Hadh Kar Di Aapne (Full Film)",
+      "category": "movies",
+      "uploader": "Shemaroo Movies",
+      "uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=ENjpuSm6-jM",
+      "source_channel_url": "https://www.youtube.com/channel/UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "published_on": "2024-11-22",
+      "channel_identity_reviewed": true,
+      "full_content_evidence": "Official search result description labels the upload Full Film and crosslinks the Shemaroo Movies channel",
+      "audio_language": "unverified",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "catalogue_comparison": {
+        "exact_video_id_present": false,
+        "title_match_in_catalogue": false
+      },
+      "result": "not_added_metadata_unverified",
+      "reason": "Official distributor channel identity is reviewed and the description claims a full film, but exact uploader channel ID for this video, audio language, runtime, oEmbed/embeddability and IN country metadata could not be verified."
+    },
+    {
+      "video_id": "Z_ni5I1Pip0",
+      "title": "Ne Zha 2 (2025) Full Movie Hindi Dubbed | Animated Fantasy Action Movie",
+      "category": "anime-movies",
+      "uploader": "Tyson Devil Gaming",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=Z_ni5I1Pip0",
+      "channel_identity_reviewed": false,
+      "claimed_audio": "Hindi Dub in title only; not accepted as proof",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "authorization_evidence": "none found; uploader not reviewed",
+      "result": "skipped_unauthorized_unverified",
+      "reason": "No primary-source rights-holder/distributor authorization. A full-movie claim and title language are not authorization or audio evidence."
+    },
+    {
+      "video_id": "ylKI84b7UCo",
+      "title": "Doraemon Movie | Nobita new adventure full movie in Hindi Dubbed",
+      "category": "anime-movies",
+      "uploader": "Jaishankar gaming free fire",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=ylKI84b7UCo",
+      "channel_identity_reviewed": false,
+      "claimed_audio": "Hindi Dub in title only; not accepted as proof",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "authorization_evidence": "none found; uploader not reviewed",
+      "result": "skipped_unauthorized_unverified",
+      "reason": "No primary-source rights-holder/distributor authorization. Uploader is not an approved official source."
+    },
+    {
+      "video_id": "EYvKlrX_Csw",
+      "title": "Shinchan full episode in Hindi",
+      "category": "anime-series",
+      "uploader": "Shinchan4u",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=EYvKlrX_Csw",
+      "channel_identity_reviewed": false,
+      "claimed_audio": "Hindi in title only; not accepted as proof",
+      "runtime_seconds": null,
+      "oembed": null,
+      "embeddability": "unverified",
+      "india_country_metadata": "unverified",
+      "authorization_evidence": "none found; uploader not reviewed",
+      "result": "skipped_unauthorized_unverified",
+      "reason": "No primary-source rights-holder authorization; the channel is not a reviewed official source."
+    }
+  ],
+  "counts": {
+    "exact_video_id_duplicates": 3,
+    "canonical_tuple_duplicates": 2,
+    "metadata_gate_unverified": 5,
+    "unauthorized_or_unreviewed": 3,
+    "not_full_content": 0,
+    "added_titles": 0,
+    "added_uploads": 0
+  },
+  "unresolved_gaps": [
+    {
+      "target": "Fairy Tail Hindi Season 3 episodes 1-3, 6-8, 11",
+      "result": "No new exact watch page passed this run; previously tracked candidate IDs remain metadata-blocked."
+    },
+    {
+      "target": "Pokémon Horizons Hindi episodes 45-46",
+      "result": "No exact official watch page surfaced; existing episodes 30-44 preserved."
+    },
+    {
+      "target": "Assassination Classroom Hindi episodes 18-19",
+      "result": "No exact official watch page surfaced; existing episodes 15-17 preserved."
+    },
+    {
+      "target": "My Golden Life episodes 2-3, 29, 44",
+      "result": "Official KBS search results found, but subtitle/audio/runtime/oEmbed/India gates remain unverified."
+    },
+    {
+      "target": "Doraemon and Pokémon feature films",
+      "result": "No eligible official full-feature upload found; current Doraemon result was an unreviewed gaming uploader, Pokémon search surfaced no verified full feature."
+    },
+    {
+      "target": "Suzume / Suzume no Tojimari",
+      "result": "No eligible exact official full-feature upload found."
+    },
+    {
+      "target": "Ne Zha / Nezha / 哪吒 animated feature films",
+      "result": "Hindi-dubbed full-movie claim found from an unreviewed gaming uploader; skipped for lack of authorization."
+    },
+    {
+      "target": "Crayon Shin-chan / Shinchan / शिनचैन",
+      "result": "Search returned an unreviewed reupload channel; no authorized full episode passed verification."
+    },
+    {
+      "target": "Shemaroo Movies full Hindi films",
+      "result": "Hadh Kar Di Aapne surfaced on the reviewed distributor channel, but exact upload metadata gates remain incomplete."
+    }
+  ],
+  "access_limits": [
+    "YouTube watch pages and oEmbed could not be fetched in this environment; runtime, embeddability and video-level uploader channel IDs could not be independently confirmed for unresolved candidates.",
+    "The YouTube Atom feed endpoints returned DisabledError; playlist pages exposed only limited shell content.",
+    "Actual India playback was not observed; India country metadata for the unresolved candidates is unverified.",
+    "The public production homepage and sitemap could not be retrieved by the web fetch tool; no claim is made that their current contents were independently inspected.",
+    "This is a bounded search pass, not exhaustive coverage of all public YouTube uploads."
+  ],
+  "live_site_checks": {
+    "production_homepage": "not_verified_fetch_failed",
+    "sitemap": "not_verified_fetch_failed",
+    "github_head_before_commit": "f3faa1ff3e761f1c72327310a019cd044f5fc636",
+    "current_head_vercel_status": "success",
+    "current_head_deployment_url": "https://vercel.com/nitesh-patels-projects-5d0fcf94/aniloveindia/9HCCidDWgQFLyFFfYwtsiunT7n53",
+    "exact_new_commit_status": "pending"
+  },
+  "validation": {
+    "catalogue_json_parsed": true,
+    "title_count": 219,
+    "category_counts": {
+      "anime-series": 57,
+      "anime-movies": 20,
+      "movies": 89,
+      "k-dramas": 53
+    },
+    "upload_count": 1674,
+    "catalogue_changed": false,
+    "build_audit_tests": "not run locally; no fresh repository checkout or online shell was available. This commit changes only discovery tracking/report data; the catalogue and site code are unchanged."
+  },
+  "outcome": "No catalogue additions. Three exact-ID duplicates, two canonical episode duplicates, five metadata-incomplete official candidates, and three unauthorized/unreviewed uploads were excluded. A tracking report and backlog update are being recorded; no content availability claim is made."
+}
