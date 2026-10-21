@@ -65,3 +65,5 @@
 .stream-copy .hero-synopsis{min-height:3.6em}
 .stream-copy .hero-buttons{min-height:46px}
 .season-card img{aspect-ratio:4/3}
+
+@media(max-width:760px){.stream-copy h1,.stream-copy h2{min-height:2.24em}.stream-copy .hero-synopsis{min-height:4.8em}}
