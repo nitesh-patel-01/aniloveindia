@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:08:23+05:30",
+  "updated_at": "2026-10-21T18:55:58+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -4715,10 +4715,11 @@
         }
       ],
       "next_actions": [
-        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage."
+        "Continue public official publisher listings, ordinary pagination and exact watch verification; never treat a 15-item feed as full-series coverage.",
+        "2026-10-21 evening: retry exact watch/oEmbed, runtime, actual Hindi audio, India metadata and exact catalogue tuple for episodes 49–51. Episodes 49–50 surfaced in indexed results; episode 51 is carried forward. Do not import until direct metadata and catalogue comparison are available."
       ],
       "last_attempted_on": "2026-10-21",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "o0IqkvANLtk",
@@ -4737,6 +4738,59 @@
           "observed_on": "2026-10-21",
           "matched_catalogue_video_id": "2p3NF7hijs8",
           "reason": "The current catalogue already has the same canonical title/season/episode/audio/edition as video 2p3NF7hijs8. Preserve the existing valid entry; do not add an alternate duplicate."
+        },
+        {
+          "video_id": "pOv-hwwyhFQ",
+          "title": "Pokémon: Diamond and Pearl | Episode 49 | Pokémon Asia Official (Hindi)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_id_confirmed_for_video": false,
+          "published_on": "2026-06-17",
+          "observed_on": "2026-10-21",
+          "source_url": "https://www.youtube.com/watch?v=pOv-hwwyhFQ",
+          "source_type": "public YouTube indexed result",
+          "claimed_audio": "Hindi indicated by title/channel label only; actual audio unverified",
+          "runtime_seconds": null,
+          "oembed": null,
+          "embeddability": "unverified",
+          "india_country_metadata": "unverified",
+          "catalogue_comparison": "Not rechecked this run: GitHub connector returned an empty content body for the large current data/catalogue.json blob",
+          "reason": "Direct watch/oEmbed metadata unavailable. Do not import until exact uploader, runtime, actual audio, India metadata, embeddability and exact catalogue tuple are verified."
+        },
+        {
+          "video_id": "fgzZJZB5lGs",
+          "title": "Pokémon: Diamond and Pearl | Episode 50 | Pokémon Asia Official (Hindi)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_id_confirmed_for_video": false,
+          "published_on": "2026-06-24",
+          "observed_on": "2026-10-21",
+          "source_url": "https://www.youtube.com/watch?v=fgzZJZB5lGs",
+          "source_type": "public YouTube indexed result",
+          "claimed_audio": "Hindi indicated by title/channel label only; actual audio unverified",
+          "runtime_seconds": null,
+          "oembed": null,
+          "embeddability": "unverified",
+          "india_country_metadata": "unverified",
+          "catalogue_comparison": "Not rechecked this run: GitHub connector returned an empty content body for the large current data/catalogue.json blob",
+          "reason": "Direct watch/oEmbed metadata unavailable. Do not import until exact uploader, runtime, actual audio, India metadata, embeddability and exact catalogue tuple are verified."
+        },
+        {
+          "video_id": "DFhENa0vpFU",
+          "title": "Pokémon: Diamond and Pearl | Episode 51 | Pokémon Asia Official (Hindi) (carried-forward lead)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+          "uploader_id_confirmed_for_video": false,
+          "observed_on": "2026-10-21",
+          "source_url": "https://www.youtube.com/watch?v=DFhENa0vpFU",
+          "source_type": "carried-forward candidate from prior discovery turn; not re-surfaced in current search",
+          "claimed_audio": "Hindi label only; actual audio unverified",
+          "runtime_seconds": null,
+          "oembed": null,
+          "embeddability": "unverified",
+          "india_country_metadata": "unverified",
+          "catalogue_comparison": "Not rechecked this run: GitHub connector returned an empty content body for the large current data/catalogue.json blob",
+          "reason": "Keep as an unresolved lead only; do not import until the video-level and exact catalogue checks pass."
         }
       ]
     },
@@ -4930,10 +4984,10 @@
           "reason": "No primary-source rights-holder/distributor authorization. Uploader is not an approved official source."
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-21 recheck: no new authorized full feature passed. Ne Zha claims remained on unreviewed uploaders; the Ramayana result was part 1/5 from an unreviewed uploader. Exact metadata remains inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -4968,10 +5022,10 @@
           "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-21 recheck: no new authorized full feature passed. Ne Zha claims remained on unreviewed uploaders; the Ramayana result was part 1/5 from an unreviewed uploader. Exact metadata remains inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -5005,10 +5059,10 @@
           "observed_on": "2026-10-20"
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-21 recheck: no new authorized full feature passed. Ne Zha claims remained on unreviewed uploaders; the Ramayana result was part 1/5 from an unreviewed uploader. Exact metadata remains inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -5096,10 +5150,10 @@
           "reason": "No primary-source rights-holder/distributor authorization. A full-movie claim and title language are not authorization or audio evidence."
         }
       ],
-      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
+      "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible. Evening 2026-10-21 recheck: no new authorized full feature passed. Ne Zha claims remained on unreviewed uploaders; the Ramayana result was part 1/5 from an unreviewed uploader. Exact metadata remains inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -5530,7 +5584,7 @@
         "1"
       ],
       "last_attempted_on": "2026-10-21",
-      "latest_attempt_report": "data/verification/2026-10-21-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-21-evening-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -5595,7 +5649,7 @@
           "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
         }
       ],
-      "reason": "KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed.",
+      "reason": "KBS WORLD search surfaced EP.2 and EP.3 with English subtitle labels, but exact watch metadata, actual audio, runtime, IN country metadata and oEmbed were not confirmed. Evening 2026-10-21 recheck returned no new exact episode IDs; EP.2 and EP.3 remain unverified for actual Korean audio, English subtitle tracks, runtime, India metadata and oEmbed.",
       "next_actions": [
         "Retry exact public watch-page metadata and oEmbed for episodes 2–3.",
         "Do not infer audio or India availability from title or uploader location."
