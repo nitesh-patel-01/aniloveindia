@@ -85,3 +85,43 @@ if(requested&&$('.request-form [name="subject"]')){
 }
 $$('header nav a').forEach(link=>{if(link.pathname===location.pathname)link.setAttribute('aria-current','page')});
 $$('[data-image-fallback]').forEach(img=>{const fallback=()=>{if(img.dataset.imageFallback){const path=img.dataset.imageFallback;delete img.dataset.imageFallback;img.src=path;img.alt='Original AniLove illustration of an anime-inspired world'}};img.addEventListener('error',fallback,{once:true});if(img.complete&&!img.naturalWidth)fallback()});
+
+
+// Share controls for every title (series or movie) and individual episode page.
+function shareButton(label){
+  const b=document.createElement('button');
+  b.type='button'; b.className='btn outline share-button'; b.textContent='↗ Share';
+  b.setAttribute('aria-label','Share '+label);
+  b.addEventListener('click',async()=>{
+    const payload={title:label,text:'Watch '+label+' on AniLove India',url:location.href};
+    try{
+      if(navigator.share){await navigator.share(payload);return;}
+      if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(location.href);toast('Link copied. Share it with your friends.');return;}
+      const box=document.createElement('textarea');box.value=location.href;box.setAttribute('readonly','');box.style.position='fixed';box.style.opacity='0';document.body.append(box);box.select();
+      const copied=document.execCommand('copy');box.remove();
+      toast(copied?'Link copied. Share it with your friends.':'Copy this page URL: '+location.href);
+    }catch(err){if(err?.name!=='AbortError')toast('Share this link: '+location.href)}
+  });
+  return b;
+}
+const titleDetail=$('.detail');
+if(titleDetail){
+  const actions=titleDetail.querySelector('.hero-buttons');
+  if(actions&&!actions.querySelector('.share-button'))actions.append(shareButton(titleDetail.querySelector('h1')?.textContent?.trim()||document.title));
+}
+const watchPage=$('.watch-page');
+if(watchPage){
+  const heading=watchPage.querySelector('h1');
+  if(heading&&!watchPage.querySelector('.share-button')){
+    const actions=document.createElement('div');actions.className='hero-buttons episode-share-actions';
+    actions.append(shareButton(heading.textContent.trim()));heading.insertAdjacentElement('afterend',actions);
+  }
+}
+// The 404 link uses explicit contrast so its label stays visible even if theme rules change.
+const returnLink=$('.prose a.btn.primary[href="/search/"]');
+if(returnLink&&document.querySelector('.eyebrow')?.textContent.includes('404')){
+  returnLink.classList.add('not-found-return');
+  returnLink.style.setProperty('color','#090a0e','important');
+  returnLink.style.setProperty('font-size','12px','important');
+  returnLink.style.setProperty('opacity','1','important');
+}
