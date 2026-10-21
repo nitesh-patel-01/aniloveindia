@@ -65,7 +65,7 @@ def build():
  write(Path('data/catalogue.json'),json.dumps(T,ensure_ascii=False))
  write(Path('data/status.json'),(ROOT/'data/status.json').read_text())
  write(Path('data/firebase-config.json'),(ROOT/'data/firebase-config.json').read_text())
- featured=[next(t for t in T if t['id']==i)for i in ['attack-on-titan','hunter-x-hunter','spy-x-family-code-white','kgf','who-are-you-school-2015','spy-x-family']]
+ featured=[next(t for t in T if t['id']==i)for i in ['spy-x-family','attack-on-titan','hunter-x-hunter','spy-x-family-code-white','kgf','who-are-you-school-2015']]
  hero_labels={'anime-series':'Anime series','anime-movies':'Anime movie','movies':'Movie','k-dramas':'K-drama'}
  hero_copy={
   'attack-on-titan':'Humanity’s fight for survival begins beyond the walls. Choose from the available Hindi episodes.',
