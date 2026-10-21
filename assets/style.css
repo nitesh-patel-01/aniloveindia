@@ -58,3 +58,10 @@
 .episode-share-actions{margin:12px 0 20px}
 .not-found-return,.not-found-return:visited{display:inline-flex!important;align-items:center!important;justify-content:center!important;background:#ff9559!important;color:#090a0e!important;font-size:12px!important;font-weight:800!important;line-height:1.4!important;letter-spacing:.2px!important;opacity:1!important;min-width:237px}
 .not-found-return:hover,.not-found-return:focus-visible{background:#ff7427!important;color:#090a0e!important}
+
+/* Keep featured copy geometry stable while the carousel changes slides. */
+.stream-copy h1,.stream-copy h2{min-height:2.02em}
+.stream-copy .hero-facts{min-height:1.6em}
+.stream-copy .hero-synopsis{min-height:3.6em}
+.stream-copy .hero-buttons{min-height:46px}
+.season-card img{aspect-ratio:4/3}
