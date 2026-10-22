@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-10-22",
+  "run_period": "user-requested-follow-up",
+  "base_commit_note": "Created from current main branch after reviewing the existing catalogue/build rules; catalogue itself was not modified.",
+  "source": {
+    "channel_name": "Hollywood Hindi",
+    "channel_url": "https://www.youtube.com/@UltraHollywoodHindi",
+    "claimed_operator": "Ultra Media & Entertainment",
+    "channel_id": "UCqyU1axXZHxHGbRjKcVEESQ",
+    "channel_id_source": "Third-party channel profile; treat as provisional until confirmed directly from YouTube.",
+    "identity_status": "candidate_not_fully_primary_source_verified",
+    "primary_source_context": "Ultra Media & Entertainment's official website describes copyright acquisition/distribution and says it has online movie-streaming tie-ups with YouTube, but the page fetched in this run did not directly link this exact handle or these two video IDs.",
+    "primary_source_url": "https://www.ultraindia.com/about-us/"
+  },
+  "requested_videos": [
+    {
+      "video_id": "pwLbV-qk_mE",
+      "watch_url": "https://www.youtube.com/watch?v=pwLbV-qk_mE",
+      "embed_url": "https://www.youtube.com/embed/pwLbV-qk_mE",
+      "requested_category": "movies",
+      "status": "not_imported_metadata_unavailable",
+      "reason": "YouTube watch page fetch was throttled; search did not return an exact matching result. Title, runtime, uploader/channel ID, embeddability, and India availability could not be independently confirmed."
+    },
+    {
+      "video_id": "ET28qk8p8j4",
+      "watch_url": "https://www.youtube.com/watch?v=ET28qk8p8j4",
+      "embed_url": "https://www.youtube.com/embed/ET28qk8p8j4",
+      "requested_category": "movies",
+      "status": "not_imported_metadata_unavailable",
+      "reason": "YouTube watch page fetch was throttled; search did not return an exact matching result. Title, runtime, uploader/channel ID, embeddability, and India availability could not be independently confirmed."
+    }
+  ],
+  "checks": {
+    "youtube_channel_page": "Fetch returned only generic YouTube footer links, not channel metadata.",
+    "youtube_watch_pages": "Both requests throttled.",
+    "exact_video_search": "No exact matching search results surfaced.",
+    "repository_catalogue": "GitHub connector returned an empty content body for data/catalogue.json even though it exposed a blob SHA; no safe catalogue merge was possible.",
+    "site_build_and_tests": "Not run because no catalogue or site code was changed."
+  },
+  "action_taken": "Recorded these exact requested IDs and the verification blockers so they can be resumed without guessing or losing the source leads.",
+  "live_site_changed": false,
+  "catalogue_changed": false,
+  "deployed": false
+}
