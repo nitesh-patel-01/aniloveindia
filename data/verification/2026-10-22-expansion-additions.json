@@ -1,0 +1,456 @@
+{
+  "checked_on": "2026-10-22",
+  "purpose": "User-requested expansion: add more anime series, anime movies, other movies and K-dramas from official YouTube sources without changing existing catalogue entries",
+  "repository": "nitesh-patel-01/aniloveindia",
+  "verification_method": "For each added upload: YouTube oEmbed returned title and author matching a reviewed channel in data/channels.json; YouTube player metadata returned the same title, author, exact channel ID and full runtime (lengthSeconds). Actual India playback remains unverified, consistent with existing catalogue labelling.",
+  "added_titles": [
+    {
+      "id": "from-bureaucrat-to-villainess-dads-been-reincarnated",
+      "title": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+      "category": "anime-series",
+      "provider": "Muse Asia",
+      "video_id": "dBO8MENW9po",
+      "oembed_title": "【Complete Series】 From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+      "author": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "duration_seconds": 17325
+    },
+    {
+      "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+      "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+      "category": "anime-series",
+      "provider": "Muse Asia",
+      "video_id": "jJxjrGGyV9Y",
+      "oembed_title": "【Complete Series】I Left My A-Rank Party",
+      "author": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "duration_seconds": 33147
+    },
+    {
+      "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest",
+      "title": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+      "category": "anime-series",
+      "provider": "Muse Asia",
+      "video_id": "DCJjX4A0CLQ",
+      "oembed_title": "【Complete Series】Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+      "author": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "duration_seconds": 17041
+    },
+    {
+      "id": "apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin",
+      "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+      "category": "anime-series",
+      "provider": "Muse Asia",
+      "video_id": "Fzcm3uZsURs",
+      "oembed_title": "【Complete Series】Apocalypse Bringer Mynoghra",
+      "author": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "duration_seconds": 18461
+    },
+    {
+      "id": "isekai-quartet-3",
+      "title": "Isekai Quartet 3",
+      "category": "anime-series",
+      "provider": "Muse Asia",
+      "video_id": "YCSl4yksK_E",
+      "oembed_title": "【Complete Series】ISEKAI QUARTET3",
+      "author": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "duration_seconds": 8166
+    },
+    {
+      "id": "god-mars",
+      "title": "God Mars",
+      "category": "anime-series",
+      "provider": "Anime! on TMS Official Channel",
+      "video_id": "t-hDE2SCY2Y",
+      "oembed_title": "GOD MARS - EP01 Who Am I?! | English Sub | Full Episode",
+      "author": "Anime! on TMS Official Channel",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "duration_seconds": 1463
+    },
+    {
+      "id": "we-rent-tsukumogami",
+      "title": "We Rent Tsukumogami",
+      "category": "anime-series",
+      "provider": "Anime! on TMS Official Channel",
+      "video_id": "uz8z67RqyPI",
+      "oembed_title": "We Rent Tsukumogami - EP01 Rikyu-nezumi | English Sub | Full Episode",
+      "author": "Anime! on TMS Official Channel",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "duration_seconds": 1500
+    },
+    {
+      "id": "cats-eye",
+      "title": "Cat's Eye",
+      "category": "anime-series",
+      "provider": "Anime! on TMS Official Channel",
+      "video_id": "rhOIwmWvWMo",
+      "oembed_title": "CAT'S EYE - EP01 You're a Sexy Thief | English Sub | Full Episode",
+      "author": "Anime! on TMS Official Channel",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "duration_seconds": 1481
+    },
+    {
+      "id": "fairy-tail-the-movie-phoenix-priestess",
+      "title": "Fairy Tail the Movie: Phoenix Priestess",
+      "category": "anime-movies",
+      "provider": "Anime Manga Official",
+      "video_id": "HVjQp54UboA",
+      "oembed_title": "Full Movie| FAIRY TAIL THE MOVIE: Phoenix Priestess (English Dub)",
+      "author": "Anime Manga Official",
+      "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+      "duration_seconds": 5170
+    },
+    {
+      "id": "akira",
+      "title": "Akira",
+      "category": "anime-movies",
+      "provider": "Anime Manga Official",
+      "video_id": "YvfWrC5prvU",
+      "oembed_title": "Full Movie | AKIRA (English Dub)",
+      "author": "Anime Manga Official",
+      "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+      "duration_seconds": 7479
+    },
+    {
+      "id": "attack-on-titan-season-2-the-movie-roar-of-awakening",
+      "title": "Attack on Titan Season 2 the Movie: Roar of Awakening",
+      "category": "anime-movies",
+      "provider": "Anime Manga Official",
+      "video_id": "PvvQZInIagQ",
+      "oembed_title": "Full Movie | Attack on Titan Season 2 the Movie: Roar of Awakening (English Dub)",
+      "author": "Anime Manga Official",
+      "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+      "duration_seconds": 7150
+    },
+    {
+      "id": "kaithi",
+      "title": "Kaithi",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "8iW9qeJaE4I",
+      "oembed_title": "Kaithi (4K ULTRA HD) ACTION BLOCKBUSTER Hindi Dubbed Movie | Karthi, Arjun Das, Narain",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 7833
+    },
+    {
+      "id": "vip-2",
+      "title": "VIP 2",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "WG1tq6BUFKM",
+      "oembed_title": "VIP 2 (4K ULTRA HD) - Full Movie | Dhanush, Kajol, Amala Paul, Vivek, Hrishikesh, Samuthirakani",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 5766
+    },
+    {
+      "id": "tik-tik-tik",
+      "title": "Tik Tik Tik",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "9khRLPbJ5fw",
+      "oembed_title": "Tik Tik Tik (4K Ultra HD) - Jayam Ravi's Blockbuster Hindi Movie | Nivetha Pethuraj, Ramesh Thilak",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 7009
+    },
+    {
+      "id": "agent-sai-srinivasa-athreya",
+      "title": "Agent Sai Srinivasa Athreya",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "GVIkN8bv6FQ",
+      "oembed_title": "Agent Sai (Agent Sai Srinivasa Athreya) 2021 New Released Hindi Dubbed Movie | Naveen Polishetty",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 7987
+    },
+    {
+      "id": "son-of-satyamurthy",
+      "title": "Son of Satyamurthy",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "d68l6CRI0fM",
+      "oembed_title": "Son Of Satyamurthy (4K)- Allu Arjun Blockbuster Action Comedy Romantic Film | Samantha, Nithya Menen",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 7884
+    },
+    {
+      "id": "naayak",
+      "title": "Naayak",
+      "category": "movies",
+      "provider": "Goldmines",
+      "video_id": "0tlCF87XHjE",
+      "oembed_title": "Naayak (नायक) Ram Charan South Superhit Action Movie | Kajal Aggarwal, Amala Paul",
+      "author": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "duration_seconds": 7416
+    },
+    {
+      "id": "har-dil-jo-pyar-karega",
+      "title": "Har Dil Jo Pyar Karega",
+      "category": "movies",
+      "provider": "Shemaroo Movies",
+      "video_id": "N4XM6Y7-KB4",
+      "oembed_title": "Har Dil Jo Pyar Karega Full Hindi Movie (HD) - Salman Khan - Rani Mukherjee - Preity Zinta -",
+      "author": "Shemaroo Movies",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "duration_seconds": 9043
+    },
+    {
+      "id": "highway",
+      "title": "Highway",
+      "category": "movies",
+      "provider": "Shemaroo Movies",
+      "video_id": "HomXjXjVJb0",
+      "oembed_title": "Highway - Full Movie | Alia Bhatt, Randeep Hooda's Best Film | Imtiaz Ali film | A R Rahman Music",
+      "author": "Shemaroo Movies",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "duration_seconds": 7676
+    },
+    {
+      "id": "blade-man",
+      "title": "Blade Man",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "KmA8c-dl2U8",
+      "oembed_title": "Blade Man | 아이언 맨 EP 1 [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 3497
+    },
+    {
+      "id": "lovers-of-music",
+      "title": "Lovers of Music",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "ydnA2h1BdC0",
+      "oembed_title": "Lovers of Music - EP 1 | 트로트의연인  [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 3551
+    },
+    {
+      "id": "save-the-family",
+      "title": "Save the Family",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "9r150_-eH54",
+      "oembed_title": "Save the Family | 가족을 지켜라 EP.1 [SUB : ENG,CHN / 2015.05.25]",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 2194
+    },
+    {
+      "id": "gold-mask",
+      "title": "Gold Mask",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "BN2uRw_yhvo",
+      "oembed_title": "[ENG / CHN] Gold Mask | 황금 가면 EP.1 | KBS WORLD TV 220530",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 2006
+    },
+    {
+      "id": "red-shoes",
+      "title": "Red Shoes",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "tvKjFzFfbR0",
+      "oembed_title": "[ENG CHN] Red Shoes EP.1",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 2143
+    },
+    {
+      "id": "sirius",
+      "title": "Sirius",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "lli3-LcEfMU",
+      "oembed_title": "[ENG] Sirius | 시리우스 Ep.1 [2013 Drama  Special / 2013.01.06]",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 4339
+    },
+    {
+      "id": "after-the-rain",
+      "title": "After the Rain",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "f_CfIyrQ70I",
+      "oembed_title": "After the Rain | 옥란면옥 EP.1[SUB : ENG / 2018.09.27]",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 3757
+    },
+    {
+      "id": "what-happens-to-my-family",
+      "title": "What Happens to My Family?",
+      "category": "k-dramas",
+      "provider": "KBS WORLD TV",
+      "video_id": "jr02Q2pRW7w",
+      "oembed_title": "What Happens to My Family? | 가족끼리 왜 이래 - Ep.1 (2014.08.30)",
+      "author": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "duration_seconds": 3783
+    }
+  ],
+  "seo_additions": [
+    "/discover/watch-anime-online-india/",
+    "/discover/hindi-movies-online/",
+    "/discover/english-dubbed-anime-movies/"
+  ],
+  "added_title_count": 27,
+  "added_upload_count": 27,
+  "gap_episodes_filled": [
+    {
+      "video_id": "dfk7Rj0QPzU",
+      "label": "slime-s4e4",
+      "oembed_title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 76 (S4E04) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1451
+    },
+    {
+      "video_id": "FAfCA3aRAU8",
+      "label": "slime-s4e5",
+      "oembed_title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 77 (S4E05) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1451
+    },
+    {
+      "video_id": "mECaS1JlGQs",
+      "label": "slime-s4e6",
+      "oembed_title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 78 (S4E06) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1451
+    },
+    {
+      "video_id": "SIMQEleTN2c",
+      "label": "slime-s4e7",
+      "oembed_title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 79 (S4E07) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1451
+    },
+    {
+      "video_id": "QDT-QATpEsw",
+      "label": "rezero-s1e22",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 22 (S1E22) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1472
+    },
+    {
+      "video_id": "2RPAsv0PSrg",
+      "label": "rezero-s2e11",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 36 (S2E11) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1570
+    },
+    {
+      "video_id": "TIxwsiN6ZQs",
+      "label": "rezero-s2e15",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 40 (S2E15) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1650
+    },
+    {
+      "video_id": "Ig3OkepeGy4",
+      "label": "rezero-s3e3",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 53 (S3E03) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1420
+    },
+    {
+      "video_id": "PxR66HbSEvg",
+      "label": "rezero-s3e10",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 60 (S3E10) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1420
+    },
+    {
+      "video_id": "toHiSfxiAZE",
+      "label": "rezero-s3e13",
+      "oembed_title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 63 (S3E13) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1420
+    },
+    {
+      "video_id": "rgrsK31oTPI",
+      "label": "cote-s1e9",
+      "oembed_title": "[Hindi Dub] Classroom of the Elite - Episode 09 | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1440
+    },
+    {
+      "video_id": "R8HlmK5dEnY",
+      "label": "mob-s1e11",
+      "oembed_title": "[Hindi Dub] Mob Psycho 100 - Episode 11 | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1470
+    },
+    {
+      "video_id": "Vc9RV_vFpTY",
+      "label": "mob-s2e3",
+      "oembed_title": "[Hindi Dub] Mob Psycho 100 II - Episode 03 | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1450
+    },
+    {
+      "video_id": "YeYKE5wihkM",
+      "label": "opm-s2e5",
+      "oembed_title": "[Hindi Dub] One-Punch Man - Episode 17 (S2E05) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1430
+    },
+    {
+      "video_id": "Umn3UB_thjI",
+      "label": "aot-s1e23",
+      "oembed_title": "[Hindi Dub] Attack on Titan - Episode 23 (S1E23) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1447
+    },
+    {
+      "video_id": "JqQOwqMN64o",
+      "label": "dandadan-s2e7",
+      "oembed_title": "[Hindi dub] DAN DA DAN - Episode 19 | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1447
+    },
+    {
+      "video_id": "opIi3ml_Uts",
+      "label": "bofuri-s1e2",
+      "oembed_title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E02) | Muse IN",
+      "oembed_author": "Muse India",
+      "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "lengthSeconds": 1420
+    }
+  ],
+  "gap_episode_count": 17,
+  "totals_after": {
+    "titles": 246,
+    "uploads": 1718
+  },
+  "existing_content_integrity": "Verified programmatically against HEAD: every pre-existing title, season, episode video_id and metadata source is still present; changes to existing entries are only the 17 inserted gap episodes, appended metadata sources, last_checked dates on touched titles/seasons, and accuracy updates to three notes/synopses whose statements the fills made outdated (Slime synopsis and Season 4 note, Mob Psycho 100 Season 2 note, Attack on Titan and DAN DA DAN upload-count synopses)."
+}

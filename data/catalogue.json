@@ -19,14 +19,14 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=B1LyaPY2SYw",
-    "synopsis": "Watch official Muse India Hindi uploads of That Time I Got Reincarnated as a Slime. Seasons 1, 2 and 3 each list individually verified Hindi episodes 1–24. Seasons 2 and 3 also have publisher-labelled season compilations. Season 4 currently lists verified episodes 1–3 and 8; missing episodes still need exact official links. Vision of Coleus is a separate related ONA.",
+    "synopsis": "Watch official Muse India Hindi uploads of That Time I Got Reincarnated as a Slime. Seasons 1, 2 and 3 each list individually verified Hindi episodes 1–24. Seasons 2 and 3 also have publisher-labelled season compilations. Season 4 currently lists verified episodes 1–8. Vision of Coleus is a separate related ONA.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in each upload’s available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-22",
     "verification_method": "Official Muse India uploader, explicit Hindi dub and season-relative episode metadata, full runtime, India country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=B1LyaPY2SYw",
@@ -106,7 +106,11 @@
       "https://www.youtube.com/watch?v=4aoo1ssOwbA",
       "https://www.youtube.com/watch?v=N4eGCObDedE",
       "https://www.youtube.com/watch?v=R2kbNZGMWHw",
-      "https://www.youtube.com/watch?v=OUh3DcMZyug"
+      "https://www.youtube.com/watch?v=OUh3DcMZyug",
+      "https://www.youtube.com/watch?v=dfk7Rj0QPzU",
+      "https://www.youtube.com/watch?v=FAfCA3aRAU8",
+      "https://www.youtube.com/watch?v=mECaS1JlGQs",
+      "https://www.youtube.com/watch?v=SIMQEleTN2c"
     ],
     "thumbnail": "https://i.ytimg.com/vi/B1LyaPY2SYw/hqdefault.jpg",
     "seasons": [
@@ -900,8 +904,8 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually verified Hindi episodes 1–3 and 8 are listed. Episodes 4–7 remain unresolved; this is not a complete season. Actual India playback is unverified.",
-        "last_checked": "2026-10-18",
+        "completion_note": "Individually verified Hindi episodes 1–8 are listed. This is not a complete season. Actual India playback is unverified.",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
@@ -931,6 +935,46 @@
             "duration_seconds": 1451,
             "metadata_check": "Official Muse India identity, Hindi dub and season/episode title, full runtime, public oEmbed and India country metadata checked 2026-10-17",
             "india_playback": "unverified"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 76 (S4E04) | Muse IN",
+            "video_id": "dfk7Rj0QPzU",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 77 (S4E05) | Muse IN",
+            "video_id": "FAfCA3aRAU8",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 78 (S4E06) | Muse IN",
+            "video_id": "mECaS1JlGQs",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 79 (S4E07) | Muse IN",
+            "video_id": "SIMQEleTN2c",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "8",
@@ -1817,7 +1861,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-22",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=7F5rns5lX6g",
@@ -1883,7 +1927,13 @@
       "https://www.youtube.com/watch?v=BC0z6LNMXDg",
       "https://www.youtube.com/watch?v=IC5vrzfbBHg",
       "https://www.youtube.com/watch?v=00dKc5L1rck",
-      "https://www.youtube.com/watch?v=jcg9tqVVl7s"
+      "https://www.youtube.com/watch?v=jcg9tqVVl7s",
+      "https://www.youtube.com/watch?v=QDT-QATpEsw",
+      "https://www.youtube.com/watch?v=2RPAsv0PSrg",
+      "https://www.youtube.com/watch?v=TIxwsiN6ZQs",
+      "https://www.youtube.com/watch?v=Ig3OkepeGy4",
+      "https://www.youtube.com/watch?v=PxR66HbSEvg",
+      "https://www.youtube.com/watch?v=toHiSfxiAZE"
     ],
     "seasons": [
       {
@@ -1894,7 +1944,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -2120,6 +2170,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "22",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 22 (S1E22) | Muse IN",
+            "video_id": "QDT-QATpEsw",
+            "duration_seconds": 1472,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
             "number": "23",
             "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 23 (S1E23) | Muse IN",
             "video_id": "YFWsF8K00R0",
@@ -2161,7 +2221,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -2267,6 +2327,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "11",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 36 (S2E11) | Muse IN",
+            "video_id": "2RPAsv0PSrg",
+            "duration_seconds": 1570,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
             "number": "12",
             "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 37 (S2E12) | Muse IN",
             "video_id": "0P43a_L6DpM",
@@ -2295,6 +2365,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "15",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 40 (S2E15) | Muse IN",
+            "video_id": "TIxwsiN6ZQs",
+            "duration_seconds": 1650,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "16",
@@ -2407,7 +2487,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -2431,6 +2511,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 53 (S3E03) | Muse IN",
+            "video_id": "Ig3OkepeGy4",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "4",
@@ -2493,6 +2583,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "10",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 60 (S3E10) | Muse IN",
+            "video_id": "PxR66HbSEvg",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
             "number": "11",
             "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 61 (S3E11) | Muse IN",
             "video_id": "o4oWeck09u8",
@@ -2511,6 +2611,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "13",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 63 (S3E13) | Muse IN",
+            "video_id": "toHiSfxiAZE",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "14",
@@ -3685,7 +3795,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-22",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=2wNQpTgrmDQ",
@@ -3714,7 +3824,8 @@
       "https://www.youtube.com/watch?v=ylAwNowCO0Q",
       "https://www.youtube.com/watch?v=_U_0hrcSWqc",
       "https://www.youtube.com/watch?v=wv5cQtRZ1i8",
-      "https://www.youtube.com/watch?v=110X6KLjYtQ"
+      "https://www.youtube.com/watch?v=110X6KLjYtQ",
+      "https://www.youtube.com/watch?v=rgrsK31oTPI"
     ],
     "seasons": [
       {
@@ -3725,7 +3836,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -3809,6 +3920,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] Classroom of the Elite - Episode 09 | Muse IN",
+            "video_id": "rgrsK31oTPI",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "10",
@@ -6167,7 +6288,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=tvLPRBqfJdI",
@@ -6202,7 +6323,9 @@
       "https://www.youtube.com/watch?v=Nccfr3jdSb4",
       "https://www.youtube.com/watch?v=D-_bDoxSjf0",
       "https://www.youtube.com/watch?v=0Gmvu7FV09o",
-      "https://www.youtube.com/watch?v=q6A7fwZtLYE"
+      "https://www.youtube.com/watch?v=q6A7fwZtLYE",
+      "https://www.youtube.com/watch?v=R8HlmK5dEnY",
+      "https://www.youtube.com/watch?v=Vc9RV_vFpTY"
     ],
     "seasons": [
       {
@@ -6213,7 +6336,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -6319,6 +6442,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "11",
+            "title": "[Hindi Dub] Mob Psycho 100 - Episode 11 | Muse IN",
+            "video_id": "R8HlmK5dEnY",
+            "duration_seconds": 1470,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          },
+          {
             "number": "12",
             "title": "[Hindi Dub] Mob Psycho 100 - Episode 12 | Muse IN",
             "video_id": "ATPwIKpozYY",
@@ -6339,8 +6472,8 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 3. Metadata and oEmbed do not prove actual playback from India.",
-        "last_checked": "2026-10-20",
+        "completion_note": "Individually verified available Hindi uploads. Metadata and oEmbed do not prove actual playback from India.",
+        "last_checked": "2026-10-22",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=Nccfr3jdSb4",
@@ -6364,6 +6497,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Mob Psycho 100 II - Episode 03 | Muse IN",
+            "video_id": "Vc9RV_vFpTY",
+            "duration_seconds": 1450,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "4",
@@ -13131,7 +13274,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=IFMDTE8BQE8",
@@ -13167,7 +13310,8 @@
       "https://www.youtube.com/watch?v=jDVjBsSz2m4",
       "https://www.youtube.com/watch?v=5T4zwsfERDQ",
       "https://www.youtube.com/watch?v=2_iMnEzApv8",
-      "https://www.youtube.com/watch?v=v2snc-uc8vI"
+      "https://www.youtube.com/watch?v=v2snc-uc8vI",
+      "https://www.youtube.com/watch?v=YeYKE5wihkM"
     ],
     "thumbnail": "https://i.ytimg.com/vi/IFMDTE8BQE8/hqdefault.jpg",
     "seasons": [
@@ -13315,7 +13459,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -13359,6 +13503,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] One-Punch Man - Episode 17 (S2E05) | Muse IN",
+            "video_id": "YeYKE5wihkM",
+            "duration_seconds": 1430,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "6",
@@ -14059,7 +14213,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-22",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=LV_95b4nZIg",
@@ -14082,7 +14236,8 @@
       "https://www.youtube.com/watch?v=MWYB_31Kkt0",
       "https://www.youtube.com/watch?v=HyAbkdP9xUI",
       "https://www.youtube.com/watch?v=XOy2frt3YBM",
-      "https://www.youtube.com/watch?v=QcUJQFfe-_U"
+      "https://www.youtube.com/watch?v=QcUJQFfe-_U",
+      "https://www.youtube.com/watch?v=opIi3ml_Uts"
     ],
     "thumbnail": "https://i.ytimg.com/vi/LV_95b4nZIg/hqdefault.jpg",
     "seasons": [
@@ -14094,7 +14249,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -14108,6 +14263,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S1E02) | Muse IN",
+            "video_id": "opIi3ml_Uts",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "3",
@@ -23555,14 +23720,14 @@
     ],
     "provider": "Muse Hindi Dub",
     "watch_url": "https://www.youtube.com/watch?v=4q70E0nwkAY",
-    "synopsis": "Choose from 39 official Hindi uploads of Attack on Titan, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
+    "synopsis": "Choose from 43 official Hindi uploads of Attack on Titan, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=4q70E0nwkAY",
@@ -23606,7 +23771,8 @@
       "https://www.youtube.com/watch?v=DcK3YbSHc-o",
       "https://www.youtube.com/watch?v=L-Vsd6J2L0M",
       "https://www.youtube.com/watch?v=bAkT3CZ-4a0",
-      "https://www.youtube.com/watch?v=9CygW01NIt0"
+      "https://www.youtube.com/watch?v=9CygW01NIt0",
+      "https://www.youtube.com/watch?v=Umn3UB_thjI"
     ],
     "thumbnail": "https://i.ytimg.com/vi/4q70E0nwkAY/hqdefault.jpg",
     "seasons": [
@@ -23618,7 +23784,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -23842,6 +24008,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "23",
+            "title": "[Hindi Dub] Attack on Titan - Episode 23 (S1E23) | Muse IN",
+            "video_id": "Umn3UB_thjI",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "24",
@@ -24102,14 +24278,14 @@
     ],
     "provider": "Muse India",
     "watch_url": "https://www.youtube.com/watch?v=JStare1TEDw",
-    "synopsis": "Choose from 23 official Hindi uploads of DAN DA DAN, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
+    "synopsis": "Choose from 24 official Hindi uploads of DAN DA DAN, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-22",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=JStare1TEDw",
@@ -24136,7 +24312,8 @@
       "https://www.youtube.com/watch?v=cg74V12xUgc",
       "https://www.youtube.com/watch?v=aWIfHerVK0w",
       "https://www.youtube.com/watch?v=gIWJKX52SZA",
-      "https://www.youtube.com/watch?v=wUxitqgNDdU"
+      "https://www.youtube.com/watch?v=wUxitqgNDdU",
+      "https://www.youtube.com/watch?v=JqQOwqMN64o"
     ],
     "thumbnail": "https://i.ytimg.com/vi/JStare1TEDw/hqdefault.jpg",
     "seasons": [
@@ -24285,7 +24462,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-22",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
@@ -24349,6 +24526,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi dub] DAN DA DAN - Episode 19 | Muse IN",
+            "video_id": "JqQOwqMN64o",
+            "duration_seconds": 1447,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed Muse India uploader identity and channel ID, explicit Hindi dub and exact season/episode title, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
           },
           {
             "number": "8",
@@ -29589,5 +29776,1654 @@
     "added_on": "2026-10-19",
     "related": [],
     "thumbnail": "https://i.ytimg.com/vi/7s9lsmnYLUw/hqdefault.jpg"
+  },
+  {
+    "id": "from-bureaucrat-to-villainess-dads-been-reincarnated",
+    "title": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+    "original_title": "【Complete Series】 From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+    "alternate_titles": [
+      "Akuyaku Reijo Tensei Oji-san"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese audio",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=dBO8MENW9po",
+    "synopsis": "Watch From Bureaucrat to Villainess: Dad's Been Reincarnated! from Muse Asia in the embedded YouTube player. Muse Asia streams the entire season for India as one complete-series upload; use the player timeline to move through it.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=dBO8MENW9po",
+      "https://www.animenewsnetwork.com/news/2025-12-27/muse-asia-streams-full-season-of-from-bureaucrat-to-villainess-anime-in-india/.232543"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/dBO8MENW9po/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "from-bureaucrat-to-villainess-dads-been-reincarnated-uploads",
+        "label": "Full-series compilation",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Complete Series】 From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+            "video_id": "dBO8MENW9po",
+            "duration_seconds": 17325,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "original_title": "【Complete Series】I Left My A-Rank Party",
+    "alternate_titles": [
+      "I Left My A-Rank Party"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese audio",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=jJxjrGGyV9Y",
+    "synopsis": "Watch I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! from Muse Asia in the embedded YouTube player. This edition is one long complete-series compilation upload; use the player timeline to move through it.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=jJxjrGGyV9Y"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/jJxjrGGyV9Y/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-uploads",
+        "label": "Full-series compilation",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Complete Series】I Left My A-Rank Party",
+            "video_id": "jJxjrGGyV9Y",
+            "duration_seconds": 33147,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest",
+    "title": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+    "original_title": "【Complete Series】Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese audio",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=DCJjX4A0CLQ",
+    "synopsis": "Watch Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest from Muse Asia in the embedded YouTube player. This edition is one long complete-series compilation upload; use the player timeline to move through it.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=DCJjX4A0CLQ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/DCJjX4A0CLQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest-uploads",
+        "label": "Full-series compilation",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Complete Series】Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+            "video_id": "DCJjX4A0CLQ",
+            "duration_seconds": 17041,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin",
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "original_title": "【Complete Series】Apocalypse Bringer Mynoghra",
+    "alternate_titles": [
+      "Apocalypse Bringer Mynoghra"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese audio",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=Fzcm3uZsURs",
+    "synopsis": "Watch Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin from Muse Asia in the embedded YouTube player. This edition is one long complete-series compilation upload; use the player timeline to move through it.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=Fzcm3uZsURs"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/Fzcm3uZsURs/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin-uploads",
+        "label": "Full-series compilation",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Complete Series】Apocalypse Bringer Mynoghra",
+            "video_id": "Fzcm3uZsURs",
+            "duration_seconds": 18461,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "isekai-quartet-3",
+    "title": "Isekai Quartet 3",
+    "original_title": "【Complete Series】ISEKAI QUARTET3",
+    "alternate_titles": [
+      "ISEKAI QUARTET3"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese audio",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Asia",
+    "watch_url": "https://www.youtube.com/watch?v=YCSl4yksK_E",
+    "synopsis": "Watch Isekai Quartet 3 from Muse Asia in the embedded YouTube player. This edition is one long complete-series compilation upload; use the player timeline to move through it.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=YCSl4yksK_E"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/YCSl4yksK_E/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "isekai-quartet-3-uploads",
+        "label": "Full-series compilation",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseAsia",
+        "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "episodes": [
+          {
+            "number": "complete",
+            "title": "【Complete Series】ISEKAI QUARTET3",
+            "video_id": "YCSl4yksK_E",
+            "duration_seconds": 8166,
+            "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "god-mars",
+    "title": "God Mars",
+    "original_title": "God Mars",
+    "alternate_titles": [
+      "Rokushin Gattai God Mars"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English sub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Anime! on TMS Official Channel",
+    "watch_url": "https://www.youtube.com/watch?v=t-hDE2SCY2Y",
+    "synopsis": "Watch God Mars with English subtitles from Anime! on TMS Official Channel using the official YouTube player. Choose from the checked episodes below. Only the available uploads listed here have been verified; this page does not certify a complete season.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=t-hDE2SCY2Y"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/t-hDE2SCY2Y/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "god-mars-season-1",
+        "label": "Available official episodes",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel",
+        "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "GOD MARS - EP01 Who Am I?! | English Sub | Full Episode",
+            "video_id": "t-hDE2SCY2Y",
+            "duration_seconds": 1463,
+            "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "playlist_id": "PLj2Ugc-vxcWGDWFMIlD5i-gz3u2s4tMa-"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "we-rent-tsukumogami",
+    "title": "We Rent Tsukumogami",
+    "original_title": "We Rent Tsukumogami",
+    "alternate_titles": [
+      "Tsukumogami Kashimasu"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English sub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Anime! on TMS Official Channel",
+    "watch_url": "https://www.youtube.com/watch?v=uz8z67RqyPI",
+    "synopsis": "Watch We Rent Tsukumogami with English subtitles from Anime! on TMS Official Channel using the official YouTube player. Choose from the checked episodes below. Only the available uploads listed here have been verified; this page does not certify a complete season.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=uz8z67RqyPI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/uz8z67RqyPI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "we-rent-tsukumogami-season-1",
+        "label": "Available official episodes",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel",
+        "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "We Rent Tsukumogami - EP01 Rikyu-nezumi | English Sub | Full Episode",
+            "video_id": "uz8z67RqyPI",
+            "duration_seconds": 1500,
+            "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "playlist_id": "PLj2Ugc-vxcWHnPJDXLZMmBqVm37XnI06x"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "cats-eye",
+    "title": "Cat's Eye",
+    "original_title": "Cat's Eye",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English sub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Anime! on TMS Official Channel",
+    "watch_url": "https://www.youtube.com/watch?v=rhOIwmWvWMo",
+    "synopsis": "Watch Cat's Eye with English subtitles from Anime! on TMS Official Channel using the official YouTube player. Choose from the checked episodes below. Only the available uploads listed here have been verified; this page does not certify a complete season.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=rhOIwmWvWMo"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/rhOIwmWvWMo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "cats-eye-season-1",
+        "label": "Available official episodes",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel",
+        "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "CAT'S EYE - EP01 You're a Sexy Thief | English Sub | Full Episode",
+            "video_id": "rhOIwmWvWMo",
+            "duration_seconds": 1481,
+            "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "playlist_id": "PLj2Ugc-vxcWF_In4zmEjqsGvlUreMBRfu"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "fairy-tail-the-movie-phoenix-priestess",
+    "title": "Fairy Tail the Movie: Phoenix Priestess",
+    "original_title": "Fairy Tail the Movie: Phoenix Priestess",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=HVjQp54UboA",
+    "synopsis": "Watch the official English dub upload of Fairy Tail the Movie: Phoenix Priestess from Anime Manga Official in the embedded YouTube player.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=HVjQp54UboA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/HVjQp54UboA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "fairy-tail-the-movie-phoenix-priestess-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie| FAIRY TAIL THE MOVIE: Phoenix Priestess (English Dub)",
+            "video_id": "HVjQp54UboA",
+            "duration_seconds": 5170,
+            "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "akira",
+    "title": "Akira",
+    "original_title": "Akira",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=YvfWrC5prvU",
+    "synopsis": "Watch the official English dub upload of Akira from Anime Manga Official in the embedded YouTube player.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=YvfWrC5prvU"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/YvfWrC5prvU/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "akira-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie | AKIRA (English Dub)",
+            "video_id": "YvfWrC5prvU",
+            "duration_seconds": 7479,
+            "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "attack-on-titan-season-2-the-movie-roar-of-awakening",
+    "title": "Attack on Titan Season 2 the Movie: Roar of Awakening",
+    "original_title": "Attack on Titan Season 2 the Movie: Roar of Awakening",
+    "alternate_titles": [],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Animation"
+    ],
+    "provider": "Anime Manga Official",
+    "watch_url": "https://www.youtube.com/watch?v=PvvQZInIagQ",
+    "synopsis": "Watch the official English dub upload of Attack on Titan Season 2 the Movie: Roar of Awakening from Anime Manga Official in the embedded YouTube player.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANIME",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=PvvQZInIagQ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/PvvQZInIagQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "attack-on-titan-season-2-the-movie-roar-of-awakening-english-movie",
+        "label": "Full movie · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+        "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Full Movie | Attack on Titan Season 2 the Movie: Roar of Awakening (English Dub)",
+            "video_id": "PvvQZInIagQ",
+            "duration_seconds": 7150,
+            "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "audio_language_evidence": "Official publisher upload title explicitly says English Dub"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "kaithi",
+    "title": "Kaithi",
+    "original_title": "Kaithi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=8iW9qeJaE4I",
+    "synopsis": "Watch Kaithi in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=8iW9qeJaE4I"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/8iW9qeJaE4I/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "kaithi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Kaithi (4K ULTRA HD) ACTION BLOCKBUSTER Hindi Dubbed Movie | Karthi, Arjun Das, Narain",
+            "video_id": "8iW9qeJaE4I",
+            "duration_seconds": 7833,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "vip-2",
+    "title": "VIP 2",
+    "original_title": "VIP 2",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=WG1tq6BUFKM",
+    "synopsis": "Watch VIP 2 in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=WG1tq6BUFKM"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/WG1tq6BUFKM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "vip-2-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "VIP 2 (4K ULTRA HD) - Full Movie | Dhanush, Kajol, Amala Paul, Vivek, Hrishikesh, Samuthirakani",
+            "video_id": "WG1tq6BUFKM",
+            "duration_seconds": 5766,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "tik-tik-tik",
+    "title": "Tik Tik Tik",
+    "original_title": "Tik Tik Tik",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=9khRLPbJ5fw",
+    "synopsis": "Watch Tik Tik Tik in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=9khRLPbJ5fw"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/9khRLPbJ5fw/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "tik-tik-tik-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Tik Tik Tik (4K Ultra HD) - Jayam Ravi's Blockbuster Hindi Movie | Nivetha Pethuraj, Ramesh Thilak",
+            "video_id": "9khRLPbJ5fw",
+            "duration_seconds": 7009,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "agent-sai-srinivasa-athreya",
+    "title": "Agent Sai Srinivasa Athreya",
+    "original_title": "Agent Sai (Agent Sai Srinivasa Athreya)",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=GVIkN8bv6FQ",
+    "synopsis": "Watch Agent Sai Srinivasa Athreya in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=GVIkN8bv6FQ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/GVIkN8bv6FQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "agent-sai-srinivasa-athreya-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Agent Sai (Agent Sai Srinivasa Athreya) 2021 New Released Hindi Dubbed Movie | Naveen Polishetty",
+            "video_id": "GVIkN8bv6FQ",
+            "duration_seconds": 7987,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "son-of-satyamurthy",
+    "title": "Son of Satyamurthy",
+    "original_title": "Son of Satyamurthy",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=d68l6CRI0fM",
+    "synopsis": "Watch Son of Satyamurthy in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=d68l6CRI0fM"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/d68l6CRI0fM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "son-of-satyamurthy-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Son Of Satyamurthy (4K)- Allu Arjun Blockbuster Action Comedy Romantic Film | Samantha, Nithya Menen",
+            "video_id": "d68l6CRI0fM",
+            "duration_seconds": 7884,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "naayak",
+    "title": "Naayak",
+    "original_title": "Naayak",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=0tlCF87XHjE",
+    "synopsis": "Watch Naayak in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=0tlCF87XHjE"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/0tlCF87XHjE/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "naayak-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Naayak (नायक) Ram Charan South Superhit Action Movie | Kajal Aggarwal, Amala Paul",
+            "video_id": "0tlCF87XHjE",
+            "duration_seconds": 7416,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "har-dil-jo-pyar-karega",
+    "title": "Har Dil Jo Pyar Karega",
+    "original_title": "Har Dil Jo Pyar Karega",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=N4XM6Y7-KB4",
+    "synopsis": "Watch Har Dil Jo Pyar Karega in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=N4XM6Y7-KB4"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/N4XM6Y7-KB4/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "har-dil-jo-pyar-karega-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Har Dil Jo Pyar Karega Full Hindi Movie (HD) - Salman Khan - Rani Mukherjee - Preity Zinta -",
+            "video_id": "N4XM6Y7-KB4",
+            "duration_seconds": 9043,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "highway",
+    "title": "Highway",
+    "original_title": "Highway",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=HomXjXjVJb0",
+    "synopsis": "Watch Highway in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=HomXjXjVJb0"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/HomXjXjVJb0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "highway-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Highway - Full Movie | Alia Bhatt, Randeep Hooda's Best Film | Imtiaz Ali film | A R Rahman Music",
+            "video_id": "HomXjXjVJb0",
+            "duration_seconds": 7676,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "blade-man",
+    "title": "Blade Man",
+    "original_title": "Blade Man | 아이언 맨 EP 1 [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+    "alternate_titles": [
+      "Iron Man"
+    ],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=KmA8c-dl2U8",
+    "synopsis": "Watch Blade Man from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=KmA8c-dl2U8"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/KmA8c-dl2U8/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "blade-man-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Blade Man | 아이언 맨 EP 1 [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+            "video_id": "KmA8c-dl2U8",
+            "duration_seconds": 3497,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "lovers-of-music",
+    "title": "Lovers of Music",
+    "original_title": "Lovers of Music - EP 1 | 트로트의연인  [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+    "alternate_titles": [
+      "Trot Lovers"
+    ],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=ydnA2h1BdC0",
+    "synopsis": "Watch Lovers of Music from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=ydnA2h1BdC0"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ydnA2h1BdC0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "lovers-of-music-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Lovers of Music - EP 1 | 트로트의연인  [SUB : KOR, ENG, CHN, MLY, VIE, IND]",
+            "video_id": "ydnA2h1BdC0",
+            "duration_seconds": 3551,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "save-the-family",
+    "title": "Save the Family",
+    "original_title": "Save the Family | 가족을 지켜라 EP.1 [SUB : ENG,CHN / 2015.05.25]",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=9r150_-eH54",
+    "synopsis": "Watch Save the Family from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=9r150_-eH54"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/9r150_-eH54/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "save-the-family-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Save the Family | 가족을 지켜라 EP.1 [SUB : ENG,CHN / 2015.05.25]",
+            "video_id": "9r150_-eH54",
+            "duration_seconds": 2194,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "gold-mask",
+    "title": "Gold Mask",
+    "original_title": "[ENG / CHN] Gold Mask | 황금 가면 EP.1 | KBS WORLD TV 220530",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=BN2uRw_yhvo",
+    "synopsis": "Watch Gold Mask from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=BN2uRw_yhvo"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/BN2uRw_yhvo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "gold-mask-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[ENG / CHN] Gold Mask | 황금 가면 EP.1 | KBS WORLD TV 220530",
+            "video_id": "BN2uRw_yhvo",
+            "duration_seconds": 2006,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "red-shoes",
+    "title": "Red Shoes",
+    "original_title": "[ENG CHN] Red Shoes EP.1",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=tvKjFzFfbR0",
+    "synopsis": "Watch Red Shoes from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=tvKjFzFfbR0"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/tvKjFzFfbR0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "red-shoes-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[ENG CHN] Red Shoes EP.1",
+            "video_id": "tvKjFzFfbR0",
+            "duration_seconds": 2143,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "sirius",
+    "title": "Sirius",
+    "original_title": "[ENG] Sirius | 시리우스 Ep.1 [2013 Drama  Special / 2013.01.06]",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=lli3-LcEfMU",
+    "synopsis": "Watch Sirius from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=lli3-LcEfMU"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/lli3-LcEfMU/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "sirius-uploads",
+        "label": "Drama special",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "[ENG] Sirius | 시리우스 Ep.1 [2013 Drama  Special / 2013.01.06]",
+            "video_id": "lli3-LcEfMU",
+            "duration_seconds": 4339,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "after-the-rain",
+    "title": "After the Rain",
+    "original_title": "After the Rain | 옥란면옥 EP.1[SUB : ENG / 2018.09.27]",
+    "alternate_titles": [
+      "Okranmyeonok"
+    ],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=f_CfIyrQ70I",
+    "synopsis": "Watch After the Rain from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=f_CfIyrQ70I"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/f_CfIyrQ70I/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "after-the-rain-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "After the Rain | 옥란면옥 EP.1[SUB : ENG / 2018.09.27]",
+            "video_id": "f_CfIyrQ70I",
+            "duration_seconds": 3757,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "what-happens-to-my-family",
+    "title": "What Happens to My Family?",
+    "original_title": "What Happens to My Family? | 가족끼리 왜 이래 - Ep.1 (2014.08.30)",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=jr02Q2pRW7w",
+    "synopsis": "Watch What Happens to My Family? from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-22",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=jr02Q2pRW7w"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/jr02Q2pRW7w/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "what-happens-to-my-family-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-22",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "What Happens to My Family? | 가족끼리 왜 이래 - Ep.1 (2014.08.30)",
+            "video_id": "jr02Q2pRW7w",
+            "duration_seconds": 3783,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, and public oEmbed embed check 2026-10-22",
+            "india_playback": "unverified",
+            "added_on": "2026-10-22"
+          }
+        ],
+        "subtitle_evidence": "No English subtitle claim in upload title"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-22",
+    "discovery": "Official channel upload checked 2026-10-22"
   }
 ]
