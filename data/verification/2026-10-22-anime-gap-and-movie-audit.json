@@ -1,0 +1,748 @@
+{
+  "checked_on": "2026-10-22",
+  "purpose": "User-requested AniLove India production-catalogue audit: recorded Hollywood Hindi movies and missing anime episodes",
+  "repository": "nitesh-patel-01/aniloveindia",
+  "base_catalogue_blob_sha": "9fa102c86a9e25af84a0ef068258582e809742d5",
+  "catalogue_snapshot": {
+    "title_count": 219,
+    "anime_series_count": 57,
+    "anime_movies_count": 20,
+    "other_movies_count": 89,
+    "k_drama_count": 53
+  },
+  "requested_movies": {
+    "channel_name": "Hollywood Hindi",
+    "channel_url": "https://www.youtube.com/@UltraHollywoodHindi",
+    "candidates": [
+      {
+        "video_id": "pwLbV-qk_mE",
+        "embed_url": "https://www.youtube.com/embed/pwLbV-qk_mE",
+        "status": "not_added",
+        "blockers": [
+          "Exact title unavailable from accessible YouTube metadata/search",
+          "Runtime, uploader/channel ID, embeddability and India availability not independently verified"
+        ]
+      },
+      {
+        "video_id": "ET28qk8p8j4",
+        "embed_url": "https://www.youtube.com/embed/ET28qk8p8j4",
+        "status": "not_added",
+        "blockers": [
+          "Exact title unavailable from accessible YouTube metadata/search",
+          "Runtime, uploader/channel ID, embeddability and India availability not independently verified"
+        ]
+      }
+    ],
+    "note": "The official Ultra website describes distribution and YouTube streaming partnerships but does not directly connect this handle to these exact uploads. Do not publish title-less placeholders."
+  },
+  "anime_episode_candidates_found": [
+    {
+      "series": "One Punch Man",
+      "season": 3,
+      "episode": 3,
+      "video_id": "_XwLK_UpuTQ",
+      "title": "One-Punch Man - Episode 27 (S3E03) [EN Sub] | Muse IN",
+      "uploader": "Muse India (verified)",
+      "source_url": "https://www.youtube.com/watch?v=_XwLK_UpuTQ",
+      "status": "candidate_only_not_added",
+      "blockers": [
+        "Runtime, embeddability, country metadata and actual India playback not independently verified"
+      ]
+    },
+    {
+      "series": "One Punch Man",
+      "season": 3,
+      "episode": 10,
+      "video_id": "KZeBoCsFk8A",
+      "title": "One-Punch Man - Episode 34 (S3E10) [EN Sub] | Muse IN",
+      "uploader": "Muse India (verified)",
+      "source_url": "https://www.youtube.com/watch?v=KZeBoCsFk8A",
+      "status": "candidate_only_not_added",
+      "blockers": [
+        "Runtime, embeddability, country metadata and actual India playback not independently verified"
+      ]
+    },
+    {
+      "series": "One Punch Man",
+      "season": 2,
+      "episode": 5,
+      "video_id": "s6L_noQ_LL4",
+      "title": "[हिन्दी सब्टाइटल] One-Punch Man | एपिसोड 17 (S2E05) | Muse IN",
+      "uploader": "Muse India (verified)",
+      "source_url": "https://www.youtube.com/watch?v=s6L_noQ_LL4",
+      "status": "rejected_for_current_language_priority",
+      "blockers": [
+        "Upload is explicitly Hindi subtitles, not Hindi dub or English subtitles; does not meet the site's language inclusion rules"
+      ]
+    }
+  ],
+  "catalogue_gap_audit": {
+    "method": "Enumerated numeric episode-number gaps within each existing anime-season group's observed range. This identifies potential gaps, not proof that official uploads exist or that a season should contain every number.",
+    "groups_with_internal_numeric_gaps": 34,
+    "groups": [
+      {
+        "title": "Hunter × Hunter",
+        "title_id": "hunter-x-hunter",
+        "season": "Hindi dub · available uploads",
+        "provider": "Muse Hindi Dub",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 116,
+        "highest_number_present": 148,
+        "gaps_within_existing_number_range": [
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          13,
+          16,
+          17,
+          19,
+          22,
+          23,
+          24,
+          25,
+          29,
+          30,
+          31,
+          34,
+          35,
+          36,
+          37,
+          38,
+          50,
+          80,
+          84,
+          85,
+          113,
+          124,
+          126,
+          129,
+          143,
+          144
+        ],
+        "playlist_id": null,
+        "source": "https://www.instagram.com/p/DY377e0nCrY/",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Pokémon Horizons: The Series",
+        "title_id": "pokemon-horizons",
+        "season": "Season 2: The Search for Laqua · Hindi dub",
+        "provider": "Pokémon Asia Official (Hindi)",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 15,
+        "highest_number_present": 44,
+        "gaps_within_existing_number_range": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "playlist_id": "PLxjFnCWdSoEUozxFn9ZCt3HgycHzJAdGo",
+        "source": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Mobile Suit Gundam SEED",
+        "title_id": "mobile-suit-gundam-seed",
+        "season": "Available episodes · English dub",
+        "provider": "GUNDAM CHANNEL INTL",
+        "audio_language": "English",
+        "numeric_episode_count": 29,
+        "highest_number_present": 50,
+        "gaps_within_existing_number_range": [
+          2,
+          6,
+          11,
+          12,
+          15,
+          16,
+          20,
+          21,
+          22,
+          23,
+          24,
+          27,
+          28,
+          29,
+          32,
+          34,
+          35,
+          38,
+          39,
+          45,
+          49
+        ],
+        "playlist_id": null,
+        "source": "https://en.gundam.info/news/info/02_13267.html",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Assassination Classroom",
+        "title_id": "assassination-classroom",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 3,
+        "highest_number_present": 17,
+        "gaps_within_existing_number_range": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Welcome to Demon School! Iruma-kun",
+        "title_id": "welcome-to-demon-school-iruma-kun",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 6,
+        "highest_number_present": 18,
+        "gaps_within_existing_number_range": [
+          1,
+          4,
+          5,
+          7,
+          8,
+          9,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Classroom of the Elite",
+        "title_id": "classroom-of-the-elite",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 6,
+        "highest_number_present": 13,
+        "gaps_within_existing_number_range": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          11,
+          12
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "JoJo’s Bizarre Adventure",
+        "title_id": "jojos-bizarre-adventure",
+        "season": "Season 4 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 4,
+        "highest_number_present": 9,
+        "gaps_within_existing_number_range": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Fairy Tail",
+        "title_id": "fairy-tail",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 19,
+        "highest_number_present": 24,
+        "gaps_within_existing_number_range": [
+          3,
+          7,
+          13,
+          19,
+          23
+        ],
+        "playlist_id": "PLpm1VVK4UL1527GtQ-Un5MCIQ7HX8DhoH",
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime",
+        "title_id": "that-time-i-got-reincarnated-as-a-slime",
+        "season": "Season 4 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 4,
+        "highest_number_present": 8,
+        "gaps_within_existing_number_range": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Classroom of the Elite",
+        "title_id": "classroom-of-the-elite",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 8,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          2,
+          7,
+          8,
+          10
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Classroom of the Elite",
+        "title_id": "classroom-of-the-elite",
+        "season": "Season 4",
+        "provider": "Muse Asia",
+        "audio_language": "Japanese",
+        "numeric_episode_count": 12,
+        "highest_number_present": 16,
+        "gaps_within_existing_number_range": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "playlist_id": "PLwLSw1_eDZl37ONxLQx-mIAJu3hdX-brM",
+        "source": "https://www.youtube.com/watch?v=2wNQpTgrmDQ",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Welcome to Demon School! Iruma-kun",
+        "title_id": "welcome-to-demon-school-iruma-kun",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 17,
+        "highest_number_present": 21,
+        "gaps_within_existing_number_range": [
+          2,
+          3,
+          10,
+          18
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Fairy Tail",
+        "title_id": "fairy-tail",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 44,
+        "highest_number_present": 48,
+        "gaps_within_existing_number_range": [
+          24,
+          29,
+          31,
+          33
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Re:ZERO — Starting Life in Another World",
+        "title_id": "re-zero",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 13,
+        "highest_number_present": 16,
+        "gaps_within_existing_number_range": [
+          3,
+          10,
+          13
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Mob Psycho 100",
+        "title_id": "mob-psycho-100",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 9,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          1,
+          10,
+          11
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense S2",
+        "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 9,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          3,
+          9,
+          11
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Cells at Work!",
+        "title_id": "cells-at-work",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 9,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          6,
+          9,
+          11
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "The World’s Finest Assassin Gets Reincarnated in Another World",
+        "title_id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 9,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          3,
+          4,
+          10
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Re:ZERO — Starting Life in Another World",
+        "title_id": "re-zero",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 23,
+        "highest_number_present": 25,
+        "gaps_within_existing_number_range": [
+          1,
+          22
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Re:ZERO — Starting Life in Another World",
+        "title_id": "re-zero",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 23,
+        "highest_number_present": 25,
+        "gaps_within_existing_number_range": [
+          11,
+          15
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "One Punch Man",
+        "title_id": "one-punch-man",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 10,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          3,
+          10
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Campfire Cooking in Another World with My Absurd Skill",
+        "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 6,
+        "highest_number_present": 8,
+        "gaps_within_existing_number_range": [
+          6,
+          7
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Welcome to Demon School! Iruma-kun",
+        "title_id": "welcome-to-demon-school-iruma-kun",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 21,
+        "highest_number_present": 23,
+        "gaps_within_existing_number_range": [
+          2,
+          10
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Re:ZERO — Starting Life in Another World",
+        "title_id": "re-zero",
+        "season": "Director’s Cut",
+        "provider": "Muse Asia",
+        "audio_language": "Japanese",
+        "numeric_episode_count": 24,
+        "highest_number_present": 25,
+        "gaps_within_existing_number_range": [
+          1
+        ],
+        "playlist_id": "PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH",
+        "source": "https://www.youtube.com/watch?v=7F5rns5lX6g",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Classroom of the Elite",
+        "title_id": "classroom-of-the-elite",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse Asia",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          9
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Mob Psycho 100",
+        "title_id": "mob-psycho-100",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          11
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Mob Psycho 100",
+        "title_id": "mob-psycho-100",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 12,
+        "highest_number_present": 13,
+        "gaps_within_existing_number_range": [
+          3
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "One Punch Man",
+        "title_id": "one-punch-man",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          5
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense S2",
+        "title_id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          2
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Tokyo Revengers",
+        "title_id": "tokyo-revengers",
+        "season": "Hindi dub · available uploads",
+        "provider": "Muse Hindi Dub",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 22,
+        "highest_number_present": 23,
+        "gaps_within_existing_number_range": [
+          12
+        ],
+        "playlist_id": null,
+        "source": "https://www.instagram.com/p/DY377e0nCrY/",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Attack on Titan",
+        "title_id": "attack-on-titan",
+        "season": "Season 1 · Hindi dub",
+        "provider": "Muse Hindi Dub",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 24,
+        "highest_number_present": 25,
+        "gaps_within_existing_number_range": [
+          23
+        ],
+        "playlist_id": null,
+        "source": "https://www.instagram.com/p/DY377e0nCrY/",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Attack on Titan",
+        "title_id": "attack-on-titan",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse Hindi Dub",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          3
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "Attack on Titan",
+        "title_id": "attack-on-titan",
+        "season": "Season 3 · Hindi dub",
+        "provider": "Muse Hindi Dub",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 7,
+        "highest_number_present": 8,
+        "gaps_within_existing_number_range": [
+          5
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      },
+      {
+        "title": "DAN DA DAN",
+        "title_id": "dan-da-dan",
+        "season": "Season 2 · Hindi dub",
+        "provider": "Muse India",
+        "audio_language": "Hindi",
+        "numeric_episode_count": 11,
+        "highest_number_present": 12,
+        "gaps_within_existing_number_range": [
+          7
+        ],
+        "playlist_id": null,
+        "source": "https://www.youtube.com/@MuseIndiaChannel",
+        "interpretation": "Catalogue numbering gap only; verify the publisher's season order and upload availability before treating as a genuinely missing episode."
+      }
+    ]
+  },
+  "production_changes": {
+    "catalogue_modified": false,
+    "site_code_modified": false,
+    "deploy_verified": false,
+    "reason": "Do not insert unverified titles or episode links into production; preserve the current catalogue until title/runtime/uploader/language/embeddability/country checks can be completed."
+  }
+}
