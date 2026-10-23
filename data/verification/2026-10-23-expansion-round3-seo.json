@@ -238,5 +238,91 @@
       "uploads": 1840,
       "build_pages": 2488
     }
+  },
+  "addendum_round3d": {
+    "note": "Late-delivered round-3 movies-lane results (Shri Swaminarayan Charitra films on Swaminarayan Aksharpith), every imported upload re-verified by the parent with the repo gate. With the pre-existing Parts 4 and 8, the 8-part series is now complete in the catalogue.",
+    "added_titles": [
+      {
+        "category": "anime-movies",
+        "title": "Ghanshyam and the Storm of Evil (SSC Part 1)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi",
+          "English"
+        ],
+        "uploads": 2
+      },
+      {
+        "category": "anime-movies",
+        "title": "Ghanshyam and the Miracles of Life (SSC Part 2)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi"
+        ],
+        "uploads": 1,
+        "note": "Part 2 is a shorter full film (2,484s); it passes the repo's full-length gate. The lane's own 45-minute heuristic was not a repo rule."
+      },
+      {
+        "category": "anime-movies",
+        "title": "Ghanshyam and the Aura of Ayodhya (SSC Part 3)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi",
+          "English"
+        ],
+        "uploads": 2
+      },
+      {
+        "category": "anime-movies",
+        "title": "Neelkanth and the Swans of Mansarovar (SSC Part 5)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi"
+        ],
+        "uploads": 1
+      },
+      {
+        "category": "anime-movies",
+        "title": "Neelkanth and the Secrets Beyond Yoga (SSC Part 6)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi"
+        ],
+        "uploads": 1
+      },
+      {
+        "category": "anime-movies",
+        "title": "Neelkanth and the Spells of Darkness (SSC Part 7)",
+        "provider": "Swaminarayan Aksharpith",
+        "editions": [
+          "Hindi",
+          "English"
+        ],
+        "uploads": 2
+      }
+    ],
+    "still_unverified_throttled": [
+      "SSC Part 2 English edition 9oW43AY0HGw (HTTP 429)",
+      "SSC Part 5 English edition UVKmhcMhZ_w (HTTP 429)"
+    ],
+    "rejected": [
+      {
+        "candidate": "Lupin III vs. Detective Conan: The Movie (TMS, O_wQ7f6rDgM)",
+        "reason": "Upcoming premiere at check time and availableCountries US+CA only - India not included"
+      },
+      {
+        "candidate": "Cardcaptor Sakura: The Sealed Card (Anime Manga Official)",
+        "reason": "No English subtitles (Japanese only) and India not in country metadata"
+      },
+      {
+        "candidate": "The Golden Laws (Happy Science Global upload)",
+        "reason": "Upload is not on the reviewed Happy Science India channel"
+      }
+    ],
+    "result_after_3d": {
+      "titles": 283,
+      "uploads": 1849,
+      "build_pages": 2512
+    }
   }
 }

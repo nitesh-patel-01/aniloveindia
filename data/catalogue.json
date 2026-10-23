@@ -34218,5 +34218,497 @@
     "related": [],
     "added_on": "2026-10-23",
     "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "ghanshyam-and-the-storm-of-evil",
+    "title": "Ghanshyam and the Storm of Evil",
+    "original_title": "Ghanshyam and the Storm of Evil",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 1",
+      "SSC1"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi · English",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=uVL_4ZC17Gk",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 1 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi and English.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=uVL_4ZC17Gk",
+      "https://www.baps.org/ssc1"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/uVL_4ZC17Gk/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ghanshyam-storm-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc1",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc1 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC1 - Hindi - Ghanshyam and the Storm of Evil: Shri Swaminarayan Charitra - Pt 1",
+            "video_id": "uVL_4ZC17Gk",
+            "duration_seconds": 3631,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "id": "ghanshyam-storm-english-movie",
+        "label": "Full movie · English",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc1",
+        "audio_language_evidence": "Exact publisher upload title labels the English audio edition; BAPS film page https://www.baps.org/ssc1 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC1 - English - Ghanshyam and the Storm of Evil: Shri Swaminarayan Charitra - Pt 1",
+            "video_id": "aNzrj6aVmHA",
+            "duration_seconds": 3631,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ghanshyam-and-the-miracles-of-life",
+    "title": "Ghanshyam and the Miracles of Life",
+    "original_title": "Ghanshyam and the Miracles of Life",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 2",
+      "SSC2"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=n3BKI0zJDjE",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 2 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=n3BKI0zJDjE",
+      "https://www.baps.org/ssc2"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/n3BKI0zJDjE/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ghanshyam-miracles-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc2",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc2 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC2 - Hindi - Ghanshyam and the Miracles of Life: Shri Swaminarayan Charitra - Pt 2",
+            "video_id": "n3BKI0zJDjE",
+            "duration_seconds": 2484,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ghanshyam-and-the-aura-of-ayodhya",
+    "title": "Ghanshyam and the Aura of Ayodhya",
+    "original_title": "Ghanshyam and the Aura of Ayodhya",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 3",
+      "SSC3"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi · English",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=O08OuOsncT8",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 3 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi and English.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=O08OuOsncT8",
+      "https://www.baps.org/ssc3"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/O08OuOsncT8/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ghanshyam-aura-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc3",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc3 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC3 - Hindi - Ghanshyam and the Aura of Ayodhya: Shri Swaminarayan Charitra - Pt 3",
+            "video_id": "O08OuOsncT8",
+            "duration_seconds": 3808,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "id": "ghanshyam-aura-english-movie",
+        "label": "Full movie · English",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc3",
+        "audio_language_evidence": "Exact publisher upload title labels the English audio edition; BAPS film page https://www.baps.org/ssc3 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC3 - English - Ghanshyam and the Aura of Ayodhya: Shri Swaminarayan Charitra - Pt 3",
+            "video_id": "64asrX_R_DE",
+            "duration_seconds": 3808,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neelkanth-and-the-swans-of-mansarovar",
+    "title": "Neelkanth and the Swans of Mansarovar",
+    "original_title": "Neelkanth and the Swans of Mansarovar",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 5",
+      "SSC5"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=NqbyBnx6e1o",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 5 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=NqbyBnx6e1o",
+      "https://www.baps.org/ssc5"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/NqbyBnx6e1o/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "neelkanth-swans-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc5",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc5 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC5 - Hindi - Neelkanth and the Swans of Mansarovar: Shri Swaminarayan Charitra - Pt 5",
+            "video_id": "NqbyBnx6e1o",
+            "duration_seconds": 3506,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neelkanth-and-the-secrets-beyond-yoga",
+    "title": "Neelkanth and the Secrets Beyond Yoga",
+    "original_title": "Neelkanth and the Secrets Beyond Yoga",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 6",
+      "SSC6"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=zDkKNt6FEEM",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 6 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=zDkKNt6FEEM",
+      "https://www.baps.org/ssc6"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/zDkKNt6FEEM/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "neelkanth-secrets-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc6",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc6 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC6 - Hindi - Neelkanth and the Secrets Beyond Yoga: Shri Swaminarayan Charitra - Pt 6",
+            "video_id": "zDkKNt6FEEM",
+            "duration_seconds": 4430,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neelkanth-and-the-spells-of-darkness",
+    "title": "Neelkanth and the Spells of Darkness",
+    "original_title": "Neelkanth and the Spells of Darkness",
+    "alternate_titles": [
+      "Shri Swaminarayan Charitra Part 7",
+      "SSC7"
+    ],
+    "category": "anime-movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi · English",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Animation",
+      "Spiritual adventure"
+    ],
+    "provider": "Swaminarayan Aksharpith",
+    "watch_url": "https://www.youtube.com/watch?v=5yqWJFecxfo",
+    "synopsis": "An Indian animated spiritual adventure from BAPS. This is Part 7 of Shri Swaminarayan Charitra, presented as official full-film uploads in Hindi and English.",
+    "color": "#ff7427",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in the official upload country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Reviewed publisher identity, explicit audio edition, exact full-content title, full runtime, IN country metadata and oEmbed",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=5yqWJFecxfo",
+      "https://www.baps.org/ssc7"
+    ],
+    "added_on": "2026-10-19",
+    "related": [
+      "neelkanth-and-the-snows-of-the-himalayas"
+    ],
+    "browse_priority": 5,
+    "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
+    "thumbnail": "https://i.ytimg.com/vi/5yqWJFecxfo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "neelkanth-spells-hindi-movie",
+        "label": "Full movie · Hindi",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc7",
+        "audio_language_evidence": "Exact publisher upload title labels the Hindi audio edition; BAPS film page https://www.baps.org/ssc7 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC7 - Hindi - Neelkanth and the Spells of Darkness: Shri Swaminarayan Charitra - Pt 7",
+            "video_id": "5yqWJFecxfo",
+            "duration_seconds": 3849,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit Hindi audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "id": "neelkanth-spells-english-movie",
+        "label": "Full movie · English",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
+        "last_checked": "2026-10-23",
+        "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+        "authorization_evidence_url": "https://www.baps.org/ssc7",
+        "audio_language_evidence": "Exact publisher upload title labels the English audio edition; BAPS film page https://www.baps.org/ssc7 covers this part of the series.",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "SSC7 - English - Neelkanth and the Spells of Darkness: Shri Swaminarayan Charitra - Pt 7",
+            "video_id": "IkeOuetAa_c",
+            "duration_seconds": 3849,
+            "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+            "metadata_check": "Reviewed official publisher, explicit English audio edition, exact full-content title, runtime, IN country metadata and YouTube oEmbed checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
   }
 ]
