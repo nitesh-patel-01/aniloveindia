@@ -4909,7 +4909,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-23",
+    "last_checked": "2026-10-24",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
@@ -4978,6 +4978,242 @@
         "season_number": 2
       },
       {
+        "id": "jojos-bizarre-adventure-season-3-hindi",
+        "label": "Season 3 · Hindi dub",
+        "season_number": 3,
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Episodes verified so far from Muse India's September-October 2026 Hindi broadcast run; the remaining episodes are being verified and added. Actual India playback remains unverified.",
+        "last_checked": "2026-10-24",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=cTHjSjhhgts",
+        "episodes": [
+          {
+            "number": "2",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 02 [Hindi Dub] | Muse IN",
+            "video_id": "cTHjSjhhgts",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "3",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 03 [Hindi Dub] | Muse IN",
+            "video_id": "qHqD3TH0O2M",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "5",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 05 [Hindi Dub] | Muse IN",
+            "video_id": "OauuTmZA44s",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "6",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 06 [Hindi Dub] | Muse IN",
+            "video_id": "DD-T7-Z_FhI",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "7",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 07 [Hindi Dub] | Muse IN",
+            "video_id": "QD2JoLDmEQM",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "8",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 08 [Hindi Dub] | Muse IN",
+            "video_id": "OheXy8Lev5A",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "11",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 11 [Hindi Dub] | Muse IN",
+            "video_id": "thVv2kT9vUs",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "12",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 12 [Hindi Dub] | Muse IN",
+            "video_id": "Oq-2_kloAgU",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "13",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 13 [Hindi Dub] | Muse IN",
+            "video_id": "7g4JpchWwfE",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "16",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 16 [Hindi Dub] | Muse IN",
+            "video_id": "TSiRwhPbtFw",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "17",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 17 [Hindi Dub] | Muse IN",
+            "video_id": "PIUUD2hvoyE",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "20",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 20 [Hindi Dub] | Muse IN",
+            "video_id": "qYn-6bqlh8A",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "21",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 21 [Hindi Dub] | Muse IN",
+            "video_id": "KevzrTU5x5k",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "23",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 23 [Hindi Dub] | Muse IN",
+            "video_id": "THF8y3JJDdU",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "24",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 24 [Hindi Dub] | Muse IN",
+            "video_id": "Q9MSi5D7oig",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "25",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 25 [Hindi Dub] | Muse IN",
+            "video_id": "bh6RzmG3bPc",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "26",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 26 [Hindi Dub] | Muse IN",
+            "video_id": "XmiD-li5OHI",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "28",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 28 [Hindi Dub] | Muse IN",
+            "video_id": "Qp2mU_u8ls8",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "33",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 33 [Hindi Dub] | Muse IN",
+            "video_id": "3k7VRdq3wN4",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "34",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 34 [Hindi Dub] | Muse IN",
+            "video_id": "dIaJQbZAu_I",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "37",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 37 [Hindi Dub] | Muse IN",
+            "video_id": "rYCFeEpZYvI",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "38",
+            "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 38 [Hindi Dub] | Muse IN",
+            "video_id": "yyiCIwQ0cmQ",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          }
+        ]
+      },
+      {
         "id": "jojos-bizarre-adventure-season-4-hindi",
         "label": "Season 4 · Hindi dub",
         "season_number": 4,
@@ -4986,7 +5222,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-23",
+        "last_checked": "2026-10-24",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=6M7Q_5EFbr8",
@@ -5044,6 +5280,16 @@
             "added_on": "2026-10-20",
             "last_checked": "2026-10-20",
             "source_upload_date": "2026-10-19T08:30:09-07:00"
+          },
+          {
+            "number": "10",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 10 [Hindi Dub] | Muse IN",
+            "video_id": "hWuoJqwbBBY",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           }
         ]
       },
@@ -15624,7 +15870,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-24",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=rrD-KfObcxc",
@@ -15793,7 +16039,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-24",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -15847,6 +16093,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 19 (S2E07) | Muse IN",
+            "video_id": "6Y__OsDu_Jk",
+            "duration_seconds": 1445,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           },
           {
             "number": "8",
@@ -22324,7 +22580,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-24",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=LoJNZElISM8",
@@ -22454,7 +22710,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 2, 4, 7, 8, 9, 10, 13, 16, 17, 19, 22, 23, 24, 25, 29, 30, 31, 34, 35, 36, 37, 38, 50, 80, 84, 85, 113, 124, 126, 129, 143, 144. Metadata and oEmbed do not prove actual playback from India.",
-        "last_checked": "2026-10-20",
+        "last_checked": "2026-10-24",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=fmsGTVY4R44",
@@ -22520,6 +22776,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "13",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 013 | Muse IN",
+            "video_id": "f3GRXk56bwo",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
             "number": "14",
             "title": "HUNTER×HUNTER - Episode 014 [Hindi Dub] | Muse IN | HxH Shirts now available at Celio!",
             "video_id": "heGE9FO6xnw",
@@ -22538,6 +22804,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 016 | Muse IN",
+            "video_id": "wCPvWyIw-Vw",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           },
           {
             "number": "18",
@@ -22732,6 +23008,16 @@
             "added_on": "2026-10-20",
             "last_checked": "2026-10-20",
             "source_upload_date": "2026-10-19T08:00:31-07:00"
+          },
+          {
+            "number": "50",
+            "title": "[Hindi Dub] HUNTER×HUNTER - Episode 050 | Muse IN",
+            "video_id": "TNRHM5ADaPY",
+            "duration_seconds": 1415,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           },
           {
             "number": "51",
@@ -23650,7 +23936,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-24",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=FFIIA9Wocl0",
@@ -23687,7 +23973,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-24",
         "authorization_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
         "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -23801,6 +24087,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Tokyo Revengers - Episode 12",
+            "video_id": "WP2EzZnbsFU",
+            "duration_seconds": 1427,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           },
           {
             "number": "13",
@@ -23949,7 +24245,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-22",
+    "last_checked": "2026-10-24",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=4q70E0nwkAY",
@@ -24399,7 +24695,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-20",
+        "last_checked": "2026-10-24",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=9CygW01NIt0",
@@ -24479,6 +24775,26 @@
             "added_on": "2026-10-20",
             "last_checked": "2026-10-20",
             "source_upload_date": "2026-10-19T09:30:08-07:00"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] One-Punch Man - Episode 34 (S3E10) | Muse IN",
+            "video_id": "X6H8IGfw-_4",
+            "duration_seconds": 1441,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Attack on Titan - Episode 49 (S3E12) | Muse IN",
+            "video_id": "_vdOlYRrb6o",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           }
         ]
       }
@@ -24921,7 +25237,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-24",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=uUND8uJdoK8",
@@ -25392,11 +25708,21 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-18",
+        "last_checked": "2026-10-24",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
         "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 3 - Episode 01 | Muse IN",
+            "video_id": "HKIPpSxUQmE",
+            "duration_seconds": 1473,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
           {
             "number": "2",
             "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 3 - Episode 02 | Muse IN",
@@ -25448,6 +25774,16 @@
             "added_on": "2026-10-18"
           },
           {
+            "number": "16",
+            "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 3 - Episode 16 | Muse IN",
+            "video_id": "75ITs8z72YU",
+            "duration_seconds": 1473,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
             "number": "18",
             "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 3 - Episode 18 | Muse IN",
             "video_id": "SyL0pdsdI6s",
@@ -25456,6 +25792,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "19",
+            "title": "[Hindi Dub] Welcome To Demon School! Iruma-kun Season 3 - Episode 19 | Muse IN",
+            "video_id": "ASd1bnZHA1k",
+            "duration_seconds": 1473,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           }
         ]
       }
