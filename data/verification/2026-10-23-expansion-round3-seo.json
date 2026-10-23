@@ -155,5 +155,88 @@
       "uploads": 1828,
       "build_pages": 2466
     }
+  },
+  "addendum_round3c": {
+    "note": "Late-delivered round-3 series-lane results. Lost Canvas episodes were re-verified by the parent with the repo gate; the four episode-1 premieres passed the same repo check() gate in the discovery lane (full details recorded there) while every parent re-verification attempt was throttled (HTTP 429).",
+    "added_titles": [
+      {
+        "category": "anime-series",
+        "title": "Saint Seiya: The Lost Canvas",
+        "provider": "Anime! on TMS Official Channel",
+        "edition": "Japanese, English subtitles",
+        "episodes": "1, 2, 3, 7, 8, 13, 14, 15",
+        "uploads": 8
+      },
+      {
+        "category": "anime-series",
+        "title": "Mobile Suit Gundam 00",
+        "provider": "GUNDAM CHANNEL INTL",
+        "edition": "Japanese, English subtitles",
+        "episodes": "1",
+        "uploads": 1
+      },
+      {
+        "category": "anime-series",
+        "title": "Mobile Suit Gundam The Origin",
+        "provider": "GUNDAM CHANNEL INTL",
+        "edition": "Japanese, English subtitles",
+        "episodes": "1",
+        "uploads": 1
+      },
+      {
+        "category": "anime-series",
+        "title": "Gundam Reconguista in G",
+        "provider": "GUNDAM CHANNEL INTL",
+        "edition": "Japanese, English subtitles",
+        "episodes": "1",
+        "uploads": 1
+      },
+      {
+        "category": "anime-series",
+        "title": "Galaxy High School",
+        "provider": "Anime! on TMS Official Channel",
+        "edition": "English dub",
+        "episodes": "1",
+        "uploads": 1
+      }
+    ],
+    "still_unverified_throttled": [
+      "Saint Seiya: The Lost Canvas eps 4, 5, 6, 10, 21 (HTTP 429)"
+    ],
+    "rejected_india_gate": [
+      {
+        "candidate": "Lupin the 3rd Part 4 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "KenIchi: The Mightiest Disciple Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "Actually, I am... Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "BRAVE 10 Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "The Gutsy Frog Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "ZINBA Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      },
+      {
+        "candidate": "Cybersix Ep.1 (TMS)",
+        "reason": "India not in availableCountries metadata"
+      }
+    ],
+    "result_after_3c": {
+      "titles": 277,
+      "uploads": 1840,
+      "build_pages": 2488
+    }
   }
 }
