@@ -32174,5 +32174,418 @@
     "related": [],
     "added_on": "2026-10-23",
     "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "ghayal-khiladi",
+    "title": "Ghayal Khiladi",
+    "original_title": "Ghayal Khiladi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=BY4nG03CE9U",
+    "synopsis": "Watch Ghayal Khiladi in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=BY4nG03CE9U"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/BY4nG03CE9U/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ghayal-khiladi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "घायल खिलाड़ी (HD) साउथ की एक्शन हिंदी डब्ड मूवी | शिवकार्तिकेयन, नयनतारा, फहाद फासिल",
+            "video_id": "BY4nG03CE9U",
+            "duration_seconds": 8163,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "jilla",
+    "title": "Jilla",
+    "original_title": "Jilla",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=6aA-MAS9jd0",
+    "synopsis": "Watch Jilla in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=6aA-MAS9jd0"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/6aA-MAS9jd0/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "jilla-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "जिल्ला (Jilla) - साउथ सुपरस्टार Thalapathy Vijay की एक्शन मूवी। मोहनलाल, काजल अग्गरवाल",
+            "video_id": "6aA-MAS9jd0",
+            "duration_seconds": 7901,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "gajakessari",
+    "title": "Gajakessari",
+    "original_title": "Gajakessari",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=KbUfcUgd_6I",
+    "synopsis": "Watch Gajakessari in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=KbUfcUgd_6I"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/KbUfcUgd_6I/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "gajakessari-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "गजकेसरी - Gajakessari | यश की साउथ एक्शन सुपरहिट फुल मूवी | Amulya, Anant Nag",
+            "video_id": "KbUfcUgd_6I",
+            "duration_seconds": 7404,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "raja-hindustani",
+    "title": "Raja Hindustani",
+    "original_title": "Raja Hindustani",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=xtqog_hNsjA",
+    "synopsis": "Watch Raja Hindustani in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=xtqog_hNsjA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/xtqog_hNsjA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "raja-hindustani-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Raja Hindustani Full Movie - Aamir Khan - Karishma Kapoor - 90's Popular Hindi Movie",
+            "video_id": "xtqog_hNsjA",
+            "duration_seconds": 10227,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "welcome",
+    "title": "Welcome",
+    "original_title": "Welcome",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=AKiynoClCaA",
+    "synopsis": "Watch Welcome in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=AKiynoClCaA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/AKiynoClCaA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "welcome-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Welcome Hindi Movie - Akshay Kumar - Paresh Rawal - Nana Patekar - Katrina - Mallika - Comedy  Movie",
+            "video_id": "AKiynoClCaA",
+            "duration_seconds": 9010,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "hum-tumhare-hai-sanam",
+    "title": "Hum Tumhare Hai Sanam",
+    "original_title": "Hum Tumhare Hai Sanam",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=btYIMkogNWo",
+    "synopsis": "Watch Hum Tumhare Hai Sanam in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=btYIMkogNWo"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/btYIMkogNWo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "hum-tumhare-hai-sanam-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Hum Tumhare Hai Sanam Hindi Movie - Shah Rukh Khan - Madhuri - Salman Khan - Aishwarya Rai",
+            "video_id": "btYIMkogNWo",
+            "duration_seconds": 10064,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "fool-n-final",
+    "title": "Fool N Final",
+    "original_title": "Fool N Final",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=dqDjZgwt9SQ",
+    "synopsis": "Watch Fool N Final in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=dqDjZgwt9SQ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/dqDjZgwt9SQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "fool-n-final-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Bollywood COMEDY Movie | Fool N Final | FULL MOVIE (HD) | Sunny Deol, Shahid Kapoor, Vivek Oberoi",
+            "video_id": "dqDjZgwt9SQ",
+            "duration_seconds": 8284,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
   }
 ]
