@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-23",
+  "run": "AniLove India catalogue expansion round 2 (user request 2026-10-23)",
+  "base": {"titles": 246, "uploads": 1718, "base_commit": "2e80fef4fdf84eeb4ce7491e4a220f60f84a15b1"},
+  "result": {"titles": 258, "uploads": 1733},
+  "verification_method": "Repo route scripts/check_episode_uploads.py: public watch-page player metadata + YouTube oEmbed; uploader channel_id must match an identity-reviewed entry in data/channels.json, upload public and embeddable, not live/unlisted/restricted, full runtime, India present in available-country metadata. Actual India playback remains unverified for every addition.",
+  "added_titles": [
+    {"category": "movies", "title": "Khatarnak Khiladi", "video_id": "RvIWcoj3CmU", "provider": "Goldmines", "seconds": 6889},
+    {"category": "movies", "title": "Balupu", "video_id": "UqZVYD7y2mc", "provider": "Goldmines", "seconds": 7679, "alternate_title": "Meri Taqat"},
+    {"category": "movies", "title": "Jill", "video_id": "BVGAaBy6XiA", "provider": "Goldmines", "seconds": 6288, "alternate_title": "Dilwala Sainya"},
+    {"category": "movies", "title": "Chandramukhi", "video_id": "LaaZ4xBBYtA", "provider": "Goldmines", "seconds": 7309},
+    {"category": "movies", "title": "Thambi", "video_id": "SwY5FYEeWig", "provider": "Goldmines", "seconds": 7609},
+    {"category": "movies", "title": "Surya Ek Deewana", "video_id": "VWBHhhk3vnY", "provider": "Goldmines", "seconds": 8202},
+    {"category": "movies", "title": "Housefull 2", "video_id": "jcHHttzqtWw", "provider": "Shemaroo Movies", "seconds": 9200},
+    {"category": "movies", "title": "Ram Gopal Varma Ki Aag", "video_id": "ef2JUfYYVuQ", "provider": "Shemaroo Movies", "seconds": 8890},
+    {"category": "movies", "title": "Dil Kya Kare", "video_id": "MJ6UEzK4URo", "provider": "Shemaroo Movies", "seconds": 9150},
+    {"category": "movies", "title": "Dulhan Hyderabadi", "video_id": "ED6ku0BMO34", "provider": "Shemaroo Movies", "seconds": 6549},
+    {"category": "movies", "title": "Ghanta Chori Ho Gaya", "video_id": "HZQfQx7b5F8", "provider": "Shemaroo Movies", "seconds": 7902},
+    {"category": "k-dramas", "title": "Love To The End", "video_id": "vxhlppZYYLU", "provider": "KBS WORLD TV", "seconds": 1932, "note": "Episode 1 entry; Korean audio, English subtitles evidenced in upload title"}
+  ],
+  "gap_episodes_filled": [
+    {"title_id": "mobile-suit-gundam-seed", "season_id": "mobile-suit-gundam-seed-season-1", "episode": "20", "video_id": "jFCyKHlFWTI", "provider": "GUNDAM CHANNEL INTL", "seconds": 1462},
+    {"title_id": "re-zero", "season_id": "re-zero-season-4-hindi", "episode": "1", "video_id": "3VNk9Cq5QB0", "provider": "Muse India", "seconds": 1420},
+    {"title_id": "jojos-bizarre-adventure", "season_id": "jojos-bizarre-adventure-season-4-hindi", "episode": "1", "video_id": "jyDKbLVKlXA", "provider": "Muse India", "seconds": 1443}
+  ],
+  "rejected_or_unverified": [
+    {"video_id": "AHT772bRkMY", "candidate": "Attack on Titan Part 1: Guren no Yumiya (Anime Manga Official)", "reason": "Duplicate: already in catalogue with the same video_id"},
+    {"video_id": "O5PERIDGduY", "candidate": "Slime Season 1 English Dub full compilation (Anime Manga Official)", "reason": "India not in available-country metadata"},
+    {"video_id": "-15P77kO0-E", "candidate": "Slime Season 1 English Dub Ep.17-24 (Anime Manga Official)", "reason": "India not in available-country metadata"},
+    {"video_id": "4Bn3h6twLvo", "candidate": "Cardfight!! Vanguard Ride 16 (TMS)", "reason": "India not in available-country metadata (same for Rides 17-22: 9uLokLvXL1A, Mmpqs9mi0Og, KxlaTKVv8FQ, zENuxBqExVc, OG7vC6vdNCA, 2XbbQMddU-k)"},
+    {"video_id": "25ZRUYf9jB0", "candidate": "Astro Boy (1980) Ep.25 (RetroCrush)", "reason": "India not in available-country metadata"},
+    {"video_id": "_1qpiMzEvrA", "candidate": "The Ginko Bed (Korean Classic Film)", "reason": "Age-restricted upload (LOGIN_REQUIRED / sign-in to confirm age); same for 05sUNRYPfXY, i5Bd8LHWQc8, VR4IxevJ1EE, 3Px41mdNlE4, -shpYNgU7PQ"},
+    {"video_id": "aNw0ydFP49g", "candidate": "Tokyo Revengers complete-series compilation", "reason": "Uploader not approved: fan channel 'Anime' (UCfc9LGKDYucLDwTQZiXa0GA), not Muse India"},
+    {"video_id": "TllTbSOCLgg", "candidate": "Ace of the Diamond act II (Muse Asia)", "reason": "Only an 87-second PV, not a full episode"},
+    {"video_id": "lDYqCNPpja0", "candidate": "A Place in the Sun EP.1 (KBS WORLD TV)", "reason": "Part 1 only (17 min partial episode), not a full episode upload"},
+    {"video_id": "VA_mXjVZM8k", "candidate": "The Detective Is Already Dead S2 Ep.3 (Muse Asia)", "reason": "Preview only (32s); no full official episode upload found for Ep.2/Ep.3 in search"},
+    {"gap": "Attack on Titan S2E03 and S3E05 (Hindi, Muse India)", "reason": "No official upload found in YouTube/web search; only fan channels and announcement posts"},
+    {"gap": "JoJo S4 Hindi Ep.2-5, Mob Psycho 100 S3 Ep.1/10/11, One Punch Man S3 Ep.3/10, BOFURI S2 Ep.3/9/11, Classroom of the Elite S2/S3 Hindi gaps, Cells at Work Ep.6/9/11, Campfire Cooking S2 Ep.6/7, Fairy Tail Hindi gaps, Tokyo Revengers Ep.12, Slime S4 Ep.9+", "reason": "No official reviewed-channel upload found in this run; left for a later run instead of lowering verification gates"}
+  ],
+  "integrity": "Append-only: script asserted every new title id and video id was absent, and that all pre-existing titles except the 3 gap-filled titles are byte-identical after the import; the 3 touched titles only gained the appended episode, a metadata_source and last_checked.",
+  "build": {"command": "python3 build.py && python3 scripts/audit.py && python3 -m unittest discover -s tests && node --check assets/app.js", "pages": 2338, "tests": "34 passed", "audit_note": "Audit lists only the pre-existing AdSense protocol-relative URL flag present on every page of the site (including pages that predate this run); zero other broken links."}
+}

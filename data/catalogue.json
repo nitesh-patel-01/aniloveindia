@@ -1861,7 +1861,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-22",
+    "last_checked": "2026-10-23",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=7F5rns5lX6g",
@@ -1933,7 +1933,8 @@
       "https://www.youtube.com/watch?v=TIxwsiN6ZQs",
       "https://www.youtube.com/watch?v=Ig3OkepeGy4",
       "https://www.youtube.com/watch?v=PxR66HbSEvg",
-      "https://www.youtube.com/watch?v=toHiSfxiAZE"
+      "https://www.youtube.com/watch?v=toHiSfxiAZE",
+      "https://www.youtube.com/watch?v=3VNk9Cq5QB0"
     ],
     "seasons": [
       {
@@ -2662,11 +2663,21 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only; this is not a certified complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-19",
+        "last_checked": "2026-10-23",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Official upload title explicitly identifies the Hindi audio edition.",
         "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 67 (S4E01) | Muse IN",
+            "video_id": "3VNk9Cq5QB0",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
           {
             "number": "2",
             "title": "[Hindi Dub] Re:ZERO -Starting Life in Another World- | Episode 68 (S4E02) | Muse IN",
@@ -4718,7 +4729,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-23",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=nida6gx05kk",
@@ -4730,7 +4741,8 @@
       "https://www.youtube.com/watch?v=TnJw8Yc8CCo",
       "https://www.youtube.com/watch?v=FjB1k32O-wE",
       "https://www.youtube.com/watch?v=mWKa7dTIVR4",
-      "https://www.youtube.com/watch?v=6M7Q_5EFbr8"
+      "https://www.youtube.com/watch?v=6M7Q_5EFbr8",
+      "https://www.youtube.com/watch?v=jyDKbLVKlXA"
     ],
     "seasons": [
       {
@@ -4794,11 +4806,21 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-20",
+        "last_checked": "2026-10-23",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=6M7Q_5EFbr8",
         "episodes": [
+          {
+            "number": "1",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 01 [Hindi Dub] | Muse IN",
+            "video_id": "jyDKbLVKlXA",
+            "duration_seconds": 1443,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
           {
             "number": "6",
             "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 06 [Hindi Dub] | Muse IN",
@@ -19798,7 +19820,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in available-country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-23",
     "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=aKUr7pDeeYc",
@@ -19829,7 +19851,8 @@
       "https://www.youtube.com/watch?v=5Fc33uCDdPY",
       "https://www.youtube.com/watch?v=HNz_YRhPQBI",
       "https://www.youtube.com/watch?v=ppdWdJ-lvas",
-      "https://www.youtube.com/watch?v=LVzEu8APS1g"
+      "https://www.youtube.com/watch?v=LVzEu8APS1g",
+      "https://www.youtube.com/watch?v=jFCyKHlFWTI"
     ],
     "thumbnail": "https://i.ytimg.com/vi/aKUr7pDeeYc/hqdefault.jpg",
     "seasons": [
@@ -19844,7 +19867,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "29 checked official upload(s) listed; actual India playback and full-season completion are not certified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-23",
         "authorization_evidence_url": "https://en.gundam.info/news/info/02_13267.html",
         "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
         "episodes": [
@@ -19987,6 +20010,16 @@
             "source_upload_date": "2026-10-08T13:00:16-07:00",
             "audio_language": "English",
             "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
+          },
+          {
+            "number": "20",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode20",
+            "video_id": "jFCyKHlFWTI",
+            "duration_seconds": 1462,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed GUNDAM CHANNEL INTL uploader identity and channel ID, explicit English dub and exact episode title, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
           },
           {
             "number": "25",
@@ -31425,5 +31458,721 @@
     "related": [],
     "added_on": "2026-10-22",
     "discovery": "Official channel upload checked 2026-10-22"
+  },
+  {
+    "id": "khatarnak-khiladi",
+    "title": "Khatarnak Khiladi",
+    "original_title": "Khatarnak Khiladi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=RvIWcoj3CmU",
+    "synopsis": "Watch Khatarnak Khiladi in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=RvIWcoj3CmU"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/RvIWcoj3CmU/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "khatarnak-khiladi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "खतरनाक खिलाड़ी (HD) साउथ सुपरस्टार #Prabhas बर्थडे स्पेशल हिंदी डब्ड मूवी | अनुष्का शेट्टी",
+            "video_id": "RvIWcoj3CmU",
+            "duration_seconds": 6889,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "balupu",
+    "title": "Balupu",
+    "original_title": "Balupu (Meri Taqat)",
+    "alternate_titles": [
+      "Meri Taqat"
+    ],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=UqZVYD7y2mc",
+    "synopsis": "Watch Balupu in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=UqZVYD7y2mc"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/UqZVYD7y2mc/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "balupu-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "मेरी ताक़त (Balupu) साउथ की एक्शन डब्ड फुल मूवी | रवि तेजा, श्रुति हासन, अंजलि",
+            "video_id": "UqZVYD7y2mc",
+            "duration_seconds": 7679,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "jill",
+    "title": "Jill",
+    "original_title": "Jill",
+    "alternate_titles": [
+      "Dilwala Sainya"
+    ],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=BVGAaBy6XiA",
+    "synopsis": "Watch Jill in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=BVGAaBy6XiA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/BVGAaBy6XiA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "jill-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "दिलवाला सैंया (Jill) 2026 साउथ इंडियन एक्शन रोमैंटिक डब्ड मूवी | गोपीचंद, राशि खन्ना",
+            "video_id": "BVGAaBy6XiA",
+            "duration_seconds": 6288,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "chandramukhi",
+    "title": "Chandramukhi",
+    "original_title": "Chandramukhi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=LaaZ4xBBYtA",
+    "synopsis": "Watch Chandramukhi in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=LaaZ4xBBYtA"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/LaaZ4xBBYtA/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "chandramukhi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "चंद्रमुखी (Chandramukhi) साउथ सुपरस्टार रजिनीकांत की हॉरर फुल मूवी | ज्योतिका, नयनतारा",
+            "video_id": "LaaZ4xBBYtA",
+            "duration_seconds": 7309,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "thambi",
+    "title": "Thambi",
+    "original_title": "Thambi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=SwY5FYEeWig",
+    "synopsis": "Watch Thambi in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=SwY5FYEeWig"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/SwY5FYEeWig/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "thambi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Thambi - थंबी (HD) साउथ सुपरहिट एक्शन ड्रामा मूवी | कार्थी, ज्योतिका, सत्यराज",
+            "video_id": "SwY5FYEeWig",
+            "duration_seconds": 7609,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "surya-ek-deewana",
+    "title": "Surya Ek Deewana",
+    "original_title": "Surya Ek Deewana",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Not confirmed",
+    "audio_label": "Hindi dub",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Goldmines",
+    "watch_url": "https://www.youtube.com/watch?v=VWBHhhk3vnY",
+    "synopsis": "Watch Surya Ek Deewana in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=VWBHhhk3vnY"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/VWBHhhk3vnY/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "surya-ek-deewana-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.goldmines.co.in/",
+        "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "सुर्या एक दीवाना (HD) साउथ इंडियन रोमैंटिक ड्रामा फुल मूवी | साई पल्लवी, प्रिया रमन",
+            "video_id": "VWBHhhk3vnY",
+            "duration_seconds": 8202,
+            "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "housefull-2",
+    "title": "Housefull 2",
+    "original_title": "Housefull 2",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=jcHHttzqtWw",
+    "synopsis": "Watch Housefull 2 in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=jcHHttzqtWw"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/jcHHttzqtWw/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "housefull-2-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "हंसी से लोटपोट कर देने वाली कॉमेडी मूवी | Housefull 2 FULL MOVIE (HD) | Akshay Kumar,",
+            "video_id": "jcHHttzqtWw",
+            "duration_seconds": 9200,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "ram-gopal-varma-ki-aag",
+    "title": "Ram Gopal Varma Ki Aag",
+    "original_title": "Ram Gopal Varma Ki Aag",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=ef2JUfYYVuQ",
+    "synopsis": "Watch Ram Gopal Varma Ki Aag in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=ef2JUfYYVuQ"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ef2JUfYYVuQ/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ram-gopal-varma-ki-aag-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Ram Gopal Verma Ki Aag | FULL MOVIE (HD) | Amitabh Bachchan, Ajay Devgan, Mohan Lal",
+            "video_id": "ef2JUfYYVuQ",
+            "duration_seconds": 8890,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "dil-kya-kare",
+    "title": "Dil Kya Kare",
+    "original_title": "Dil Kya Kare",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=MJ6UEzK4URo",
+    "synopsis": "Watch Dil Kya Kare in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=MJ6UEzK4URo"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/MJ6UEzK4URo/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "dil-kya-kare-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "अजय देवगन, काजोल, महिमा की फॅमिली ड्रामा मूवी | Dil Kya Kare | FULL MOVIE (HD) | Ajay Devgan",
+            "video_id": "MJ6UEzK4URo",
+            "duration_seconds": 9150,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "dulhan-hyderabadi",
+    "title": "Dulhan Hyderabadi",
+    "original_title": "Dulhan Hyderabadi",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=ED6ku0BMO34",
+    "synopsis": "Watch Dulhan Hyderabadi in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=ED6ku0BMO34"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ED6ku0BMO34/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "dulhan-hyderabadi-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "ये शादी देख कर लोटपोट हसोगे | Dulhan Hyderabadi | FULL MOVIE (HD) | Ahsan Khan, Keertana",
+            "video_id": "ED6ku0BMO34",
+            "duration_seconds": 6549,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "ghanta-chori-ho-gaya",
+    "title": "Ghanta Chori Ho Gaya",
+    "original_title": "Ghanta Chori Ho Gaya",
+    "alternate_titles": [],
+    "category": "movies",
+    "format": "Movie",
+    "original_language": "Hindi",
+    "audio_label": "Hindi audio",
+    "country": "India",
+    "year": null,
+    "genre": [
+      "Cinema"
+    ],
+    "provider": "Shemaroo Movies",
+    "watch_url": "https://www.youtube.com/watch?v=HZQfQx7b5F8",
+    "synopsis": "Watch Ghanta Chori Ho Gaya in Hindi from Shemaroo Movies using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=HZQfQx7b5F8"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/HZQfQx7b5F8/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "ghanta-chori-ho-gaya-movie",
+        "label": "Full movie",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+        "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "episodes": [
+          {
+            "number": "full",
+            "title": "Hindi COMEDY Movie | Ghanta Chori Ho Gaya | FULL MOVIE (HD) | Kunal Jaiswal, Chaya Soni",
+            "video_id": "HZQfQx7b5F8",
+            "duration_seconds": 7902,
+            "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "love-to-the-end",
+    "title": "Love To The End",
+    "original_title": "Love To The End",
+    "alternate_titles": [
+      "Kkeutkkaji Sarang"
+    ],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean audio",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=vxhlppZYYLU",
+    "synopsis": "Watch Love To The End from KBS WORLD TV in the embedded YouTube player. Choose a listed episode below. Additional episodes are included only after their source checks pass.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=vxhlppZYYLU"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/vxhlppZYYLU/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "love-to-the-end-uploads",
+        "label": "Available episodes",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": "1",
+            "title": "Love To The End | 끝까지 사랑 EP.1 [SUB: ENG, CHN/2018.07.27]",
+            "video_id": "vxhlppZYYLU",
+            "duration_seconds": 1932,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
   }
 ]
