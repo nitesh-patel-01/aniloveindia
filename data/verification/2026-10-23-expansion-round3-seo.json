@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-23",
+  "run": "expansion-round3-trending-anime-and-seo",
+  "added_titles": [
+    {
+      "category": "anime-series",
+      "title": "Mobile Suit Gundam the Witch from Mercury",
+      "provider": "GUNDAM CHANNEL INTL",
+      "edition": "English dub",
+      "episodes": "Prologue + 1-24 (Seasons 1-2)",
+      "uploads": 25
+    },
+    {
+      "category": "anime-series",
+      "title": "Mobile Suit Gundam SEED Destiny",
+      "provider": "GUNDAM CHANNEL INTL",
+      "edition": "Japanese, English subtitles (HD Remaster)",
+      "episodes": "1-26, 29, 30, 32, 33, 41-44, 49, 50",
+      "uploads": 36
+    },
+    {
+      "category": "anime-series",
+      "title": "Mobile Suit Gundam IRON-BLOODED ORPHANS",
+      "provider": "GUNDAM CHANNEL INTL",
+      "edition": "Japanese, English subtitles",
+      "episodes": "1 (more pending verification)",
+      "uploads": 1
+    },
+    {
+      "category": "anime-series",
+      "title": "Mobile Suit Gundam (1979)",
+      "provider": "GUNDAM CHANNEL INTL",
+      "edition": "Japanese, English subtitles",
+      "episodes": "1 (more pending verification)",
+      "uploads": 1
+    },
+    {
+      "category": "anime-series",
+      "title": "Gundam Build Divers",
+      "provider": "GUNDAM CHANNEL INTL",
+      "edition": "Japanese, English subtitles",
+      "episodes": "1 (more pending verification)",
+      "uploads": 1
+    }
+  ],
+  "seo_changes": [
+    "Title pages now carry TVSeries/Movie + BreadcrumbList structured data (previously only the generic WebSite schema).",
+    "Watch-page VideoObject schema now includes duration (ISO 8601) and inLanguage.",
+    "Homepage WebSite schema now includes a SearchAction (sitelinks search box eligibility).",
+    "Sitemap now includes <lastmod> for title, season and watch pages from their catalogue check dates.",
+    "3 new discover collections: english-dubbed-anime, watch-kdrama-online-india, anime-movies-online (14 collections total).",
+    "New /discover/ collections hub page, linked from the footer of every page.",
+    "Category pages now have unique, keyword-specific meta descriptions instead of one shared string."
+  ],
+  "rejected_or_unverified": [
+    {
+      "candidate": "DANDIVINE Ep.1 (Muse Asia, Fall 2026)",
+      "reason": "India not in availableCountries metadata"
+    },
+    {
+      "candidate": "A Tale of the Secret Saint Ep.1 (Muse Asia)",
+      "reason": "India not in availableCountries metadata"
+    },
+    {
+      "candidate": "Magic Repo Man Ep.1 (Muse Asia)",
+      "reason": "India not in availableCountries metadata"
+    },
+    {
+      "candidate": "The World's Strongest Witch Ep.1 (Muse Asia)",
+      "reason": "India not in availableCountries metadata"
+    },
+    {
+      "candidate": "A Returner's Magic Should Be Special S2 / Firefly Wedding first-video leads (Muse Asia)",
+      "reason": "Leads were a Main PV (123s) and a Teaser PV (54s), not episodes"
+    },
+    {
+      "candidate": "Mushoku Tensei S3 leads (Muse Asia/Muse India)",
+      "reason": "Teaser PV (116s) and 30s episode preview only; no full episode upload verified"
+    },
+    {
+      "candidate": "Robot Carnival full movie (RetroCrush, id1eRjO4p_0)",
+      "reason": "India not in availableCountries metadata"
+    },
+    {
+      "candidate": "Green Rain (Korean Classic Film, gzVaW_fyV-Q)",
+      "reason": "Age-restricted upload (final retry from round 2 backlog)"
+    },
+    {
+      "candidate": "Mobile Suit Gundam 00 S1 Ep.1 (GUNDAM CHANNEL INTL)",
+      "reason": "Unverified: metadata fetch throttled (HTTP 429) on every attempt; retry in a later run"
+    },
+    {
+      "candidate": "Queue anime-movie IDs YYqJMKhaLhk, mAxCyrDuNiA, JJMV4WrybjM, B60vNz15Hzg",
+      "reason": "Duplicates: these are the exact uploads already in the catalogue for Gundam I/II/III and Char's Counterattack"
+    },
+    {
+      "candidate": "Detective Conan episodes (TMS)",
+      "reason": "Only short clips/trailers on the official channel; no full episodes"
+    }
+  ],
+  "integrity": "Append-only: zero existing catalogue entries changed (asserted in the import script).",
+  "result": {
+    "titles": 270,
+    "uploads": 1804,
+    "build_pages": 2438
+  }
+}

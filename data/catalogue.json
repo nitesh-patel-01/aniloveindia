@@ -32587,5 +32587,916 @@
     "related": [],
     "added_on": "2026-10-23",
     "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "mobile-suit-gundam-the-witch-from-mercury",
+    "title": "Mobile Suit Gundam the Witch from Mercury",
+    "original_title": "Mobile Suit Gundam the Witch from Mercury",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "English dub",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=cq8zYG_hivI",
+    "synopsis": "Watch Mobile Suit Gundam the Witch from Mercury in English dub from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=cq8zYG_hivI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/cq8zYG_hivI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "mobile-suit-gundam-the-witch-from-mercury-season-1-english-dub",
+        "label": "Season 1 · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Prologue plus episodes 1-12 checked and listed; full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 0,
+            "title": "Mobile Suit Gundam the Witch from Mercury - 『PROLOGUE』（EN dub）",
+            "video_id": "PjoLfWJlfyc",
+            "duration_seconds": 1479,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 1,
+            "title": "Mobile Suit Gundam the Witch from Mercury #1 \"The Witch and the Bride\"(EN dub)",
+            "video_id": "cq8zYG_hivI",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 2,
+            "title": "Mobile Suit Gundam the Witch from Mercury #2 \"Cursed Mobile Suit\"(EN dub)",
+            "video_id": "bRqqvwxlPFA",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 3,
+            "title": "Mobile Suit Gundam the Witch from Mercury #3 \"Guel's Pride\"(EN dub)",
+            "video_id": "hUFpnzhpApo",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 4,
+            "title": "Mobile Suit Gundam the Witch from Mercury #4 \"Unseen Trap\"(EN dub)",
+            "video_id": "VoL0Vft2n_U",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 5,
+            "title": "Mobile Suit Gundam the Witch from Mercury #5 \"Reflection in an Icy Eye\"(EN dub)",
+            "video_id": "G_iLj8Wp7dk",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 6,
+            "title": "Mobile Suit Gundam the Witch from Mercury #6 \"A Gloomy Song\"(EN dub)",
+            "video_id": "m04x09lXhI0",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 7,
+            "title": "Mobile Suit Gundam the Witch from Mercury #7 \"Shall We Gundam?\"(EN dub)",
+            "video_id": "GeMjxNk8YL8",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 8,
+            "title": "Mobile Suit Gundam the Witch from Mercury #8 \"Their Choice\"(EN dub)",
+            "video_id": "1tpuVqbnCsQ",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 9,
+            "title": "Mobile Suit Gundam the Witch from Mercury #9 \"If I Could Take One More Step Toward You\"(EN dub)",
+            "video_id": "kThQo5cjVpY",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 10,
+            "title": "Mobile Suit Gundam the Witch from Mercury #10 \"Circling Thoughts\"(EN dub)",
+            "video_id": "-cORn5HzGDY",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 11,
+            "title": "Mobile Suit Gundam the Witch from Mercury #11 \"The Witches from Earth\"(EN dub)",
+            "video_id": "nv2-wgogV6E",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 12,
+            "title": "Mobile Suit Gundam the Witch from Mercury #12 \"Keep Marching on Instead of Running Off\"(EN dub)",
+            "video_id": "a6SnMdPzh0s",
+            "duration_seconds": 1498,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "id": "mobile-suit-gundam-the-witch-from-mercury-season-2-english-dub",
+        "label": "Season 2 · English dub",
+        "audio_language": "English",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Episodes 13-24 checked and listed; full-season completion and actual India playback are not certified. Episode 24's upload title omits the (EN dub) tag but is the matching finale upload of the same official dub run.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 13,
+            "title": "Mobile Suit Gundam the Witch from Mercury #13 \"Envoys from the Earth\"(EN dub)",
+            "video_id": "b9UVaK2hfkk",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 14,
+            "title": "Mobile Suit Gundam the Witch from Mercury #14 \"What They Wish For\"(EN dub)",
+            "video_id": "6fHQhakwYR0",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 15,
+            "title": "Mobile Suit Gundam the Witch from Mercury #15 \"Father and Child\"(EN dub)",
+            "video_id": "Mdh0xJiABPs",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 16,
+            "title": "Mobile Suit Gundam the Witch from Mercury #16 \"Cycle of Sin\"(EN dub)",
+            "video_id": "b3urjpZq1L8",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 17,
+            "title": "Mobile Suit Gundam the Witch from Mercury #17 \"Precious Things\"(EN dub)",
+            "video_id": "17kijQC38zQ",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 18,
+            "title": "Mobile Suit Gundam the Witch from Mercury #18 \"Our Empty Selves\"(EN dub)",
+            "video_id": "3zeYa1pMEXo",
+            "duration_seconds": 1508,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 19,
+            "title": "Mobile Suit Gundam the Witch from Mercury #19 \"Not the Best Way\"(EN dub)",
+            "video_id": "bg29bSwEmos",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 20,
+            "title": "Mobile Suit Gundam the Witch from Mercury #20 \"The End of Hope\"(EN dub)",
+            "video_id": "f6tu0YNXDvg",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 21,
+            "title": "Mobile Suit Gundam the Witch from Mercury #21 \"What We Can Do Now\"(EN dub)",
+            "video_id": "8rAWrbPkuEc",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 22,
+            "title": "Mobile Suit Gundam the Witch from Mercury #22 \"The Woven Path\"(EN dub)",
+            "video_id": "fMN-daf4sB8",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 23,
+            "title": "Mobile Suit Gundam the Witch from Mercury #23 \"Unrelenting Tenderness\"(EN dub)",
+            "video_id": "7rIQQmrpZe4",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 24,
+            "title": "Mobile Suit Gundam the Witch from Mercury#24:May All Blessings Find Their Way to You, I'm Wishing It",
+            "video_id": "f4XV8gAlZZk",
+            "duration_seconds": 1493,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "mobile-suit-gundam-seed-destiny",
+    "title": "Mobile Suit Gundam SEED Destiny",
+    "original_title": "Mobile Suit Gundam SEED Destiny",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English subtitles",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=paEVAzRhX2k",
+    "synopsis": "Watch Mobile Suit Gundam SEED Destiny in Japanese with English subtitles from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=paEVAzRhX2k"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/paEVAzRhX2k/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "mobile-suit-gundam-seed-destiny-hd-remaster-english-subtitles",
+        "label": "HD Remaster · English subtitles",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "36 checked official uploads listed (episodes 1-26, 29, 30, 32, 33, 41-44, 49, 50 of 50). Remaining episode numbers were not verified in this run; full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode1 (w/subtitles)",
+            "video_id": "paEVAzRhX2k",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 2,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode2 (w/subtitles)",
+            "video_id": "vyQquPdMrno",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 3,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode3 (w/subtitles)",
+            "video_id": "AD_PSpuDOw4",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 4,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode4 (w/subtitles)",
+            "video_id": "nWg54ZaezAo",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 5,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode5 (w/subtitles)",
+            "video_id": "en897kxbX7A",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 6,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode6 (w/subtitles)",
+            "video_id": "tY5jzpXILiI",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 7,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode7 (w/subtitles)",
+            "video_id": "TjIss69vHM0",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 8,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode8 (w/subtitles)",
+            "video_id": "2bqdyfvPT5o",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 9,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode9 (w/subtitles)",
+            "video_id": "1LC4w2zII1c",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 10,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode10 (w/subtitles)",
+            "video_id": "OnO1hXvNTNI",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 11,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode11 (w/subtitles)",
+            "video_id": "VYKjatpgKJ0",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 12,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode12 (w/subtitles)",
+            "video_id": "bNwaMtLQHDg",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 13,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode13 (w/subtitles)",
+            "video_id": "le8hTBgIycQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 14,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode14 (w/subtitles)",
+            "video_id": "f9k6qKkXo18",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 15,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode15 (w/subtitles)",
+            "video_id": "5sf5Bg9fTnI",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 16,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode16 (w/subtitles)",
+            "video_id": "CtPgRBHseqQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 17,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode17 (w/subtitles)",
+            "video_id": "GKvVi-j7p9U",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 18,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode18 (w/subtitles)",
+            "video_id": "1EqL7CSXX0s",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 19,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode19 (w/subtitles)",
+            "video_id": "G0MTr1fKehQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 20,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode20 (w/subtitles)",
+            "video_id": "EEVFIvpDIYI",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 21,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode21 (w/subtitles)",
+            "video_id": "haLsUSKKgTY",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 22,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode22 (w/subtitles)",
+            "video_id": "K1P1SVQHQ0c",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 23,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode23 (w/subtitles)",
+            "video_id": "Q0QALnQq16c",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 24,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode24 (w/subtitles)",
+            "video_id": "aou_jG-Ixfs",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 25,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode25 (w/subtitles)",
+            "video_id": "zdmDPCam9js",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 26,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode26 (w/subtitles)",
+            "video_id": "FPODPa-6GMQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 29,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode29 (w/subtitles)",
+            "video_id": "OuiO9Bh-Vwg",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 30,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode30 (w/subtitles)",
+            "video_id": "aCoxKeOwZ5o",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 32,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode32 (w/subtitles)",
+            "video_id": "gywx_XzEvDQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 33,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode33 (w/subtitles)",
+            "video_id": "nk_h-P6tzJo",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 41,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode41 (w/subtitles)",
+            "video_id": "8oCqfAepXfc",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 42,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode42 (w/subtitles)",
+            "video_id": "D75f0t7yLa8",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 43,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode43 (w/subtitles)",
+            "video_id": "V3TtcKvIkR0",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 44,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode44 (w/subtitles)",
+            "video_id": "d04Mbt2zaTw",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 49,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode49 (w/subtitles)",
+            "video_id": "4ySqySVqMkQ",
+            "duration_seconds": 1461,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 50,
+            "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode50 (w/subtitles)",
+            "video_id": "SbDAut9weJ4",
+            "duration_seconds": 1431,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Upload title states English subtitles / (w/subtitles)"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "mobile-suit-gundam-iron-blooded-orphans",
+    "title": "Mobile Suit Gundam IRON-BLOODED ORPHANS",
+    "original_title": "Mobile Suit Gundam IRON-BLOODED ORPHANS",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English subtitles",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=QurnL3bCllY",
+    "synopsis": "Watch Mobile Suit Gundam IRON-BLOODED ORPHANS in Japanese with English subtitles from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=QurnL3bCllY"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/QurnL3bCllY/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "mobile-suit-gundam-iron-blooded-orphans-season-1",
+        "label": "Season 1 · English subtitles",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Only episode 1 has been checked and listed so far; further episodes will be added after verification. Full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "MOBILE SUIT GUNDAM IRON-BLOODED ORPHANS-Episode 1: IRON AND BLOOD…(15 languages)",
+            "video_id": "QurnL3bCllY",
+            "duration_seconds": 1538,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Caption track metadata (English track present among the upload's 15 subtitle languages)"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "mobile-suit-gundam-1979",
+    "title": "Mobile Suit Gundam (1979)",
+    "original_title": "Mobile Suit Gundam (1979)",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English subtitles",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=Jx5GcsjMOSs",
+    "synopsis": "Watch Mobile Suit Gundam (1979) in Japanese with English subtitles from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=Jx5GcsjMOSs"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/Jx5GcsjMOSs/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "mobile-suit-gundam-1979-season-1",
+        "label": "TV Series · English subtitles",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Only episode 1 has been checked and listed so far; further episodes will be added after verification. Full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "MOBILE SUIT GUNDAM - Episode 1 (EN.CN.HK.TW.IT.FR Sub)",
+            "video_id": "Jx5GcsjMOSs",
+            "duration_seconds": 1513,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Upload title states EN among its subtitle languages"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "gundam-build-divers",
+    "title": "Gundam Build Divers",
+    "original_title": "Gundam Build Divers",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English subtitles",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=bktN_TdP6yI",
+    "synopsis": "Watch Gundam Build Divers in Japanese with English subtitles from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=bktN_TdP6yI"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/bktN_TdP6yI/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "gundam-build-divers-season-1",
+        "label": "Season 1 · English subtitles",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Only episode 1 has been checked and listed so far; further episodes will be added after verification. Full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Gundam Build Divers-Episode 1: Welcome to GBN (EN,TW,HK,KR,FR,IT,TH sub)",
+            "video_id": "bktN_TdP6yI",
+            "duration_seconds": 1509,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Upload title states EN among its subtitle languages"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
   }
 ]
