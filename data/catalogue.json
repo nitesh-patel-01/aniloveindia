@@ -3236,7 +3236,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-24",
     "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=adsNeHmLllg",
@@ -3254,12 +3254,152 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-20",
+        "completion_note": "Episodes 1-21 checked and listed; episode 22 (the season finale) is scheduled on the official channel for 24 October 2026 and will be added after verification. Actual India playback remains unverified.",
+        "last_checked": "2026-10-24",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=hVK3dHfO1Y0",
         "episodes": [
+          {
+            "number": "1",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 01 | Muse IN",
+            "video_id": "wEhnJXEsgH8",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "2",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 02 | Muse IN",
+            "video_id": "Pz3XOpimDd8",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "3",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 03 | Muse IN",
+            "video_id": "mz0OBoWGyZk",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "4",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 04 | Muse IN",
+            "video_id": "OZZgqUv97YQ",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "5",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 05 | Muse IN",
+            "video_id": "J04KXiul25I",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "6",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 06 | Muse IN",
+            "video_id": "QbT43yaxogU",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "7",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 07 | Muse IN",
+            "video_id": "5emxv-Zq6mM",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "8",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 08 | Muse IN",
+            "video_id": "zWWOsi0VJKA",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 09 | Muse IN",
+            "video_id": "BJm7hBye1II",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 10 | Muse IN",
+            "video_id": "g9pgjRBd_rg",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 11 | Muse IN",
+            "video_id": "ZX8x0NnJ3CY",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 12 | Muse IN",
+            "video_id": "s9NdHjFvz6U",
+            "duration_seconds": 1386,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "13",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 13 | Muse IN",
+            "video_id": "4UwYriczY28",
+            "duration_seconds": 1375,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "14",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 14 | Muse IN",
+            "video_id": "DuJb4EITEVk",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
           {
             "number": "15",
             "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 15 | Muse IN",
@@ -3293,6 +3433,46 @@
             "added_on": "2026-10-20",
             "last_checked": "2026-10-20",
             "source_upload_date": "2026-10-19T08:00:07-07:00"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 18 | Muse IN",
+            "video_id": "tZVYqR-3QtY",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "19",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 19 | Muse IN",
+            "video_id": "kBcFdHKe4YQ",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "20",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 20 | Muse IN",
+            "video_id": "LD5Aywk8UNM",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
+          {
+            "number": "21",
+            "title": "[Hindi Dub] Assassination Classroom Season 1 - Episode 21 | Muse IN",
+            "video_id": "LpxU_fwVR_c",
+            "duration_seconds": 1376,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           }
         ]
       },

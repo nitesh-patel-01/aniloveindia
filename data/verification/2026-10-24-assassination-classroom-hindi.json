@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-24",
+  "run": "assassination-classroom-hindi-completion",
+  "context": "Assassination Classroom Season 1 Hindi dub is a daily broadcast run on Muse India (started 3 Oct 2026, 8:30 PM IST). The catalogue previously held only episodes 15-17, found mid-run. Episode IDs were located via a live browser session (the uploads are India-region-restricted and hidden from this server's search) and every ID was then verified with the repo gate (reviewed channel ID, public/embeddable, full runtime, India in country metadata, oEmbed author match).",
+  "gap_episodes_filled": {
+    "title": "assassination-classroom",
+    "season": "assassination-classroom-season-1-hindi",
+    "episodes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      18,
+      19,
+      20,
+      21
+    ],
+    "uploads": 18,
+    "season_total_after": 21
+  },
+  "not_added": [
+    {
+      "episode": "Season 1 Episode 22 (finale)",
+      "reason": "Not yet uploaded at verification time; scheduled on Muse India for 24 October 2026, 8:30 PM IST. Add after it airs and passes the gate."
+    },
+    {
+      "episode": "Season 2 Hindi dub (all episodes)",
+      "reason": "Does not exist on Muse India as of 2026-10-24 (exact-title and broad searches returned no official uploads). The Hindi dub exists on Crunchyroll/JioHotstar/MX Player, none of which offer third-party embedding. Season 2 remains listed on AniLove in Japanese with English subtitles."
+    }
+  ],
+  "integrity": "Append-only: the season's pre-existing episodes 15-17 and all other catalogue entries are byte-identical (asserted in the import script).",
+  "result": {
+    "titles": 283,
+    "uploads": 1867
+  }
+}
