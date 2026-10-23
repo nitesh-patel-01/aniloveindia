@@ -103,5 +103,57 @@
     "titles": 270,
     "uploads": 1804,
     "build_pages": 2438
+  },
+  "addendum_round3b": {
+    "note": "Late-delivered round-2 discovery lane results, re-verified independently with the full repo gate before import.",
+    "added_titles": [
+      {
+        "category": "anime-series",
+        "title": "After War Gundam X",
+        "provider": "GUNDAM CHANNEL INTL",
+        "edition": "Japanese, English subtitles",
+        "episodes": "1, 2, 4-7, 9, 12, 16, 21, 22, 24, 26, 27, 29-36, 39",
+        "uploads": 22
+      },
+      {
+        "category": "k-dramas",
+        "title": "Snow White's Revenge",
+        "provider": "KBS WORLD TV",
+        "edition": "Korean, English subtitles",
+        "episodes": "1",
+        "uploads": 1
+      }
+    ],
+    "gap_episodes_filled": [
+      {
+        "title": "Mobile Suit Gundam SEED",
+        "season": "mobile-suit-gundam-seed-season-1",
+        "episode": 6,
+        "video_id": "ciE0Go7Zbc4",
+        "edition": "English dub"
+      }
+    ],
+    "still_unverified_throttled": [
+      "After War Gundam X eps 3, 8, 10, 11, 13-15, 17, 18, 25, 31, 37 (HTTP 429 on repeated attempts)",
+      "Mobile Suit Gundam SEED Ep.2 English dub SKDibi-XncE (HTTP 429)",
+      "Mobile Fighter G Gundam Ep.1 eKFM63BIxzY (HTTP 429)",
+      "Mobile Suit Gundam 00 S1 Ep.1 7jLv_j-m8F4 (HTTP 429 across rounds 3 and 3b)",
+      "Return Home - 2012 KBS Drama Special x5FJ3hgJtr0 (HTTP 429)"
+    ],
+    "rejected": [
+      {
+        "candidate": "Mysterious Personal Shopper Ep.1 (KBS, 4VO_Qk9nNlE)",
+        "reason": "Only 1,135s (part-length for a daily drama) and English subtitles not evidenced in caption tracks (Korean only)"
+      },
+      {
+        "candidate": "Mobile Suit Gundam SEED HD Remaster Ep.2 (dgGuKUHIMAw)",
+        "reason": "Single mid-season episode of a new edition with no verified Ep.1; held as a lead, not imported as a one-episode edition"
+      }
+    ],
+    "result_after_3b": {
+      "titles": 272,
+      "uploads": 1828,
+      "build_pages": 2466
+    }
   }
 }

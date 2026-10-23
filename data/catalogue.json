@@ -19916,6 +19916,15 @@
             "audio_language_evidence": "Official EN Dub title and official description explicitly identifies English-language cast"
           },
           {
+            "number": "6",
+            "title": "【EN Dub】Mobile Suit Gundam SEED - Episode6",
+            "video_id": "ciE0Go7Zbc4",
+            "duration_seconds": 1462,
+            "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "last_checked": "2026-10-23"
+          },
+          {
             "number": "7",
             "title": "【EN Dub】Mobile Suit Gundam SEED - Episode7",
             "video_id": "YSVFcGAQ-yY",
@@ -33493,6 +33502,340 @@
           }
         ],
         "subtitle_evidence": "Upload title states EN among its subtitle languages"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "after-war-gundam-x",
+    "title": "After War Gundam X",
+    "original_title": "After War Gundam X",
+    "alternate_titles": [],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Japanese · English subtitles",
+    "country": "Japan",
+    "year": null,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "GUNDAM CHANNEL INTL",
+    "watch_url": "https://www.youtube.com/watch?v=TTnmp3_vAX4",
+    "synopsis": "Watch After War Gundam X in Japanese with English subtitles from GUNDAM CHANNEL INTL using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=TTnmp3_vAX4"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/TTnmp3_vAX4/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "after-war-gundam-x-season-1",
+        "label": "Season 1 · English subtitles",
+        "audio_language": "Japanese",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "22 checked official uploads listed of the 39-episode series; unverified episode numbers were throttled during this run's metadata checks and will be retried. Full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@GUNDAMCHANNELINTL",
+        "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "After War Gundam X -Episode1(w/subtitles)",
+            "video_id": "TTnmp3_vAX4",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 2,
+            "title": "After War Gundam X -Episode2(w/subtitles)",
+            "video_id": "-2DCBO0424I",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 4,
+            "title": "After War Gundam X -Episode4(w/subtitles)",
+            "video_id": "qBfIql0lXRk",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 5,
+            "title": "After War Gundam X -Episode5(w/subtitles)",
+            "video_id": "utJc7KPvkl8",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 6,
+            "title": "After War Gundam X -Episode6(w/subtitles)",
+            "video_id": "-ELJK0pqw5c",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 7,
+            "title": "After War Gundam X -Episode7(w/subtitles)",
+            "video_id": "9QAeit4wA9Y",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 9,
+            "title": "After War Gundam X -Episode9(w/subtitles)",
+            "video_id": "ENCobxWAfRA",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 12,
+            "title": "After War Gundam X -Episode12(w/sbtitles)",
+            "video_id": "_f8F35GKwyo",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 16,
+            "title": "After War Gundam X -Episode16(w/sbtitles)",
+            "video_id": "qQiT-6O8B1k",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 21,
+            "title": "After War Gundam X -Episode21(w/subtitles)",
+            "video_id": "n49nNUylYW4",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 22,
+            "title": "After War Gundam X -Episode22(w/subtitles)",
+            "video_id": "ryeco6JIY-M",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 24,
+            "title": "After War Gundam X -Episode24(w/subtitles)",
+            "video_id": "hhQ96RK4_N4",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 26,
+            "title": "After War Gundam X -Episode26(w/subtitles)",
+            "video_id": "xPl2ODd_NkA",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 27,
+            "title": "After War Gundam X -Episode27(w/subtitles)",
+            "video_id": "-4goI5FernA",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 29,
+            "title": "After War Gundam X -Episode29(w/subtitles)",
+            "video_id": "aMGux7W4ICE",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 30,
+            "title": "After War Gundam X -Episode30(w/subtitles)",
+            "video_id": "TygCo0FngbI",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 32,
+            "title": "After War Gundam X -Episode32(w/subtitles)",
+            "video_id": "AX8xYmcPXgs",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 33,
+            "title": "After War Gundam X -Episode33(w/subtitles)",
+            "video_id": "y22GbguAGO4",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 34,
+            "title": "After War Gundam X -Episode34(w/subtitles)",
+            "video_id": "gFo4RIWlb6A",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 35,
+            "title": "After War Gundam X -Episode35(w/subtitles)",
+            "video_id": "TLTWimXMn5k",
+            "duration_seconds": 1459,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 36,
+            "title": "After War Gundam X -Episode36(w/subtitles)",
+            "video_id": "mUup9p0Bkgc",
+            "duration_seconds": 1460,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          },
+          {
+            "number": 39,
+            "title": "After War Gundam X -Episode39(w/subtitles)",
+            "video_id": "CBfwAD0uWN4",
+            "duration_seconds": 1462,
+            "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Caption track metadata"
+      }
+    ],
+    "related": [],
+    "added_on": "2026-10-23",
+    "discovery": "Official channel upload checked 2026-10-23"
+  },
+  {
+    "id": "snow-whites-revenge",
+    "title": "Snow White's Revenge",
+    "original_title": "Snow White's Revenge",
+    "alternate_titles": [],
+    "category": "k-dramas",
+    "format": "Series",
+    "original_language": "Korean",
+    "audio_label": "Korean · English subtitles",
+    "country": "South Korea",
+    "year": null,
+    "genre": [
+      "Drama"
+    ],
+    "provider": "KBS WORLD TV",
+    "watch_url": "https://www.youtube.com/watch?v=cIXPvHaSyIE",
+    "synopsis": "Watch Snow White's Revenge in Korean with English subtitles from KBS WORLD TV using the official YouTube player. Choose from the checked episodes below. Only the uploads listed here have been verified; the uploader controls availability and regional playback.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "Uploader controls regional availability. Actual India playback is unverified.",
+    "last_checked": "2026-10-23",
+    "verification_method": "Official uploader, full runtime and oEmbed metadata",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=cIXPvHaSyIE"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/cIXPvHaSyIE/hqdefault.jpg",
+    "seasons": [
+      {
+        "id": "snow-whites-revenge-season-1",
+        "label": "Season 1 · English subtitles",
+        "audio_language": "Korean",
+        "subtitle_languages": [
+          "English"
+        ],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Only episode 1 has been checked and listed so far; further episodes will be added after verification. Full-season completion and actual India playback are not certified.",
+        "last_checked": "2026-10-23",
+        "authorization_evidence_url": "https://www.youtube.com/@KBSWORLDTV",
+        "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Death Sentence [Snow White's Revenge : EP.1] | KBS WORLD TV 240628",
+            "video_id": "cIXPvHaSyIE",
+            "duration_seconds": 1998,
+            "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-23",
+            "india_playback": "unverified",
+            "added_on": "2026-10-23"
+          }
+        ],
+        "subtitle_evidence": "Upload description states (SUB: ENG/CHN); English caption track confirmed"
       }
     ],
     "related": [],
