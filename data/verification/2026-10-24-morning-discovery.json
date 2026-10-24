@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-24",
+  "run": "AniLove India morning discovery and gap-resume",
+  "base": {
+    "commit": "18ddbf48d3c526bae64e11570d174d2d914bb190",
+    "titles": 283,
+    "uploads": 1900,
+    "categories": {
+      "anime-series": 76,
+      "anime-movies": 29,
+      "movies": 115,
+      "k-dramas": 63
+    }
+  },
+  "discovery_method": "Fresh remote main catalogue and current backlog were read through the GitHub connector. Public web search was run across all four categories. No YouTube API key or Firebase was used. Search-index results were treated as candidate discovery only, not sufficient publication verification.",
+  "searches": {
+    "search_count": 62,
+    "by_category": {
+      "anime-series": 39,
+      "anime-movies": 10,
+      "movies": 6,
+      "k-dramas": 7
+    },
+    "query_groups": [
+      {
+        "category": "anime-series",
+        "count": 39,
+        "queries": [
+          "site:youtube.com/watch \"Muse India\" Hindi Dub full episode October 2026 anime",
+          "site:youtube.com/watch \"Muse Hindi Dub\" anime episode 2026",
+          "site:youtube.com/watch \"Crayon Shinchan\" Hindi full episode official YouTube",
+          "site:youtube.com/watch \"Assassination Classroom\" Hindi Dub official Muse India",
+          "site:youtube.com/watch \"Pokémon Horizons\" Hindi official episode YouTube India",
+          "site:youtube.com/watch \"Muse Hindi Dub\" \"Episode\" Hindi Dub 2026 anime full episode",
+          "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" \"Episode\" anime 2026",
+          "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" \"Season 4\" anime October 2026",
+          "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" \"Episode 01\" 2026",
+          "site:youtube.com/watch \"Muse Hindi Dub\" \"Episode 01\" 2026",
+          "site:youtube.com/watch \"GUNDAM CHANNEL INTL\" \"Full Episode\" English Dub 2026",
+          "site:youtube.com/watch \"Welcome to Demon School! Iruma-kun\" \"S3E04\" \"Hindi Dub\" Muse",
+          "site:youtube.com/watch \"Welcome to Demon School! Iruma-kun\" \"S3E05\" \"Hindi Dub\" Muse",
+          "site:youtube.com/watch \"JoJo's Bizarre Adventure\" \"Hindi Dub\" \"Muse\" \"Episode 01\" Diamond is Unbreakable",
+          "site:youtube.com/watch \"Hunter x Hunter\" \"Hindi Dub\" \"Muse Hindi Dub\" Episode 14",
+          "site:youtube.com/watch \"Campfire Cooking in Another World\" \"Season 2\" \"Hindi Dub\" \"Episode 6\" Muse",
+          "site:youtube.com/watch \"Attack on Titan\" \"Season 3\" \"Hindi Dub\" \"Episode 9\" Muse India",
+          "site:youtube.com/watch \"SPY x FAMILY\" \"Hindi Dub\" \"Episode 01\" \"Muse Hindi Dub\" 2026",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 04 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 09 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 10 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 14 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 15 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 18 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 19 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 22 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 27 Hindi Dub Muse India",
+          "site:youtube.com/watch JoJo Diamond is Unbreakable Episode 29 Hindi Dub Muse India"
+        ]
+      },
+      {
+        "category": "anime-movies",
+        "count": 10,
+        "queries": [
+          "site:youtube.com/watch \"Doraemon\" Hindi full movie official YouTube India",
+          "site:youtube.com/watch \"Pokémon\" Hindi full movie official YouTube India",
+          "site:youtube.com/watch \"Suzume/Suzume no Tojimari\" official full movie Hindi YouTube",
+          "site:youtube.com/watch \"Ne Zha\" Hindi full movie official YouTube",
+          "site:youtube.com/watch official Hindi dubbed anime movie full movie distributor",
+          "site:youtube.com/watch \"Doraemon\" \"full movie\" Hindi official channel",
+          "site:youtube.com/watch \"Pokemon movie\" Hindi official full movie channel India",
+          "site:youtube.com/watch \"Suzume\" full movie official YouTube India",
+          "site:youtube.com/watch \"Anime! on TMS Official Channel\" \"Full Movie\" 2026",
+          "site:youtube.com/watch \"Anime! on TMS Official Channel\" \"English Dub\" \"Full Movie\" India"
+        ]
+      },
+      {
+        "category": "movies",
+        "count": 6,
+        "queries": [
+          "site:youtube.com/watch official Hindi movie full movie Shemaroo Goldmines October 2026",
+          "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi official October 2026",
+          "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" official Hindi 2026",
+          "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi \"2026\" official channel",
+          "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi 2026 official",
+          "site:youtube.com/watch \"Korean Classic Film\" \"Full Movie\" English subtitles 2026"
+        ]
+      },
+      {
+        "category": "k-dramas",
+        "count": 7,
+        "queries": [
+          "site:youtube.com/watch KBS World full episode English subtitles My Golden Life official",
+          "site:youtube.com/watch \"KBS WORLD TV\" \"Full Episode\" English subtitles drama 2026",
+          "site:youtube.com/watch \"My Golden Life\" \"Ep.2\" \"KBS WORLD TV\" \"SUB : ENG\" full",
+          "site:youtube.com/watch \"My Golden Life\" \"Ep.3\" \"KBS WORLD TV\" \"SUB : ENG\" full",
+          "site:youtube.com/watch \"My Golden Life\" \"황금빛 내인생\" \"Ep.2\" YouTube",
+          "site:youtube.com/watch \"My Golden Life\" \"황금빛 내인생\" \"Ep.3\" YouTube",
+          "site:youtube.com/watch \"KBS WORLD TV\" \"[Full]\" \"EP.1\" \"SUB : ENG\" 2026 drama"
+        ]
+      }
+    ],
+    "pagination_limitations": "Search-engine queries were used, but YouTube channel pagination, Muse Atom feeds and direct watch/oEmbed metadata were unavailable or throttled in this environment. The run is not exhaustive."
+  },
+  "candidate_results": [
+    {
+      "video_id": "PLT-E3NlxI0",
+      "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 01 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-3-hindi",
+      "episode": "1",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-09-02",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=PLT-E3NlxI0",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "_Kp5t4x1MdM",
+      "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 04 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-3-hindi",
+      "episode": "4",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-09-05",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=_Kp5t4x1MdM",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "Jof-A-OJ4rc",
+      "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 09 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-3-hindi",
+      "episode": "9",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-09-10",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=Jof-A-OJ4rc",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "qOI7d-vVJCo",
+      "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 10 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-3-hindi",
+      "episode": "10",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-09-11",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=qOI7d-vVJCo",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "TpoSpAxZhd0",
+      "title": "JoJo's Bizarre Adventure (S3): Diamond is Unbreakable - Episode 14 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-3-hindi",
+      "episode": "14",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-09-15",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=TpoSpAxZhd0",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "r0F3jOzNMAQ",
+      "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 22 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-2-hindi",
+      "episode": "22",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2025-05-28",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=r0F3jOzNMAQ",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "Az6M3AdMVpE",
+      "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 27 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-2-hindi",
+      "episode": "27",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2025-06-02",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=Az6M3AdMVpE",
+      "reason": "Public search identifies the reviewed Muse India channel and explicit Hindi-dub episode title. Exact watch metadata, runtime, embeddability/oEmbed and IN country metadata could not be verified; actual India playback is unverified."
+    },
+    {
+      "video_id": "CncVazPN0b0",
+      "title": "My Golden Life | 황금빛 내인생 – Ep.2 [SUB : ENG,CHN,IND /2017.09.10]",
+      "title_id": "my-golden-life",
+      "season_id": "my-golden-life-uploads",
+      "episode": "2",
+      "uploader": "KBS WORLD TV (verified in search result)",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2017-09-10",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
+      "reason": "Exact official KBS search result was rediscovered, but the title's subtitle label is not sufficient evidence of actual subtitle tracks. Runtime, exact per-video channel ID, oEmbed/embeddability and IN country metadata remain unverified."
+    },
+    {
+      "video_id": "HmqoC0oual8",
+      "title": "My Golden Life | 황금빛 내인생 – Ep.3 [SUB : ENG,CHN,IND /2017.09.16]",
+      "title_id": "my-golden-life",
+      "season_id": "my-golden-life-uploads",
+      "episode": "3",
+      "uploader": "KBS WORLD TV (verified in search result)",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2017-09-16",
+      "result": "not_added_metadata_unverified",
+      "source_url": "https://www.youtube.com/watch?v=HmqoC0oual8",
+      "reason": "Exact official KBS search result was rediscovered, but the title's subtitle label is not sufficient evidence of actual subtitle tracks. Runtime, exact per-video channel ID, oEmbed/embeddability and IN country metadata remain unverified."
+    },
+    {
+      "video_id": "etVMaKdQR2o",
+      "title": "NE ZHA FULL MOVIE IN HINDI DUBBED",
+      "uploader": "BANGLA Video",
+      "uploader_channel_id": null,
+      "result": "skipped_unauthorized_or_unreviewed",
+      "source_url": "https://www.youtube.com/watch?v=etVMaKdQR2o",
+      "published_on": "2025-05-02",
+      "reason": "No primary-source rights-holder/distributor authorization; channel ID was not available in the indexed result. A Hindi-dubbed title is not audio verification or authorization."
+    },
+    {
+      "video_id": "_JPnwf7Gwh4",
+      "title": "POKEMON MOVIE [HINDI DUBBED] FULL 4K QUALITY",
+      "uploader": "Mujeeb_FFx",
+      "uploader_channel_id": "UC4WZ19GaovNydPm6C504o4w",
+      "result": "skipped_unauthorized_or_unreviewed",
+      "source_url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
+      "published_on": "2024-10-14",
+      "reason": "Uploader is not an approved rights-holder/distributor; no primary-source authorization. Do not embed."
+    },
+    {
+      "video_id": "EYvKlrX_Csw",
+      "title": "Shinchan full episode in Hindi",
+      "uploader": "Shinchan4u",
+      "uploader_channel_id": null,
+      "result": "skipped_unauthorized_or_unreviewed",
+      "source_url": "https://www.youtube.com/watch?v=EYvKlrX_Csw",
+      "published_on": "2022-02-26",
+      "reason": "Unreviewed channel with no primary-source rights-holder authorization; channel ID was not available in the indexed result. Do not embed."
+    },
+    {
+      "video_id": "QLFA1MkDkww",
+      "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 01 [Hindi Dub] | Muse IN",
+      "title_id": "jojos-bizarre-adventure",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "1",
+      "uploader": "Muse India (verified in search result)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": true,
+      "result": "not_added_duplicate_video_id",
+      "source_url": "https://www.youtube.com/watch?v=QLFA1MkDkww",
+      "reason": "Exact video ID already exists in the current remote catalogue."
+    }
+  ],
+  "verification": {
+    "eligible_new_uploads": 0,
+    "not_added_metadata_unverified": 9,
+    "skipped_unauthorized_or_unreviewed": 3,
+    "not_added_duplicate_video_id": 1,
+    "canonical_tuple_duplicates": 0,
+    "not_full_content": 0,
+    "actual_india_playback": "unverified for all new candidates; no direct playback was observed"
+  },
+  "category_outcomes": {
+    "anime-series": {
+      "new_uploads": 0,
+      "candidate_leads": 7,
+      "details": "Seven exact Muse India JoJo Hindi-dub episode leads (S2E22/E27 and S3E1/E4/E9/E10/E14) were found. All lack current direct watch/oEmbed, runtime and India country metadata verification, so they remain pending."
+    },
+    "anime-movies": {
+      "new_uploads": 0,
+      "candidate_leads": 2,
+      "details": "Doraemon, Pokémon films, Suzume and Ne Zha searches produced no authorized full-feature candidate. A Ne Zha Hindi-dub claim from BANGLA Video was unreviewed and rejected; no theatrical feature was added."
+    },
+    "movies": {
+      "new_uploads": 0,
+      "candidate_leads": 0,
+      "details": "Official distributor searches produced no exact new full Hindi/English movie that passed all gates. Korean Classic Film leads are not eligible as Other Movies without Hindi or English audio evidence."
+    },
+    "k-dramas": {
+      "new_uploads": 0,
+      "candidate_leads": 2,
+      "details": "My Golden Life EP2 and EP3 were rediscovered on KBS WORLD TV, but title subtitle labels alone do not establish actual English subtitle tracks; runtime, per-video uploader identity, embeddability/oEmbed and IN metadata remain unverified."
+    }
+  },
+  "integrity": {
+    "catalogue_changed": false,
+    "existing_entries_preserved": true,
+    "empty_or_placeholder_cards_added": false,
+    "season_completeness_changed": false
+  },
+  "limitations": [
+    "Direct YouTube watch-page access returned throttling/disabled errors for tested uploads; public oEmbed and Atom-feed access was disabled in this environment.",
+    "The local Desktop Commander device was offline, so build.py, scripts/audit.py, unit tests and node --check could not be run locally. No catalogue file was changed in this run.",
+    "The production homepage and sitemap could not be fetched by the available web reader. The prior main commit has a successful Vercel status, but this run cannot claim a fresh live-site/sitemap inspection.",
+    "Actual India playback remains unobserved. Country metadata, when present in prior reports, is not a playback guarantee."
+  ],
+  "result": {
+    "catalogue_additions": 0,
+    "category_counts": {
+      "anime-series": 76,
+      "anime-movies": 29,
+      "movies": 115,
+      "k-dramas": 63
+    },
+    "upload_count": 1900,
+    "reason": "No new candidate passed every required verification gate."
+  }
+}

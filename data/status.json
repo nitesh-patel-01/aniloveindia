@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-20T12:05:36+05:30",
+  "last_run": "2026-10-24T08:53:02+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Public discovery completed; no new uploads passed all publication gates",
+  "state": "Four-category discovery completed; no new uploads passed every publication gate. Seven Muse India JoJo Hindi-dub leads and two KBS drama leads remain pending exact metadata verification; unreviewed movie uploads were rejected.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,20 +11,20 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No catalogue additions: fresh-looking anime IDs were duplicates; other candidates lacked exact public watch/oEmbed, authorization, language, runtime or India metadata.",
-    "Direct YouTube watch pages were throttled and public oEmbed/Atom-feed fetches were disabled in this environment; unverified candidates were not imported.",
-    "Actual India playback remains unobserved for new candidates; no exhaustive YouTube coverage claim."
+    "No catalogue additions in this run: JoJo Hindi-dub and My Golden Life candidates lacked exact watch-page runtime, oEmbed/embeddability and India country metadata checks.",
+    "Search surfaced Ne Zha, Pokémon movie and Shinchan uploads from unreviewed channels without primary-source authorization; they were not embedded.",
+    "Direct YouTube watch/oEmbed/feed and production-site fetches were throttled or disabled in this environment. Actual India playback remains unobserved; no exhaustive YouTube coverage claim."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
-  "last_manual_verification": "2026-10-20",
+  "last_manual_verification": "2026-10-24",
   "catalogue_counts": {
-    "anime-series": 57,
-    "anime-movies": 20,
-    "movies": 89,
-    "k-dramas": 53
+    "anime-series": 76,
+    "anime-movies": 29,
+    "movies": 115,
+    "k-dramas": 63
   },
-  "upload_count": 1674,
+  "upload_count": 1900,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
@@ -44,19 +44,19 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "verification_report": "data/verification/2026-10-24-morning-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
   ],
-  "last_display_update": "2026-10-19T02:38:40.403331+05:30",
+  "last_display_update": "2026-10-24T08:53:02+05:30",
   "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-20-afternoon-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-24-morning-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-20",
-    "base_commit": "2a3d359f1de496e99f55db0168a72dcac1ad5276",
+    "date": "2026-10-24",
+    "base_commit": "18ddbf48d3c526bae64e11570d174d2d914bb190",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
@@ -64,6 +64,9 @@
       "anime-movies": 0,
       "movies": 0,
       "k-dramas": 0
-    }
+    },
+    "candidate_count": 13,
+    "eligible_candidates": 0,
+    "search_queries": 62
   }
 }
