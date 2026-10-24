@@ -4969,7 +4969,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-25",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -4983,6 +4983,86 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "4",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 04 [Hindi Dub] | Muse IN",
+            "video_id": "7eVxLrlMmj0",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "10",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 10 [Hindi Dub] | Muse IN",
+            "video_id": "r2hIj0V2mk8",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "14",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 14 [Hindi Dub] | Muse IN",
+            "video_id": "AIcsvXm0Oso",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "22",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 22 [Hindi Dub] | Muse IN",
+            "video_id": "r0F3jOzNMAQ",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "26",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 26 [Hindi Dub] | Muse IN",
+            "video_id": "dyTNGbvsh4I",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "32",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 32 [Hindi Dub] | Muse IN",
+            "video_id": "Zn-v40RFyVg",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "34",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 34 [Hindi Dub] | Muse IN",
+            "video_id": "BsLR5-Jgfwo",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "36",
+            "title": "JoJo's Bizarre Adventure (S2): Stardust Crusaders - Episode 36 [Hindi Dub] | Muse IN",
+            "video_id": "LeSFPACHXYk",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ],
         "season_number": 2
