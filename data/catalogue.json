@@ -4943,7 +4943,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-25",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -4957,6 +4957,106 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
             "india_playback": "unverified",
             "added_on": "2026-10-17"
+          },
+          {
+            "number": "2",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 02 [Hindi Dub] | Muse IN",
+            "video_id": "F2UOn4M0EZo",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "3",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 03 [Hindi Dub] | Muse IN",
+            "video_id": "8krD1av3O1o",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "4",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 04 [Hindi Dub] | Muse IN",
+            "video_id": "WwGPiaHY6ek",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "5",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 05 [Hindi Dub] | Muse IN",
+            "video_id": "ohwlLB-ObKU",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "6",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 06 [Hindi Dub] | Muse IN",
+            "video_id": "FY-BwUb0vQo",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "7",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 07 [Hindi Dub] | Muse IN",
+            "video_id": "b5beZMFtiB8",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "8",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 08 [Hindi Dub] | Muse IN",
+            "video_id": "jA0Weck-Hec",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "9",
+            "title": "JoJo's Bizarre Adventure (S1): Phantom Blood - Episode 09 [Hindi Dub] | Muse IN",
+            "video_id": "hP_GZLnqIUU",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "10",
+            "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 10 [Hindi Dub] | Muse IN",
+            "video_id": "n4MxDlHav2E",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "11",
+            "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 11 [Hindi Dub] | Muse IN",
+            "video_id": "r2rouKSm33Y",
+            "duration_seconds": 1420,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ],
         "season_number": 1
