@@ -904,8 +904,8 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "Individually verified Hindi episodes 1–8 are listed. This is not a complete season. Actual India playback is unverified.",
-        "last_checked": "2026-10-22",
+        "completion_note": "Individually verified Hindi episodes 1–9 are listed. This is not a complete season. Actual India playback is unverified.",
+        "last_checked": "2026-10-25",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "playlist_id": "PLpm1VVK4UL17sQvpyw2ou6aG43s3NU09W",
@@ -985,6 +985,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "9",
+            "title": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 81 (S4E09) | Muse IN",
+            "video_id": "YBJW6Jlph18",
+            "duration_seconds": 1451,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ]
       }
@@ -5392,7 +5402,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-24",
+        "last_checked": "2026-10-25",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=6M7Q_5EFbr8",
@@ -5530,6 +5540,16 @@
             "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
             "india_playback": "unverified",
             "added_on": "2026-10-24"
+          },
+          {
+            "number": "14",
+            "title": "JoJo's Bizarre Adventure (S4): Golden Wind - Episode 14 [Hindi Dub] | Muse IN",
+            "video_id": "MMEZ952Bb6I",
+            "duration_seconds": 1440,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ]
       },
@@ -25155,7 +25175,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-        "last_checked": "2026-10-24",
+        "last_checked": "2026-10-25",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=9CygW01NIt0",
@@ -25255,6 +25275,16 @@
             "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
             "india_playback": "unverified",
             "added_on": "2026-10-24"
+          },
+          {
+            "number": "16",
+            "title": "[Hindi Dub] Attack on Titan - Episode 53 (S3E16) | Muse IN",
+            "video_id": "4HEi8D4wpuo",
+            "duration_seconds": 1436,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ]
       }
