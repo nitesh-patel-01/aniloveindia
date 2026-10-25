@@ -3264,7 +3264,7 @@
         "subtitle_languages": [],
         "embed_checked": true,
         "verified_complete": false,
-        "completion_note": "All 22 episodes verified from Muse India's Hindi broadcast run, including the 24 October 2026 season finale. Actual India playback remains unverified.",
+        "completion_note": "All 22 episodes verified from Muse India's Hindi broadcast run, including the 24 October 2026 season finale. Season 1 Hindi is complete; S2 Hindi does not exist on Muse India yet. Actual India playback remains unverified.",
         "last_checked": "2026-10-25",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
@@ -26035,6 +26035,16 @@
             "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
             "india_playback": "unverified",
             "added_on": "2026-10-25"
+          },
+          {
+            "number": "18",
+            "title": "[Hindi Dub] Attack on Titan - Episode 55 (S3E18) | Muse IN",
+            "video_id": "pZFcFWi-Rrc",
+            "duration_seconds": 1436,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ]
       }
@@ -36602,6 +36612,163 @@
             "india_playback": "unverified",
             "last_checked": "2026-10-23",
             "added_on": "2026-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-god-of-high-school",
+    "title": "The God of High School",
+    "original_title": "THE GOD OF HIGH SCHOOL",
+    "alternate_titles": [
+      "GOHS"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": 2020,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse India",
+    "watch_url": "https://www.youtube.com/watch?v=SpB_u9SdwZE",
+    "synopsis": "High-school fighters enter a tournament where the strongest borrow power from gods and legends.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
+    "last_checked": "2026-10-25",
+    "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=SpB_u9SdwZE",
+      "https://www.youtube.com/watch?v=oJZLcYEi41o"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/SpB_u9SdwZE/hqdefault.jpg",
+    "related": [],
+    "added_on": "2026-10-25",
+    "discovery": "Muse channel uploads enumeration, October 2026",
+    "seasons": [
+      {
+        "id": "the-god-of-high-school-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Episodes 3 and 7 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
+        "last_checked": "2026-10-25",
+        "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+        "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "3",
+            "title": "THE GOD OF HIGH SCHOOL - Episode 03 [Hindi Dub] | Muse IN",
+            "video_id": "SpB_u9SdwZE",
+            "duration_seconds": 1410,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "7",
+            "title": "THE GOD OF HIGH SCHOOL - Episode 07 [Hindi Dub] | Muse IN",
+            "video_id": "oJZLcYEi41o",
+            "duration_seconds": 1410,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zom-100-bucket-list-of-the-dead",
+    "title": "Zom 100: Bucket List of the Dead",
+    "original_title": "Zom 100: Bucket List of the Dead",
+    "alternate_titles": [
+      "Zom 100"
+    ],
+    "category": "anime-series",
+    "format": "Series",
+    "original_language": "Japanese",
+    "audio_label": "Hindi dub",
+    "country": "Japan",
+    "year": 2023,
+    "genre": [
+      "Anime"
+    ],
+    "provider": "Muse Hindi Dub",
+    "watch_url": "https://www.youtube.com/watch?v=pRdbrjuD5z4",
+    "synopsis": "After years of crushing office life, Akira finds unexpected freedom in a zombie apocalypse and starts working through a bucket list of everything he wants to do before he dies.",
+    "color": "#a4cbb7",
+    "motif": "moss",
+    "word": "ANILOVE",
+    "availability": "embedded",
+    "india_playback": "unverified",
+    "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
+    "last_checked": "2026-10-25",
+    "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
+    "metadata_sources": [
+      "https://www.youtube.com/watch?v=pRdbrjuD5z4",
+      "https://www.youtube.com/watch?v=DQj7cGHaSJc",
+      "https://www.youtube.com/watch?v=L2doXubhj_o"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/pRdbrjuD5z4/hqdefault.jpg",
+    "related": [],
+    "added_on": "2026-10-25",
+    "discovery": "Muse channel uploads enumeration, October 2026",
+    "seasons": [
+      {
+        "id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
+        "label": "Season 1 · Hindi dub",
+        "audio_language": "Hindi",
+        "subtitle_languages": [],
+        "embed_checked": true,
+        "verified_complete": false,
+        "completion_note": "Episodes 9, 11 and 12 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
+        "last_checked": "2026-10-25",
+        "authorization_evidence_url": "https://www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+        "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+        "episodes": [
+          {
+            "number": "9",
+            "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 09",
+            "video_id": "pRdbrjuD5z4",
+            "duration_seconds": 1432,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "11",
+            "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 11",
+            "video_id": "DQj7cGHaSJc",
+            "duration_seconds": 1432,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
+          },
+          {
+            "number": "12",
+            "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 12",
+            "video_id": "L2doXubhj_o",
+            "duration_seconds": 1422,
+            "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-25"
           }
         ]
       }
