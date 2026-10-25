@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:12:17+05:30",
+  "updated_at": "2026-10-25T08:27:27+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -6693,6 +6693,30 @@
       "state": "exact_upload_unverified",
       "primary_source_checked": "https://www.tv-asahi.co.jp/shinchan/news/0171/index.html",
       "reason": "Official franchise source is only a lead; no exact YouTube episode passed English-subtitle, IN and embed checks."
+    },
+    {
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "name": "Ani-One India",
+      "candidate_video_ids": [
+        "TbW4ZmyVqLA",
+        "hNWZ1b5Zwsw",
+        "ahSGip8YENA",
+        "zq_6LNzV4SQ",
+        "S2hcf_uGpSU",
+        "i0QAvVqv_qo"
+      ],
+      "reviewed_on": "2026-10-25",
+      "state": "needs_primary_source_exact_channel_crosslink_and_exact_video_metadata",
+      "primary_source_checked": "https://www.medialink.com.hk/en/Anione.aspx",
+      "primary_source_authorization_evidence": "https://www.medialink.com.hk/en/News.aspx?id=734",
+      "secondary_handle_crosslink": "https://animenewsindia.com/2024/11/01/medialink-group-limited-launches-ani-one-india-youtube-channel-for-indian-anime-fans/",
+      "channel_id_crosscheck": "https://socialblade.com/youtube/channel/UC67pLBZ_z4Gd46t6mW7uHjA/realtime",
+      "reason": "Medialink's official sources establish the Ani-One brand and identify Ani-One India as a regional channel, but the exact @anionein handle and candidate channel ID were not directly crosslinked together by the primary sources accessed. Do not add to data/channels.json until exact primary-source channel identity is confirmed. Candidate uploads also lack direct runtime, public full-content status, oEmbed/embeddability and India country metadata.",
+      "next_actions": [
+        "Find a primary-source crosslink from Medialink/Ani-One's official site or official corporate social account to the exact @anionein channel ID.",
+        "After identity review, retrieve exact per-video uploader channel IDs, runtime, public watch-page status, oEmbed and India available-country metadata.",
+        "Only then add verified Hindi episodes and a clearly labeled title/season entry; preserve all existing catalogue records."
+      ]
     }
   ],
   "latest_run": {
@@ -6841,11 +6865,11 @@
     "summary": "Four-category public discovery completed against the current remote catalogue. Seven Muse India JoJo Hindi-dub leads and two KBS drama leads await exact metadata verification; three unofficial movie/episode uploads were rejected. No new content was published because no candidate passed every gate."
   },
   "latest_discovery_run": {
-    "run_id": "2026-10-25-morning-integrity-and-discovery",
-    "observed_at": "2026-10-25T08:12:17+05:30",
-    "remote_head_before": "1026e1dbc924ebef6eefbbadb72e74725d393a2e",
+    "run_id": "2026-10-25-morning-followup-discovery",
+    "observed_at": "2026-10-25T08:27:27+05:30",
+    "remote_head_before": "7da66d28b9fc93151241f87b07370e4065bd59c9",
     "search_queries": [
-      "site:youtube.com/watch Muse India Hindi dub anime full episode October 2026",
+      "site:youtube.com/watch Muse India Hindi Dub anime full episode October 2026",
       "site:youtube.com/watch Muse Hindi Dub Hindi dubbed anime episode October 2026",
       "site:youtube.com/watch Pokémon Asia Official Hindi full episode 2026",
       "site:youtube.com/watch Doraemon Hindi full movie official 2026",
@@ -6858,137 +6882,267 @@
       "site:youtube.com/watch official Hindi dubbed full movie Goldmines Shemaroo October 2026",
       "site:youtube.com/@MuseIndiaChannel/playlists Muse India latest Hindi dubbed episodes 2026",
       "site:youtube.com/@Muse_HindiDub/playlists Muse Hindi Dub latest episodes 2026",
-      "Muse India JoJo's Bizarre Adventure Hindi Dub playlist episodes 12 13 14 October 2026",
-      "site:youtube.com/@MuseIndiaChannel/playlists JoJo's Bizarre Adventure Hindi Dub",
-      "site:youtube.com/watch JoJo's Bizarre Adventure S1 Battle Tendency episodes 12-26 Hindi Dub Muse IN",
-      "site:youtube.com/watch Assassination Classroom Season 1 Episode 22 Hindi Dub Muse India",
-      "site:youtube.com/watch Attack on Titan Season 3 Hindi Dub episode 10 Muse India",
-      "site:youtube.com/watch Attack on Titan Episode 47 S3E10 English Sub Muse IN",
-      "site:youtube.com/watch Campfire Cooking Season 2 Hindi dub episode 7 Muse India",
-      "site:youtube.com/watch My Golden Life EP.2 KBS WORLD TV ENG subtitles",
-      "site:youtube.com/watch Doraemon Doremon डोरेमोन official Hindi full movie",
-      "site:youtube.com/watch Pokémon पोकेमॉन feature film official Hindi full movie",
-      "site:youtube.com/watch Suzume Suzume no Tojimari official Hindi dub full movie",
-      "site:youtube.com/watch Ne Zha Nezha 哪吒 animated feature official Hindi dub",
-      "site:youtube.com/watch Crayon Shinchan Shin-chan शिनचैन official full Hindi episode",
-      "site:youtube.com/watch K-drama full episode Korean English subtitles official KBS World",
-      "site:youtube.com/watch Hindi full movie official distributor Goldmines Shemaroo",
-      "site:youtube.com/watch Hindi dubbed anime movie official rights holder full movie YouTube"
+      "JoJo's Bizarre Adventure Hindi Dub Muse India official episode 2026",
+      "official YouTube full anime movies Hindi dub distributor India 2026",
+      "Ani-One India official YouTube channel official Medialink Ani-One India identity 2026",
+      "site:youtube.com/@AniOneIndia Jujutsu Kaisen Hindi Dub full episode October 2026",
+      "site:youtube.com/watch Ani-One India Full Episode Hindi anime October 2026",
+      "site:youtube.com/@Muse_HindiDub Full Episode Hindi October 2026",
+      "site:youtube.com/watch Muse Hindi Dub Hindi episode October 24 2026",
+      "site:youtube.com/watch Pokémon Asia Official (Hindi) full episode October 2026",
+      "site:youtube.com/watch My Golden Life KBS WORLD TV episode English subtitles 2026",
+      "site:youtube.com/watch Korean Classic Film full movie 2026 English subtitles",
+      "site:youtube.com/watch official Hindi full movie Shemaroo Movies October 2026",
+      "site:youtube.com/watch official Hindi full movie Goldmines October 2026",
+      "site:youtube.com/watch Ani-One India Episode HINDI DUB anime full episode 2026",
+      "site:youtube.com/watch Ani-One India BLEACH Hindi Dub Episode",
+      "site:youtube.com/watch Muse India Hindi Dub Episode October 2026 full",
+      "site:youtube.com/watch Muse Hindi Dub Episode October 2026 Hindi Dub anime",
+      "site:youtube.com/watch KBS WORLD TV My Golden Life Episode 2 English subtitles",
+      "site:youtube.com/watch KBS WORLD TV My Golden Life Episode 3 English subtitles",
+      "site:youtube.com/watch KBS WORLD TV My Golden Life Episode 4 English subtitles",
+      "site:youtube.com/playlist My Golden Life KBS WORLD TV full episodes English subtitles",
+      "site:youtube.com/watch official full anime movie Hindi dubbed Muse India 2026",
+      "site:youtube.com/watch official full anime movie Hindi dubbed Ani-One India 2026",
+      "site:youtube.com/watch official full movie Hindi Shemaroo Movies 2026",
+      "site:youtube.com/watch official full movie Hindi Goldmines 2026",
+      "site:youtube.com/watch Doraemon full movie official Hindi YouTube",
+      "site:youtube.com/watch Pokémon movie Hindi full movie official YouTube",
+      "site:youtube.com/watch Ne Zha full movie Hindi official YouTube",
+      "site:youtube.com/watch My Golden Life Episode 2 KBS WORLD TV English subtitles YouTube",
+      "site:youtube.com/watch My Golden Life Episode 3 KBS WORLD TV English subtitles YouTube",
+      "site:youtube.com/watch My Golden Life Episode 4 KBS WORLD TV English subtitles YouTube",
+      "site:youtube.com/watch My Golden Life Episode 5 KBS WORLD TV English subtitles YouTube",
+      "site:youtube.com/watch Tamon's B Side Episode 2 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 3 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 4 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 5 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 6 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 7 Ani-One India Hindi",
+      "site:youtube.com/watch Tamon's B Side Episode 8 Ani-One India Hindi",
+      "Tamon's B Side Ani-One India Hindi dub full episodes YouTube episode 2 3 4",
+      "My Golden Life KBS WORLD TV Episode 2 full episode English subtitles YouTube",
+      "My Golden Life KBS WORLD TV Episode 3 full episode English subtitles YouTube",
+      "My Golden Life KBS WORLD TV Episode 4 full episode English subtitles YouTube"
     ],
+    "search_query_count": 55,
     "category_results": {
       "anime-series": {
+        "searches": 31,
         "exact_candidate_ids": [
-          "AjMre5vbEMk",
-          "rOldnT4Xlo4",
-          "Tf4jJlSbngk",
-          "fuyzY5NRsbk",
-          "fygFnlIbI6E",
-          "fpibmrsE2oo"
+          "TbW4ZmyVqLA",
+          "hNWZ1b5Zwsw",
+          "ahSGip8YENA",
+          "zq_6LNzV4SQ",
+          "S2hcf_uGpSU",
+          "i0QAvVqv_qo"
         ],
-        "verified_new_uploads": 0,
-        "result": "Five official Muse India Hindi JoJo episode leads and one English-subtitle-labelled Attack on Titan E10 lead were found by public search; exact per-video metadata gates were unavailable, so none was embedded."
+        "eligible_candidates": 0,
+        "added_uploads": 0,
+        "result": "Six exact Hindi-dub episode leads from Ani-One India were found for Jujutsu Kaisen and Tamon's B-Side. All remain pending because exact channel ID and per-video runtime, public full-content status, oEmbed/embeddability and India country metadata could not be retrieved."
       },
       "anime-movies": {
+        "searches": 10,
         "exact_candidate_ids": [
-          "33uqlnzrhsE"
+          "33uqlnzrhsE",
+          "etVMaKdQR2o",
+          "_JPnwf7Gwh4"
         ],
-        "verified_new_uploads": 0,
-        "result": "Suzume Hindi-dub full-movie claim came from an unreviewed uploader and was rejected. No priority feature passed authorization and metadata checks."
+        "eligible_candidates": 0,
+        "added_uploads": 0,
+        "result": "Priority searches for Doraemon, Pokémon films, Suzume, Ne Zha and Crayon Shinchan did not yield an authorized full-feature upload passing all checks. Unreviewed Hindi-dub claims were rejected."
       },
-      "other-movies": {
+      "movies": {
+        "searches": 6,
         "exact_candidate_ids": [],
-        "verified_new_uploads": 0,
-        "result": "Hindi/Devanagari and English searches for official full-length distributor uploads produced no exact candidate that passed the required checks."
+        "eligible_candidates": 0,
+        "added_uploads": 0,
+        "result": "Hindi/English full-film searches across official distributor queries produced no exact upload that could be verified against all gates."
       },
       "k-dramas": {
-        "exact_candidate_ids": [
-          "CncVazPN0b0"
-        ],
-        "verified_new_uploads": 0,
-        "result": "KBS WORLD TV My Golden Life Episode 2 was rediscovered with an English-subtitle-labelled title, but runtime, exact uploader ID, subtitle tracks, oEmbed and India metadata remain unverified."
+        "searches": 8,
+        "exact_candidate_ids": [],
+        "eligible_candidates": 0,
+        "added_uploads": 0,
+        "result": "No new exact KBS WORLD TV YouTube episode passed checks. My Golden Life episodes 2 and 3 remain prior pending leads; Apple TV metadata results are not YouTube uploads."
       }
     },
+    "new_channel_review": {
+      "name": "Ani-One India",
+      "channel_url": "https://www.youtube.com/@anionein",
+      "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "state": "pending_primary_source_exact_channel_crosslink",
+      "primary_source_identity_and_authorization_sources": [
+        "https://www.medialink.com.hk/en/Anione.aspx",
+        "https://www.medialink.com.hk/en/News.aspx?id=734",
+        "https://www.linkedin.com/company/medialink-ipmanagement-creativeentertainment-international"
+      ],
+      "secondary_handle_crosslink": "https://animenewsindia.com/2024/11/01/medialink-group-limited-launches-ani-one-india-youtube-channel-for-indian-anime-fans/",
+      "channel_id_crosscheck": "https://socialblade.com/youtube/channel/UC67pLBZ_z4Gd46t6mW7uHjA/realtime",
+      "reason": "Medialink's primary corporate sources establish that Ani-One is its owned animation platform and that Ani-One India is a regional channel. The exact @anionein handle and candidate channel ID were not directly crosslinked together by the primary sources accessed, so this channel was not added to the reviewed allowlist."
+    },
+    "candidate_uploads": [
+      {
+        "video_id": "TbW4ZmyVqLA",
+        "title": "Jujutsu Kaisen Episode 20 Hindi Dub",
+        "series": "Jujutsu Kaisen",
+        "season": "Season 1",
+        "episode": "20",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=TbW4ZmyVqLA",
+        "published_on": "2026-05-14",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      },
+      {
+        "video_id": "hNWZ1b5Zwsw",
+        "title": "Jujutsu Kaisen Episode 24 Hindi Dub",
+        "series": "Jujutsu Kaisen",
+        "season": "Season 1",
+        "episode": "24",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=hNWZ1b5Zwsw",
+        "published_on": "2026-05-18",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      },
+      {
+        "video_id": "ahSGip8YENA",
+        "title": "Tamon's B-Side Episode 1 Hindi Dub",
+        "series": "Tamon's B-Side",
+        "season": "Season 1",
+        "episode": "1",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=ahSGip8YENA",
+        "published_on": "2026-06-07",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      },
+      {
+        "video_id": "zq_6LNzV4SQ",
+        "title": "Tamon's B-Side Episode 2 Hindi Dub",
+        "series": "Tamon's B-Side",
+        "season": "Season 1",
+        "episode": "2",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=zq_6LNzV4SQ",
+        "published_on": "2026-06-14",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      },
+      {
+        "video_id": "S2hcf_uGpSU",
+        "title": "Tamon's B-Side Episode 4 Hindi Dub",
+        "series": "Tamon's B-Side",
+        "season": "Season 1",
+        "episode": "4",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=S2hcf_uGpSU",
+        "published_on": "2026-06-28",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      },
+      {
+        "video_id": "i0QAvVqv_qo",
+        "title": "Tamon's B-Side Episode 9 Hindi Dub",
+        "series": "Tamon's B-Side",
+        "season": "Season 1",
+        "episode": "9",
+        "uploader": "Ani-One India (verified in public search result)",
+        "candidate_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "source_url": "https://www.youtube.com/watch?v=i0QAvVqv_qo",
+        "published_on": "2026-08-02",
+        "status": "pending_exact_video_metadata_and_primary_channel_crosslink",
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "reason": "Public search identifies a Hindi-dub episode and the verified Ani-One India channel, but direct YouTube watch-page/oEmbed metadata is blocked. Exact uploader channel ID, runtime, public full-content status, embeddability and India available-country metadata cannot be confirmed; no catalogue entry added."
+      }
+    ],
     "rejected_or_deferred": [
       {
-        "video_id": "CsGxHDIFZQ0",
+        "video_id": "33uqlnzrhsE",
+        "category": "anime-movies",
+        "title": "Suzume full movie Hindi dubbed claim",
+        "uploader": "UA 20 MARCH",
+        "status": "rejected_unreviewed_uploader",
+        "reason": "No primary-source rights-holder/distributor authorization; exact audio and India availability are not verified."
+      },
+      {
+        "video_id": "etVMaKdQR2o",
+        "category": "anime-movies",
+        "title": "Ne Zha full movie Hindi dubbed claim",
+        "uploader": "BANGLA Video",
+        "status": "rejected_unreviewed_uploader",
+        "reason": "No primary-source rights-holder/distributor authorization; title alone does not verify audio or rights."
+      },
+      {
+        "video_id": "_JPnwf7Gwh4",
+        "category": "anime-movies",
+        "title": "Pokémon movie Hindi dubbed full movie claim",
+        "uploader": "Mujeeb_FFx",
+        "status": "rejected_unreviewed_uploader",
+        "reason": "No primary-source rights-holder/distributor authorization."
+      },
+      {
+        "video_id": "EYvKlrX_Csw",
         "category": "anime-series",
         "title": "Shinchan full episode in Hindi",
-        "uploader": "Dosto Subscribe Kr Do",
-        "reason": "Unreviewed uploader; no primary-source authorization; indexed result is stale."
-      },
-      {
-        "video_id": "LLgtNiYgHQQ",
-        "category": "k-dramas",
-        "title": "Angel's Last Mission: Love EP.1 Part 1",
-        "uploader": "KBS WORLD TV",
-        "reason": "Only 357 seconds; a part/clip, not a full episode."
-      },
-      {
-        "video_id": "P6M5a3M55gE",
-        "category": "other-movies",
-        "title": "Korean Classic Film archival newsreel (1949)",
-        "uploader": "Korean Classic Film",
-        "reason": "823 seconds and archival newsreel, not a full feature film or K-drama."
-      },
-      {
-        "video_id": "dOMGoVsOWU4",
-        "category": "k-dramas",
-        "title": "The Wonders of Korea Episode 2",
-        "uploader": "KBS WORLD TV",
-        "reason": "Documentary, not a K-drama; not imported into K-dramas."
-      },
-      {
-        "video_id": "AddbOISDTms",
-        "category": "k-dramas",
-        "title": "Because you are only 18 / Who Are You EP.16",
-        "uploader": "KBS WORLD TV",
-        "reason": "Alternate upload of an episode already represented by video ID 66IWEpzAuPQ; duplicate episode edition not added."
+        "uploader": "Shinchan4u",
+        "status": "rejected_unreviewed_uploader",
+        "reason": "No primary-source rights-holder authorization; exact upload and channel identity are unverified."
       }
     ],
-    "catalogue_corrections": [
-      {
-        "video_id": "X6H8IGfw-_4",
-        "from": {
-          "title_id": "attack-on-titan",
-          "season_id": "attack-on-titan-season-3-hindi",
-          "number": "10"
-        },
-        "to": {
-          "title_id": "one-punch-man",
-          "season_id": "one-punch-man-season-3-hindi",
-          "number": "10"
-        },
-        "action": "moved_existing_verified_record"
-      },
-      {
-        "video_id": "6Y__OsDu_Jk",
-        "from": {
-          "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
-          "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
-          "number": "7"
-        },
-        "to": {
-          "title_id": "i-was-reincarnated-as-the-7th-prince",
-          "season_id": "i-was-reincarnated-as-the-7th-prince-season-2-hindi",
-          "number": "7"
-        },
-        "action": "moved_existing_verified_record"
-      }
-    ],
-    "verification_limits": [
-      "Direct YouTube watch-page and oEmbed retrieval was blocked by the available web reader.",
-      "The connected Desktop Commander device was offline, and fresh git clone failed because github.com DNS resolution was unavailable from the local execution environment.",
-      "No new candidate had complete exact-video runtime, uploader channel ID, oEmbed and India available-country metadata in this run.",
-      "Actual India playback remains unobserved; country metadata is not proof of playback."
-    ],
-    "checks": {
-      "catalogue_titles": 283,
+    "counts": {
+      "titles": 283,
       "video_records": 1980,
       "duplicate_video_ids": 0,
-      "new_video_ids_added": 0,
-      "existing_video_records_reclassified": 2,
-      "local_build_audit_tests_node_check": "not_run: execution environment cannot reach GitHub and connected desktop is offline; Vercel build status to be checked after commit"
+      "exact_candidate_ids": 6,
+      "eligible_candidates": 0,
+      "added_titles": 0,
+      "added_uploads": 0,
+      "metadata_gate_unverified": 6,
+      "unauthorized_or_unreviewed": 4
     },
-    "report_path": "data/verification/2026-10-25-morning-integrity-and-discovery.json"
+    "verification_limits": [
+      "Direct YouTube watch-page and oEmbed retrieval was throttled/disabled by the available web reader.",
+      "Connected Desktop Commander device is offline; local outbound DNS resolution failed, so repository scripts could not be run locally.",
+      "Search-result titles and view counts do not establish full-content status, audio/subtitle tracks, embeddability or India available-country metadata.",
+      "Actual India playback remains unobserved; country metadata would not itself prove playback."
+    ],
+    "summary": "Follow-up search found six exact Ani-One India Hindi-dub episode leads across Jujutsu Kaisen and Tamon's B-Side. They remain pending because direct YouTube watch-page/oEmbed metadata and exact primary-source channel-ID crosslink could not be confirmed. Priority anime-movie and other-movie searches produced no eligible upload. No catalogue entries changed.",
+    "report_path": "data/verification/2026-10-25-morning-followup-discovery.json"
   }
 }
