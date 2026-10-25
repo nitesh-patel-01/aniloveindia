@@ -6988,6 +6988,7 @@
       "new_video_ids_added": 0,
       "existing_video_records_reclassified": 2,
       "local_build_audit_tests_node_check": "not_run: execution environment cannot reach GitHub and connected desktop is offline; Vercel build status to be checked after commit"
-    }
+    },
+    "report_path": "data/verification/2026-10-25-morning-integrity-and-discovery.json"
   }
 }
