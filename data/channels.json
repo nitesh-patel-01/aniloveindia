@@ -1,104 +1,146 @@
 [
-  {
-    "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
-    "name": "Muse Asia",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.youtube.com/@MuseAsia"
-  },
-  {
-    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
-    "name": "Muse India",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.youtube.com/@MuseIndiaChannel"
-  },
-  {
-    "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
-    "name": "Anime! on TMS Official Channel",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel"
-  },
-  {
-    "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-    "name": "KBS WORLD TV",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e"
-  },
-  {
-    "channel_id": "UCvH6u_Qzn5RQdz9W198umDw",
-    "name": "Korean Classic Film",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://eng.koreafilm.or.kr/"
-  },
-  {
-    "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
-    "name": "Shemaroo Movies",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.youtube.com/@shemaroomovies"
-  },
-  {
-    "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
-    "name": "GUNDAM CHANNEL INTL",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://en.gundam.info/news/info/02_13267.html"
-  },
-  {
-    "channel_id": "UCPZkYpT5XIUou8sV8zk-3jQ",
-    "name": "RetroCrush",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.retrocrush.tv/"
-  },
-  {
-    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
-    "name": "Goldmines",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.goldmines.co.in/"
-  },
-  {
-    "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
-    "name": "Ramayana : The Legend Of Prince Rama",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://ramayana-anime.net/",
-    "identity_reviewed_at": "2026-10-17",
-    "identity_note": "Rights-holder TEM official film website directly links this exact channel."
-  },
-  {
-    "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
-    "name": "Anime Manga Official",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
-    "identity_reviewed_at": "2026-10-17",
-    "identity_note": "Publisher partner AnyMind official launch announcement links this exact Kodansha channel; each movie must separately pass language, region and embed checks."
-  },
-  {
-    "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-    "name": "Muse Hindi Dub",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
-    "identity_reviewed_on": "2026-10-17",
-    "identity_note": "Muse India official Instagram announcement links this exact YouTube channel as its Hindi Dub channel. Muse India upload descriptions link the museacg_in Instagram account."
-  },
-  {
-    "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
-    "name": "Pokémon Asia Official (Hindi)",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
-    "identity_reviewed_on": "2026-10-19",
-    "identity_note": "The Pokémon Company India announcement directly links this exact Hindi YouTube channel. Each upload still requires independent public full-content, language, India metadata and embed checks."
-  },
-  {
-    "channel_id": "UCXFQq4inDVcznQ6RRE7F7IA",
-    "name": "Happy Science India",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://happy-science.org/en-in/videos/",
-    "identity_reviewed_on": "2026-10-19",
-    "identity_note": "Publisher’s official India Videos page directly links @HappyScienceIndia; public channel metadata resolves that handle to this exact ID. Review is limited to the publisher’s own full anime films, not all material on the channel."
-  },
-  {
-    "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
-    "name": "Swaminarayan Aksharpith",
-    "identity_reviewed": true,
-    "identity_evidence_url": "https://www.baps.org/ssc4",
-    "identity_reviewed_on": "2026-10-19",
-    "identity_note": "BAPS official film page directly embeds zJnQuw6UuNw under Hindi and 7xEUtdME9n0 under English; exact public upload metadata identifies both as this channel. Authorization review covers BAPS-produced Swaminarayan Charitra films only."
-  }
+ {
+  "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+  "name": "Muse Asia",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@MuseAsia"
+ },
+ {
+  "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+  "name": "Muse India",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@MuseIndiaChannel"
+ },
+ {
+  "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+  "name": "Anime! on TMS Official Channel",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel"
+ },
+ {
+  "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+  "name": "KBS WORLD TV",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e"
+ },
+ {
+  "channel_id": "UCvH6u_Qzn5RQdz9W198umDw",
+  "name": "Korean Classic Film",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://eng.koreafilm.or.kr/"
+ },
+ {
+  "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+  "name": "Shemaroo Movies",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@shemaroomovies"
+ },
+ {
+  "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+  "name": "GUNDAM CHANNEL INTL",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://en.gundam.info/news/info/02_13267.html"
+ },
+ {
+  "channel_id": "UCPZkYpT5XIUou8sV8zk-3jQ",
+  "name": "RetroCrush",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.retrocrush.tv/"
+ },
+ {
+  "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+  "name": "Goldmines",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.goldmines.co.in/"
+ },
+ {
+  "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+  "name": "Ramayana : The Legend Of Prince Rama",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://ramayana-anime.net/",
+  "identity_reviewed_at": "2026-10-17",
+  "identity_note": "Rights-holder TEM official film website directly links this exact channel."
+ },
+ {
+  "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+  "name": "Anime Manga Official",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://anymindgroup.com/news/press-release/5329/",
+  "identity_reviewed_at": "2026-10-17",
+  "identity_note": "Publisher partner AnyMind official launch announcement links this exact Kodansha channel; each movie must separately pass language, region and embed checks."
+ },
+ {
+  "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+  "name": "Muse Hindi Dub",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/",
+  "identity_reviewed_on": "2026-10-17",
+  "identity_note": "Muse India official Instagram announcement links this exact YouTube channel as its Hindi Dub channel. Muse India upload descriptions link the museacg_in Instagram account."
+ },
+ {
+  "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+  "name": "Pokémon Asia Official (Hindi)",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+  "identity_reviewed_on": "2026-10-19",
+  "identity_note": "The Pokémon Company India announcement directly links this exact Hindi YouTube channel. Each upload still requires independent public full-content, language, India metadata and embed checks."
+ },
+ {
+  "channel_id": "UCXFQq4inDVcznQ6RRE7F7IA",
+  "name": "Happy Science India",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://happy-science.org/en-in/videos/",
+  "identity_reviewed_on": "2026-10-19",
+  "identity_note": "Publisher’s official India Videos page directly links @HappyScienceIndia; public channel metadata resolves that handle to this exact ID. Review is limited to the publisher’s own full anime films, not all material on the channel."
+ },
+ {
+  "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+  "name": "Swaminarayan Aksharpith",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.baps.org/ssc4",
+  "identity_reviewed_on": "2026-10-19",
+  "identity_note": "BAPS official film page directly embeds zJnQuw6UuNw under Hindi and 7xEUtdME9n0 under English; exact public upload metadata identifies both as this channel. Authorization review covers BAPS-produced Swaminarayan Charitra films only."
+ },
+ {
+  "channel_id": "UCiBigY9XM-HaOxUc269ympg",
+  "name": "Green Gold TV",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCiBigY9XM-HaOxUc269ympg",
+  "identity_note": "Green Gold Animation official YouTube channel, launched 2011; Chhota Bheem"
+ },
+ {
+  "channel_id": "UCWjVfZ3VnyUwBEOkuOlaU3g",
+  "name": "Miraculous Ladybug",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCWjVfZ3VnyUwBEOkuOlaU3g",
+  "identity_note": "ZAG official Miraculous Ladybug YouTube channel (2016 launch)"
+ },
+ {
+  "channel_id": "UCZuVXrpKTUn_KEzRQgFgMWg",
+  "name": "Official Yu-Gi-Oh!",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCZuVXrpKTUn_KEzRQgFgMWg",
+  "identity_note": "Konami Cross Media NY About: manages Yu-Gi-Oh! franchise outside Asia"
+ },
+ {
+  "channel_id": "UCktgoAFaL39_rYfiMZiD9jw",
+  "name": "BEYBLADE English - Official Channel",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCktgoAFaL39_rYfiMZiD9jw",
+  "identity_note": "ADK Emotions official works pages link directly to this channel"
+ },
+ {
+  "channel_id": "UCgyXqqCHIGju8CK3clAIY8g",
+  "name": "Kabillion Channel",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCgyXqqCHIGju8CK3clAIY8g",
+  "identity_note": "Splash Entertainment kids VOD service, on YouTube since 2007"
+ },
+ {
+  "channel_id": "UCqWhKZdJrvy0yHAamjWQkCA",
+  "name": "Power Rangers",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCqWhKZdJrvy0yHAamjWQkCA",
+  "identity_note": "Hasbro Power Rangers Official YouTube channel, full episodes released by Hasbro"
+ }
 ]
