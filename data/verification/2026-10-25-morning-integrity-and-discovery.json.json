@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-25",
+  "run": "morning discovery, exact-upload triage and catalogue-integrity correction",
+  "remote_head_before": "1026e1dbc924ebef6eefbbadb72e74725d393a2e",
+  "queries": [
+    "site:youtube.com/watch Muse India Hindi dub anime full episode October 2026",
+    "site:youtube.com/watch Muse Hindi Dub Hindi dubbed anime episode October 2026",
+    "site:youtube.com/watch Pokémon Asia Official Hindi full episode 2026",
+    "site:youtube.com/watch Doraemon Hindi full movie official 2026",
+    "site:youtube.com/watch Pokémon movie Hindi official full movie YouTube",
+    "site:youtube.com/watch Suzume Hindi full movie official YouTube",
+    "site:youtube.com/watch Ne Zha Hindi full movie official YouTube animated",
+    "site:youtube.com/watch Shinchan Hindi full episode official YouTube",
+    "site:youtube.com/watch KBS WORLD TV My Golden Life English subtitles full episode",
+    "site:youtube.com/watch Korean Classic Film full movie English subtitles 2026",
+    "site:youtube.com/watch official Hindi dubbed full movie Goldmines Shemaroo October 2026",
+    "site:youtube.com/@MuseIndiaChannel/playlists Muse India latest Hindi dubbed episodes 2026",
+    "site:youtube.com/@Muse_HindiDub/playlists Muse Hindi Dub latest episodes 2026",
+    "Muse India JoJo's Bizarre Adventure Hindi Dub playlist episodes 12 13 14 October 2026",
+    "site:youtube.com/@MuseIndiaChannel/playlists JoJo's Bizarre Adventure Hindi Dub",
+    "site:youtube.com/watch JoJo's Bizarre Adventure S1 Battle Tendency episodes 12-26 Hindi Dub Muse IN",
+    "site:youtube.com/watch Assassination Classroom Season 1 Episode 22 Hindi Dub Muse India",
+    "site:youtube.com/watch Attack on Titan Season 3 Hindi Dub episode 10 Muse India",
+    "site:youtube.com/watch Attack on Titan Episode 47 S3E10 English Sub Muse IN",
+    "site:youtube.com/watch Campfire Cooking Season 2 Hindi dub episode 7 Muse India",
+    "site:youtube.com/watch My Golden Life EP.2 KBS WORLD TV ENG subtitles",
+    "site:youtube.com/watch Doraemon Doremon डोरेमोन official Hindi full movie",
+    "site:youtube.com/watch Pokémon पोकेमॉन feature film official Hindi full movie",
+    "site:youtube.com/watch Suzume Suzume no Tojimari official Hindi dub full movie",
+    "site:youtube.com/watch Ne Zha Nezha 哪吒 animated feature official Hindi dub",
+    "site:youtube.com/watch Crayon Shinchan Shin-chan शिनचैन official full Hindi episode",
+    "site:youtube.com/watch K-drama full episode Korean English subtitles official KBS World",
+    "site:youtube.com/watch Hindi full movie official distributor Goldmines Shemaroo",
+    "site:youtube.com/watch Hindi dubbed anime movie official rights holder full movie YouTube"
+  ],
+  "counts": {
+    "titles": 283,
+    "video_records": 1980,
+    "duplicate_video_ids": 0,
+    "new_video_ids_added": 0,
+    "existing_records_reclassified": 2
+  },
+  "catalogue_corrections": [
+    {
+      "video_id": "X6H8IGfw-_4",
+      "from": {
+        "title_id": "attack-on-titan",
+        "season_id": "attack-on-titan-season-3-hindi",
+        "number": "10"
+      },
+      "to": {
+        "title_id": "one-punch-man",
+        "season_id": "one-punch-man-season-3-hindi",
+        "number": "10"
+      },
+      "action": "moved_existing_verified_record"
+    },
+    {
+      "video_id": "6Y__OsDu_Jk",
+      "from": {
+        "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
+        "season_id": "campfire-cooking-in-another-world-with-my-absurd-skill-season-2-hindi",
+        "number": "7"
+      },
+      "to": {
+        "title_id": "i-was-reincarnated-as-the-7th-prince",
+        "season_id": "i-was-reincarnated-as-the-7th-prince-season-2-hindi",
+        "number": "7"
+      },
+      "action": "moved_existing_verified_record"
+    }
+  ],
+  "pending_official_candidates": [
+    {
+      "video_id": "AjMre5vbEMk",
+      "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 12 [Hindi Dub] | Muse IN",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "12",
+      "uploader": "Muse India (verified channel shown in public search)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=AjMre5vbEMk",
+      "published_on": "2025-04-22",
+      "observed_on": "2026-10-25",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns the exact Hindi-dub episode title and Muse India channel. Exact per-video channel ID, runtime, current public player status, oEmbed and India country metadata could not be independently checked; actual India playback remains unverified."
+    },
+    {
+      "video_id": "rOldnT4Xlo4",
+      "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 13 [Hindi Dub] | Muse IN",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "13",
+      "uploader": "Muse India (verified channel shown in public search)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=rOldnT4Xlo4",
+      "published_on": "2025-04-23",
+      "observed_on": "2026-10-25",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns the exact Hindi-dub episode title and Muse India channel. Exact per-video channel ID, runtime, current public player status, oEmbed and India country metadata could not be independently checked; actual India playback remains unverified."
+    },
+    {
+      "video_id": "Tf4jJlSbngk",
+      "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 14 [Hindi Dub] | Muse IN",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "14",
+      "uploader": "Muse India (verified channel shown in public search)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=Tf4jJlSbngk",
+      "published_on": "2025-04-24",
+      "observed_on": "2026-10-25",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns the exact Hindi-dub episode title and Muse India channel. Exact per-video channel ID, runtime, current public player status, oEmbed and India country metadata could not be independently checked; actual India playback remains unverified."
+    },
+    {
+      "video_id": "fuyzY5NRsbk",
+      "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 22 [Hindi Dub] | Muse IN",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "22",
+      "uploader": "Muse India (verified channel shown in public search)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=fuyzY5NRsbk",
+      "published_on": "2025-05-02",
+      "observed_on": "2026-10-25",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns the exact Hindi-dub episode title and Muse India channel. Exact per-video channel ID, runtime, current public player status, oEmbed and India country metadata could not be independently checked; actual India playback remains unverified."
+    },
+    {
+      "video_id": "fygFnlIbI6E",
+      "title": "JoJo's Bizarre Adventure (S1): Battle Tendency - Episode 26 [Hindi Dub] | Muse IN",
+      "season_id": "jojos-bizarre-adventure-season-1-hindi",
+      "episode": "26",
+      "uploader": "Muse India (verified channel shown in public search)",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=fygFnlIbI6E",
+      "published_on": "2025-05-06",
+      "observed_on": "2026-10-25",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns the exact Hindi-dub episode title and Muse India channel. Exact per-video channel ID, runtime, current public player status, oEmbed and India country metadata could not be independently checked; actual India playback remains unverified."
+    },
+    {
+      "video_id": "fpibmrsE2oo",
+      "title": "Attack on Titan - Episode 47 (S3E10) [EN Sub] | Muse IN",
+      "category": "anime-series",
+      "uploader": "Muse India",
+      "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "status": "pending_exact_metadata_verification",
+      "source_url": "https://www.youtube.com/watch?v=fpibmrsE2oo",
+      "reason": "Official-channel search result only; runtime, exact uploader ID, oEmbed and India metadata unavailable; not a Hindi-dub replacement."
+    },
+    {
+      "video_id": "CncVazPN0b0",
+      "title": "My Golden Life EP.2 [SUB : ENG,CHN,IND]",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "status": "pending_exact_metadata_verification",
+      "source_url": "https://www.youtube.com/watch?v=CncVazPN0b0",
+      "reason": "Official channel/title surfaced in search, but runtime, subtitle tracks, oEmbed and India metadata unavailable."
+    }
+  ],
+  "rejected_or_deferred": [
+    {
+      "video_id": "CsGxHDIFZQ0",
+      "category": "anime-series",
+      "title": "Shinchan full episode in Hindi",
+      "uploader": "Dosto Subscribe Kr Do",
+      "reason": "Unreviewed uploader; no primary-source authorization; indexed result is stale."
+    },
+    {
+      "video_id": "LLgtNiYgHQQ",
+      "category": "k-dramas",
+      "title": "Angel's Last Mission: Love EP.1 Part 1",
+      "uploader": "KBS WORLD TV",
+      "reason": "Only 357 seconds; a part/clip, not a full episode."
+    },
+    {
+      "video_id": "P6M5a3M55gE",
+      "category": "other-movies",
+      "title": "Korean Classic Film archival newsreel (1949)",
+      "uploader": "Korean Classic Film",
+      "reason": "823 seconds and archival newsreel, not a full feature film or K-drama."
+    },
+    {
+      "video_id": "dOMGoVsOWU4",
+      "category": "k-dramas",
+      "title": "The Wonders of Korea Episode 2",
+      "uploader": "KBS WORLD TV",
+      "reason": "Documentary, not a K-drama; not imported into K-dramas."
+    },
+    {
+      "video_id": "AddbOISDTms",
+      "category": "k-dramas",
+      "title": "Because you are only 18 / Who Are You EP.16",
+      "uploader": "KBS WORLD TV",
+      "reason": "Alternate upload of an episode already represented by video ID 66IWEpzAuPQ; duplicate episode edition not added."
+    }
+  ],
+  "category_summary": {
+    "anime-series": {
+      "exact_candidate_ids": [
+        "AjMre5vbEMk",
+        "rOldnT4Xlo4",
+        "Tf4jJlSbngk",
+        "fuyzY5NRsbk",
+        "fygFnlIbI6E",
+        "fpibmrsE2oo"
+      ],
+      "verified_new_uploads": 0,
+      "result": "Five official Muse India Hindi JoJo episode leads and one English-subtitle-labelled Attack on Titan E10 lead were found by public search; exact per-video metadata gates were unavailable, so none was embedded."
+    },
+    "anime-movies": {
+      "exact_candidate_ids": [
+        "33uqlnzrhsE"
+      ],
+      "verified_new_uploads": 0,
+      "result": "Suzume Hindi-dub full-movie claim came from an unreviewed uploader and was rejected. No priority feature passed authorization and metadata checks."
+    },
+    "other-movies": {
+      "exact_candidate_ids": [],
+      "verified_new_uploads": 0,
+      "result": "Hindi/Devanagari and English searches for official full-length distributor uploads produced no exact candidate that passed the required checks."
+    },
+    "k-dramas": {
+      "exact_candidate_ids": [
+        "CncVazPN0b0"
+      ],
+      "verified_new_uploads": 0,
+      "result": "KBS WORLD TV My Golden Life Episode 2 was rediscovered with an English-subtitle-labelled title, but runtime, exact uploader ID, subtitle tracks, oEmbed and India metadata remain unverified."
+    }
+  },
+  "verification_limits": [
+    "Direct YouTube watch-page and oEmbed retrieval was blocked by the available web reader.",
+    "The connected Desktop Commander device was offline, and fresh git clone failed because github.com DNS resolution was unavailable from the local execution environment.",
+    "No new candidate had complete exact-video runtime, uploader channel ID, oEmbed and India available-country metadata in this run.",
+    "Actual India playback remains unobserved; country metadata is not proof of playback."
+  ],
+  "actual_india_playback": "unverified",
+  "publication": "The two existing verified uploads were reclassified to their matching anime titles. No newly discovered video was published."
+}

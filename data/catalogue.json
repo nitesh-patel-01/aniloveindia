@@ -14172,7 +14172,7 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India appears in country metadata; actual India playback is unverified.",
-    "last_checked": "2026-10-22",
+    "last_checked": "2026-10-24",
     "verification_method": "Official uploader, full runtime and oEmbed metadata",
     "metadata_sources": [
       "https://www.youtube.com/watch?v=IFMDTE8BQE8",
@@ -14209,7 +14209,8 @@
       "https://www.youtube.com/watch?v=5T4zwsfERDQ",
       "https://www.youtube.com/watch?v=2_iMnEzApv8",
       "https://www.youtube.com/watch?v=v2snc-uc8vI",
-      "https://www.youtube.com/watch?v=YeYKE5wihkM"
+      "https://www.youtube.com/watch?v=YeYKE5wihkM",
+      "https://www.youtube.com/watch?v=X6H8IGfw-_4"
     ],
     "thumbnail": "https://i.ytimg.com/vi/IFMDTE8BQE8/hqdefault.jpg",
     "seasons": [
@@ -14494,7 +14495,7 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually checked available Hindi uploads; unresolved episode numbers: 3, 10. This is not a certified complete season. Actual India playback remains unobserved.",
-        "last_checked": "2026-10-20",
+        "last_checked": "2026-10-24",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "audio_language_evidence": "Reviewed Muse India exact upload title explicitly labels Hindi Dub and S3E12. Actual India playback remains unobserved. https://www.youtube.com/watch?v=v2snc-uc8vI",
@@ -14578,6 +14579,16 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
+          },
+          {
+            "number": "10",
+            "title": "[Hindi Dub] One-Punch Man - Episode 34 (S3E10) | Muse IN",
+            "video_id": "X6H8IGfw-_4",
+            "duration_seconds": 1441,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
           },
           {
             "number": "11",
@@ -16543,16 +16554,6 @@
             "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
             "india_playback": "unverified",
             "added_on": "2026-10-18"
-          },
-          {
-            "number": "7",
-            "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 19 (S2E07) | Muse IN",
-            "video_id": "6Y__OsDu_Jk",
-            "duration_seconds": 1445,
-            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
-            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
-            "india_playback": "unverified",
-            "added_on": "2026-10-24"
           },
           {
             "number": "8",
@@ -24896,9 +24897,9 @@
     "genre": [
       "Anime"
     ],
-    "provider": "Muse Hindi Dub",
+    "provider": "Muse Hindi Dub / Muse India",
     "watch_url": "https://www.youtube.com/watch?v=4q70E0nwkAY",
-    "synopsis": "Choose from 43 official Hindi uploads of Attack on Titan, with individually checked YouTube episode links below. Missing episodes are not invented. India is included in upload metadata; actual India playback remains unverified.",
+    "synopsis": "Watch official Hindi-dub uploads from the reviewed Muse Hindi Dub and Muse India channels. Season 1 entries are from Muse Hindi Dub; the listed Season 2 and Season 3 entries are from Muse India. Only individually checked uploads are listed; actual India playback remains unverified.",
     "color": "#a4cbb7",
     "motif": "moss",
     "word": "ANIME",
@@ -25435,16 +25436,6 @@
             "added_on": "2026-10-20",
             "last_checked": "2026-10-20",
             "source_upload_date": "2026-10-19T09:30:08-07:00"
-          },
-          {
-            "number": "10",
-            "title": "[Hindi Dub] One-Punch Man - Episode 34 (S3E10) | Muse IN",
-            "video_id": "X6H8IGfw-_4",
-            "duration_seconds": 1441,
-            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
-            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
-            "india_playback": "unverified",
-            "added_on": "2026-10-24"
           },
           {
             "number": "12",
@@ -27064,10 +27055,11 @@
     "availability": "embedded",
     "india_playback": "unverified",
     "region_note": "India is included in the official uploads’ available-country metadata and YouTube oEmbed passed. Actual India playback has not been observed.",
-    "last_checked": "2026-10-17",
+    "last_checked": "2026-10-24",
     "verification_method": "Official publisher identity, explicit Hindi dub title, full runtime, public player metadata, IN country metadata and oEmbed",
     "metadata_sources": [
-      "https://www.youtube.com/watch?v=eYQynxxf1Hc"
+      "https://www.youtube.com/watch?v=eYQynxxf1Hc",
+      "https://www.youtube.com/watch?v=6Y__OsDu_Jk"
     ],
     "thumbnail": "https://i.ytimg.com/vi/eYQynxxf1Hc/hqdefault.jpg",
     "seasons": [
@@ -27079,11 +27071,21 @@
         "embed_checked": true,
         "verified_complete": false,
         "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-        "last_checked": "2026-10-17",
+        "last_checked": "2026-10-24",
         "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
         "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
         "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
         "episodes": [
+          {
+            "number": "7",
+            "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 19 (S2E07) | Muse IN",
+            "video_id": "6Y__OsDu_Jk",
+            "duration_seconds": 1445,
+            "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+            "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+            "india_playback": "unverified",
+            "added_on": "2026-10-24"
+          },
           {
             "number": "complete",
             "title": "【Hindi Dub】【Complete Series】 I Was Reincarnated as the 7th Prince (S2) | Muse IN",
