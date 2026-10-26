@@ -16107,6 +16107,16 @@
       "added_on": "2026-10-18"
      },
      {
+      "number": "9",
+      "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S2E09) | Muse IN",
+      "video_id": "QHKsIAnOrAo",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "10",
       "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S2E10) | Muse IN",
       "video_id": "HyAbkdP9xUI",
@@ -26721,12 +26731,42 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 23 and 24 verified so far; the remaining Season 2 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "completion_note": "Episodes 16, 19, 22, 23 and 24 verified so far; the remaining Season 2 Hindi episodes are still verifying. Actual India playback remains unverified.",
     "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "16",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 16 | Muse IN",
+      "video_id": "Iza31rycpHw",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "19",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 19 | Muse IN",
+      "video_id": "BEUQBL39Ue0",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "22",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 22 | Muse IN",
+      "video_id": "iYPiLPJUwso",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "23",
       "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 23 | Muse IN",
