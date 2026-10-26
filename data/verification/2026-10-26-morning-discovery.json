@@ -1,0 +1,314 @@
+{
+  "run_id": "2026-10-26-morning-discovery",
+  "observed_at": "2026-10-26T08:12:01+05:30",
+  "base_commit": "8428121491c472de8b39edeb89c81fd9166be386",
+  "catalogue_before": {
+    "titles": 285,
+    "video_records": 2045,
+    "unique_video_ids": 2045,
+    "duplicate_video_ids": 0,
+    "categories": {
+      "anime-series": 78,
+      "anime-movies": 29,
+      "movies": 115,
+      "k-dramas": 63
+    }
+  },
+  "discovery_method": "Public web search plus current remote GitHub catalogue, channel allowlist, discovery backlog and verification records. No YouTube API key used.",
+  "search_queries": [
+    "Muse Hindi Dub official full anime episodes Hindi dubbed October 2026",
+    "official Hindi dubbed anime movie full movie YouTube India rights holder Doraemon Pokemon Suzume Ne Zha",
+    "official full Hindi movie YouTube channel October 2026 Shemaroo Goldmines",
+    "KBS World TV full episode My Golden Life English subtitles official YouTube",
+    "official Muse India anime full episode Hindi dub Fairy Tail Pokemon Horizons Assassination Classroom",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 01\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 02\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 03\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 06\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 07\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 08\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 10\" \"Muse Hindi Dub\" 2026",
+    "site:youtube.com/watch \"Pokémon Horizons\" \"Hindi\" \"Pokémon Asia Official\" episode 2026",
+    "site:youtube.com/watch \"Assassination Classroom\" \"Hindi Dub\" \"Muse Hindi Dub\" episode",
+    "site:youtube.com/watch \"Fairy Tail\" \"Hindi Dub\" \"Muse Hindi Dub\" episode",
+    "site:youtube.com/watch \"That Time I Got Reincarnated as a Slime\" \"Season 4\" \"Hindi Dub\" \"Muse India\" episode 10",
+    "site:youtube.com/watch \"Doraemon the Movie: New Nobita and the Castle of the Undersea Devil\" Hindi full movie official",
+    "site:youtube.com/watch \"Suzume\" \"Hindi Dub\" full movie official",
+    "site:youtube.com/watch \"Ne Zha\" Hindi full movie official",
+    "site:youtube.com/watch \"Pokémon Movie\" Hindi full movie \"Pokémon Asia Official\" official",
+    "site:youtube.com/watch \"full movie\" Hindi \"Goldmines\" October 2026 official",
+    "site:youtube.com/watch \"KBS WORLD TV\" \"My Golden Life\" episode 2 English subtitles",
+    "official Goldmines full Hindi movie YouTube latest 2026 site:youtube.com/watch",
+    "official Shemaroo full Hindi movie YouTube latest 2026 site:youtube.com/watch",
+    "KBS WORLD TV full episode English subtitles 2026 official YouTube drama",
+    "Muse Hindi Dub official full anime episodes Hindi 2026 \"Episode 10\" site:youtube.com/watch",
+    "pBHs6WKqYTw Patas Hindi Goldmines full movie YouTube",
+    "site:youtube.com/watch?v=pBHs6WKqYTw",
+    "site:youtube.com/watch \"Patas (Hindi)\" \"Goldmines TV Channel\" full movie",
+    "site:youtube.com/watch \"Patas (Hindi)\" \"Full Movie\" \"Goldmines\" 2026",
+    "site:youtube.com/watch \"Raja The Great\" \"Full Movie\" \"Goldmines\" 2026",
+    "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi October 2026 official"
+  ],
+  "search_query_count": 32,
+  "searches_completed": {
+    "anime-series": 14,
+    "anime-movies": 5,
+    "movies": 10,
+    "k-dramas": 3
+  },
+  "candidate_results": [
+    {
+      "category": "anime-series",
+      "title_id": "zom-100-bucket-list-of-the-dead",
+      "title": "Zom 100: Bucket List of the Dead",
+      "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
+      "season": "Season 1",
+      "episode": "7",
+      "video_id": "Ij0GQQnmdSE",
+      "uploader_label": "Muse Hindi Dub (channel name in public search)",
+      "uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=Ij0GQQnmdSE",
+      "published_on": "2026-07-12",
+      "audio_language": "Hindi",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returned the exact Hindi-dub Episode 07 title and Muse Hindi Dub channel name. Direct watch-page/oEmbed fetch was throttled or disabled; exact per-video channel ID, runtime, public full-content status, embeddability and IN country metadata could not be confirmed."
+    },
+    {
+      "category": "anime-series",
+      "title_id": "zom-100-bucket-list-of-the-dead",
+      "title": "Zom 100: Bucket List of the Dead",
+      "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
+      "season": "Season 1",
+      "episode": "8",
+      "video_id": "fxd69S2o-uo",
+      "uploader_label": "Muse Hindi Dub (channel name in public search)",
+      "uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=fxd69S2o-uo",
+      "published_on": "2026-07-13",
+      "audio_language": "Hindi",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returned the exact Hindi-dub Episode 08 title and Muse Hindi Dub channel name. Direct watch-page/oEmbed fetch was throttled or disabled; exact per-video channel ID, runtime, public full-content status, embeddability and IN country metadata could not be confirmed."
+    },
+    {
+      "category": "movies",
+      "title_id": null,
+      "title": "Patas (Hindi)",
+      "season_id": null,
+      "season": null,
+      "episode": null,
+      "video_id": "pBHs6WKqYTw",
+      "uploader_label": "Goldmines (reviewed channel listing in existing discovery snapshot)",
+      "uploader_channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=pBHs6WKqYTw",
+      "published_on": null,
+      "audio_language": "Hindi label only; audio unverified",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_public_full_content_verification",
+      "reason": "The indexed title in the existing Goldmines discovery snapshot is a premiere announcement, not proof of a currently public full film. Search did not expose a verifiable current watch page; no catalogue entry added."
+    },
+    {
+      "category": "anime-movies",
+      "title_id": null,
+      "title": "Ne Zha (animated feature film; edition unverified)",
+      "season_id": null,
+      "season": null,
+      "episode": "full",
+      "video_id": "etVMaKdQR2o",
+      "uploader_label": "BANGLA Video",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=etVMaKdQR2o",
+      "published_on": "2025-05-02",
+      "audio_language": "Hindi claim in title only",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "skipped_unauthorized_or_unreviewed",
+      "reason": "Uploader is not a reviewed rights-holder/distributor and no primary-source authorization was found. Title language is not audio verification."
+    },
+    {
+      "category": "anime-movies",
+      "title_id": null,
+      "title": "Ne Zha (animated feature film; edition unverified)",
+      "season_id": null,
+      "season": null,
+      "episode": "full",
+      "video_id": "v8aGn_S7yJw",
+      "uploader_label": "Unreviewed channel using the name Lucifer",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=v8aGn_S7yJw",
+      "published_on": "2026-03-19",
+      "audio_language": "Hindi claim in title only",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "skipped_unauthorized_or_unreviewed",
+      "reason": "Uploader is not a reviewed rights-holder/distributor and no primary-source authorization was found. Title language is not audio verification."
+    },
+    {
+      "category": "anime-movies",
+      "title_id": null,
+      "title": "Pokémon movie (film identity and edition unverified)",
+      "season_id": null,
+      "season": null,
+      "episode": "full",
+      "video_id": "_JPnwf7Gwh4",
+      "uploader_label": "Mujeeb_FFx",
+      "uploader_channel_id": "UC4WZ19GaovNydPm6C504o4w",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=_JPnwf7Gwh4",
+      "published_on": null,
+      "audio_language": "Hindi claim in title only",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "skipped_unauthorized_or_unreviewed",
+      "reason": "Uploader is not an approved rights-holder/distributor; no primary-source authorization. Do not embed."
+    },
+    {
+      "category": "anime-series",
+      "title_id": "crayon-shinchan",
+      "title": "Crayon Shinchan (episode identity unverified)",
+      "season_id": null,
+      "season": null,
+      "episode": null,
+      "video_id": "EYvKlrX_Csw",
+      "uploader_label": "Shinchan4u",
+      "uploader_channel_id": null,
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=EYvKlrX_Csw",
+      "published_on": null,
+      "audio_language": "Hindi claim in title only",
+      "runtime_seconds": null,
+      "public_full_content_status": "unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "skipped_unauthorized_or_unreviewed",
+      "reason": "Unreviewed channel with no primary-source rights-holder authorization. The title's full-episode claim is not proof of a legitimate upload."
+    }
+  ],
+  "priority_movie_checks": [
+    {
+      "title": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+      "result": "official teaser/promotional material only; not a full movie upload",
+      "source_url": "https://www.animationxpress.com/latest-news/doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil-hindi-teaser-is-finally-here/"
+    },
+    {
+      "title": "Pokémon feature films",
+      "result": "one Hindi-full-movie claim from an unreviewed uploader rejected",
+      "candidate_ids": [
+        "_JPnwf7Gwh4"
+      ]
+    },
+    {
+      "title": "Suzume / Suzume no Tojimari",
+      "result": "official India streaming release information found, but no authorized full YouTube upload passed the search and metadata gates",
+      "source_url": "https://animenewsindia.com/2025/11/18/crunchyroll-brings-all-eight-makoto-shinkai-films-exclusively-to-india-for-the-very-first-time-in-december-2025/"
+    },
+    {
+      "title": "Ne Zha / 哪吒",
+      "result": "two Hindi-full-movie claims from unreviewed uploaders rejected",
+      "candidate_ids": [
+        "etVMaKdQR2o",
+        "v8aGn_S7yJw"
+      ]
+    },
+    {
+      "title": "Crayon Shinchan / Shin-chan",
+      "result": "one full-episode claim from an unreviewed uploader rejected",
+      "candidate_ids": [
+        "EYvKlrX_Csw"
+      ]
+    }
+  ],
+  "open_backlog_leads": [
+    {
+      "category": "k-dramas",
+      "title": "My Golden Life",
+      "episode": "2",
+      "video_id": "CncVazPN0b0",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Prior indexed KBS WORLD TV lead; actual audio/subtitle tracks, exact uploader ID, runtime, oEmbed/embeddability and India metadata remain unverified."
+    },
+    {
+      "category": "k-dramas",
+      "title": "My Golden Life",
+      "episode": "3",
+      "video_id": "HmqoC0oual8",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Prior indexed KBS WORLD TV lead; actual audio/subtitle tracks, exact uploader ID, runtime, oEmbed/embeddability and India metadata remain unverified."
+    }
+  ],
+  "skipped_leads": [
+    {
+      "category": "anime-series",
+      "title": "Pokémon Horizons: The Series",
+      "result": "No new exact official Hindi episode ID recovered for the unresolved next episode(s)."
+    },
+    {
+      "category": "anime-series",
+      "title": "Assassination Classroom",
+      "result": "Current catalogue already has Hindi Season 1 entries 1-22; no additional exact official upload passed the gates."
+    },
+    {
+      "category": "anime-series",
+      "title": "Fairy Tail",
+      "result": "No new exact official upload with complete current metadata passed the gates."
+    },
+    {
+      "category": "anime-series",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "result": "Season 4 episode 10 exact official upload was not recovered; catalogue remains at entries 1-9 for Season 4."
+    },
+    {
+      "category": "movies",
+      "title": "Goldmines-branded result pointing to @daimondcreation4123",
+      "result": "Rejected as an unreviewed/identity-mismatched channel; a channel description copying a distributor name is not primary-source authorization."
+    }
+  ],
+  "summary": {
+    "catalogue_additions": 0,
+    "added_titles": 0,
+    "added_uploads": 0,
+    "eligible_candidates": 0,
+    "reason": "No candidate passed every required gate. Direct YouTube watch-page and oEmbed metadata could not be retrieved, and unreviewed movie/episode claims lacked primary-source authorization."
+  },
+  "verification_limits": [
+    "Direct YouTube watch-page fetches were throttled; oEmbed access was disabled. Candidate runtime, current public full-content status, exact per-video channel ID, embeddability and IN country metadata could not be verified.",
+    "Metadata availability is not observed India playback; actual India playback remains unverified.",
+    "The remote Desktop Commander device was offline, and a fresh git network check failed DNS resolution, so local build.py, scripts/audit.py, unittest and node --check could not be run.",
+    "No claim of exhaustive YouTube coverage."
+  ],
+  "publication": {
+    "catalogue_changed": false,
+    "report_and_backlog_update": true,
+    "commit_status": "pending_commit",
+    "deployment_status": "pending_commit",
+    "production_site_check": "pending_commit"
+  }
+}
