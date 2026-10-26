@@ -997,6 +997,44 @@
       "added_on": "2026-10-25"
      }
     ]
+   },
+   {
+    "id": "that-time-i-got-reincarnated-as-a-slime-season-4",
+    "label": "Season 4 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 22 and 23 verified so far; earlier Season 4 English-subtitle episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
+    "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Official uploader title explicitly states English subtitles.",
+    "season_number": 4,
+    "episodes": [
+     {
+      "number": "22",
+      "title": "That Time I Got Reincarnated as a Slime - Episode 94 (S4E22) [English Sub]",
+      "video_id": "QXR2OhOyRjM",
+      "duration_seconds": 1451,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "23",
+      "title": "That Time I Got Reincarnated as a Slime - Episode 95 (S4E23) [English Sub]",
+      "video_id": "4CfPgDLWJAM",
+      "duration_seconds": 1451,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     }
+    ]
    }
   ],
   "related": [
@@ -4183,12 +4221,22 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-    "last_checked": "2026-10-18",
+    "completion_note": "All 13 episodes verified from Muse India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "audio_language_evidence": "Official upload title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "1",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 01 | Muse IN",
+      "video_id": "4m0fltK5AEM",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "2",
       "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 02 | Muse IN",
@@ -4198,6 +4246,46 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
       "india_playback": "unverified",
       "added_on": "2026-10-18"
+     },
+     {
+      "number": "3",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 03 | Muse IN",
+      "video_id": "ryJHDRmLjgs",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "4",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 04 | Muse IN",
+      "video_id": "ptw-xSWJPHE",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "5",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 05 | Muse IN",
+      "video_id": "7oQL6_9Aye8",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "6",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 06 | Muse IN",
+      "video_id": "3ufzQwj9xvc",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "7",
@@ -4240,6 +4328,26 @@
       "added_on": "2026-10-18"
      },
      {
+      "number": "11",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 11 | Muse IN",
+      "video_id": "14KMkGXDpTQ",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "12",
+      "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 12 | Muse IN",
+      "video_id": "HgtFiBoBZEg",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "13",
       "title": "[Hindi Dub] Classroom of the Elite Season 2 - Episode 13 | Muse IN",
       "video_id": "110X6KLjYtQ",
@@ -4258,8 +4366,8 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-18",
+    "completion_note": "All 13 episodes verified from Muse India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -4273,6 +4381,16 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode/compilation title, full runtime, IN country metadata and oEmbed checked 2026-10-17",
       "india_playback": "unverified",
       "added_on": "2026-10-17"
+     },
+     {
+      "number": "2",
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 02 | Muse IN",
+      "video_id": "Ldsc-2b-RY8",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "3",
@@ -4315,6 +4433,26 @@
       "added_on": "2026-10-18"
      },
      {
+      "number": "7",
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 07 | Muse IN",
+      "video_id": "qLjnF6TCEEw",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "8",
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 08 | Muse IN",
+      "video_id": "tQSg0wNvkd4",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "9",
       "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 09 | Muse IN",
       "video_id": "Rt8gGFeVKtA",
@@ -4323,6 +4461,16 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
       "india_playback": "unverified",
       "added_on": "2026-10-18"
+     },
+     {
+      "number": "10",
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 10 | Muse IN",
+      "video_id": "hMPQTtkrPOA",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "11",
@@ -4343,6 +4491,16 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
       "india_playback": "unverified",
       "added_on": "2026-10-18"
+     },
+     {
+      "number": "13",
+      "title": "[Hindi Dub] Classroom of the Elite Season 3 - Episode 13 | Muse IN",
+      "video_id": "bQBZAtdOxA4",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      }
     ],
     "season_number": 3
@@ -8066,12 +8224,22 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually verified available Hindi uploads. Unresolved episode numbers: 1, 10, 11. Metadata and oEmbed do not prove actual playback from India.",
-    "last_checked": "2026-10-20",
+    "completion_note": "All 12 episodes verified from Muse India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=q6A7fwZtLYE",
     "episodes": [
+     {
+      "number": "1",
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 01 | Muse IN",
+      "video_id": "7NRm3tcoKpU",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "2",
       "title": "[Hindi Dub] Mob Psycho 100 III - Episode 02 | Muse IN",
@@ -8155,6 +8323,26 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
       "india_playback": "unverified",
       "added_on": "2026-10-18"
+     },
+     {
+      "number": "10",
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 10 | Muse IN",
+      "video_id": "MtX_D2D183g",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "11",
+      "title": "[Hindi Dub] Mob Psycho 100 III - Episode 11 | Muse IN",
+      "video_id": "9cNuPH6f8sw",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "12",
@@ -15833,7 +16021,7 @@
     "embed_checked": true,
     "verified_complete": false,
     "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -15857,6 +16045,16 @@
       "metadata_check": "Official reviewed publisher, explicit Hindi dub and exact episode title, full runtime, IN country metadata and oEmbed checked 2026-10-18",
       "india_playback": "unverified",
       "added_on": "2026-10-18"
+     },
+     {
+      "number": "3",
+      "title": "[Hindi Dub] BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense (S2E03) | Muse IN",
+      "video_id": "0QSn2EdUCM4",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "4",
@@ -17039,7 +17237,7 @@
     "embed_checked": true,
     "verified_complete": false,
     "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -25904,8 +26102,8 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually checked uploads; not a verified-complete season. Actual India playback remains unverified.",
-    "last_checked": "2026-10-25",
+    "completion_note": "Episodes 1-20 verified so far; episodes 21 and 22 are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "audio_language_evidence": "Exact reviewed Muse upload title explicitly identifies Hindi Dub; episode and season read from the official title, not inferred from captions. https://www.youtube.com/watch?v=9CygW01NIt0",
@@ -25951,6 +26149,16 @@
       "added_on": "2026-10-18"
      },
      {
+      "number": "5",
+      "title": "[Hindi Dub] Attack on Titan - Episode 42 (S3E05) | Muse IN",
+      "video_id": "F8KWRDfFYXs",
+      "duration_seconds": 1435,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "6",
       "title": "[Hindi Dub] Attack on Titan - Episode 43 (S3E06) | Muse IN",
       "video_id": "L-Vsd6J2L0M",
@@ -25987,6 +26195,16 @@
       "source_upload_date": "2026-10-19T09:30:08-07:00"
      },
      {
+      "number": "9",
+      "title": "[Hindi Dub] Attack on Titan - Episode 46 (S3E09) | Muse IN",
+      "video_id": "v8-LAtVQWD0",
+      "duration_seconds": 1435,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "10",
       "title": "[Hindi Dub] One-Punch Man - Episode 34 (S3E10) | Muse IN",
       "video_id": "X6H8IGfw-_4",
@@ -25995,6 +26213,16 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
       "india_playback": "unverified",
       "added_on": "2026-10-24"
+     },
+     {
+      "number": "11",
+      "title": "[Hindi Dub] Attack on Titan - Episode 48 (S3E11) | Muse IN",
+      "video_id": "FP0im1vsvqs",
+      "duration_seconds": 1435,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "12",
@@ -26027,6 +26255,16 @@
       "added_on": "2026-10-25"
      },
      {
+      "number": "15",
+      "title": "[Hindi Dub] Attack on Titan - Episode 52 (S3E15) | Muse IN",
+      "video_id": "6yYPFwcdYos",
+      "duration_seconds": 1436,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "16",
       "title": "[Hindi Dub] Attack on Titan - Episode 53 (S3E16) | Muse IN",
       "video_id": "4HEi8D4wpuo",
@@ -26037,6 +26275,16 @@
       "added_on": "2026-10-25"
      },
      {
+      "number": "17",
+      "title": "[Hindi Dub] Attack on Titan - Episode 54 (S3E17) | Muse IN",
+      "video_id": "zr_ZWYTsaSg",
+      "duration_seconds": 1436,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "18",
       "title": "[Hindi Dub] Attack on Titan - Episode 55 (S3E18) | Muse IN",
       "video_id": "pZFcFWi-Rrc",
@@ -26045,6 +26293,26 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-25",
       "india_playback": "unverified",
       "added_on": "2026-10-25"
+     },
+     {
+      "number": "19",
+      "title": "[Hindi Dub] Attack on Titan - Episode 56 (S3E19) | Muse IN",
+      "video_id": "881OsvUo4kI",
+      "duration_seconds": 1436,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "20",
+      "title": "[Hindi Dub] Attack on Titan - Episode 57 (S3E20) | Muse IN",
+      "video_id": "AMBnez1KzBA",
+      "duration_seconds": 1436,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      }
     ]
    }
@@ -26417,12 +26685,22 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-17",
+    "completion_note": "Episode 16 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "16",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation - Episode 16 | Muse IN",
+      "video_id": "4PJT6zu14Ag",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "complete",
       "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S1) | Muse IN",
@@ -26443,12 +26721,32 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-17",
+    "completion_note": "Episodes 23 and 24 verified so far; the remaining Season 2 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "23",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 23 | Muse IN",
+      "video_id": "x9WUE-JXjpo",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "24",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 24 | Muse IN",
+      "video_id": "XcHvx5oTM1s",
+      "duration_seconds": 1435,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "complete",
       "title": "【Hindi Dub】【Complete Series】 Mushoku Tensei: Jobless Reincarnation (S2) | Muse IN",
@@ -27658,12 +27956,62 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Individually verified available uploads only. A compilation is one actual video; it does not create individual episode links. Actual India playback remains unverified.",
-    "last_checked": "2026-10-17",
+    "completion_note": "Episodes 6, 9, 10, 11 and 12 verified so far; the remaining Season 2 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "6",
+      "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 18 (S2E06) | Muse IN",
+      "video_id": "scOLe-ZqofA",
+      "duration_seconds": 1445,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "9",
+      "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 21 (S2E09) | Muse IN",
+      "video_id": "Az8YaCO0VLY",
+      "duration_seconds": 1445,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "10",
+      "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 22 (S2E10) | Muse IN",
+      "video_id": "okyVAOCUAYk",
+      "duration_seconds": 1445,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "11",
+      "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 23 (S2E11) | Muse IN",
+      "video_id": "LCWhYqkgviE",
+      "duration_seconds": 1445,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "12",
+      "title": "[Hindi Dub] I Was Reincarnated as the 7th Prince - Episode 24 (S2E12) | Muse IN",
+      "video_id": "Ti4-EgR2R3Q",
+      "duration_seconds": 1445,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "complete",
       "title": "【Hindi Dub】【Complete Series】 I Was Reincarnated as the 7th Prince (S2) | Muse IN",
@@ -36660,12 +37008,22 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 3 and 7 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-25",
+    "completion_note": "Episodes 1, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 verified so far; episodes 2 and 13 are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "1",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 01 [Hindi Dub] | Muse IN",
+      "video_id": "jSeXcj5y3Ao",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "3",
       "title": "THE GOD OF HIGH SCHOOL - Episode 03 [Hindi Dub] | Muse IN",
@@ -36677,6 +37035,36 @@
       "added_on": "2026-10-25"
      },
      {
+      "number": "4",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 04 [Hindi Dub] | Muse IN",
+      "video_id": "7jcMXVDjKjs",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "5",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 05 [Hindi Dub] | Muse IN",
+      "video_id": "u8KthfzG4AM",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "6",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 06 [Hindi Dub] | Muse IN",
+      "video_id": "jr2Tk3d4OuQ",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
       "number": "7",
       "title": "THE GOD OF HIGH SCHOOL - Episode 07 [Hindi Dub] | Muse IN",
       "video_id": "oJZLcYEi41o",
@@ -36685,6 +37073,56 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
       "india_playback": "unverified",
       "added_on": "2026-10-25"
+     },
+     {
+      "number": "8",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 08 [Hindi Dub] | Muse IN",
+      "video_id": "oV2HxYBtxU4",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "9",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 09 [Hindi Dub] | Muse IN",
+      "video_id": "O6g0M0fEo4I",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "10",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 10 [Hindi Dub] | Muse IN",
+      "video_id": "Lkz5_DJA0tQ",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "11",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 11 [Hindi Dub] | Muse IN",
+      "video_id": "TDEW6FIwZNI",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "12",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 12 [Hindi Dub] | Muse IN",
+      "video_id": "5DqkgxL7BK4",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      }
     ]
    }
@@ -36734,12 +37172,42 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 9, 11 and 12 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-25",
+    "completion_note": "Episodes 1-9, 11 and 12 verified so far; episode 10 is still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
     "authorization_evidence_url": "https://www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
     "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "1",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 01",
+      "video_id": "ISfN8977sAk",
+      "duration_seconds": 1447,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "2",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 02",
+      "video_id": "mjClmDq6uTQ",
+      "duration_seconds": 1447,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "3",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 03",
+      "video_id": "ssAsSnxXdh0",
+      "duration_seconds": 1447,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
      {
       "number": "4",
       "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 04",
@@ -36759,6 +37227,36 @@
       "metadata_check": "2026-10-25",
       "india_playback": "unverified",
       "added_on": "2026-10-25"
+     },
+     {
+      "number": "6",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 06",
+      "video_id": "4swreYlz5n4",
+      "duration_seconds": 1447,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "7",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 07",
+      "video_id": "Ij0GQQnmdSE",
+      "duration_seconds": 1447,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "8",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 08",
+      "video_id": "fxd69S2o-uo",
+      "duration_seconds": 1432,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      },
      {
       "number": "9",
@@ -36789,6 +37287,155 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
       "india_playback": "unverified",
       "added_on": "2026-10-25"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "skeleton-knight-in-another-world",
+  "title": "Skeleton Knight in Another World",
+  "original_title": "Skeleton Knight in Another World",
+  "alternate_titles": [],
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "Hindi dub",
+  "country": "Japan",
+  "year": 2022,
+  "genre": [
+   "Anime"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=XoAKeIR2bdE",
+  "synopsis": "A gamer wakes up as his skeletal knight avatar in a fantasy world and takes work as a wandering mercenary.",
+  "color": "#a4cbb7",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in source metadata. Actual India playback has not been tested; server region is blocked.",
+  "last_checked": "2026-10-26",
+  "verification_method": "YouTube official channel, watch-page metadata, runtime and oEmbed iframe",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=nkD_IQ0hIvI",
+   "https://www.youtube.com/watch?v=z4h9pA7VCIg",
+   "https://www.youtube.com/watch?v=Ipd7-vHB5O8",
+   "https://www.youtube.com/watch?v=6ftqlRSl9ks",
+   "https://www.youtube.com/watch?v=E5Ed3BSHguk",
+   "https://www.youtube.com/watch?v=XPQzc0Ya0hQ",
+   "https://www.youtube.com/watch?v=E5f_FkT6wOQ",
+   "https://www.youtube.com/watch?v=H0x2RjqR8Jc",
+   "https://www.youtube.com/watch?v=XoAKeIR2bdE"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/XoAKeIR2bdE/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-26",
+  "discovery": "Muse channel uploads enumeration, October 2026",
+  "seasons": [
+   {
+    "id": "skeleton-knight-in-another-world-season-1-hindi",
+    "label": "Season 1 · Hindi dub",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 1, 2, 3, 5, 6, 7, 8, 10 and 11 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-26",
+    "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "1",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 01 (S1E01) | Muse IN",
+      "video_id": "XoAKeIR2bdE",
+      "duration_seconds": 1339,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "2",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 02 (S1E02) | Muse IN",
+      "video_id": "H0x2RjqR8Jc",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "3",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 03 (S1E03) | Muse IN",
+      "video_id": "E5f_FkT6wOQ",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "5",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 05 (S1E05) | Muse IN",
+      "video_id": "XPQzc0Ya0hQ",
+      "duration_seconds": 1416,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "6",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 06 (S1E06) | Muse IN",
+      "video_id": "E5Ed3BSHguk",
+      "duration_seconds": 1419,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "7",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 07 (S1E07) | Muse IN",
+      "video_id": "6ftqlRSl9ks",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "8",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 08 (S1E08) | Muse IN",
+      "video_id": "Ipd7-vHB5O8",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "10",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 10 (S1E10) | Muse IN",
+      "video_id": "z4h9pA7VCIg",
+      "duration_seconds": 1421,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
+     },
+     {
+      "number": "11",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 11 (S1E11) | Muse IN",
+      "video_id": "nkD_IQ0hIvI",
+      "duration_seconds": 1421,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
+      "india_playback": "unverified",
+      "added_on": "2026-10-26"
      }
     ]
    }
