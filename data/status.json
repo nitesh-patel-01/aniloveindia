@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-26T08:12:01+05:30",
+  "last_run": "2026-10-27T08:08:43+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Four-category discovery completed against current remote main; no new uploads passed every publication gate. Two Muse Hindi Dub Zom 100 episodes and one Goldmines premiere lead remain pending exact metadata; four unreviewed uploads were rejected.",
+  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate. Current catalogue retained unchanged; four missing-upload leads remain pending direct metadata, and stale retry IDs already present in the catalogue were reconciled.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,23 +11,22 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No catalogue additions this run: no candidate passed all authorization, exact video metadata, runtime, public full-content, embeddability and India-region gates.",
-    "Zom 100 Hindi episodes 7 and 8 remain pending exact watch-page/oEmbed metadata. The Patas (Hindi) Goldmines entry remains a premiere-announcement lead, not a verified full movie.",
-    "Ne Zha Hindi claims from BANGLA Video and an unreviewed channel, a Pokémon movie upload from Mujeeb_FFx, and a Shinchan full-episode upload from Shinchan4u were rejected for missing primary-source authorization.",
-    "Doraemon surfaced as official teaser material only. No eligible full YouTube feature was found for the prioritized anime-movie titles.",
-    "Direct YouTube watch-page requests were throttled and oEmbed access was disabled. Candidate runtime, per-video channel ID, public full-content status, embeddability and IN country metadata could not be confirmed; actual India playback remains unverified.",
-    "Local build/audit/unit/node checks could not run: the connected Desktop Commander device is offline and the container cannot resolve github.com. Vercel build/deployment status and production URLs will be checked after this commit."
+    "No catalogue additions this run: no candidate passed all authorization, exact video metadata, audio/subtitle, runtime, public full-content, embeddability and India-region gates.",
+    "Pokémon Horizons Episodes 26 and Season 2 Episode 4 are indexed on the reviewed official Hindi channel, but direct per-video metadata is unavailable; season numbering also needs reconciliation.",
+    "Mann on Shemaroo Movies and My Golden Life Episode 29 on KBS WORLD TV remain pending because exact YouTube audio/subtitle tracks, runtime, uploader ID, oEmbed and IN country metadata could not be verified.",
+    "Direct YouTube watch-page requests were throttled and oEmbed access was disabled. Actual India playback remains unverified.",
+    "Local build/audit/unit/node checks could not run: Desktop Commander is offline and the container cannot resolve external hosts. The Vercel build/deployment status will be checked after this tracking commit."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
-  "last_manual_verification": "2026-10-26",
+  "last_manual_verification": "2026-10-27",
   "catalogue_counts": {
-    "anime-series": 78,
+    "anime-series": 79,
     "anime-movies": 29,
     "movies": 115,
     "k-dramas": 63
   },
-  "upload_count": 2045,
+  "upload_count": 2106,
   "added_this_run": {
     "anime-series": {
       "titles": 0,
@@ -47,7 +46,7 @@
     }
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-26-morning-discovery.json",
+  "verification_report": "data/verification/2026-10-27-morning-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
@@ -56,10 +55,10 @@
   "last_display_update": "2026-10-24T08:53:02+05:30",
   "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-27-morning-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-26",
-    "base_commit": "8428121491c472de8b39edeb89c81fd9166be386",
+    "date": "2026-10-27",
+    "base_commit": "bc1c70ab21c6b495f8379d44df704b692f046da6",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
@@ -70,6 +69,15 @@
     },
     "candidate_count": 7,
     "eligible_candidates": 0,
-    "search_queries": 32
-  }
+    "already_in_catalogue": 3,
+    "pending_metadata_candidates": 4,
+    "search_queries": 40,
+    "searches_completed": {
+      "anime-series": 24,
+      "anime-movies": 5,
+      "movies": 7,
+      "k-dramas": 4
+    }
+  },
+  "title_count": 286
 }

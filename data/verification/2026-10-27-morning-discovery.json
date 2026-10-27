@@ -1,0 +1,352 @@
+{
+  "run_id": "2026-10-27-morning-discovery",
+  "observed_at": "2026-10-27T08:08:43+05:30",
+  "base_commit": "bc1c70ab21c6b495f8379d44df704b692f046da6",
+  "catalogue_before": {
+    "titles": 286,
+    "video_records": 2106,
+    "unique_video_ids": 2106,
+    "duplicate_video_ids": 0,
+    "categories": {
+      "anime-series": 79,
+      "anime-movies": 29,
+      "movies": 115,
+      "k-dramas": 63
+    }
+  },
+  "catalogue_after": {
+    "titles": 286,
+    "video_records": 2106,
+    "unique_video_ids": 2106,
+    "duplicate_video_ids": 0,
+    "categories": {
+      "anime-series": 79,
+      "anime-movies": 29,
+      "movies": 115,
+      "k-dramas": 63
+    }
+  },
+  "discovery_method": "Current remote GitHub main catalogue and backlog compared with public web search and official-source evidence. No YouTube API key used. No non-YouTube media fetched.",
+  "search_queries": [
+    "Muse India Hindi Dub official full anime episodes Hindi dubbed October 2026",
+    "official Hindi dubbed anime movie full movie YouTube India official channel October 2026",
+    "official Hindi full movie YouTube Shemaroo Goldmines October 2026",
+    "KBS World TV official full episode English subtitles drama My Golden Life YouTube",
+    "official YouTube Doraemon full movie Hindi Pokémon movie Hindi Suzume Ne Zha full movie official",
+    "site:youtube.com/watch \"Hindi Dub\" \"Muse IN\" \"Episode 10\" anime October 2026",
+    "site:youtube.com/watch \"Hindi Dub\" \"Muse IN\" \"Episode 23\" Assassination Classroom 2026",
+    "site:youtube.com/watch \"Muse India\" \"Re:Zero\" \"Episode 03\" \"S1E03\" 2026",
+    "site:youtube.com/watch \"Muse Hindi Dub\" \"Zom 100\" Episode 10",
+    "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" full episode October 2026",
+    "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi 2026 official channel",
+    "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi 2026 official channel",
+    "site:youtube.com/watch \"KBS WORLD TV\" \"Full Episode\" drama \"SUB : ENG\" 2026",
+    "site:youtube.com/watch \"Muse India\" anime movie \"Hindi Dub\" full movie official",
+    "site:youtube.com/watch \"Attack on Titan\" \"Episode 58\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"Attack on Titan\" \"Episode 59\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"Re:ZERO\" \"Episode 69\" \"S4E03\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"That Time I Got Reincarnated as a Slime\" \"Episode 82\" \"S4E10\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"JoJo's Bizarre Adventure\" \"Golden Wind\" \"Episode 15\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"Assassination Classroom Season 1 - Episode 23\" \"Hindi Dub\" \"Muse IN\" 2026",
+    "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 10\" \"Muse Hindi Dub\" Hindi",
+    "site:youtube.com/watch \"Muse Hindi Dub\" \"Episode 10\" \"Hindi Dub\" anime October 2026",
+    "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" anime \"Episode 10\" 2026",
+    "site:youtube.com/watch \"Muse India\" \"Season 4\" \"Hindi Dub\" \"Episode 3\" anime 2026",
+    "site:youtube.com/watch \"official Hindi dubbed anime movie full movie\" Muse India YouTube",
+    "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" \"Episode\" \"2026\" Pokémon Horizons",
+    "site:youtube.com/watch \"Goldmines Housefull\" \"Full Movie\" 2026",
+    "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" 2026 Hindi",
+    "site:youtube.com/watch \"KBS WORLD TV\" \"Ep.\" \"[SUB : ENG\" 2026 drama",
+    "site:youtube.com/watch \"Korean Classic Film\" \"English subtitles\" full movie",
+    "site:youtube.com/watch \"Anime Manga Official\" \"Full Movie\" anime official",
+    "WPoSheFW51o runtime duration Pokémon Horizons Episode 4",
+    "WPoSheFW51o YouTube subtitles Hindi official Pokémon Asia",
+    "WPoSheFW51o \"Available in India\" YouTube",
+    "j8w7DzNgShg runtime duration Shemaroo Movies Mann Hindi full movie",
+    "o4Avwo0kJo0 KBS World My Golden Life episode 29 runtime English subtitles",
+    "site:in.portal-pokemon.com \"Pokémon Horizons\" \"The Search for Laqua\" Episode 45",
+    "Pokémon Horizons Season 2 The Search for Laqua episode numbering official Hindi YouTube episode 4",
+    "site:youtube.com/watch \"Pokémon Horizons: Season 2—The Search for Laqua\" \"Episode 45\" \"Pokémon Asia Official (Hindi)\" 2026",
+    "site:youtube.com/watch \"Pokémon Horizons Episode 26\" \"Pokémon Asia Official (Hindi)\" 2025"
+  ],
+  "search_query_count": 40,
+  "searches_completed": {
+    "anime-series": 24,
+    "anime-movies": 5,
+    "movies": 7,
+    "k-dramas": 4
+  },
+  "candidate_results": [
+    {
+      "category": "anime-series",
+      "title_id": "pokemon-horizons",
+      "title": "Pokémon Horizons: The Series",
+      "season": "Season 2: The Search for Laqua",
+      "episode": "4",
+      "video_id": "WPoSheFW51o",
+      "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
+      "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=WPoSheFW51o",
+      "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
+      "published_on": "2026-01-08",
+      "audio_language": "Unverified for this exact upload; channel/title are discovery evidence only",
+      "subtitle_languages": [],
+      "runtime_seconds": null,
+      "public_full_content_status": "Indexed episode listing; direct player status unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Official Pokémon India site identifies the Hindi channel, and public search returns the exact Season 2 Episode 4 title. Direct watch-page/oEmbed metadata was unavailable. Per-video audio, runtime, uploader channel ID, player status, embeddability and IN country metadata remain unverified. Current catalogue labels global episode numbers 41–44 under its Season 2 section; official season guide numbering maps Season 2 Episode 4 to HZ049, so the existing season mapping needs reconciliation before insertion."
+    },
+    {
+      "category": "anime-series",
+      "title_id": "pokemon-horizons",
+      "title": "Pokémon Horizons: The Series",
+      "season": "Season mapping pending",
+      "episode": "26",
+      "video_id": "aguVAuNwMj4",
+      "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
+      "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=aguVAuNwMj4",
+      "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
+      "published_on": "2025-01-09",
+      "audio_language": "Unverified for this exact upload; Hindi channel/title are not accepted as sole audio proof",
+      "subtitle_languages": [],
+      "runtime_seconds": null,
+      "public_full_content_status": "Indexed episode listing; direct player status unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search returns an exact Episode 26 listing from the reviewed Pokémon Asia Official (Hindi) channel, but no direct player metadata was available. Runtime, exact per-video uploader ID, public full-content status, audio, embeddability and IN country metadata remain unverified."
+    },
+    {
+      "category": "movies",
+      "title_id": null,
+      "title": "Mann",
+      "season": null,
+      "episode": "full",
+      "video_id": "j8w7DzNgShg",
+      "uploader_label": "Shemaroo Movies, verified channel in public search",
+      "expected_uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=j8w7DzNgShg",
+      "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
+      "published_on": "2018-05-18",
+      "audio_language": "Unverified for this exact upload; Hindi wording in title/description is not treated as proof",
+      "subtitle_languages": [],
+      "runtime_seconds": null,
+      "public_full_content_status": "Indexed full-movie listing; direct player status unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search identifies a verified Shemaroo Movies full-movie listing. Exact per-video channel ID, audio language, runtime, public player status, iframe/oEmbed and IN country metadata could not be confirmed. No movie entry added."
+    },
+    {
+      "category": "k-dramas",
+      "title_id": "my-golden-life",
+      "title": "My Golden Life",
+      "season": "Available episodes",
+      "episode": "29",
+      "video_id": "o4Avwo0kJo0",
+      "uploader_label": "KBS WORLD TV, verified channel in public search",
+      "expected_uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
+      "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+      "published_on": "2017-12-16",
+      "audio_language": "Unverified for this exact upload",
+      "subtitle_languages": [],
+      "title_subtitle_claims": [
+        "ENG",
+        "CHN",
+        "IND"
+      ],
+      "runtime_seconds": null,
+      "public_full_content_status": "Indexed episode listing; direct player status unverified",
+      "oembed_embeddability": "unverified",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search identifies the KBS WORLD TV Episode 29 listing. The title claims subtitle languages, but actual YouTube subtitle tracks were not inspected; runtime from a different streaming service is not substituted for YouTube runtime. Exact per-video channel ID, Korean audio, subtitles, public player status, embeddability and IN metadata remain unverified."
+    },
+    {
+      "category": "anime-series",
+      "title_id": "re-zero",
+      "title": "Re:ZERO — Starting Life in Another World",
+      "season": "Season 1 · Hindi dub",
+      "episode": "3",
+      "video_id": "wwk909MlmFk",
+      "uploader_label": "Muse India, verified channel in public search",
+      "expected_uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "uploader_id_confirmed_for_video": false,
+      "source_url": "https://www.youtube.com/watch?v=wwk909MlmFk",
+      "published_on": "2026-05-12",
+      "status": "already_in_catalogue",
+      "reason": "Exact video ID is already present as Re:ZERO Season 1 Hindi Episode 3 in the current remote catalogue. No duplicate entry created.",
+      "catalogue_match": {
+        "video_id": "wwk909MlmFk",
+        "title_id": "re-zero",
+        "title": "Re:ZERO — Starting Life in Another World",
+        "category": "anime-series",
+        "season_id": "re-zero-season-1-hindi",
+        "season": "Season 1 · Hindi dub",
+        "episode": "3",
+        "audio_language": "Hindi"
+      }
+    },
+    {
+      "category": "anime-series",
+      "title_id": "zom-100-bucket-list-of-the-dead",
+      "title": "Zom 100: Bucket List of the Dead",
+      "season": "Season 1 · Hindi dub",
+      "episode": "7",
+      "video_id": "Ij0GQQnmdSE",
+      "uploader_label": "Muse Hindi Dub",
+      "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "uploader_id_confirmed_for_video": true,
+      "source_url": "https://www.youtube.com/watch?v=Ij0GQQnmdSE",
+      "published_on": "2026-07-12",
+      "status": "already_in_catalogue",
+      "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
+      "catalogue_match": {
+        "video_id": "Ij0GQQnmdSE",
+        "title_id": "zom-100-bucket-list-of-the-dead",
+        "title": "Zom 100: Bucket List of the Dead",
+        "category": "anime-series",
+        "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
+        "season": "Season 1 · Hindi dub",
+        "episode": "7",
+        "audio_language": "Hindi"
+      }
+    },
+    {
+      "category": "anime-series",
+      "title_id": "zom-100-bucket-list-of-the-dead",
+      "title": "Zom 100: Bucket List of the Dead",
+      "season": "Season 1 · Hindi dub",
+      "episode": "8",
+      "video_id": "fxd69S2o-uo",
+      "uploader_label": "Muse Hindi Dub",
+      "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "uploader_id_confirmed_for_video": true,
+      "source_url": "https://www.youtube.com/watch?v=fxd69S2o-uo",
+      "published_on": "2026-07-13",
+      "status": "already_in_catalogue",
+      "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
+      "catalogue_match": {
+        "video_id": "fxd69S2o-uo",
+        "title_id": "zom-100-bucket-list-of-the-dead",
+        "title": "Zom 100: Bucket List of the Dead",
+        "category": "anime-series",
+        "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
+        "season": "Season 1 · Hindi dub",
+        "episode": "8",
+        "audio_language": "Hindi"
+      }
+    }
+  ],
+  "already_in_catalogue_reconciliation": {
+    "prior_pending_ids_removed_from_new_upload_retry_queue": [
+      "PLT-E3NlxI0",
+      "_Kp5t4x1MdM",
+      "Jof-A-OJ4rc",
+      "qOI7d-vVJCo",
+      "TpoSpAxZhd0",
+      "r0F3jOzNMAQ",
+      "Az6M3AdMVpE",
+      "QLFA1MkDkww",
+      "Ij0GQQnmdSE",
+      "fxd69S2o-uo"
+    ],
+    "note": "These exact IDs were found in the current remote catalogue; they were not added again. Zom 100 Episodes 7 and 8 now have catalogue duration and verification metadata."
+  },
+  "priority_movie_checks": [
+    {
+      "title": "Doraemon / ドラえもん",
+      "result": "Fresh search surfaced official Hindi teaser/promotion coverage, not an authorized full YouTube feature upload.",
+      "source_url": "https://www.animationxpress.com/latest-news/doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil-hindi-teaser-is-finally-here/"
+    },
+    {
+      "title": "Pokémon feature films",
+      "result": "No exact authorized full-feature YouTube upload passed this run's checks. Previously seen unreviewed full-movie claims remain excluded.",
+      "candidate_ids": [
+        "_JPnwf7Gwh4"
+      ]
+    },
+    {
+      "title": "Suzume / Suzume no Tojimari",
+      "result": "No official full YouTube feature upload surfaced; general streaming availability is not a YouTube upload.",
+      "source_url": "https://animenewsindia.com/2025/11/18/crunchyroll-brings-all-eight-makoto-shinkai-films-exclusively-to-india-for-the-very-first-time-in-december-2025/"
+    },
+    {
+      "title": "Ne Zha / Nezha / 哪吒",
+      "result": "No authorized full YouTube feature upload passed. Previously seen unreviewed claims remain excluded.",
+      "candidate_ids": [
+        "etVMaKdQR2o",
+        "v8aGn_S7yJw"
+      ]
+    },
+    {
+      "title": "Crayon Shinchan / Shin-chan / クレヨンしんちゃん",
+      "result": "No authorized full-episode upload passed. Previously seen unreviewed uploader claim remains excluded.",
+      "candidate_ids": [
+        "EYvKlrX_Csw"
+      ]
+    }
+  ],
+  "new_channel_review": [],
+  "skipped_reasons": {
+    "metadata_gate_unverified": 4,
+    "already_in_catalogue": 3,
+    "unauthorized_or_unreviewed_candidates_rejected_this_run": 0,
+    "no_eligible_anime_movie_found": 1,
+    "no_new_other_movie_passing_all_gates": 1,
+    "no_new_k_drama_passing_all_gates": 1,
+    "added_titles": 0,
+    "added_uploads": 0
+  },
+  "verification_limits": [
+    "Direct YouTube watch-page requests were throttled and oEmbed fetches were disabled. Per-video uploader IDs, exact runtime, playability/public full-content status, embeddability and availableCountries IN metadata could not be confirmed for the four missing-upload leads.",
+    "Video title and channel identity do not prove actual audio or subtitle tracks. Apple TV episode metadata is not substituted for YouTube audio/subtitle metadata.",
+    "The Pokémon Horizons catalogue currently labels global episode numbers 41–44 under its Season 2 section, while official season numbering defines Season 2 Episode 4 as HZ049. This mapping needs reconciliation before adding either lead.",
+    "Actual playback from India remains unobserved; country metadata, if later confirmed, will not be described as observed playback.",
+    "Desktop Commander is offline and the container cannot resolve external hosts, so local build.py, scripts/audit.py, unittest and node --check could not be executed in this run.",
+    "Search coverage is broad but not exhaustive."
+  ],
+  "summary": {
+    "catalogue_additions": 0,
+    "added_titles": 0,
+    "added_uploads": 0,
+    "eligible_candidates": 0,
+    "exact_candidate_count": 7,
+    "pending_metadata_candidates": 4,
+    "reason": "No candidate passed every publication gate. Four missing-upload leads remain pending direct YouTube metadata; one surfaced Re:ZERO episode and two prior Zom 100 candidates are already in the catalogue. No catalogue entries were changed."
+  },
+  "publication": {
+    "catalogue_changed": false,
+    "report_and_backlog_update": true,
+    "commit_status": "pending_at_report_creation",
+    "deployment_status": "pending_at_report_creation",
+    "production_site_check": "pending_at_report_creation"
+  },
+  "backlog_after_reconciliation": {
+    "pending_metadata_candidates": 21,
+    "removed_pending_ids_already_in_catalogue": [
+      "PLT-E3NlxI0",
+      "_Kp5t4x1MdM",
+      "Jof-A-OJ4rc",
+      "qOI7d-vVJCo",
+      "TpoSpAxZhd0",
+      "r0F3jOzNMAQ",
+      "Az6M3AdMVpE",
+      "QLFA1MkDkww",
+      "Ij0GQQnmdSE",
+      "fxd69S2o-uo"
+    ]
+  }
+}
