@@ -2,7 +2,7 @@
   "scheduler_active": true,
   "last_run": "2026-10-27T08:08:43+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate. Current catalogue retained unchanged; four missing-upload leads remain pending direct metadata, and stale retry IDs already present in the catalogue were reconciled.",
+  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate. Tracking report commit deployed successfully; production homepage is accessible and displays the current catalogue category counts. Sitemap and individual title-page fetches were blocked by the available web reader.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -15,7 +15,7 @@
     "Pokémon Horizons Episodes 26 and Season 2 Episode 4 are indexed on the reviewed official Hindi channel, but direct per-video metadata is unavailable; season numbering also needs reconciliation.",
     "Mann on Shemaroo Movies and My Golden Life Episode 29 on KBS WORLD TV remain pending because exact YouTube audio/subtitle tracks, runtime, uploader ID, oEmbed and IN country metadata could not be verified.",
     "Direct YouTube watch-page requests were throttled and oEmbed access was disabled. Actual India playback remains unverified.",
-    "Local build/audit/unit/node checks could not run: Desktop Commander is offline and the container cannot resolve external hosts. The Vercel build/deployment status will be checked after this tracking commit."
+    "Local build/audit/unit/node checks could not run: Desktop Commander is offline and the container cannot resolve external hosts. The tracking report commit has a successful Vercel status; the production sitemap and representative title pages remain inaccessible to the available web reader."
   ],
   "next_scheduled_run": null,
   "cursor": 5,
@@ -77,7 +77,14 @@
       "anime-movies": 5,
       "movies": 7,
       "k-dramas": 4
-    }
+    },
+    "report_commit": "574709fc4650fba4f23c13ea7dbfb59867c27750",
+    "report_commit_url": "https://github.com/nitesh-patel-01/aniloveindia/commit/574709fc4650fba4f23c13ea7dbfb59867c27750",
+    "deployment_status": "success",
+    "deployment_url": "https://vercel.com/nitesh-patels-projects-5d0fcf94/aniloveindia/HGFG2xvYELp3By5k6SEF15a9WRp9",
+    "homepage_check": "accessible; category counts match remote catalogue",
+    "sitemap_check": "reader_blocked",
+    "representative_title_pages_check": "reader_blocked"
   },
   "title_count": 286
 }

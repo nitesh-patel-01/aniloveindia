@@ -330,9 +330,16 @@
   "publication": {
     "catalogue_changed": false,
     "report_and_backlog_update": true,
-    "commit_status": "pending_at_report_creation",
-    "deployment_status": "pending_at_report_creation",
-    "production_site_check": "pending_at_report_creation"
+    "commit_status": "committed",
+    "commit_sha": "574709fc4650fba4f23c13ea7dbfb59867c27750",
+    "commit_url": "https://github.com/nitesh-patel-01/aniloveindia/commit/574709fc4650fba4f23c13ea7dbfb59867c27750",
+    "deployment_status": "success",
+    "deployment_url": "https://vercel.com/nitesh-patels-projects-5d0fcf94/aniloveindia/HGFG2xvYELp3By5k6SEF15a9WRp9",
+    "production_site_check": {
+      "homepage": "Accessible; page title and four category counts match current remote catalogue.",
+      "sitemap": "Direct fetch blocked by the available web reader.",
+      "representative_title_pages": "Direct fetch blocked by the available web reader."
+    }
   },
   "backlog_after_reconciliation": {
     "pending_metadata_candidates": 21,
