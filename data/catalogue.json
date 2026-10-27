@@ -37480,5 +37480,302 @@
     ]
    }
   ]
+ },
+ {
+  "id": "ashok",
+  "title": "Ashok",
+  "original_title": "Ashok",
+  "alternate_titles": [],
+  "category": "movies",
+  "format": "Movie",
+  "original_language": "Not confirmed",
+  "audio_label": "Hindi dub",
+  "country": "India",
+  "year": null,
+  "genre": [
+   "Cinema"
+  ],
+  "provider": "Goldmines",
+  "watch_url": "https://www.youtube.com/watch?v=8Eheq9G_tK4",
+  "synopsis": "Watch Ashok in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+  "color": "#ff7427",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+  "last_checked": "2026-10-27",
+  "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=8Eheq9G_tK4"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/8Eheq9G_tK4/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "ashok-movie",
+    "label": "Full movie",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "subtitle_evidence": "No English subtitle claim",
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "1 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+    "last_checked": "2026-10-27",
+    "authorization_evidence_url": "https://www.goldmines.co.in/",
+    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+    "episodes": [
+     {
+      "number": "full",
+      "title": "अशोक (Ashok) जूनियर एनटीआर की साउथ सुपरहिट एक्शन डब्ड मूवी | समीरा रेड्डी",
+      "video_id": "8Eheq9G_tK4",
+      "duration_seconds": 6818,
+      "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-27",
+      "india_playback": "unverified",
+      "last_checked": "2026-10-27"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-27",
+  "discovery": "Official channel upload checked 2026-10-27"
+ },
+ {
+  "id": "aakhri-yuddh",
+  "title": "Aakhri Yuddh",
+  "original_title": "Aakhri Yuddh",
+  "alternate_titles": [
+   "Chuttalabbai"
+  ],
+  "category": "movies",
+  "format": "Movie",
+  "original_language": "Not confirmed",
+  "audio_label": "Hindi dub",
+  "country": "India",
+  "year": null,
+  "genre": [
+   "Cinema"
+  ],
+  "provider": "Goldmines",
+  "watch_url": "https://www.youtube.com/watch?v=6uc57hyFdKg",
+  "synopsis": "Watch Aakhri Yuddh in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+  "color": "#ff7427",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+  "last_checked": "2026-10-27",
+  "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=6uc57hyFdKg"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/6uc57hyFdKg/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "aakhri-yuddh-movie",
+    "label": "Full movie",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "subtitle_evidence": "No English subtitle claim",
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "1 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+    "last_checked": "2026-10-27",
+    "authorization_evidence_url": "https://www.goldmines.co.in/",
+    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+    "episodes": [
+     {
+      "number": "full",
+      "title": "आखरी युद्ध (Chuttalabbai) साउथ रोमांटिक ड्रामा हिंदी डब्ड मूवी | आदि, नमिता प्रमोद",
+      "video_id": "6uc57hyFdKg",
+      "duration_seconds": 7772,
+      "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-27",
+      "india_playback": "unverified",
+      "last_checked": "2026-10-27"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-27",
+  "discovery": "Official channel upload checked 2026-10-27"
+ },
+ {
+  "id": "killing-veerappan",
+  "title": "Killing Veerappan",
+  "original_title": "Killing Veerappan",
+  "alternate_titles": [],
+  "category": "movies",
+  "format": "Movie",
+  "original_language": "Not confirmed",
+  "audio_label": "Hindi dub",
+  "country": "India",
+  "year": null,
+  "genre": [
+   "Cinema"
+  ],
+  "provider": "Goldmines",
+  "watch_url": "https://www.youtube.com/watch?v=n0-4pVn-o4A",
+  "synopsis": "Watch Killing Veerappan in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+  "color": "#ff7427",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+  "last_checked": "2026-10-27",
+  "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=n0-4pVn-o4A"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/n0-4pVn-o4A/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "killing-veerappan-movie",
+    "label": "Full movie",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "subtitle_evidence": "No English subtitle claim",
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "1 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+    "last_checked": "2026-10-27",
+    "authorization_evidence_url": "https://www.goldmines.co.in/",
+    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+    "episodes": [
+     {
+      "number": "full",
+      "title": "किलिंग वीरप्पन (HD) - शिवा राजकुमार की एक्शन हिंदी डब्ड मूवी | संदीप भारद्वाज",
+      "video_id": "n0-4pVn-o4A",
+      "duration_seconds": 6214,
+      "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-27",
+      "india_playback": "unverified",
+      "last_checked": "2026-10-27"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-27",
+  "discovery": "Official channel upload checked 2026-10-27"
+ },
+ {
+  "id": "aankhen",
+  "title": "Aankhen",
+  "original_title": "Aankhen",
+  "alternate_titles": [],
+  "category": "movies",
+  "format": "Movie",
+  "original_language": "Not confirmed",
+  "audio_label": "Hindi dub",
+  "country": "India",
+  "year": null,
+  "genre": [
+   "Cinema"
+  ],
+  "provider": "Goldmines",
+  "watch_url": "https://www.youtube.com/watch?v=L0dfb-s1JLU",
+  "synopsis": "Watch Aankhen in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+  "color": "#ff7427",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+  "last_checked": "2026-10-27",
+  "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=L0dfb-s1JLU"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/L0dfb-s1JLU/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "aankhen-movie",
+    "label": "Full movie",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "subtitle_evidence": "No English subtitle claim",
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "1 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+    "last_checked": "2026-10-27",
+    "authorization_evidence_url": "https://www.goldmines.co.in/",
+    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+    "episodes": [
+     {
+      "number": "full",
+      "title": "आँखें (Aankhen) साउथ की सस्पेंस थ्रिलर हिंदी डब्ड मूवी | वेंकटेश, मीना, नादिया",
+      "video_id": "L0dfb-s1JLU",
+      "duration_seconds": 7488,
+      "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-27",
+      "india_playback": "unverified",
+      "last_checked": "2026-10-27"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-27",
+  "discovery": "Official channel upload checked 2026-10-27"
+ },
+ {
+  "id": "flyover",
+  "title": "Flyover",
+  "original_title": "Flyover",
+  "alternate_titles": [],
+  "category": "movies",
+  "format": "Movie",
+  "original_language": "Not confirmed",
+  "audio_label": "Hindi dub",
+  "country": "India",
+  "year": null,
+  "genre": [
+   "Cinema"
+  ],
+  "provider": "Goldmines",
+  "watch_url": "https://www.youtube.com/watch?v=7Kr7ABD79Uc",
+  "synopsis": "Watch Flyover in Hindi from Goldmines using the official YouTube player. This is a full-length movie upload; its upload date does not establish the original film release date.",
+  "color": "#ff7427",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in available-country metadata; actual India playback is unverified.",
+  "last_checked": "2026-10-27",
+  "verification_method": "Official uploader identity, public full-length watch metadata, India region metadata and YouTube oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=7Kr7ABD79Uc"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/7Kr7ABD79Uc/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "flyover-movie",
+    "label": "Full movie",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "subtitle_evidence": "No English subtitle claim",
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "1 checked official full-length upload(s) listed. India playback and complete-season availability are not certified.",
+    "last_checked": "2026-10-27",
+    "authorization_evidence_url": "https://www.goldmines.co.in/",
+    "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+    "episodes": [
+     {
+      "number": "full",
+      "title": "फ्लायओवर: एक मिस्ट्री (HD) साउथ की सस्पेंस थ्रिलर एक्शन हिंदी डब्ड मूवी | श्रद्धा श्रीनाथ, रोजर",
+      "video_id": "7Kr7ABD79Uc",
+      "duration_seconds": 6687,
+      "metadata_check": "Official uploader, full-length runtime, public oEmbed iframe and India country metadata checked 2026-10-27",
+      "india_playback": "unverified",
+      "last_checked": "2026-10-27"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-27",
+  "discovery": "Official channel upload checked 2026-10-27"
  }
 ]
