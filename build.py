@@ -138,7 +138,7 @@ def build():
    listing+='</ol>'
 
    listing+='<p>Audio: '+esc(season['audio_language'])+' · Subtitles: '+esc(', '.join(season.get('subtitle_languages',[])) or 'Not specified')+'</p><p>Source: <a href="'+esc(season['authorization_evidence_url'])+'">Authorization evidence</a></p></article>'
-   page('/season/'+sid+'/',t['title']+' — '+season.get('label',sid),listing)
+   page('/season/'+sid+'/',t['title']+' — '+season.get('label',sid),listing,t['title']+' — '+season.get('label',sid)+' on AniLove India: '+season['audio_language']+' audio'+(' with English subtitles' if 'English' in season.get('subtitle_languages',[]) else '')+' · '+str(len(episodes))+' listed uploads from '+t['provider']+'.')
    lastmod['/season/'+sid+'/']=season.get('last_checked','')
    for i,ep in enumerate(episodes):
     video=ep['video_id']
@@ -149,10 +149,12 @@ def build():
     content+='<a href="/season/'+sid+'/">Episode list</a>'
     if i+1<len(episodes):content+='<a href="/watch/'+sid+'/'+str(episodes[i+1]['number'])+'/">Next episode →</a>'
     content+='</nav><h2 class="episode-picker-heading">Choose an episode</h2>'+episode_options(season,ep['number'])+'<p><a href="/title/'+t['id']+'/#episodes">All seasons & episodes</a></p><p class="small muted">Source: '+esc(t['provider'])+' · '+esc(season['audio_language'])+' audio'+(' · English subtitles' if 'English' in season.get('subtitle_languages',[]) else '')+'</p><p><a href="/contact/?report='+t['id']+'">Report broken episode</a></p></article>'
-    video_schema={'@context':'https://schema.org','@type':'VideoObject','name':t['title']+' — '+season.get('label',sid)+(' — Episode '+str(ep['number']) if ep['number'] not in ['full','complete'] else ''),'description':'Watch '+t['title']+' on AniLove India using the embedded YouTube player. Episode availability and regional playback are controlled by YouTube.','thumbnailUrl':['https://i.ytimg.com/vi/'+video+'/hqdefault.jpg','https://i.ytimg.com/vi/'+video+'/maxresdefault.jpg'],'embedUrl':'https://www.youtube.com/embed/'+video,'url':BASE+'/watch/'+sid+'/'+str(ep['number'])+'/','duration':iso_dur(ep['duration_seconds']),'inLanguage':season['audio_language']}
+    video_schema={'@context':'https://schema.org','@type':'VideoObject','name':t['title']+' — '+season.get('label',sid)+(' — Episode '+str(ep['number']) if ep['number'] not in ['full','complete'] else ''),'description':'Watch '+t['title']+' on AniLove India using the embedded YouTube player. Episode availability and regional playback are controlled by YouTube.','thumbnailUrl':'https://i.ytimg.com/vi/'+video+'/hqdefault.jpg','embedUrl':'https://www.youtube.com/embed/'+video,'url':BASE+'/watch/'+sid+'/'+str(ep['number'])+'/','duration':iso_dur(ep['duration_seconds']),'inLanguage':season['audio_language']}
+    _up=ep.get('added_on') or season.get('last_checked','')
+    if _up:video_schema['uploadDate']=_up
     lastmod['/watch/'+sid+'/'+str(ep['number'])+'/']=ep.get('added_on') or season.get('last_checked','')
     content+='<script type="application/ld+json">'+json.dumps(video_schema,ensure_ascii=False).replace('</','<\\/')+'</script>'
-    page('/watch/'+sid+'/'+str(ep['number'])+'/',t['title']+' — Watch '+season.get('label',sid)+(' — episode '+str(ep['number'])if ep['number']not in ['full','complete']else ''),content)
+    page('/watch/'+sid+'/'+str(ep['number'])+'/',t['title']+' — Watch '+season.get('label',sid)+(' — episode '+str(ep['number'])if ep['number']not in ['full','complete']else ''),content,'Watch '+t['title']+' '+season.get('label',sid)+(' episode '+str(ep['number']) if ep['number'] not in ['full','complete'] else (' full movie' if ep['number']=='full' else ' full compilation'))+' online in India on AniLove India: '+season['audio_language']+' audio'+(' with English subtitles' if 'English' in season.get('subtitle_languages',[]) else '')+' from '+t['provider']+'. Free, no account needed.')
  for k,(title,heading,body) in PAGES.items():
   content=f'<article class="prose"><p class="eyebrow">ANILOVE INDIA / {esc(title.upper())}</p><h1>{heading}<span class="accent">.</span></h1><p class="lead">{body}</p><p>Updated 25 October 2026 · Owner contact: <a href="mailto:niteshpatel7479@gmail.com">niteshpatel7479@gmail.com</a></p>'
   if k=='contact':content+='<h2>Contact Nitesh</h2><p><a href="https://wa.me/917974823298">WhatsApp: +91 79748 23298 ↗</a></p><p><a href="https://www.instagram.com/_nitesh_visions/" target="_blank" rel="noopener noreferrer">Instagram: @_nitesh_visions ↗</a></p>'+requestform()
