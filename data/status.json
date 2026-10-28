@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-28T08:55:37+05:30",
+  "last_run": "2026-10-29T00:16:00+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate; catalogue preserved and discovery/status records updated. Deployment verification pending.",
+  "state": "Unlimited Gacha search completed against current remote main. An official Muse Asia complete-series compilation candidate was found but failed the direct metadata/language verification gate; catalogue preserved.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,16 +11,13 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No new catalogue additions: no candidate passed all authorization, exact video metadata, language/subtitle, runtime, public full-content, embeddability and India-region gates.",
-    "Direct YouTube watch-page/oEmbed metadata remained inaccessible; actual India playback was not observed.",
-    "Pokémon Horizons Hindi Episode 26 needs exact player metadata and season-number reconciliation; the English edition also lacks primary-source channel identity confirmation.",
-    "Fairy Tail Episode 166 and My Golden Life Episode 29 remain pending exact metadata; title labels alone are not accepted as language/subtitle proof.",
-    "Ramayana Hindi search result was part 1/5 from an unreviewed uploader; Shinchan results were an unreviewed reupload and a short clip.",
-    "Local build/audit/unit/node checks could not run because the container cannot resolve github.com. Vercel deployment status and public production routes will be checked after commit."
+    "No new catalogue additions: the Muse Asia Unlimited Gacha compilation has no independently verified exact runtime, per-video uploader ID, actual audio/subtitles, public player status, embeddability or India country metadata.",
+    "YouTube watch-page metadata was throttled and oEmbed was unavailable; actual India playback was not observed.",
+    "HIDIVE teaser and Muse Asia highlight were rejected because they are not full episodes or series."
   ],
   "next_scheduled_run": null,
   "cursor": 6,
-  "last_manual_verification": "2026-10-28",
+  "last_manual_verification": "2026-10-29",
   "catalogue_counts": {
     "anime-series": 79,
     "anime-movies": 29,
@@ -35,7 +32,7 @@
     "k-dramas": 0
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-28-morning-discovery.json",
+  "verification_report": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
@@ -44,10 +41,10 @@
   "last_display_update": "2026-10-24T08:53:02+05:30",
   "display_state": "Remote catalogue integrity verified; 291 titles and 2,111 video records. No new uploads passed publication gates in the 2026-10-28 discovery pass.",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-28",
-    "base_commit": "21a4166ce94934d083c4af23a18deebf2909a75a",
+    "date": "2026-10-29",
+    "base_commit": "fc8977cbea2ccbbd8b3b92cec28b8ef3641f4c14",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
@@ -68,25 +65,23 @@
         "uploads": 0
       }
     },
-    "candidate_count": 9,
+    "candidate_count": 3,
     "eligible_candidates": 0,
-    "already_in_catalogue": 2,
-    "pending_metadata_candidates": 4,
-    "rejected_candidates": 3,
-    "search_queries": 61,
+    "already_in_catalogue": "not changed; no additions attempted",
+    "pending_metadata_candidates": 1,
+    "rejected_candidates": 2,
+    "search_queries": 8,
     "searches_completed": {
-      "anime-series": 30,
-      "anime-movies": 16,
-      "movies": 10,
-      "k-dramas": 5
+      "anime-series": 5,
+      "anime-movies": 1,
+      "movies": 1,
+      "k-dramas": 1
     },
-    "catalogue_blob_sha_before": "978d75e229d8f0b8385395498664a13f1ecc833e",
-    "catalogue_blob_sha_after": "978d75e229d8f0b8385395498664a13f1ecc833e",
-    "report_path": "data/verification/2026-10-28-morning-discovery.json",
+    "catalogue_changed": false,
+    "report_path": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
     "deployment_status": "pending post-commit verification",
     "homepage_check": "pending post-commit fetch",
-    "sitemap_check": "pending post-commit fetch",
-    "representative_title_pages_check": "pending post-commit fetch"
+    "sitemap_check": "pending post-commit fetch"
   },
   "title_count": 291,
   "unique_video_ids": 2111,

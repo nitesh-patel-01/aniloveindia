@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:55:37+05:30",
+  "updated_at": "2026-10-29T00:16:00+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -6902,8 +6902,8 @@
     }
   ],
   "pending_metadata_retry": {
-    "recorded_on": "2026-10-27",
-    "verification_report": "data/verification/2026-10-27-morning-discovery.json",
+    "recorded_on": "2026-10-29",
+    "verification_report": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
     "candidates": [
       {
         "video_id": "QmtS4HrhiYo",
@@ -7102,11 +7102,33 @@
         "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
         "status": "pending_exact_metadata_verification",
         "reason": "Indexed full-movie result on reviewed distributor channel; actual audio, exact per-video channel ID, runtime, public player status, oEmbed and IN country metadata unavailable."
+      },
+      {
+        "video_id": "4Bam-4ZB3Tk",
+        "title": "【Complete Series】 Unlimited Gacha",
+        "canonical_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+        "category": "anime-series",
+        "season": "Season 1 compilation",
+        "episode": "full-series-compilation",
+        "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
+        "uploader_label": "Muse Asia (verified channel label in public search)",
+        "expected_uploader_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "uploader_id_confirmed_for_video": false,
+        "published_on": "2026-01-02",
+        "audio_language": "unverified for this exact video",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "Title says Complete Series; direct player status and completeness not independently verified",
+        "oembed_embeddability": "unverified; YouTube oEmbed request was unavailable",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "reason": "Public search indexes this exact video on the verified Muse Asia channel as a complete-series compilation, but direct watch-page metadata and oEmbed are throttled/disabled. Exact per-video uploader ID, runtime, current public full-content status, actual audio/subtitles, embeddability and India country metadata are unverified. Keep as one compilation candidate only; do not create individual episode entries from it."
       }
     ],
-    "resume_instruction": "Retry exact public YouTube watch-page metadata and oEmbed when available. Do not infer audio/subtitles, full-content status, region or authorization from titles or uploader names. Compare against the latest remote catalogue before adding. Current run removed IDs already present in catalogue and added only pending metadata leads.",
-    "latest_attempt_on": "2026-10-27",
-    "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json"
+    "resume_instruction": "Retry exact YouTube watch-page and oEmbed metadata for pending candidates. Do not publish unless official upload identity, audio/subtitle evidence, runtime, public full-content status, embeddability and India country metadata are confirmed.",
+    "latest_attempt_on": "2026-10-29",
+    "latest_attempt_report": "data/verification/2026-10-29-unlimited-gacha-discovery.json"
   },
   "publisher_review_candidates": [
     {
@@ -7176,352 +7198,92 @@
     }
   ],
   "latest_run": {
-    "date": "2026-10-28",
-    "observed_at": "2026-10-28T08:55:37+05:30",
-    "base_commit": "21a4166ce94934d083c4af23a18deebf2909a75a",
-    "report_path": "data/verification/2026-10-28-morning-discovery.json",
-    "search_queries": 61,
+    "date": "2026-10-29",
+    "observed_at": "2026-10-29T00:16:00+05:30",
+    "base_commit": "fc8977cbea2ccbbd8b3b92cec28b8ef3641f4c14",
+    "report_path": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
+    "search_queries": 8,
     "searches_completed": {
-      "anime-series": 30,
-      "anime-movies": 16,
-      "movies": 10,
-      "k-dramas": 5
+      "anime-series": 5,
+      "anime-movies": 1,
+      "movies": 1,
+      "k-dramas": 1
     },
     "candidate_ids": [
-      "b_uQi-lcPZ8",
-      "u96CQn8fsCA",
-      "wCEzqN35_Cg",
-      "6XtHkPt3gqo",
-      "TISayYufbFU",
-      "o4Avwo0kJo0",
-      "qv9z4rp375U",
-      "EYvKlrX_Csw",
-      "QlYvtM3Z2fE"
-    ],
-    "already_in_catalogue": [
-      "b_uQi-lcPZ8",
-      "wCEzqN35_Cg"
+      "4Bam-4ZB3Tk",
+      "KG0V5lGbkwI",
+      "_hkHcdNreJA"
     ],
     "pending_metadata_ids": [
-      "u96CQn8fsCA",
-      "6XtHkPt3gqo",
-      "TISayYufbFU",
-      "o4Avwo0kJo0"
+      "4Bam-4ZB3Tk"
     ],
     "rejected_ids": [
-      "qv9z4rp375U",
-      "EYvKlrX_Csw",
-      "QlYvtM3Z2fE"
+      "KG0V5lGbkwI",
+      "_hkHcdNreJA"
     ],
     "eligible_additions": 0,
-    "catalogue_blob_sha_unchanged": "978d75e229d8f0b8385395498664a13f1ecc833e"
+    "catalogue_changed": false,
+    "summary": "Found an official Muse Asia complete-series compilation candidate for My Gift Lvl 9999 Unlimited Gacha. It remains pending direct video metadata; no episode or compilation was added."
   },
   "latest_discovery_run": {
-    "run_id": "2026-10-27-morning-discovery",
-    "observed_at": "2026-10-27T08:08:43+05:30",
-    "remote_head_before": "bc1c70ab21c6b495f8379d44df704b692f046da6",
+    "run_id": "2026-10-29-unlimited-gacha-discovery",
+    "observed_at": "2026-10-29T00:16:00+05:30",
+    "remote_head_before": "fc8977cbea2ccbbd8b3b92cec28b8ef3641f4c14",
     "search_queries": [
-      "Muse India Hindi Dub official full anime episodes Hindi dubbed October 2026",
-      "official Hindi dubbed anime movie full movie YouTube India official channel October 2026",
-      "official Hindi full movie YouTube Shemaroo Goldmines October 2026",
-      "KBS World TV official full episode English subtitles drama My Golden Life YouTube",
-      "official YouTube Doraemon full movie Hindi Pokémon movie Hindi Suzume Ne Zha full movie official",
-      "site:youtube.com/watch \"Hindi Dub\" \"Muse IN\" \"Episode 10\" anime October 2026",
-      "site:youtube.com/watch \"Hindi Dub\" \"Muse IN\" \"Episode 23\" Assassination Classroom 2026",
-      "site:youtube.com/watch \"Muse India\" \"Re:Zero\" \"Episode 03\" \"S1E03\" 2026",
-      "site:youtube.com/watch \"Muse Hindi Dub\" \"Zom 100\" Episode 10",
-      "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" full episode October 2026",
-      "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi 2026 official channel",
-      "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi 2026 official channel",
-      "site:youtube.com/watch \"KBS WORLD TV\" \"Full Episode\" drama \"SUB : ENG\" 2026",
-      "site:youtube.com/watch \"Muse India\" anime movie \"Hindi Dub\" full movie official",
-      "site:youtube.com/watch \"Attack on Titan\" \"Episode 58\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"Attack on Titan\" \"Episode 59\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"Re:ZERO\" \"Episode 69\" \"S4E03\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"That Time I Got Reincarnated as a Slime\" \"Episode 82\" \"S4E10\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"JoJo's Bizarre Adventure\" \"Golden Wind\" \"Episode 15\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"Assassination Classroom Season 1 - Episode 23\" \"Hindi Dub\" \"Muse IN\" 2026",
-      "site:youtube.com/watch \"Zom 100: Bucket List of the Dead - Episode 10\" \"Muse Hindi Dub\" Hindi",
-      "site:youtube.com/watch \"Muse Hindi Dub\" \"Episode 10\" \"Hindi Dub\" anime October 2026",
-      "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" anime \"Episode 10\" 2026",
-      "site:youtube.com/watch \"Muse India\" \"Season 4\" \"Hindi Dub\" \"Episode 3\" anime 2026",
-      "site:youtube.com/watch \"official Hindi dubbed anime movie full movie\" Muse India YouTube",
-      "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" \"Episode\" \"2026\" Pokémon Horizons",
-      "site:youtube.com/watch \"Goldmines Housefull\" \"Full Movie\" 2026",
-      "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" 2026 Hindi",
-      "site:youtube.com/watch \"KBS WORLD TV\" \"Ep.\" \"[SUB : ENG\" 2026 drama",
-      "site:youtube.com/watch \"Korean Classic Film\" \"English subtitles\" full movie",
-      "site:youtube.com/watch \"Anime Manga Official\" \"Full Movie\" anime official",
-      "WPoSheFW51o runtime duration Pokémon Horizons Episode 4",
-      "WPoSheFW51o YouTube subtitles Hindi official Pokémon Asia",
-      "WPoSheFW51o \"Available in India\" YouTube",
-      "j8w7DzNgShg runtime duration Shemaroo Movies Mann Hindi full movie",
-      "o4Avwo0kJo0 KBS World My Golden Life episode 29 runtime English subtitles",
-      "site:in.portal-pokemon.com \"Pokémon Horizons\" \"The Search for Laqua\" Episode 45",
-      "Pokémon Horizons Season 2 The Search for Laqua episode numbering official Hindi YouTube episode 4",
-      "site:youtube.com/watch \"Pokémon Horizons: Season 2—The Search for Laqua\" \"Episode 45\" \"Pokémon Asia Official (Hindi)\" 2026",
-      "site:youtube.com/watch \"Pokémon Horizons Episode 26\" \"Pokémon Asia Official (Hindi)\" 2025"
+      "“My Gift Lvl 9999 Unlimited Gacha” official YouTube full episodes Hindi English",
+      "site:youtube.com/watch “My Gift Lvl 9999 Unlimited Gacha” episode 1 Muse Asia full",
+      "site:youtube.com/watch “Unlimited Gacha” “Episode 1” “Muse Asia” -highlight -trailer",
+      "site:youtube.com/playlist “Unlimited Gacha” Muse Asia",
+      "site:youtube.com/watch “My Gift Lvl 9999 Unlimited Gacha” “Full Episode” official YouTube",
+      "site:youtube.com/@MuseAsia “Unlimited Gacha” episode",
+      "“Backstabbed in a Backwater Dungeon” official anime YouTube",
+      "official audio/subtitle and YouTube full series metadata cross-check"
     ],
-    "search_query_count": 40,
-    "category_results": {
-      "anime-series": {
-        "queries": 24,
-        "exact_candidates": 4,
-        "new_eligible_uploads": 0
-      },
-      "anime-movies": {
-        "queries": 5,
-        "eligible_full_features": 0
-      },
-      "movies": {
-        "queries": 7,
-        "exact_pending_candidates": 1,
-        "new_eligible_uploads": 0
-      },
-      "k-dramas": {
-        "queries": 4,
-        "exact_pending_candidates": 1,
-        "new_eligible_uploads": 0
-      }
-    },
-    "new_channel_review": [],
     "candidate_uploads": [
       {
+        "video_id": "4Bam-4ZB3Tk",
+        "title": "【Complete Series】 Unlimited Gacha",
+        "canonical_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
         "category": "anime-series",
-        "title_id": "pokemon-horizons",
-        "title": "Pokémon Horizons: The Series",
-        "season": "Season 2: The Search for Laqua",
-        "episode": "4",
-        "video_id": "WPoSheFW51o",
-        "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
-        "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
+        "season": "Season 1 compilation",
+        "episode": "full-series-compilation",
+        "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
+        "uploader_label": "Muse Asia (verified channel label in public search)",
+        "expected_uploader_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
         "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=WPoSheFW51o",
-        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
-        "published_on": "2026-01-08",
-        "audio_language": "Unverified for this exact upload; channel/title are discovery evidence only",
+        "published_on": "2026-01-02",
+        "audio_language": "unverified for this exact video",
         "subtitle_languages": [],
         "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
+        "public_full_content_status": "Title says Complete Series; direct player status and completeness not independently verified",
+        "oembed_embeddability": "unverified; YouTube oEmbed request was unavailable",
         "india_in_country_metadata": "unverified",
         "actual_india_playback": "unverified",
         "status": "pending_exact_metadata_verification",
-        "reason": "Official Pokémon India site identifies the Hindi channel, and public search returns the exact Season 2 Episode 4 title. Direct watch-page/oEmbed metadata was unavailable. Per-video audio, runtime, uploader channel ID, player status, embeddability and IN country metadata remain unverified. Current catalogue labels global episode numbers 41–44 under its Season 2 section; official season guide numbering maps Season 2 Episode 4 to HZ049, so the existing season mapping needs reconciliation before insertion."
-      },
-      {
-        "category": "anime-series",
-        "title_id": "pokemon-horizons",
-        "title": "Pokémon Horizons: The Series",
-        "season": "Season mapping pending",
-        "episode": "26",
-        "video_id": "aguVAuNwMj4",
-        "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
-        "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=aguVAuNwMj4",
-        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
-        "published_on": "2025-01-09",
-        "audio_language": "Unverified for this exact upload; Hindi channel/title are not accepted as sole audio proof",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search returns an exact Episode 26 listing from the reviewed Pokémon Asia Official (Hindi) channel, but no direct player metadata was available. Runtime, exact per-video uploader ID, public full-content status, audio, embeddability and IN country metadata remain unverified."
-      },
-      {
-        "category": "movies",
-        "title_id": null,
-        "title": "Mann",
-        "season": null,
-        "episode": "full",
-        "video_id": "j8w7DzNgShg",
-        "uploader_label": "Shemaroo Movies, verified channel in public search",
-        "expected_uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=j8w7DzNgShg",
-        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
-        "published_on": "2018-05-18",
-        "audio_language": "Unverified for this exact upload; Hindi wording in title/description is not treated as proof",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed full-movie listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search identifies a verified Shemaroo Movies full-movie listing. Exact per-video channel ID, audio language, runtime, public player status, iframe/oEmbed and IN country metadata could not be confirmed. No movie entry added."
-      },
-      {
-        "category": "k-dramas",
-        "title_id": "my-golden-life",
-        "title": "My Golden Life",
-        "season": "Available episodes",
-        "episode": "29",
-        "video_id": "o4Avwo0kJo0",
-        "uploader_label": "KBS WORLD TV, verified channel in public search",
-        "expected_uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
-        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
-        "published_on": "2017-12-16",
-        "audio_language": "Unverified for this exact upload",
-        "subtitle_languages": [],
-        "title_subtitle_claims": [
-          "ENG",
-          "CHN",
-          "IND"
-        ],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search identifies the KBS WORLD TV Episode 29 listing. The title claims subtitle languages, but actual YouTube subtitle tracks were not inspected; runtime from a different streaming service is not substituted for YouTube runtime. Exact per-video channel ID, Korean audio, subtitles, public player status, embeddability and IN metadata remain unverified."
-      },
-      {
-        "category": "anime-series",
-        "title_id": "re-zero",
-        "title": "Re:ZERO — Starting Life in Another World",
-        "season": "Season 1 · Hindi dub",
-        "episode": "3",
-        "video_id": "wwk909MlmFk",
-        "uploader_label": "Muse India, verified channel in public search",
-        "expected_uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=wwk909MlmFk",
-        "published_on": "2026-05-12",
-        "status": "already_in_catalogue",
-        "reason": "Exact video ID is already present as Re:ZERO Season 1 Hindi Episode 3 in the current remote catalogue. No duplicate entry created.",
-        "catalogue_match": {
-          "video_id": "wwk909MlmFk",
-          "title_id": "re-zero",
-          "title": "Re:ZERO — Starting Life in Another World",
-          "category": "anime-series",
-          "season_id": "re-zero-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "3",
-          "audio_language": "Hindi"
-        }
-      },
-      {
-        "category": "anime-series",
-        "title_id": "zom-100-bucket-list-of-the-dead",
-        "title": "Zom 100: Bucket List of the Dead",
-        "season": "Season 1 · Hindi dub",
-        "episode": "7",
-        "video_id": "Ij0GQQnmdSE",
-        "uploader_label": "Muse Hindi Dub",
-        "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-        "uploader_id_confirmed_for_video": true,
-        "source_url": "https://www.youtube.com/watch?v=Ij0GQQnmdSE",
-        "published_on": "2026-07-12",
-        "status": "already_in_catalogue",
-        "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
-        "catalogue_match": {
-          "video_id": "Ij0GQQnmdSE",
-          "title_id": "zom-100-bucket-list-of-the-dead",
-          "title": "Zom 100: Bucket List of the Dead",
-          "category": "anime-series",
-          "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "7",
-          "audio_language": "Hindi"
-        }
-      },
-      {
-        "category": "anime-series",
-        "title_id": "zom-100-bucket-list-of-the-dead",
-        "title": "Zom 100: Bucket List of the Dead",
-        "season": "Season 1 · Hindi dub",
-        "episode": "8",
-        "video_id": "fxd69S2o-uo",
-        "uploader_label": "Muse Hindi Dub",
-        "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-        "uploader_id_confirmed_for_video": true,
-        "source_url": "https://www.youtube.com/watch?v=fxd69S2o-uo",
-        "published_on": "2026-07-13",
-        "status": "already_in_catalogue",
-        "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
-        "catalogue_match": {
-          "video_id": "fxd69S2o-uo",
-          "title_id": "zom-100-bucket-list-of-the-dead",
-          "title": "Zom 100: Bucket List of the Dead",
-          "category": "anime-series",
-          "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "8",
-          "audio_language": "Hindi"
-        }
+        "reason": "Public search indexes this exact video on the verified Muse Asia channel as a complete-series compilation, but direct watch-page metadata and oEmbed are throttled/disabled. Exact per-video uploader ID, runtime, current public full-content status, actual audio/subtitles, embeddability and India country metadata are unverified. Keep as one compilation candidate only; do not create individual episode entries from it."
       }
     ],
-    "priority_movie_checks": [
+    "rejected_candidates": [
       {
-        "title": "Doraemon / ドラえもん",
-        "result": "Fresh search surfaced official Hindi teaser/promotion coverage, not an authorized full YouTube feature upload.",
-        "source_url": "https://www.animationxpress.com/latest-news/doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil-hindi-teaser-is-finally-here/"
+        "video_id": "KG0V5lGbkwI",
+        "title": "《Unlimited Gacha》 Anime Highlight",
+        "uploader": "Muse Asia",
+        "status": "rejected_not_full_content",
+        "reason": "Official channel upload, but explicitly an anime highlight, not a full episode or series."
       },
       {
-        "title": "Pokémon feature films",
-        "result": "No exact authorized full-feature YouTube upload passed this run's checks. Previously seen unreviewed full-movie claims remain excluded.",
-        "candidate_ids": [
-          "_JPnwf7Gwh4"
-        ]
-      },
-      {
-        "title": "Suzume / Suzume no Tojimari",
-        "result": "No official full YouTube feature upload surfaced; general streaming availability is not a YouTube upload.",
-        "source_url": "https://animenewsindia.com/2025/11/18/crunchyroll-brings-all-eight-makoto-shinkai-films-exclusively-to-india-for-the-very-first-time-in-december-2025/"
-      },
-      {
-        "title": "Ne Zha / Nezha / 哪吒",
-        "result": "No authorized full YouTube feature upload passed. Previously seen unreviewed claims remain excluded.",
-        "candidate_ids": [
-          "etVMaKdQR2o",
-          "v8aGn_S7yJw"
-        ]
-      },
-      {
-        "title": "Crayon Shinchan / Shin-chan / クレヨンしんちゃん",
-        "result": "No authorized full-episode upload passed. Previously seen unreviewed uploader claim remains excluded.",
-        "candidate_ids": [
-          "EYvKlrX_Csw"
-        ]
+        "video_id": "_hkHcdNreJA",
+        "title": "My Gift Lvl 9999 Unlimited Gacha | Teaser",
+        "uploader": "HIDIVE",
+        "status": "rejected_not_full_content",
+        "reason": "Official rights-holder/distributor teaser only, not a full episode or series."
       }
     ],
-    "skipped_reasons": {
-      "metadata_gate_unverified": 4,
-      "already_in_catalogue": 3,
-      "unauthorized_or_unreviewed_candidates_rejected_this_run": 0,
-      "no_eligible_anime_movie_found": 1,
-      "no_new_other_movie_passing_all_gates": 1,
-      "no_new_k_drama_passing_all_gates": 1,
-      "added_titles": 0,
-      "added_uploads": 0
-    },
-    "backlog_reconciliation": {
-      "removed_from_pending_queue_because_already_in_catalogue": [
-        "PLT-E3NlxI0",
-        "_Kp5t4x1MdM",
-        "Jof-A-OJ4rc",
-        "qOI7d-vVJCo",
-        "TpoSpAxZhd0",
-        "r0F3jOzNMAQ",
-        "Az6M3AdMVpE",
-        "QLFA1MkDkww",
-        "Ij0GQQnmdSE",
-        "fxd69S2o-uo"
-      ],
-      "added_pending_ids": [
-        "WPoSheFW51o",
-        "aguVAuNwMj4",
-        "j8w7DzNgShg"
-      ]
-    },
-    "summary": "No candidate passed every publication gate. Four missing-upload leads remain pending direct YouTube metadata; one surfaced Re:ZERO episode and two prior Zom 100 candidates are already in the catalogue. No catalogue entries were changed."
+    "search_limitations": [
+      "Direct YouTube watch-page requests were throttled.",
+      "YouTube oEmbed request was unavailable.",
+      "No actual playback from India was observed."
+    ],
+    "result": "No new catalogue entries. One official-channel compilation candidate was found but remains pending exact metadata and language verification."
   }
 }

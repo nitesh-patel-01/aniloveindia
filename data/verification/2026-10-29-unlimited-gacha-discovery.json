@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-29",
+  "observed_at": "2026-10-29T00:16:00+05:30",
+  "repository": "nitesh-patel-01/aniloveindia",
+  "base_commit": "fc8977cbea2ccbbd8b3b92cec28b8ef3641f4c14",
+  "request": "Add My Gift Lvl 9999 Unlimited Gacha to AniLove India, prioritizing Hindi, then English, then English-subtitled editions if all qualifying editions are available.",
+  "result": "No catalogue additions. One official-channel complete-series compilation candidate found; it remains pending required per-video metadata verification.",
+  "category": "anime-series",
+  "official_identity_evidence": [
+    {
+      "url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
+      "finding": "Public search result labels this as “【Complete Series】 Unlimited Gacha” by verified Muse Asia, published 2026-01-02."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KG0V5lGbkwI",
+      "finding": "Muse Asia official highlight video; not full content."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_hkHcdNreJA",
+      "finding": "HIDIVE official teaser; not full content."
+    },
+    {
+      "url": "https://news.hidive.com/2025/8/19/hidive-reveals-renamed-fantasy-series-my-gift-lvl-9999-unlimited-gacha-as-part-of-its-upcoming-fall-2025-simulcast-line-up",
+      "finding": "HIDIVE confirms official English title and distribution context; this does not prove YouTube language or India availability."
+    }
+  ],
+  "candidate_uploads": [
+    {
+      "video_id": "4Bam-4ZB3Tk",
+      "title": "【Complete Series】 Unlimited Gacha",
+      "canonical_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "category": "anime-series",
+      "season": "Season 1 compilation",
+      "episode": "full-series-compilation",
+      "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
+      "uploader_label": "Muse Asia (verified channel label in public search)",
+      "expected_uploader_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "uploader_id_confirmed_for_video": false,
+      "published_on": "2026-01-02",
+      "audio_language": "unverified for this exact video",
+      "subtitle_languages": [],
+      "runtime_seconds": null,
+      "public_full_content_status": "Title says Complete Series; direct player status and completeness not independently verified",
+      "oembed_embeddability": "unverified; YouTube oEmbed request was unavailable",
+      "india_in_country_metadata": "unverified",
+      "actual_india_playback": "unverified",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Public search indexes this exact video on the verified Muse Asia channel as a complete-series compilation, but direct watch-page metadata and oEmbed are throttled/disabled. Exact per-video uploader ID, runtime, current public full-content status, actual audio/subtitles, embeddability and India country metadata are unverified. Keep as one compilation candidate only; do not create individual episode entries from it."
+    }
+  ],
+  "rejected": [
+    {
+      "video_id": "KG0V5lGbkwI",
+      "reason": "Highlight, not full episode."
+    },
+    {
+      "video_id": "_hkHcdNreJA",
+      "reason": "Teaser, not full episode."
+    },
+    {
+      "source": "Unofficial Hindi explanation uploads",
+      "reason": "Commentary/explanation uploads are not full episodes and uploader identity is not authorized."
+    }
+  ],
+  "language_priority_result": {
+    "hindi": "No verified full Hindi YouTube upload found.",
+    "english": "Official Muse Asia compilation candidate found but English audio not evidenced for this exact upload.",
+    "english_subtitles": "No verified English subtitle track for this exact upload."
+  },
+  "counts": {
+    "searches": 8,
+    "exact_candidate_ids": 3,
+    "eligible_additions": 0,
+    "pending_metadata": 1,
+    "rejected": 2
+  },
+  "catalogue_changed": false,
+  "verification_limits": [
+    "YouTube watch page throttled.",
+    "YouTube oEmbed unavailable.",
+    "Runtime and exact per-video channel ID not confirmed.",
+    "Actual audio/subtitle tracks not verified.",
+    "Public full-content and embeddability not independently confirmed.",
+    "India country metadata and actual India playback unverified."
+  ],
+  "next_action": "Retry the exact Muse Asia compilation's watch-page/oEmbed metadata. If it qualifies, add it as one full-series compilation only, never as fabricated individual episodes."
+}
