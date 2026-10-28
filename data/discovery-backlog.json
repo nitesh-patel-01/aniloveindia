@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:16:00+05:30",
+  "updated_at": "2026-10-29T00:30:00+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -7102,28 +7102,6 @@
         "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
         "status": "pending_exact_metadata_verification",
         "reason": "Indexed full-movie result on reviewed distributor channel; actual audio, exact per-video channel ID, runtime, public player status, oEmbed and IN country metadata unavailable."
-      },
-      {
-        "video_id": "4Bam-4ZB3Tk",
-        "title": "【Complete Series】 Unlimited Gacha",
-        "canonical_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-        "category": "anime-series",
-        "season": "Season 1 compilation",
-        "episode": "full-series-compilation",
-        "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
-        "uploader_label": "Muse Asia (verified channel label in public search)",
-        "expected_uploader_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
-        "uploader_id_confirmed_for_video": false,
-        "published_on": "2026-01-02",
-        "audio_language": "unverified for this exact video",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Title says Complete Series; direct player status and completeness not independently verified",
-        "oembed_embeddability": "unverified; YouTube oEmbed request was unavailable",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search indexes this exact video on the verified Muse Asia channel as a complete-series compilation, but direct watch-page metadata and oEmbed are throttled/disabled. Exact per-video uploader ID, runtime, current public full-content status, actual audio/subtitles, embeddability and India country metadata are unverified. Keep as one compilation candidate only; do not create individual episode entries from it."
       }
     ],
     "resume_instruction": "Retry exact YouTube watch-page and oEmbed metadata for pending candidates. Do not publish unless official upload identity, audio/subtitle evidence, runtime, public full-content status, embeddability and India country metadata are confirmed.",
@@ -7199,31 +7177,10 @@
   ],
   "latest_run": {
     "date": "2026-10-29",
-    "observed_at": "2026-10-29T00:16:00+05:30",
-    "base_commit": "fc8977cbea2ccbbd8b3b92cec28b8ef3641f4c14",
-    "report_path": "data/verification/2026-10-29-unlimited-gacha-discovery.json",
-    "search_queries": 8,
-    "searches_completed": {
-      "anime-series": 5,
-      "anime-movies": 1,
-      "movies": 1,
-      "k-dramas": 1
-    },
-    "candidate_ids": [
-      "4Bam-4ZB3Tk",
-      "KG0V5lGbkwI",
-      "_hkHcdNreJA"
-    ],
-    "pending_metadata_ids": [
-      "4Bam-4ZB3Tk"
-    ],
-    "rejected_ids": [
-      "KG0V5lGbkwI",
-      "_hkHcdNreJA"
-    ],
-    "eligible_additions": 0,
-    "catalogue_changed": false,
-    "summary": "Found an official Muse Asia complete-series compilation candidate for My Gift Lvl 9999 Unlimited Gacha. It remains pending direct video metadata; no episode or compilation was added."
+    "title": "My Gift Lvl 9999 Unlimited Gacha",
+    "state": "added_single_official_compilation_language_unverified",
+    "video_id": "4Bam-4ZB3Tk",
+    "note": "Added as one compilation after owner confirmed India playback. Do not split into episodes. Audio/subtitles/runtime remain unverified."
   },
   "latest_discovery_run": {
     "run_id": "2026-10-29-unlimited-gacha-discovery",
