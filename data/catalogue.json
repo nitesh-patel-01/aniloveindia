@@ -1375,7 +1375,7 @@
     "embed_checked": true,
     "verified_complete": false,
     "completion_note": "25 checked official full-length uploads listed. India playback and full-season completion are not certified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/watch?v=7aVSV69rcQg",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "episodes": [
@@ -3186,6 +3186,44 @@
      }
     ],
     "listed_uploads": 25
+   },
+   {
+    "id": "re-zero-season-4",
+    "label": "Season 4 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 10 and 17 verified so far; earlier Season 4 English-subtitle episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
+    "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Official uploader title explicitly states English subtitles.",
+    "season_number": 4,
+    "episodes": [
+     {
+      "number": "10",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4 | Episode 10 (EP76) [EN Sub] | Muse IN",
+      "video_id": "WISZAJpmcTY",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
+     {
+      "number": "17",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4 | Episode 17 (EP83) [EN Sub] | Muse IN",
+      "video_id": "xNoHJkDecv8",
+      "duration_seconds": 1470,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     }
+    ]
    }
   ],
   "trailers": [],
@@ -14813,7 +14851,7 @@
     "embed_checked": true,
     "verified_complete": false,
     "completion_note": "Checked official uploads. Full-season completion and actual India playback have not been certified.",
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/watch?v=ndTg1UqjDcI",
     "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
     "episodes": [
@@ -26695,12 +26733,32 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episode 16 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-26",
+    "completion_note": "Episodes 2, 12 and 16 verified so far, plus a complete-season compilation upload; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
     "episodes": [
+     {
+      "number": "2",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation - Episode 02 | Muse IN",
+      "video_id": "4SBbhbxLV-4",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
+     {
+      "number": "12",
+      "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation - Episode 12 | Muse IN",
+      "video_id": "wYgaSXayc24",
+      "duration_seconds": 1420,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
      {
       "number": "16",
       "title": "[Hindi Dub] Mushoku Tensei: Jobless Reincarnation - Episode 16 | Muse IN",
@@ -37048,8 +37106,8 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 1, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 verified so far; episodes 2 and 13 are still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-26",
+    "completion_note": "All 13 episodes verified from Muse India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -37063,6 +37121,16 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
       "india_playback": "unverified",
       "added_on": "2026-10-26"
+     },
+     {
+      "number": "2",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 02 [Hindi Dub] | Muse IN",
+      "video_id": "MyniRwS63oQ",
+      "duration_seconds": 1410,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
      },
      {
       "number": "3",
@@ -37163,6 +37231,16 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
       "india_playback": "unverified",
       "added_on": "2026-10-26"
+     },
+     {
+      "number": "13",
+      "title": "THE GOD OF HIGH SCHOOL - Episode 13 [Hindi Dub] | Muse IN",
+      "video_id": "mT_RCI2EDC0",
+      "duration_seconds": 1425,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
      }
     ]
    }
@@ -37212,8 +37290,8 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 1-9, 11 and 12 verified so far; episode 10 is still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-26",
+    "completion_note": "All 12 episodes verified; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/channel/UCA9nLwuoOjfMJMNt6fG5Rlw",
     "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -37309,6 +37387,16 @@
       "added_on": "2026-10-25"
      },
      {
+      "number": "10",
+      "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 10",
+      "video_id": "MXJFfPVGsA4",
+      "duration_seconds": 1432,
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
+     {
       "number": "11",
       "title": "[Hindi Dub] Zom 100: Bucket List of the Dead - Episode 11",
       "video_id": "DQj7cGHaSJc",
@@ -37380,8 +37468,8 @@
     "subtitle_languages": [],
     "embed_checked": true,
     "verified_complete": false,
-    "completion_note": "Episodes 1, 2, 3, 5, 6, 7, 8, 10 and 11 verified so far; the remaining Season 1 Hindi episodes are still verifying. Actual India playback remains unverified.",
-    "last_checked": "2026-10-26",
+    "completion_note": "All 12 episodes verified from Muse India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
     "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
     "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
     "audio_language_evidence": "Official uploader title explicitly states Hindi dub.",
@@ -37416,6 +37504,16 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
       "india_playback": "unverified",
       "added_on": "2026-10-26"
+     },
+     {
+      "number": "4",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 04 (S1E04) | Muse IN",
+      "video_id": "v4CaOElajSM",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
      },
      {
       "number": "5",
@@ -37458,6 +37556,16 @@
       "added_on": "2026-10-26"
      },
      {
+      "number": "9",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 09 (S1E09) | Muse IN",
+      "video_id": "62vFRD4vY3c",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
+     {
       "number": "10",
       "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 10 (S1E10) | Muse IN",
       "video_id": "z4h9pA7VCIg",
@@ -37476,6 +37584,54 @@
       "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-26",
       "india_playback": "unverified",
       "added_on": "2026-10-26"
+     },
+     {
+      "number": "12",
+      "title": "[Hindi Dub] Skeleton Knight in Another World | Episode 12 (S1E12) | Muse IN",
+      "video_id": "66PmcR3fNlY",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     }
+    ]
+   },
+   {
+    "id": "skeleton-knight-in-another-world-season-2",
+    "label": "Season 2 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 5 and 9 verified so far; the remaining Season 2 English-subtitle episodes are still verifying. Actual India playback remains unverified.",
+    "last_checked": "2026-10-28",
+    "authorization_evidence_url": "https://www.youtube.com/@MuseIndiaChannel",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Official uploader title explicitly states English subtitles.",
+    "season_number": 2,
+    "episodes": [
+     {
+      "number": "5",
+      "title": "Skeleton Knight in Another World Season 2 - Episode 05 [EN Sub] | Muse IN",
+      "video_id": "nWatsMpDVOM",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
+     },
+     {
+      "number": "9",
+      "title": "Skeleton Knight in Another World Season 2 - Episode 09 [EN Sub] | Muse IN",
+      "video_id": "pFSM4w0MYRs",
+      "duration_seconds": 1430,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-28"
      }
     ]
    }
