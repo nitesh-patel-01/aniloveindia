@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:08:43+05:30",
+  "updated_at": "2026-10-28T08:55:37+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -39,17 +39,18 @@
         24
       ],
       "reason": "Official playlist HTML listing is hidden from this checking server. Public playlist Atom feed exposes the first 15 uploads. Continue recovering exact remaining official upload IDs; preserve the published player and watch links.",
-      "last_attempted_on": "2026-10-26",
+      "last_attempted_on": "2026-10-28",
       "latest_attempt": {
-        "date": "2026-10-19",
+        "date": "2026-10-28",
         "sources": [
-          "Official playlist HTML and feed",
-          "Whole YouTube search",
-          "Public web indexed official watch pages"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Playlist listing remains hidden; feed returns only the already published 1–15. Exact 16–24 uploader IDs were not recovered. No availability claim made for missing uploads."
+        "result": "No new exact official Hindi Episode 16–24 IDs recovered. Public playlist/feed listing remains incomplete; keep episode 16–24 gaps open."
       },
-      "latest_attempt_report": "data/verification/2026-10-26-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "ragna-crimson",
@@ -85,8 +86,8 @@
           "verified_complete": false
         }
       ],
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "that-time-i-got-reincarnated-as-a-slime",
@@ -356,18 +357,19 @@
         "6",
         "7"
       ],
-      "last_attempted_on": "2026-10-27",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Revisited Hindi Season 4 Episode 10 and current English-sub episodes; no new exact upload passed all gates in this run."
+        "result": "Search surfaced Hindi Season 1 Episode 10 (wCEzqN35_Cg), already in the current catalogue. No new exact Hindi Season 4 Episode 10 ID passed verification; preserve all current entries."
       }
     },
     {
@@ -1124,10 +1126,10 @@
         ],
         "note": "Ranges describe observed numbered uploads, not a certified expected complete episode list."
       },
-      "last_attempted_on": "2026-10-27",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
-      "last_discovery_attempt_on": "2026-10-25",
-      "latest_discovery_report": "data/verification/2026-10-25-morning-integrity-and-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "coverage": [
         {
           "season_id": "attack-on-titan-season-1-hindi",
@@ -1226,13 +1228,14 @@
         }
       ],
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Searched for Hindi Season 3 Episodes 58 and 59; no exact official video result with complete metadata passed the gates."
+        "result": "No exact new Hindi Episode 59 upload passed discovery and verification in this pass."
       }
     },
     {
@@ -3242,7 +3245,8 @@
       "next_actions": [
         "Recover earlier and later official upload IDs from publisher playlists, public feed and indexed watch pages.",
         "Merge exact season-relative episodes into existing Hindi editions; do not infer completion from search results or compilations.",
-        "Retry exact watch/oEmbed checks for indexed Fairy Tail Season 3 Hindi leads in the 2026-10-20 morning discovery report before creating a Season 3 entry."
+        "Retry exact watch/oEmbed checks for indexed Fairy Tail Season 3 Hindi leads in the 2026-10-20 morning discovery report before creating a Season 3 entry.",
+        "Retry direct metadata/oEmbed for Muse India Fairy Tail Episode 166 (S6E16), video u96CQn8fsCA; only create a Season 6 Hindi entry after all gates pass."
       ],
       "published_hindi_coverage": [
         {
@@ -3303,8 +3307,8 @@
           ]
         }
       ],
-      "last_attempted_on": "2026-10-27",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3573,19 +3577,37 @@
           "uploader_id_confirmed_for_video": false,
           "observed_on": "2026-10-20",
           "reason": "Exact watch metadata/oEmbed inaccessible; runtime, IN country metadata and embeddability unconfirmed."
+        },
+        {
+          "video_id": "u96CQn8fsCA",
+          "episode": "S6E16 / global Episode 166",
+          "published_on": "2026-01-17",
+          "source_url": "https://www.youtube.com/watch?v=u96CQn8fsCA",
+          "uploader_label": "Muse India (verified channel shown in public search)",
+          "uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "Hindi-labelled in public title; exact track unverified",
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed": "unverified",
+          "india_metadata": "unverified",
+          "observed_on": "2026-10-28",
+          "status": "pending_exact_metadata_verification",
+          "reason": "Exact public listing surfaced, but per-video uploader ID, runtime, public player status, oEmbed and India country metadata remain unavailable."
         }
       ],
       "reason": "Existing Hindi Season 1/2 and Season 7 entries are preserved. Public search surfaced Season 3 Hindi leads for episodes 73–75, 78–80 and 83, but exact watch metadata was throttled/inaccessible. No Season 3 entries or completion claims added.",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Revisited the official Hindi episode gap; no new exact upload with direct video metadata passed all gates."
+        "result": "Public search found Fairy Tail Episode 166 (S6E16) labelled Hindi Dub from Muse India. Episode 201/S7E26 is already in the catalogue. Episode 166 remains pending exact metadata; no new season entry or episode was added."
       }
     },
     {
@@ -4552,10 +4574,10 @@
           "video_id": "FjB1k32O-wE"
         }
       ],
-      "last_attempted_on": "2026-10-27",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "PLT-E3NlxI0",
@@ -4960,13 +4982,14 @@
         ]
       },
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Searched for Golden Wind Episode 15; no new exact official upload with complete metadata passed the gates."
+        "result": "No exact new Golden Wind Hindi Episode 15 upload passed discovery and verification in this pass."
       }
     },
     {
@@ -5534,21 +5557,66 @@
       ],
       "next_actions": [
         "Current Hindi catalogue coverage for Season 2 is episodes 30-44.",
-        "This pass did not recover a new exact official Hindi watch ID for the next episode(s). Retry the official Pokémon Asia Hindi channel feed/playlists and exact metadata checks; a recent feed is not complete-series evidence."
+        "This pass did not recover a new exact official Hindi watch ID for the next episode(s). Retry the official Pokémon Asia Hindi channel feed/playlists and exact metadata checks; a recent feed is not complete-series evidence.",
+        "Retry exact metadata for Pokémon Horizons Hindi Episode 26 (6XtHkPt3gqo) and reconcile publisher season-relative numbering against the catalogue's current episode numbering before insertion.",
+        "Find primary-source Pokémon authorization evidence for Pokémon South Asia Official (ENG), then verify exact per-video metadata for TISayYufbFU before considering an English edition."
       ],
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
-      "last_attempted_on": "2026-10-27",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Found exact indexed candidates for Episode 26 and Season 2 Episode 4. Both remain pending direct video metadata, language, embed and India checks. The current season numbering needs reconciliation before import."
-      }
+        "result": "Public search surfaced a Hindi and an English Season 2 Episode 26 listing. Hindi video 6XtHkPt3gqo still lacks direct player metadata and season mapping; English video TISayYufbFU lacks primary-source channel identity confirmation plus per-video metadata. Existing season coverage remains unchanged."
+      },
+      "candidate_uploads": [
+        {
+          "video_id": "6XtHkPt3gqo",
+          "episode": "Season 2 Episode 26",
+          "title": "Pokémon Horizons: Season 2—The Search for Laqua | Episode 26 | Pokémon Asia Official (Hindi)",
+          "uploader": "Pokémon Asia Official (Hindi)",
+          "uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
+          "uploader_id_confirmed_for_video": false,
+          "source_url": "https://www.youtube.com/watch?v=6XtHkPt3gqo",
+          "published_on": "2026-06-12",
+          "observed_on": "2026-10-28",
+          "audio_language": "Hindi-labelled; exact track unverified",
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_and_episode_mapping",
+          "reason": "Reviewed channel identity and indexed title are discovery evidence only. Direct player/oEmbed metadata unavailable; season-relative numbering conflicts with the current catalogue's numbering."
+        },
+        {
+          "video_id": "TISayYufbFU",
+          "episode": "Season 2 Episode 26 (English edition)",
+          "title": "Pokémon Horizons: Season 2—The Search for Laqua | Episode 26 | Pokémon South Asia Official (ENG)",
+          "uploader": "Pokémon South Asia Official (ENG)",
+          "uploader_channel_id": "UCkw5zHqcBTX-Udq8pQ-xGBA",
+          "uploader_id_confirmed_for_video": false,
+          "source_url": "https://www.youtube.com/watch?v=TISayYufbFU",
+          "channel_evidence_url": "https://www.youtube.com/channel/UCkw5zHqcBTX-Udq8pQ-xGBA",
+          "published_on": "2026-06-12",
+          "observed_on": "2026-10-28",
+          "audio_language": "English-labelled; exact track unverified",
+          "channel_identity_reviewed": false,
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_primary_source_channel_identity_and_video_metadata",
+          "reason": "No external primary-source authorization link from Pokémon's official portal was found in this run; do not add this channel to the reviewed allowlist or publish the video."
+        }
+      ]
     },
     {
       "title_id": "pokemon-diamond-and-pearl",
@@ -5745,7 +5813,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-27",
+      "last_attempted_on": "2026-10-28",
       "queries": [
         "Doraemon full movie Hindi official",
         "डोरेमोन पूरी फिल्म हिंदी",
@@ -5800,18 +5868,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Official Hindi teaser coverage surfaced, but no eligible full YouTube feature upload was found."
+        "result": "No new official full-feature YouTube upload passed the Hindi-first rights, full-content, language, embed and India checks."
       },
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "pokemon-movies",
@@ -5819,7 +5888,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-27",
+      "last_attempted_on": "2026-10-28",
       "queries": [
         "Pokemon full movie Hindi official",
         "पोकेमॉन मूवी हिंदी",
@@ -5849,18 +5918,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "No authorized full Pokémon feature upload passed the gates; unreviewed claims remain excluded."
+        "result": "No new authorized full Pokémon feature upload passed all gates; episode listings were not treated as films."
       },
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "suzume",
@@ -5868,7 +5938,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-27",
+      "last_attempted_on": "2026-10-28",
       "queries": [
         "Suzume full movie Hindi"
       ],
@@ -5902,18 +5972,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "No official full YouTube feature upload passed; other-platform streaming listings were not treated as YouTube availability."
+        "result": "No official full-feature YouTube upload passed all gates; external streaming availability is not YouTube availability."
       },
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -5921,7 +5992,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-27",
+      "last_attempted_on": "2026-10-28",
       "queries": [
         "Ne Zha full movie Hindi official",
         "Nezha Hindi full movie Ultra",
@@ -6004,18 +6075,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "No authorized full YouTube animated feature upload passed; unreviewed claims remain excluded."
+        "result": "No authorized Hindi/English full animated feature upload passed all gates; unrelated live-action films and unreviewed claims were excluded."
       },
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "crayon-shinchan",
@@ -6023,7 +6095,7 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "exact_uploads_failed_india_metadata_gate",
-      "last_attempted_on": "2026-10-27",
+      "last_attempted_on": "2026-10-28",
       "sources": [
         "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
         "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
@@ -6034,10 +6106,11 @@
         "lv2st0cDaYM",
         "JFL41rTf1L8",
         "V79ZivIRF0Y",
-        "EYvKlrX_Csw"
+        "EYvKlrX_Csw",
+        "QlYvtM3Z2fE"
       ],
       "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "lv2st0cDaYM",
@@ -6081,19 +6154,30 @@
           "observed_on": "2026-10-25",
           "status": "rejected_unverified_rights_holder",
           "reason": "Stale indexed result from an unreviewed uploader; no primary-source authorization evidence. Current public status and all exact metadata gates unverified; not added."
+        },
+        {
+          "video_id": "QlYvtM3Z2fE",
+          "title": "शिनचैन का सबसे खतरनाक एपिसोड Part - 1 #shorts",
+          "uploader": "Bony Explain",
+          "uploader_channel_id": null,
+          "observed_on": "2026-10-28",
+          "source_url": "https://www.youtube.com/watch?v=QlYvtM3Z2fE",
+          "status": "rejected_short_and_unreviewed_uploader",
+          "reason": "Search result explicitly labels this as #shorts and Part 1; uploader is not a reviewed rights holder."
         }
       ],
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "No authorized full episode upload passed; the unreviewed uploader candidate remains excluded."
+        "result": "No authorized full episode passed. Search surfaced the older Shinchan4u reupload and a Devanagari result explicitly marked #shorts from Bony Explain; both are excluded. Official Sony YAY/TV Asahi crosslink and exact full-video metadata remain unresolved."
       },
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json"
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json"
     },
     {
       "title_id": "ben-10-movies",
@@ -6443,8 +6527,8 @@
       "title_id": "assassination-classroom",
       "title": "Assassination Classroom",
       "priority": 1,
-      "last_attempted_on": "2026-10-27",
-      "latest_attempt_report": "data/verification/2026-10-27-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "published_hindi_coverage": [
         {
           "season_id": "assassination-classroom-season-1-hindi",
@@ -6478,8 +6562,8 @@
         }
       ],
       "last_backfill_date": "2026-10-24",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "coverage": [
         {
           "season_id": "assassination-classroom-season-1-hindi",
@@ -6518,13 +6602,14 @@
         "Revalidate the exact upload metadata for the existing entries before marking the season verified-complete; do not invent additional episode links."
       ],
       "latest_attempt": {
-        "date": "2026-10-27",
+        "date": "2026-10-28",
         "sources": [
-          "Public web search across official channel and franchise queries",
-          "Current remote catalogue and verification backlog comparison",
-          "Official Pokémon India channel identity page where applicable"
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
         ],
-        "result": "Searched the unresolved Hindi Episode 23 lead; no new exact official upload passed the full metadata gates."
+        "result": "No new official Hindi Episode 23 upload ID surfaced. A third-party download page appeared in search and was ignored; current catalogue entries remain unchanged."
       }
     },
     {
@@ -6537,8 +6622,8 @@
       "published_episode_numbers": [
         "1"
       ],
-      "last_attempted_on": "2026-10-26",
-      "latest_attempt_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -6578,7 +6663,7 @@
         {
           "video_id": "o4Avwo0kJo0",
           "episode": "29",
-          "title": "My Golden Life Episode 29",
+          "title": "My Golden Life | 황금빛 내인생 – Ep.29 [SUB : ENG,CHN,IND /2017.12.16]",
           "uploader": "KBS WORLD TV",
           "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
           "published_on": "2017-12-16",
@@ -6588,8 +6673,11 @@
           "india_metadata": "unverified",
           "runtime_seconds": null,
           "oembed": "unverified",
-          "observed_on": "2026-10-21",
-          "reason": "Exact watch/oEmbed metadata could not be fetched. Actual Korean audio, actual English subtitle availability, runtime, exact uploader channel ID for this video, embeddability and IN country metadata remain unverified. No inference from title labels."
+          "observed_on": "2026-10-28",
+          "reason": "Search rediscovered the exact episode title. Actual Korean audio and English subtitle tracks, per-video uploader ID, runtime, oEmbed and India country metadata remain unverified.",
+          "uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+          "uploader_id_confirmed_for_video": false,
+          "status": "pending_exact_metadata_verification"
         },
         {
           "video_id": "AOImQNN_IF4",
@@ -6614,8 +6702,18 @@
         "Require actual Korean audio and actual English subtitle evidence, runtime, exact uploader channel ID, public full-content status, embeddability and IN country metadata.",
         "Do not treat title labels or channel identity alone as proof of episode eligibility."
       ],
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
-      "last_discovery_attempt_on": "2026-10-26"
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_attempt": {
+        "date": "2026-10-28",
+        "sources": [
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
+        ],
+        "result": "Episode 29 surfaced again on the reviewed KBS WORLD TV channel; its subtitle labels are not accepted as track evidence. Episodes 2, 3 and 29 remain pending exact metadata. No K-drama episode was added."
+      }
     },
     {
       "title_id": "zom-100-bucket-list-of-the-dead",
@@ -6640,10 +6738,10 @@
         }
       ],
       "last_backfill_date": "2026-10-25",
-      "last_attempted_on": "2026-10-26",
-      "last_discovery_attempt_on": "2026-10-26",
-      "latest_attempt_report": "data/verification/2026-10-26-morning-discovery.json",
-      "latest_discovery_report": "data/verification/2026-10-26-morning-discovery.json",
+      "last_attempted_on": "2026-10-28",
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
       "published_this_pass": [],
       "candidate_uploads": [
         {
@@ -6713,7 +6811,94 @@
         "Retry exact YouTube watch-page metadata and oEmbed for Hindi Episode 07 (Ij0GQQnmdSE) and Episode 08 (fxd69S2o-uo).",
         "Require exact per-video channel ID, runtime, public full-content status, embeddability and IN country metadata before adding either upload.",
         "Current catalogue contains Hindi episodes 4, 5, 9, 11 and 12 only; keep verified-complete false."
+      ],
+      "latest_attempt": {
+        "date": "2026-10-28",
+        "sources": [
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
+        ],
+        "result": "No exact official Episode 10 candidate surfaced. Existing Episode 7 (Ij0GQQnmdSE) and Episode 8 (fxd69S2o-uo) remain pending direct metadata; no season completion claim."
+      }
+    },
+    {
+      "title_id": "ramayana-the-legend-of-prince-rama",
+      "title": "Ramayana: The Legend of Prince Rama",
+      "category": "anime-movies",
+      "priority": 1,
+      "preferred_audio": "Hindi first; English edition already catalogued",
+      "state": "hindi_full_feature_source_pending",
+      "existing_catalogue_editions": [
+        {
+          "audio_language": "English",
+          "video_id": "gKcOjnDJfzk",
+          "watch_url": "https://www.youtube.com/watch?v=gKcOjnDJfzk"
+        }
+      ],
+      "candidate_uploads": [
+        {
+          "video_id": "qv9z4rp375U",
+          "title": "Ramayana: The Legend of Prince Rama - Animated Film in Hindi - 1/5",
+          "uploader": "Cinema Anime India",
+          "uploader_channel_id": null,
+          "uploader_id_confirmed_for_video": false,
+          "source_url": "https://www.youtube.com/watch?v=qv9z4rp375U",
+          "published_on": "2026-02-01",
+          "observed_on": "2026-10-28",
+          "status": "rejected_unreviewed_uploader_and_partial_feature",
+          "reason": "Part 1/5, not a full feature; uploader is not reviewed and the TEM copyright line alone is not authorization."
+        }
+      ],
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+      "next_actions": [
+        "Search the reviewed TEM-linked official channel for a full Hindi feature upload; do not use the Cinema Anime India part 1/5 upload as an episode or full-movie link."
       ]
+    },
+    {
+      "title_id": "mann",
+      "title": "Mann",
+      "category": "movies",
+      "priority": 2,
+      "preferred_audio": "Hindi",
+      "state": "official_upload_metadata_retry_pending",
+      "candidate_uploads": [
+        {
+          "video_id": "j8w7DzNgShg",
+          "title": "Mann",
+          "uploader": "Shemaroo Movies (channel label from the previous discovery run)",
+          "uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+          "uploader_id_confirmed_for_video": false,
+          "source_url": "https://www.youtube.com/watch?v=j8w7DzNgShg",
+          "observed_on": "2026-10-27",
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed": "unverified",
+          "india_in_country_metadata": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "reason": "Prior indexed listing remains a lead only; exact audio, runtime, per-video uploader ID, public full-content status, embeddability and India metadata are not verified."
+        }
+      ],
+      "last_attempted_on": "2026-10-28",
+      "latest_attempt_report": "data/verification/2026-10-28-morning-discovery.json",
+      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+      "next_actions": [
+        "Retry direct watch-page and oEmbed metadata for j8w7DzNgShg before adding the Hindi movie."
+      ],
+      "last_discovery_attempt_on": "2026-10-28",
+      "latest_attempt": {
+        "date": "2026-10-28",
+        "sources": [
+          "Public YouTube search results across official and broad catalogue queries",
+          "Reviewed channel identity evidence in data/channels.json",
+          "Current remote catalogue and existing episode-verification records",
+          "Current discovery backlog and dated verification reports"
+        ],
+        "result": "Carried forward the prior Shemaroo Movies Mann lead; this pass did not recover direct metadata sufficient to publish it."
+      }
     }
   ],
   "pending_metadata_retry": {
@@ -6991,204 +7176,45 @@
     }
   ],
   "latest_run": {
-    "date": "2026-10-27",
-    "report": "data/verification/2026-10-27-morning-discovery.json",
-    "base_commit": "bc1c70ab21c6b495f8379d44df704b692f046da6",
-    "catalogue_additions": 0,
-    "added_titles": 0,
-    "added_uploads": 0,
-    "candidate_count": 7,
-    "eligible_candidates": 0,
+    "date": "2026-10-28",
+    "observed_at": "2026-10-28T08:55:37+05:30",
+    "base_commit": "21a4166ce94934d083c4af23a18deebf2909a75a",
+    "report_path": "data/verification/2026-10-28-morning-discovery.json",
+    "search_queries": 61,
     "searches_completed": {
-      "anime-series": 24,
-      "anime-movies": 5,
-      "movies": 7,
-      "k-dramas": 4
+      "anime-series": 30,
+      "anime-movies": 16,
+      "movies": 10,
+      "k-dramas": 5
     },
-    "counts": {
-      "exact_video_id_duplicates": 0,
-      "canonical_tuple_duplicates": 0,
-      "metadata_gate_unverified": 4,
-      "already_in_catalogue": 3,
-      "unauthorized_or_unreviewed": 0,
-      "added_titles": 0,
-      "added_uploads": 0
-    },
-    "candidate_results": [
-      {
-        "category": "anime-series",
-        "title_id": "pokemon-horizons",
-        "title": "Pokémon Horizons: The Series",
-        "season": "Season 2: The Search for Laqua",
-        "episode": "4",
-        "video_id": "WPoSheFW51o",
-        "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
-        "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=WPoSheFW51o",
-        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
-        "published_on": "2026-01-08",
-        "audio_language": "Unverified for this exact upload; channel/title are discovery evidence only",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Official Pokémon India site identifies the Hindi channel, and public search returns the exact Season 2 Episode 4 title. Direct watch-page/oEmbed metadata was unavailable. Per-video audio, runtime, uploader channel ID, player status, embeddability and IN country metadata remain unverified. Current catalogue labels global episode numbers 41–44 under its Season 2 section; official season guide numbering maps Season 2 Episode 4 to HZ049, so the existing season mapping needs reconciliation before insertion."
-      },
-      {
-        "category": "anime-series",
-        "title_id": "pokemon-horizons",
-        "title": "Pokémon Horizons: The Series",
-        "season": "Season mapping pending",
-        "episode": "26",
-        "video_id": "aguVAuNwMj4",
-        "uploader_label": "Pokémon Asia Official (Hindi), verified channel in public search",
-        "expected_uploader_channel_id": "UCm1hOHNgH6x8MF226CmZA",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=aguVAuNwMj4",
-        "authorization_evidence_url": "https://in.portal-pokemon.com/topics/pokemon_horizons_is_now_available_on_youtube_also_pokemon_south_asia_official_english_channel_has_be/",
-        "published_on": "2025-01-09",
-        "audio_language": "Unverified for this exact upload; Hindi channel/title are not accepted as sole audio proof",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search returns an exact Episode 26 listing from the reviewed Pokémon Asia Official (Hindi) channel, but no direct player metadata was available. Runtime, exact per-video uploader ID, public full-content status, audio, embeddability and IN country metadata remain unverified."
-      },
-      {
-        "category": "movies",
-        "title_id": null,
-        "title": "Mann",
-        "season": null,
-        "episode": "full",
-        "video_id": "j8w7DzNgShg",
-        "uploader_label": "Shemaroo Movies, verified channel in public search",
-        "expected_uploader_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=j8w7DzNgShg",
-        "authorization_evidence_url": "https://www.youtube.com/@shemaroomovies",
-        "published_on": "2018-05-18",
-        "audio_language": "Unverified for this exact upload; Hindi wording in title/description is not treated as proof",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed full-movie listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search identifies a verified Shemaroo Movies full-movie listing. Exact per-video channel ID, audio language, runtime, public player status, iframe/oEmbed and IN country metadata could not be confirmed. No movie entry added."
-      },
-      {
-        "category": "k-dramas",
-        "title_id": "my-golden-life",
-        "title": "My Golden Life",
-        "season": "Available episodes",
-        "episode": "29",
-        "video_id": "o4Avwo0kJo0",
-        "uploader_label": "KBS WORLD TV, verified channel in public search",
-        "expected_uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
-        "authorization_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
-        "published_on": "2017-12-16",
-        "audio_language": "Unverified for this exact upload",
-        "subtitle_languages": [],
-        "title_subtitle_claims": [
-          "ENG",
-          "CHN",
-          "IND"
-        ],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode listing; direct player status unverified",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Public search identifies the KBS WORLD TV Episode 29 listing. The title claims subtitle languages, but actual YouTube subtitle tracks were not inspected; runtime from a different streaming service is not substituted for YouTube runtime. Exact per-video channel ID, Korean audio, subtitles, public player status, embeddability and IN metadata remain unverified."
-      },
-      {
-        "category": "anime-series",
-        "title_id": "re-zero",
-        "title": "Re:ZERO — Starting Life in Another World",
-        "season": "Season 1 · Hindi dub",
-        "episode": "3",
-        "video_id": "wwk909MlmFk",
-        "uploader_label": "Muse India, verified channel in public search",
-        "expected_uploader_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
-        "uploader_id_confirmed_for_video": false,
-        "source_url": "https://www.youtube.com/watch?v=wwk909MlmFk",
-        "published_on": "2026-05-12",
-        "status": "already_in_catalogue",
-        "reason": "Exact video ID is already present as Re:ZERO Season 1 Hindi Episode 3 in the current remote catalogue. No duplicate entry created.",
-        "catalogue_match": {
-          "video_id": "wwk909MlmFk",
-          "title_id": "re-zero",
-          "title": "Re:ZERO — Starting Life in Another World",
-          "category": "anime-series",
-          "season_id": "re-zero-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "3",
-          "audio_language": "Hindi"
-        }
-      },
-      {
-        "category": "anime-series",
-        "title_id": "zom-100-bucket-list-of-the-dead",
-        "title": "Zom 100: Bucket List of the Dead",
-        "season": "Season 1 · Hindi dub",
-        "episode": "7",
-        "video_id": "Ij0GQQnmdSE",
-        "uploader_label": "Muse Hindi Dub",
-        "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-        "uploader_id_confirmed_for_video": true,
-        "source_url": "https://www.youtube.com/watch?v=Ij0GQQnmdSE",
-        "published_on": "2026-07-12",
-        "status": "already_in_catalogue",
-        "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
-        "catalogue_match": {
-          "video_id": "Ij0GQQnmdSE",
-          "title_id": "zom-100-bucket-list-of-the-dead",
-          "title": "Zom 100: Bucket List of the Dead",
-          "category": "anime-series",
-          "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "7",
-          "audio_language": "Hindi"
-        }
-      },
-      {
-        "category": "anime-series",
-        "title_id": "zom-100-bucket-list-of-the-dead",
-        "title": "Zom 100: Bucket List of the Dead",
-        "season": "Season 1 · Hindi dub",
-        "episode": "8",
-        "video_id": "fxd69S2o-uo",
-        "uploader_label": "Muse Hindi Dub",
-        "expected_uploader_channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
-        "uploader_id_confirmed_for_video": true,
-        "source_url": "https://www.youtube.com/watch?v=fxd69S2o-uo",
-        "published_on": "2026-07-13",
-        "status": "already_in_catalogue",
-        "reason": "This prior pending candidate is now present in the current catalogue with duration and verification metadata. Removed from the new-upload retry queue; not counted as an addition in this run.",
-        "catalogue_match": {
-          "video_id": "fxd69S2o-uo",
-          "title_id": "zom-100-bucket-list-of-the-dead",
-          "title": "Zom 100: Bucket List of the Dead",
-          "category": "anime-series",
-          "season_id": "zom-100-bucket-list-of-the-dead-season-1-hindi",
-          "season": "Season 1 · Hindi dub",
-          "episode": "8",
-          "audio_language": "Hindi"
-        }
-      }
+    "candidate_ids": [
+      "b_uQi-lcPZ8",
+      "u96CQn8fsCA",
+      "wCEzqN35_Cg",
+      "6XtHkPt3gqo",
+      "TISayYufbFU",
+      "o4Avwo0kJo0",
+      "qv9z4rp375U",
+      "EYvKlrX_Csw",
+      "QlYvtM3Z2fE"
     ],
-    "summary": "No eligible new upload. Four missing-upload leads remain pending direct metadata; current catalogue and backlog comparison resolved 10 stale pending IDs already present in the catalogue."
+    "already_in_catalogue": [
+      "b_uQi-lcPZ8",
+      "wCEzqN35_Cg"
+    ],
+    "pending_metadata_ids": [
+      "u96CQn8fsCA",
+      "6XtHkPt3gqo",
+      "TISayYufbFU",
+      "o4Avwo0kJo0"
+    ],
+    "rejected_ids": [
+      "qv9z4rp375U",
+      "EYvKlrX_Csw",
+      "QlYvtM3Z2fE"
+    ],
+    "eligible_additions": 0,
+    "catalogue_blob_sha_unchanged": "978d75e229d8f0b8385395498664a13f1ecc833e"
   },
   "latest_discovery_run": {
     "run_id": "2026-10-27-morning-discovery",

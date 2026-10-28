@@ -1,0 +1,552 @@
+{
+  "run_id": "2026-10-28-morning-discovery",
+  "observed_at": "2026-10-28T08:55:37+05:30",
+  "base_commit": "21a4166ce94934d083c4af23a18deebf2909a75a",
+  "base_commit_url": "https://github.com/nitesh-patel-01/aniloveindia/commit/21a4166ce94934d083c4af23a18deebf2909a75a",
+  "catalogue_blob_sha_before": "978d75e229d8f0b8385395498664a13f1ecc833e",
+  "catalogue_blob_sha_after": "978d75e229d8f0b8385395498664a13f1ecc833e",
+  "catalogue_before": {
+    "titles": 291,
+    "video_records": 2111,
+    "unique_video_ids": 2111,
+    "duplicate_video_ids": 0,
+    "duplicate_canonical_title_season_episode_language": 0,
+    "categories": {
+      "anime-series": 79,
+      "anime-movies": 29,
+      "movies": 120,
+      "k-dramas": 63
+    }
+  },
+  "catalogue_after": {
+    "titles": 291,
+    "video_records": 2111,
+    "unique_video_ids": 2111,
+    "duplicate_video_ids": 0,
+    "duplicate_canonical_title_season_episode_language": 0,
+    "categories": {
+      "anime-series": 79,
+      "anime-movies": 29,
+      "movies": 120,
+      "k-dramas": 63
+    }
+  },
+  "discovery_method": "Current remote GitHub main, catalogue, reviewed channels, episode-verification records and backlog compared against public YouTube search results. No YouTube API key used. No video streams or non-YouTube media fetched.",
+  "search_queries": [
+    "site:youtube.com/watch Muse Hindi Dub full episodes Hindi anime October 2026 official",
+    "site:youtube.com/watch Muse India Hindi dubbed anime full episode official 2026",
+    "site:youtube.com/watch official Hindi dubbed anime movie full movie YouTube Doraemon Pokémon Ne Zha Suzume",
+    "site:youtube.com/watch official full anime movie Hindi dub YouTube rights holder",
+    "site:youtube.com/watch official Hindi full movie Shemaroo Goldmines 2026 full movie",
+    "site:youtube.com/watch KBS WORLD TV My Golden Life full episode English subtitles YouTube",
+    "site:youtube.com/watch Pokémon Asia Official Hindi Pokémon Horizons full episode",
+    "site:youtube.com/watch Crayon Shinchan full episode official YouTube Hindi",
+    "site:youtube.com/watch TMS Anime official full episode English subtitles YouTube",
+    "site:youtube.com/watch Korean Classic Film full movie English subtitles YouTube",
+    "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" \"Episode 10\" anime 2026",
+    "site:youtube.com/watch \"Muse Hindi Dub\" \"Hindi Dub\" \"Episode 16\" anime 2026",
+    "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" \"Pokémon Horizons\" full episode Hindi 2026",
+    "site:youtube.com/watch \"Fairy Tail\" \"Muse India\" official episode Hindi 2026",
+    "site:youtube.com/watch \"Assassination Classroom\" \"Muse India\" Hindi Dub episode 23 2026",
+    "site:youtube.com/watch \"Crayon Shinchan\" official full episode Hindi India YouTube channel 2026",
+    "site:youtube.com/watch \"Doraemon\" official full movie Hindi YouTube India rights holder",
+    "site:youtube.com/watch \"Pokémon movie\" official Hindi full movie YouTube India Pokémon Asia",
+    "site:youtube.com/watch \"Ne Zha\" official full movie Hindi dub YouTube distributor",
+    "site:youtube.com/watch \"Suzume\" official full movie YouTube Hindi India Crunchyroll",
+    "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi official channel 2026",
+    "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi official channel 2026",
+    "site:youtube.com/watch \"KBS WORLD TV\" \"SUB : ENG\" \"My Golden Life\" episode 30 YouTube",
+    "site:youtube.com/watch \"Korean Classic Film\" \"English subtitles\" full movie official 2026",
+    "site:youtube.com/watch \"KBS WORLD TV\" \"[SUB : ENG]\" \"Episode\" \"2026\" drama full episode",
+    "site:youtube.com/watch \"Korean Classic Film\" \"English subtitles\" \"full movie\" official Korean Film Archive",
+    "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" \"Hindi\" official channel 2026",
+    "site:youtube.com/watch \"Goldmines\" \"Full Movie\" \"Hindi\" official channel 2026",
+    "site:youtube.com/watch \"Muse India\" \"[Hindi Dub]\" \"Episode\" anime 2026 full episode",
+    "site:youtube.com/watch \"Muse Hindi Dub\" \"[Hindi Dub]\" \"Episode\" anime 2026",
+    "site:youtube.com/watch \"Anime Manga Official\" full anime movie official 2026",
+    "site:youtube.com/watch \"Ramayana The Legend of Prince Rama\" official full movie YouTube Hindi 2026",
+    "site:youtube.com/watch \"Pokémon Asia Official (Hindi)\" \"Pokémon Horizons\" episode 2026 full",
+    "site:youtube.com/watch \"Ne Zha\" \"official\" \"full movie\" Hindi YouTube 2026",
+    "site:youtube.com/@RamayanaAnimeOfficial \"full movie\" Hindi \"Legend of Prince Rama\"",
+    "site:youtube.com/watch \"Ramayana : The Legend Of Prince Rama\" \"Official\" \"Hindi\" \"TEM\" full film YouTube",
+    "site:youtube.com/@MuseIndiaChannel \"full movie\" \"Hindi Dub\" anime",
+    "site:youtube.com/@Muse_HindiDub \"full movie\" anime Hindi",
+    "site:youtube.com/@KoreanClassicFilm \"English subtitles\" \"full movie\"",
+    "site:youtube.com/@KBSWORLDTV \"My Golden Life\" \"Ep.\" \"SUB : ENG\"",
+    "site:youtube.com/@PokémonAsiaOfficialHindi \"The Search for Laqua\" \"Episode 26\"",
+    "site:in.portal-pokemon.com \"Pokémon South Asia Official (ENG)\" YouTube official channel",
+    "site:youtube.com/@ \"Pokémon South Asia Official (ENG)\" official",
+    "site:in.portal-pokemon.com \"Pokémon Horizons: Season 2—The Search for Laqua\" Episode 26 Hindi YouTube",
+    "site:in.portal-pokemon.com/topics \"PokemonSouthAsiaENGOfficial\" YouTube",
+    "site:pokemon.com \"PokemonSouthAsiaENGOfficial\" YouTube",
+    "site:in.portal-pokemon.com \"South Asia Official (ENG)\" \"YouTube\" Pokémon",
+    "site:youtube.com/watch \"Ragna Crimson\" \"Hindi Dub\" \"Episode 16\" Muse Hindi Dub",
+    "site:youtube.com/watch \"That Time I Got Reincarnated as a Slime\" \"Episode 10\" \"Hindi Dub\" Muse India 2026",
+    "site:youtube.com/watch \"Zom 100\" \"Episode 10\" \"Hindi Dub\" Muse Hindi Dub",
+    "youtube.com/watch \"Assassination Classroom\" \"Hindi Dub\" \"Episode 23\" Muse India",
+    "site:youtube.com/watch \"JoJo's Bizarre Adventure\" \"Golden Wind\" \"Episode 15\" \"Hindi Dub\" Muse India",
+    "site:youtube.com/watch \"Attack on Titan\" \"Episode 59\" \"Hindi Dub\" Muse India 2026",
+    "site:youtube.com/watch डोरेमोन पूरी फिल्म हिंदी आधिकारिक YouTube",
+    "site:youtube.com/watch पोकेमॉन फिल्म पूरी हिंदी आधिकारिक YouTube",
+    "site:youtube.com/watch ने ज़ा पूरी फिल्म हिंदी डब आधिकारिक YouTube",
+    "site:youtube.com/watch शिनचैन पूरा एपिसोड हिंदी आधिकारिक YouTube",
+    "site:youtube.com/watch हिंदी डब एनीमे पूरा एपिसोड Muse India YouTube",
+    "site:youtube.com/watch हिंदी पूरी फिल्म Shemaroo Goldmines आधिकारिक YouTube",
+    "site:youtube.com/watch कोरियन ड्रामा पूरा एपिसोड अंग्रेजी सबटाइटल KBS WORLD TV",
+    "site:youtube.com/watch Fairy Tail एपिसोड 166 हिंदी डब Muse India"
+  ],
+  "searches_completed": {
+    "anime-series": 30,
+    "anime-movies": 16,
+    "movies": 10,
+    "k-dramas": 5
+  },
+  "reviewed_channel_ids": [
+    {
+      "name": "Muse Asia",
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "identity_evidence_url": "https://www.youtube.com/@MuseAsia"
+    },
+    {
+      "name": "Muse India",
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "identity_evidence_url": "https://www.youtube.com/@MuseIndiaChannel"
+    },
+    {
+      "name": "Anime! on TMS Official Channel",
+      "channel_id": "UCzGf0DdUJVrsbcWL3e_tK1Q",
+      "identity_evidence_url": "https://tmsanime.com/anime-on-tms-official-channel"
+    },
+    {
+      "name": "KBS WORLD TV",
+      "channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "identity_evidence_url": "https://world.kbs.co.kr/service/about_connect.htm?lang=e"
+    },
+    {
+      "name": "Korean Classic Film",
+      "channel_id": "UCvH6u_Qzn5RQdz9W198umDw",
+      "identity_evidence_url": "https://eng.koreafilm.or.kr/"
+    },
+    {
+      "name": "Shemaroo Movies",
+      "channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+      "identity_evidence_url": "https://www.youtube.com/@shemaroomovies"
+    },
+    {
+      "name": "GUNDAM CHANNEL INTL",
+      "channel_id": "UCejtUitnpnf8Be-v5NuDSLw",
+      "identity_evidence_url": "https://en.gundam.info/news/info/02_13267.html"
+    },
+    {
+      "name": "RetroCrush",
+      "channel_id": "UCPZkYpT5XIUou8sV8zk-3jQ",
+      "identity_evidence_url": "https://www.retrocrush.tv/"
+    },
+    {
+      "name": "Goldmines",
+      "channel_id": "UCyoXW-Dse7fURq30EWl_CUA",
+      "identity_evidence_url": "https://www.goldmines.co.in/"
+    },
+    {
+      "name": "Ramayana : The Legend Of Prince Rama",
+      "channel_id": "UC48s3aVt6bWFqF3VwiCewug",
+      "identity_evidence_url": "https://ramayana-anime.net/"
+    },
+    {
+      "name": "Anime Manga Official",
+      "channel_id": "UCsOtSH0C-hdkaFFDKAxb-jw",
+      "identity_evidence_url": "https://anymindgroup.com/news/press-release/5329/"
+    },
+    {
+      "name": "Muse Hindi Dub",
+      "channel_id": "UCA9nLwuoOjfMJMNt6fG5Rlw",
+      "identity_evidence_url": "https://www.instagram.com/p/DY377e0nCrY/"
+    },
+    {
+      "name": "Pokémon Asia Official (Hindi)",
+      "channel_id": "UCm1hOHNgH6x8MF22676CmZA",
+      "identity_evidence_url": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/"
+    },
+    {
+      "name": "Happy Science India",
+      "channel_id": "UCXFQq4inDVcznQ6RRE7F7IA",
+      "identity_evidence_url": "https://happy-science.org/en-in/videos/"
+    },
+    {
+      "name": "Swaminarayan Aksharpith",
+      "channel_id": "UCutvkeF3tVgItCX31QhJ2Dw",
+      "identity_evidence_url": "https://www.baps.org/ssc4"
+    },
+    {
+      "name": "Green Gold TV",
+      "channel_id": "UCiBigY9XM-HaOxUc269ympg",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCiBigY9XM-HaOxUc269ympg"
+    },
+    {
+      "name": "Miraculous Ladybug",
+      "channel_id": "UCWjVfZ3VnyUwBEOkuOlaU3g",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCWjVfZ3VnyUwBEOkuOlaU3g"
+    },
+    {
+      "name": "Official Yu-Gi-Oh!",
+      "channel_id": "UCZuVXrpKTUn_KEzRQgFgMWg",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCZuVXrpKTUn_KEzRQgFgMWg"
+    },
+    {
+      "name": "BEYBLADE English - Official Channel",
+      "channel_id": "UCktgoAFaL39_rYfiMZiD9jw",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCktgoAFaL39_rYfiMZiD9jw"
+    },
+    {
+      "name": "Kabillion Channel",
+      "channel_id": "UCgyXqqCHIGju8CK3clAIY8g",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCgyXqqCHIGju8CK3clAIY8g"
+    },
+    {
+      "name": "Power Rangers",
+      "channel_id": "UCqWhKZdJrvy0yHAamjWQkCA",
+      "identity_evidence_url": "https://www.youtube.com/channel/UCqWhKZdJrvy0yHAamjWQkCA"
+    }
+  ],
+  "candidate_count": 9,
+  "candidates": [
+    {
+      "id": "b_uQi-lcPZ8",
+      "title": "Fairy Tail",
+      "category": "anime-series",
+      "season": "Season 7 · Hindi dub",
+      "episode": "26 (S7E26 / global Episode 201)",
+      "audio": "Hindi",
+      "uploader": "Muse India",
+      "expectedChannelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "channelIdentityReviewed": true,
+      "uploaderIdConfirmed": "existing catalogue record",
+      "publishedOn": "2026-02-21",
+      "sourceUrl": "https://www.youtube.com/watch?v=b_uQi-lcPZ8",
+      "sourceResult": "Public search identified the verified Muse India upload; exact ID already exists in the current catalogue.",
+      "status": "already_in_catalogue",
+      "reason": "Exact video ID is already catalogued as Fairy Tail Season 7 Hindi Episode 26; deduplicated.",
+      "existing_catalogue_record": {
+        "id": "b_uQi-lcPZ8",
+        "title": "Fairy Tail",
+        "slug": "fairy-tail",
+        "category": "anime-series",
+        "season": "fairy-tail-season-7-hindi",
+        "seasonLabel": "Season 7 · Hindi dub",
+        "episode": "26",
+        "language": "Hindi",
+        "episodeTitle": "Fairy Tail - Episode 201 (S7E26) [Hindi Dub] | Muse IN",
+        "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q"
+      }
+    },
+    {
+      "id": "u96CQn8fsCA",
+      "title": "Fairy Tail",
+      "category": "anime-series",
+      "season": "Season 6 · Hindi dub",
+      "episode": "16 (global Episode 166)",
+      "audio": "Hindi-labelled in public title; exact audio track not independently verified",
+      "uploader": "Muse India",
+      "expectedChannelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "channelIdentityReviewed": true,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2026-01-17",
+      "sourceUrl": "https://www.youtube.com/watch?v=u96CQn8fsCA",
+      "sourceResult": "Public search returned “Fairy Tail - Episode 166 (S6E16) [Hindi Dub] | Muse IN” from the verified Muse India channel.",
+      "status": "pending_exact_metadata_verification",
+      "runtimeSeconds": null,
+      "publicFullContentStatus": "Indexed watch listing only; direct player status unverified",
+      "oembedEmbeddability": "unverified",
+      "indiaInCountryMetadata": "unverified",
+      "actualIndiaPlayback": "unverified",
+      "reason": "Per-video uploader channel ID, runtime, public full-content/player status, embeddability and India country metadata could not be checked."
+    },
+    {
+      "id": "wCEzqN35_Cg",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "category": "anime-series",
+      "season": "Season 1 · Hindi dub",
+      "episode": "10 (S1E10)",
+      "audio": "Hindi",
+      "uploader": "Muse India",
+      "expectedChannelId": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "channelIdentityReviewed": true,
+      "uploaderIdConfirmed": "existing catalogue record",
+      "publishedOn": "2024-07-09",
+      "sourceUrl": "https://www.youtube.com/watch?v=wCEzqN35_Cg",
+      "sourceResult": "Public search returned the verified Muse India Hindi-dub Episode 10 upload.",
+      "status": "already_in_catalogue",
+      "reason": "Exact video ID is already catalogued as Slime Season 1 Hindi Episode 10; no duplicate entry created.",
+      "existing_catalogue_record": {
+        "id": "wCEzqN35_Cg",
+        "title": "That Time I Got Reincarnated as a Slime",
+        "slug": "that-time-i-got-reincarnated-as-a-slime",
+        "category": "anime-series",
+        "season": "that-time-i-got-reincarnated-as-a-slime-season-1-hindi",
+        "seasonLabel": "Season 1 · Hindi dub",
+        "episode": "10",
+        "language": "Hindi",
+        "episodeTitle": "[Hindi Dub] That Time I Got Reincarnated as a Slime - Episode 10 (S1E10) | Muse IN",
+        "channelId": "UCYYhAzgWuxPauRXdPpLAX3Q"
+      }
+    },
+    {
+      "id": "6XtHkPt3gqo",
+      "title": "Pokémon Horizons: The Series",
+      "category": "anime-series",
+      "season": "Season 2 — The Search for Laqua",
+      "episode": "26 (publisher's season-relative label)",
+      "audio": "Hindi-labelled in public title; exact audio track not independently verified",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "expectedChannelId": "UCm1hOHNgH6x8MF22676CmZA",
+      "channelIdentityReviewed": true,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2026-06-12",
+      "sourceUrl": "https://www.youtube.com/watch?v=6XtHkPt3gqo",
+      "authorizationEvidenceUrl": "https://in.portal-pokemon.com/topics/211029090019_hindi-dubbed_version_of_pokemon_journeys_is_now_available_on_youtube/",
+      "sourceResult": "Public search returned the verified Pokémon Asia Official (Hindi) Season 2 Episode 26 listing.",
+      "status": "pending_exact_metadata_and_episode_mapping",
+      "runtimeSeconds": null,
+      "publicFullContentStatus": "Indexed watch listing only; direct player status unverified",
+      "oembedEmbeddability": "unverified",
+      "indiaInCountryMetadata": "unverified",
+      "actualIndiaPlayback": "unverified",
+      "reason": "Direct player/oEmbed metadata is unavailable; season-relative Episode 26 cannot be safely mapped to the catalogue's current global-numbered Season 2 entries."
+    },
+    {
+      "id": "TISayYufbFU",
+      "title": "Pokémon Horizons: The Series",
+      "category": "anime-series",
+      "season": "Season 2 — The Search for Laqua",
+      "episode": "26 (English edition)",
+      "audio": "English-labelled by channel/title; exact audio track not independently verified",
+      "uploader": "Pokémon South Asia Official (ENG)",
+      "expectedChannelId": "UCkw5zHqcBTX-Udq8pQ-xGBA",
+      "channelIdentityReviewed": false,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2026-06-12",
+      "sourceUrl": "https://www.youtube.com/watch?v=TISayYufbFU",
+      "channelEvidenceUrl": "https://www.youtube.com/channel/UCkw5zHqcBTX-Udq8pQ-xGBA",
+      "sourceResult": "Public search surfaced the English-edition Episode 26 listing and its YouTube channel page, but an external primary-source link from Pokémon's official site was not found in this run.",
+      "status": "pending_primary_source_channel_identity_and_video_metadata",
+      "runtimeSeconds": null,
+      "publicFullContentStatus": "unverified",
+      "oembedEmbeddability": "unverified",
+      "indiaInCountryMetadata": "unverified",
+      "actualIndiaPlayback": "unverified",
+      "reason": "New channel is not added to the reviewed allowlist without primary-source identity/authorization evidence; per-video metadata is also missing.",
+      "channelIdentityStatus": "No external primary-source link from Pokémon's official portal was found in this run; not added to channels.json."
+    },
+    {
+      "id": "o4Avwo0kJo0",
+      "title": "My Golden Life",
+      "category": "k-dramas",
+      "season": "Season 1",
+      "episode": "29",
+      "audio": "Korean audio unverified",
+      "subtitles": "Title advertises ENG/CHN/IND subtitles; actual subtitle tracks unverified",
+      "uploader": "KBS WORLD TV",
+      "expectedChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+      "channelIdentityReviewed": true,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2017-12-16",
+      "sourceUrl": "https://www.youtube.com/watch?v=o4Avwo0kJo0",
+      "authorizationEvidenceUrl": "https://world.kbs.co.kr/service/about_connect.htm?lang=e",
+      "sourceResult": "Public search returned the KBS WORLD TV Episode 29 listing with subtitle labels in its title.",
+      "status": "pending_exact_metadata_verification",
+      "runtimeSeconds": null,
+      "publicFullContentStatus": "Indexed watch listing only; direct player status unverified",
+      "oembedEmbeddability": "unverified",
+      "indiaInCountryMetadata": "unverified",
+      "actualIndiaPlayback": "unverified",
+      "reason": "Title labels are not proof of actual subtitle tracks; exact uploader ID, Korean audio, runtime, public player status, embeddability and India country metadata remain unverified."
+    },
+    {
+      "id": "qv9z4rp375U",
+      "title": "Ramayana: The Legend of Prince Rama",
+      "category": "anime-movies",
+      "season": "Hindi feature-film edition candidate",
+      "episode": "Part 1 of 5",
+      "audio": "Hindi-labelled in public title; exact audio track not independently verified",
+      "uploader": "Cinema Anime India",
+      "expectedChannelId": null,
+      "channelIdentityReviewed": false,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2026-02-01",
+      "sourceUrl": "https://www.youtube.com/watch?v=qv9z4rp375U",
+      "sourceResult": "Public search returned “Animated Film in Hindi - 1/5”; description attributes copyright to TEM Co., Ltd.",
+      "status": "rejected_unreviewed_uploader_and_partial_feature",
+      "reason": "This is part 1/5, not a full feature; uploader authorization is unverified. Copyright attribution alone does not authorize this upload. Existing catalogue already has the full English edition."
+    },
+    {
+      "id": "EYvKlrX_Csw",
+      "title": "Crayon Shinchan",
+      "category": "anime-series",
+      "season": "Unverified edition",
+      "episode": "Unverified",
+      "audio": "Hindi-labelled in title; exact audio track not verified",
+      "uploader": "Shinchan4u",
+      "expectedChannelId": null,
+      "channelIdentityReviewed": false,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2022-02-26",
+      "sourceUrl": "https://www.youtube.com/watch?v=EYvKlrX_Csw",
+      "sourceResult": "Public search returned a “full episode” claim from Shinchan4u, not a reviewed rights-holder channel.",
+      "status": "rejected_unreviewed_uploader",
+      "reason": "No primary-source rights-holder authorization; uploader is not on the reviewed allowlist and exact metadata gates are unverified."
+    },
+    {
+      "id": "QlYvtM3Z2fE",
+      "title": "Crayon Shinchan",
+      "category": "anime-series",
+      "season": "Shorts / clip",
+      "episode": "Not an episode candidate",
+      "audio": "Hindi text in title; audio not verified",
+      "uploader": "Bony Explain",
+      "expectedChannelId": null,
+      "channelIdentityReviewed": false,
+      "uploaderIdConfirmed": false,
+      "publishedOn": "2025-04-07",
+      "sourceUrl": "https://www.youtube.com/watch?v=QlYvtM3Z2fE",
+      "sourceResult": "Devanagari search surfaced a result explicitly marked #shorts and Part 1.",
+      "status": "rejected_short_and_unreviewed_uploader",
+      "reason": "Short clip, not a full episode; no rights-holder authorization."
+    }
+  ],
+  "continuing_backlog_candidates": [
+    {
+      "id": "j8w7DzNgShg",
+      "title": "Mann",
+      "category": "movies",
+      "uploader": "Shemaroo Movies",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Carried forward from the previous run; no direct runtime/oEmbed/India metadata available."
+    },
+    {
+      "id": "CncVazPN0b0",
+      "title": "My Golden Life",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Episode 2 remains pending; actual audio/subtitle tracks and exact player metadata are not verified."
+    },
+    {
+      "id": "HmqoC0oual8",
+      "title": "My Golden Life",
+      "category": "k-dramas",
+      "uploader": "KBS WORLD TV",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Episode 3 remains pending; actual audio/subtitle tracks and exact player metadata are not verified."
+    },
+    {
+      "id": "Ij0GQQnmdSE",
+      "title": "Zom 100: Bucket List of the Dead",
+      "category": "anime-series",
+      "uploader": "Muse Hindi Dub",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Hindi Episode 7 remains pending exact player metadata."
+    },
+    {
+      "id": "fxd69S2o-uo",
+      "title": "Zom 100: Bucket List of the Dead",
+      "category": "anime-series",
+      "uploader": "Muse Hindi Dub",
+      "status": "pending_exact_metadata_verification",
+      "reason": "Hindi Episode 8 remains pending exact player metadata."
+    },
+    {
+      "id": "aguVAuNwMj4",
+      "title": "Pokémon Horizons: The Series",
+      "category": "anime-series",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "status": "pending_exact_metadata_and_episode_mapping",
+      "reason": "Prior candidate still lacks direct player metadata and season-number reconciliation."
+    },
+    {
+      "id": "WPoSheFW51o",
+      "title": "Pokémon Horizons: The Series",
+      "category": "anime-series",
+      "uploader": "Pokémon Asia Official (Hindi)",
+      "status": "pending_exact_metadata_and_episode_mapping",
+      "reason": "Prior candidate still lacks direct player metadata and season-number reconciliation."
+    }
+  ],
+  "verification_summary": {
+    "eligible_candidates": 0,
+    "already_in_catalogue": 2,
+    "pending_metadata_candidates": 4,
+    "rejected_candidates": 3,
+    "new_titles": 0,
+    "new_uploads": 0,
+    "duplicate_video_ids": 0,
+    "duplicate_canonical_title_season_episode_language": 0
+  },
+  "skipped_reasons": [
+    "Direct YouTube watch-page metadata and oEmbed were inaccessible in this run; search-indexed title/channel results are not enough to prove runtime, public full-content status, embeddability or India country metadata.",
+    "Pokémon Horizons Season 2 episode-relative numbering is not reconciled with the current catalogue's stored episode numbering; no guessed episode insertion.",
+    "Pokémon South Asia Official (ENG) was not added to channels.json because an external primary-source identity/authorization link from Pokémon's official portal was not found; its Episode 26 candidate remains pending.",
+    "Ramayana Hindi candidate qv9z4rp375U is a part 1/5 upload from an unreviewed uploader, not a verified full feature.",
+    "Shinchan candidates EYvKlrX_Csw and QlYvtM3Z2fE were excluded because their uploaders are not reviewed rights holders; QlYvtM3Z2fE is explicitly a short/part clip.",
+    "No new official Doraemon, Pokémon, Suzume or Ne Zha full anime feature passed every gate; no trailer, compilation or unrelated live-action film was substituted.",
+    "My Golden Life Episode 29's title advertises subtitle languages, but actual audio/subtitle tracks and exact per-video metadata remain unverified."
+  ],
+  "anime_movie_browse_priority_preserved": [
+    {
+      "id": "neelkanth-and-the-snows-of-the-himalayas",
+      "title": "Neelkanth and the Snows of the Himalayas",
+      "browse_priority": 4
+    },
+    {
+      "id": "neelkanth-and-the-dawn-of-divine-destiny",
+      "title": "Neelkanth and the Dawn of Divine Destiny",
+      "browse_priority": 5
+    },
+    {
+      "id": "ghanshyam-and-the-storm-of-evil",
+      "title": "Ghanshyam and the Storm of Evil",
+      "browse_priority": 5
+    },
+    {
+      "id": "ghanshyam-and-the-miracles-of-life",
+      "title": "Ghanshyam and the Miracles of Life",
+      "browse_priority": 5
+    },
+    {
+      "id": "ghanshyam-and-the-aura-of-ayodhya",
+      "title": "Ghanshyam and the Aura of Ayodhya",
+      "browse_priority": 5
+    },
+    {
+      "id": "neelkanth-and-the-swans-of-mansarovar",
+      "title": "Neelkanth and the Swans of Mansarovar",
+      "browse_priority": 5
+    },
+    {
+      "id": "neelkanth-and-the-secrets-beyond-yoga",
+      "title": "Neelkanth and the Secrets Beyond Yoga",
+      "browse_priority": 5
+    },
+    {
+      "id": "neelkanth-and-the-spells-of-darkness",
+      "title": "Neelkanth and the Spells of Darkness",
+      "browse_priority": 5
+    }
+  ],
+  "publication": {
+    "catalogue_changed": false,
+    "catalogue_blob_sha_unchanged": "978d75e229d8f0b8385395498664a13f1ecc833e",
+    "tracking_files_changed": true,
+    "no_empty_content_commit": true
+  },
+  "checks": {
+    "remote_main_read": true,
+    "build": "Not run locally: container cannot resolve github.com; Vercel build status will be checked after commit.",
+    "audit": "Not run locally for the same network/runtime blocker.",
+    "unit_tests": "Not run locally for the same network/runtime blocker.",
+    "node_check": "Not run locally for the same network/runtime blocker.",
+    "production_homepage": "Pending post-commit fetch",
+    "production_sitemap": "Pending post-commit fetch",
+    "representative_title_pages": "Pending post-commit fetch",
+    "actual_india_playback": "Unverified; metadata is not observed playback."
+  }
+}

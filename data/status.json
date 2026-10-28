@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-27T08:08:43+05:30",
+  "last_run": "2026-10-28T08:55:37+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate. Tracking report commit deployed successfully; production homepage is accessible and displays the current catalogue category counts. Sitemap and individual title-page fetches were blocked by the available web reader.",
+  "state": "Four-category discovery completed against current remote main. No new uploads passed every publication gate; catalogue preserved and discovery/status records updated. Deployment verification pending.",
   "added": {},
   "changed_availability": [],
   "link_checks": [],
@@ -11,80 +11,85 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No catalogue additions this run: no candidate passed all authorization, exact video metadata, audio/subtitle, runtime, public full-content, embeddability and India-region gates.",
-    "Pokémon Horizons Episodes 26 and Season 2 Episode 4 are indexed on the reviewed official Hindi channel, but direct per-video metadata is unavailable; season numbering also needs reconciliation.",
-    "Mann on Shemaroo Movies and My Golden Life Episode 29 on KBS WORLD TV remain pending because exact YouTube audio/subtitle tracks, runtime, uploader ID, oEmbed and IN country metadata could not be verified.",
-    "Direct YouTube watch-page requests were throttled and oEmbed access was disabled. Actual India playback remains unverified.",
-    "Local build/audit/unit/node checks could not run: Desktop Commander is offline and the container cannot resolve external hosts. The tracking report commit has a successful Vercel status; the production sitemap and representative title pages remain inaccessible to the available web reader."
+    "No new catalogue additions: no candidate passed all authorization, exact video metadata, language/subtitle, runtime, public full-content, embeddability and India-region gates.",
+    "Direct YouTube watch-page/oEmbed metadata remained inaccessible; actual India playback was not observed.",
+    "Pokémon Horizons Hindi Episode 26 needs exact player metadata and season-number reconciliation; the English edition also lacks primary-source channel identity confirmation.",
+    "Fairy Tail Episode 166 and My Golden Life Episode 29 remain pending exact metadata; title labels alone are not accepted as language/subtitle proof.",
+    "Ramayana Hindi search result was part 1/5 from an unreviewed uploader; Shinchan results were an unreviewed reupload and a short clip.",
+    "Local build/audit/unit/node checks could not run because the container cannot resolve github.com. Vercel deployment status and public production routes will be checked after commit."
   ],
   "next_scheduled_run": null,
-  "cursor": 5,
-  "last_manual_verification": "2026-10-27",
+  "cursor": 6,
+  "last_manual_verification": "2026-10-28",
   "catalogue_counts": {
     "anime-series": 79,
     "anime-movies": 29,
-    "movies": 115,
+    "movies": 120,
     "k-dramas": 63
   },
-  "upload_count": 2106,
+  "upload_count": 2111,
   "added_this_run": {
-    "anime-series": {
-      "titles": 0,
-      "uploads": 0
-    },
-    "anime-movies": {
-      "titles": 0,
-      "uploads": 0
-    },
-    "movies": {
-      "titles": 0,
-      "uploads": 0
-    },
-    "k-dramas": {
-      "titles": 0,
-      "uploads": 0
-    }
+    "anime-series": 0,
+    "anime-movies": 0,
+    "movies": 0,
+    "k-dramas": 0
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-27-morning-discovery.json",
+  "verification_report": "data/verification/2026-10-28-morning-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
   ],
   "last_display_update": "2026-10-24T08:53:02+05:30",
-  "display_state": "Available owner-selected Hindi anime movies lead Anime Movies; Shinchan upload checks rate-limited and tracked for retry",
+  "display_state": "Remote catalogue integrity verified; 291 titles and 2,111 video records. No new uploads passed publication gates in the 2026-10-28 discovery pass.",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
-  "latest_discovery_report": "data/verification/2026-10-27-morning-discovery.json",
+  "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-27",
-    "base_commit": "bc1c70ab21c6b495f8379d44df704b692f046da6",
+    "date": "2026-10-28",
+    "base_commit": "21a4166ce94934d083c4af23a18deebf2909a75a",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
-      "anime-series": 0,
-      "anime-movies": 0,
-      "movies": 0,
-      "k-dramas": 0
+      "anime-series": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "anime-movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "k-dramas": {
+        "titles": 0,
+        "uploads": 0
+      }
     },
-    "candidate_count": 7,
+    "candidate_count": 9,
     "eligible_candidates": 0,
-    "already_in_catalogue": 3,
+    "already_in_catalogue": 2,
     "pending_metadata_candidates": 4,
-    "search_queries": 40,
+    "rejected_candidates": 3,
+    "search_queries": 61,
     "searches_completed": {
-      "anime-series": 24,
-      "anime-movies": 5,
-      "movies": 7,
-      "k-dramas": 4
+      "anime-series": 30,
+      "anime-movies": 16,
+      "movies": 10,
+      "k-dramas": 5
     },
-    "report_commit": "574709fc4650fba4f23c13ea7dbfb59867c27750",
-    "report_commit_url": "https://github.com/nitesh-patel-01/aniloveindia/commit/574709fc4650fba4f23c13ea7dbfb59867c27750",
-    "deployment_status": "success",
-    "deployment_url": "https://vercel.com/nitesh-patels-projects-5d0fcf94/aniloveindia/HGFG2xvYELp3By5k6SEF15a9WRp9",
-    "homepage_check": "accessible; category counts match remote catalogue",
-    "sitemap_check": "reader_blocked",
-    "representative_title_pages_check": "reader_blocked"
+    "catalogue_blob_sha_before": "978d75e229d8f0b8385395498664a13f1ecc833e",
+    "catalogue_blob_sha_after": "978d75e229d8f0b8385395498664a13f1ecc833e",
+    "report_path": "data/verification/2026-10-28-morning-discovery.json",
+    "deployment_status": "pending post-commit verification",
+    "homepage_check": "pending post-commit fetch",
+    "sitemap_check": "pending post-commit fetch",
+    "representative_title_pages_check": "pending post-commit fetch"
   },
-  "title_count": 286
+  "title_count": 291,
+  "unique_video_ids": 2111,
+  "duplicate_video_ids": 0,
+  "duplicate_canonical_title_season_episode_language": 0
 }
