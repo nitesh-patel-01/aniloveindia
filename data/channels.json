@@ -142,5 +142,138 @@
   "identity_reviewed": true,
   "identity_evidence_url": "https://www.youtube.com/channel/UCqWhKZdJrvy0yHAamjWQkCA",
   "identity_note": "Hasbro Power Rangers Official YouTube channel, full episodes released by Hasbro"
+ },
+ {
+  "channel_id": "UC0wNSTMWIL3qaorLx0jie6A",
+  "name": "Ani-One Asia",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@AniOneAsia",
+  "identity_note": "Medialink official Ani-One channel; ID resolved via direct YouTube metadata 2026-10-28"
+ },
+ {
+  "channel_id": "UC9trsD1jCTXXtN3xIOIU8gg",
+  "name": "WB Kids",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg",
+  "identity_note": "Warner Bros. official WB Kids channel; ID corroborated by WB Kids' own video descriptions"
+ },
+ {
+  "channel_id": "UCeuCusk31pZdvI8ap69A2DA",
+  "name": "Totally Spies!",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@TotallySpiesChannel",
+  "identity_note": "Official Totally Spies channel; ID resolved via direct YouTube metadata with title confirmation 2026-10-28"
+ },
+ {
+  "channel_id": "UCcYw1UUwxjIMYfvmdQrcyUA",
+  "name": "YOUKU Animation",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@youkuanimation",
+  "identity_note": "YOUKU official animation channel; ID resolved via direct YouTube metadata 2026-10-28; latest episodes may be members-only and fail the video gate"
+ },
+ {
+  "channel_id": "UCQe8YEJaNoqWQCiw0p6XjXg",
+  "name": "iQIYI Animation",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@iqiyianimation",
+  "identity_note": "iQIYI official animation channel; ID resolved via direct YouTube metadata 2026-10-28; some uploads are limited-free or members-only and fail the video gate"
+ },
+ {
+  "channel_id": "UCQYYekTKCb1y12sas08T6gQ",
+  "name": "Toei Animation",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@ToeiAnimationOfficial",
+  "identity_note": "Toei Animation official channel; ID multi-corroborated 2026-10-28; its stated territories exclude India, so per-video India gate still applies"
+ },
+ {
+  "channel_id": "UCoUWYIKOr1pxtk_2pKtTzkQ",
+  "name": "TRANSFORMERS",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@Transformers",
+  "identity_note": "Hasbro official TRANSFORMERS channel; ID resolved via direct YouTube metadata 2026-10-28"
+ },
+ {
+  "channel_id": "UCQeaaygt1I71F15PMa4QTZA",
+  "name": "Sonic The Hedgehog - WildBrain",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@sonicthehedgehogwildbrain",
+  "identity_note": "WildBrain official Sonic channel; ID agreed by two stats sites 2026-10-28"
+ },
+ {
+  "channel_id": "UCWE_ywN-0aeFdGVpLQ6mIwg",
+  "name": "WildBrain Bananas",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCWE_ywN-0aeFdGVpLQ6mIwg",
+  "identity_note": "WildBrain kids network channel; ID re-confirmed via official WildBrain video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UCGA7nPOXJkwtI-zU1gitDKw",
+  "name": "WildBrain Fizz",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCGA7nPOXJkwtI-zU1gitDKw",
+  "identity_note": "WildBrain kids network channel; ID re-confirmed via official WildBrain video descriptions 2026-10-28; some listings label this ID 'WildBrain Action Arena' (possible rename)"
+ },
+ {
+  "channel_id": "UCyJjmqrFNnx2gnvVF4rpNdg",
+  "name": "A Kind of Magic",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCyJjmqrFNnx2gnvVF4rpNdg",
+  "identity_note": "Xilam official channel; ID re-confirmed via official Oggy video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UC31hiLXXl5rpYX7WcRImHFw",
+  "name": "Space Goofs",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UC31hiLXXl5rpYX7WcRImHFw",
+  "identity_note": "Xilam official channel; ID re-confirmed via official Oggy video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UCq9EyaNF3n5YT-sBXxO3rBw",
+  "name": "Ratz",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCq9EyaNF3n5YT-sBXxO3rBw",
+  "identity_note": "Xilam official channel; ID re-confirmed via official Oggy video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UCaWzkhE6F_CHRo0jrXsvLIA",
+  "name": "Floopaloo",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/channel/UCaWzkhE6F_CHRo0jrXsvLIA",
+  "identity_note": "Xilam official channel; ID re-confirmed via official Oggy video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UCQFyMGc6h30NMCd6HCk0ZPA",
+  "name": "Made By Bilibili",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@MadeByBilibili",
+  "identity_note": "Bilibili official donghua channel; ID re-confirmed via the channel's own video descriptions 2026-10-28"
+ },
+ {
+  "channel_id": "UCxxnxya_32jcKj4yN1_kD7A",
+  "name": "Muse Indonesia",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.speakrj.com/audit/report/UCxxnxya_32jcKj4yN1_kD7A/youtube",
+  "identity_note": "SINGLE-SOURCE ID (speakrj audit page only, 12.3M subs) — needs one more confirmation; Muse Communication Indonesia branch, Indonesian subs"
+ },
+ {
+  "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+  "name": "Crunchyroll",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.speakrj.com/audit/report/UC6pGDc4bFGD1_36IKv3FnYg/youtube",
+  "identity_note": "SINGLE-SOURCE ID (speakrj audit pages only, 8.9M subs) — needs one more confirmation; uploads are mostly US-region, per-video India gate still applies"
+ },
+ {
+  "channel_id": "UCqyqBNOAlZgJ3dQoDSCbCjQ",
+  "name": "Ani-Mi Asia",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://socialcounts.org/youtube-live-subscriber-count/UCqyqBNOAlZgJ3dQoDSCbCjQ",
+  "identity_note": "SINGLE-SOURCE ID (socialcounts page only) — needs one more confirmation; MediaLink donghua brand, launched Oct 2023"
+ },
+ {
+  "channel_id": "UCRK_cuk_UAQqXgmsf4gW2-w",
+  "name": "Transformers Hindi Official",
+  "identity_reviewed": true,
+  "identity_evidence_url": "https://www.youtube.com/@transformershindiofficial",
+  "identity_note": "STRONG LEAD ID (vidIQ stats page + rutube mirror of an official description agree) — needs one live confirmation; Hasbro official Hindi channel"
  }
 ]
