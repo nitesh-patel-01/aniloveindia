@@ -8,7 +8,7 @@ class AnimeMovieOrdering(unittest.TestCase):
   expected=[t['id']for t in sorted((t for t in catalogue if t['category']=='anime-movies'),key=lambda t:t.get('browse_priority',100))]
   category=(ROOT/'dist/category/anime-movies/index.html').read_text()
   self.assertEqual(re.findall(r'<article class="title-card" data-id="([^"]+)"',category),expected)
-  home=(ROOT/'dist/index.html').read_text();rail=home.split('Anime movie night',1)[1].split('<section class="editorial-banner"',1)[0]
+  home=(ROOT/'dist/index.html').read_text();rail=home.split('Anime movie night',1)[1].split('Cartoons to watch together',1)[0]
   self.assertEqual(re.findall(r'<article class="title-card" data-id="([^"]+)"',rail),expected)
   # Execute the actual search renderer with a minimal DOM to catch client/server order divergence.
   function=next(line for line in (ROOT/'assets/app.js').read_text().splitlines()if line.startswith('function filter()'))

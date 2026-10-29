@@ -38393,5 +38393,298 @@
   "related": [],
   "added_on": "2026-10-30",
   "discovery": "User-supplied Muse India Ep 1 embed; full 12-episode Muse India playlist recovered and individually gate-checked 2026-10-30"
+ },
+ {
+  "id": "oggy-and-the-cockroaches",
+  "title": "Oggy and the Cockroaches",
+  "category": "cartoons",
+  "format": "Series",
+  "audio_label": "Hindi",
+  "genre": [
+   "Cartoon",
+   "Comedy"
+  ],
+  "provider": "Oggy Hindi",
+  "watch_url": "https://www.youtube.com/watch?v=M7ILXjf5HoI",
+  "synopsis": "Oggy and the Cockroaches is a French animated comedy series created by Jean-Yves Raimbaud and produced by Xilam and Gaumont. First shown on 6 September 1998, it is a silent slapstick chase: blue cat Oggy against three cockroaches, Joey, Marky and Dee Dee, who turn his quiet house upside down.",
+  "color": "#0ea5e9",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official identity-reviewed uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=M7ILXjf5HoI"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/M7ILXjf5HoI/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed Hindi compilation from official Oggy Hindi, 2026-10-30",
+  "year": 1998,
+  "country": "France",
+  "original_language": "French",
+  "seasons": [
+   {
+    "id": "oggy-and-the-cockroaches-hindi-compilations",
+    "label": "Compilations · Hindi",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "One checked Hindi compilation (53 min best-of) listed; this is not the complete series.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UC9TgvYNUsMBPl6J2xbL-4qg",
+    "channel_id": "UC9TgvYNUsMBPl6J2xbL-4qg",
+    "audio_language_evidence": "Upload title explicitly states Hindi; official Oggy Hindi channel.",
+    "episodes": [
+     {
+      "number": "compilation",
+      "title": "हिंदी Oggy and the Cockroaches🌵Best compilation 2019🌵Hindi Cartoons for Kids",
+      "video_id": "M7ILXjf5HoI",
+      "duration_seconds": 3193,
+      "channel_id": "UC9TgvYNUsMBPl6J2xbL-4qg",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bluey",
+  "title": "Bluey",
+  "category": "cartoons",
+  "format": "Series",
+  "audio_label": "Hindi",
+  "genre": [
+   "Cartoon",
+   "Family"
+  ],
+  "provider": "Bluey Hindi",
+  "watch_url": "https://www.youtube.com/watch?v=O5waiXRpSiI",
+  "synopsis": "Bluey is an Australian animated series created by Joe Brumm and produced by Ludo Studio. First shown on 1 October 2018, it follows six-year-old Blue Heeler puppy Bluey, her younger sister Bingo, and parents Bandit and Chilli, turning everyday family life into imaginative play.",
+  "color": "#2563eb",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official identity-reviewed uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=O5waiXRpSiI"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/O5waiXRpSiI/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed Hindi compilation from official Bluey Hindi, 2026-10-30",
+  "year": 2018,
+  "country": "Australia",
+  "original_language": "English",
+  "seasons": [
+   {
+    "id": "bluey-hindi-compilations",
+    "label": "Compilations · Hindi",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "One checked Hindi compilation of Bluey moments listed; this is not the complete series.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCpf1YanfL_z7Y1dFpe7xSBg",
+    "channel_id": "UCpf1YanfL_z7Y1dFpe7xSBg",
+    "audio_language_evidence": "Upload title explicitly states Hindi; official Bluey Hindi channel.",
+    "episodes": [
+     {
+      "number": "compilation",
+      "title": "Bluey in Hindi 💙 🇮🇳 | Bluey Animal Moments देखिये | Hindi Cartoon for Kids",
+      "video_id": "O5waiXRpSiI",
+      "duration_seconds": 861,
+      "channel_id": "UCpf1YanfL_z7Y1dFpe7xSBg",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mia-and-me",
+  "title": "Mia and Me",
+  "category": "cartoons",
+  "format": "Series",
+  "audio_label": "Hindi",
+  "genre": [
+   "Cartoon",
+   "Fantasy",
+   "Adventure"
+  ],
+  "provider": "Kiddo Toons Hindi",
+  "watch_url": "https://www.youtube.com/watch?v=1AEhw9S1bfs",
+  "synopsis": "Mia and Me is a German-Italian-Canadian animated series created by Gerhard Hahn. Mia, a girl who can talk to unicorns, travels through a magic storybook into the world of Centopia, where she helps the elves and unicorns stand against the villainous Queen Panthea.",
+  "color": "#c026d3",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official identity-reviewed uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=1AEhw9S1bfs"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/1AEhw9S1bfs/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed Hindi Ep 1 from Kiddo Toons Hindi, 2026-10-30",
+  "year": 2012,
+  "country": "Germany",
+  "original_language": "English",
+  "seasons": [
+   {
+    "id": "mia-and-me-season-1-hindi",
+    "label": "Season 1 · Hindi",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 1 checked; further episodes to be added as verified.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCSFps0IYmpa27sQ7M7fh3pw",
+    "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+    "audio_language_evidence": "Kiddo Toons Hindi channel; upload title states Hindi Cartoon.",
+    "episodes": [
+     {
+      "number": "1",
+      "title": "Talking To Unicorns | Mia And Me Animation Cartoon Series For Kids Ep 1 | Unicorns Cartoon Show",
+      "video_id": "1AEhw9S1bfs",
+      "duration_seconds": 1305,
+      "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ],
+    "season_number": 1
+   }
+  ]
+ },
+ {
+  "id": "super-spin-combiner",
+  "title": "Super Spin Combiner",
+  "category": "cartoons",
+  "format": "Series",
+  "audio_label": "Hindi",
+  "genre": [
+   "Cartoon",
+   "Action"
+  ],
+  "provider": "Kiddo Toons Hindi",
+  "watch_url": "https://www.youtube.com/watch?v=-LVs6DIpiD8",
+  "synopsis": "Super Spin Combiner Ep 1 from Kiddo Toons Hindi: an epic spinning-top battle cartoon in Hindi, a Beyblade-style fighting match for kids.",
+  "color": "#ea580c",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official identity-reviewed uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=-LVs6DIpiD8"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/-LVs6DIpiD8/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed Hindi Ep 1 from Kiddo Toons Hindi, 2026-10-30. Series year, country and original language are NOT stated: no authoritative source was found for this series, so none is claimed.",
+  "seasons": [
+   {
+    "id": "super-spin-combiner-season-1-hindi",
+    "label": "Season 1 · Hindi",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 1 checked; further episodes to be added as verified.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCSFps0IYmpa27sQ7M7fh3pw",
+    "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+    "audio_language_evidence": "Kiddo Toons Hindi channel; upload title states Hindi Cartoon.",
+    "episodes": [
+     {
+      "number": "1",
+      "title": "Super Spin Combiner Ep 1 | Epic Spinning Top Battle | Beyblade Fighting Match | Kiddo Toons Hindi",
+      "video_id": "-LVs6DIpiD8",
+      "duration_seconds": 1327,
+      "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ],
+    "season_number": 1
+   }
+  ]
+ },
+ {
+  "id": "thunder-machine",
+  "title": "Thunder Machine",
+  "category": "cartoons",
+  "format": "Series",
+  "audio_label": "Hindi",
+  "genre": [
+   "Cartoon",
+   "Action"
+  ],
+  "provider": "Kiddo Toons Hindi",
+  "watch_url": "https://www.youtube.com/watch?v=yiQzut9OB3Q",
+  "synopsis": "Thunder Machine Ep 1 from Kiddo Toons Hindi: an action and adventure Hindi cartoon about machine fighting, for kids.",
+  "color": "#475569",
+  "motif": "moss",
+  "word": "ANILOVE",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official identity-reviewed uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=yiQzut9OB3Q"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/yiQzut9OB3Q/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed Hindi Ep 1 from Kiddo Toons Hindi, 2026-10-30. Series year, country and original language are NOT stated: no authoritative source was found for this series, so none is claimed.",
+  "seasons": [
+   {
+    "id": "thunder-machine-season-1-hindi",
+    "label": "Season 1 · Hindi",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 1 checked; further episodes to be added as verified.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCSFps0IYmpa27sQ7M7fh3pw",
+    "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+    "audio_language_evidence": "Kiddo Toons Hindi channel; upload title states Hindi Cartoon.",
+    "episodes": [
+     {
+      "number": "1",
+      "title": "Thunder Machine Ep 1 | Action And Adventure Hindi Cartoon Stories | Machine Fighting | Cartoon Kids",
+      "video_id": "yiQzut9OB3Q",
+      "duration_seconds": 1385,
+      "channel_id": "UCSFps0IYmpa27sQ7M7fh3pw",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ],
+    "season_number": 1
+   }
+  ]
  }
 ]
