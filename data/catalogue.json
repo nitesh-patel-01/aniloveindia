@@ -8651,7 +8651,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 9
  },
  {
   "id": "little-nemo-adventures-in-slumberland",
@@ -8706,7 +8707,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 14
  },
  {
   "id": "treasure-island",
@@ -8763,7 +8765,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 15
  },
  {
   "id": "kgf",
@@ -17632,7 +17635,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 10
  },
  {
   "id": "mobile-suit-gundam-ii",
@@ -17689,7 +17693,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 11
  },
  {
   "id": "mobile-suit-gundam-iii",
@@ -17746,7 +17751,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 12
  },
  {
   "id": "mobile-suit-gundam-chars-counterattack",
@@ -17803,7 +17809,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 13
  },
  {
   "id": "aan-men-at-work",
@@ -23257,7 +23264,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  "discovery": "Broad anime movie search across rights-holder and official publisher channels",
+  "browse_priority": 8
  },
  {
   "id": "attack-on-titan-part-1-guren-no-yumiya",
@@ -23322,7 +23330,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  "discovery": "Broad anime movie search across rights-holder and official publisher channels",
+  "browse_priority": 3
  },
  {
   "id": "attack-on-titan-part-2-jiyuu-no-tsubasa",
@@ -23387,7 +23396,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  "discovery": "Broad anime movie search across rights-holder and official publisher channels",
+  "browse_priority": 4
  },
  {
   "id": "fairy-tail-dragon-cry",
@@ -23450,7 +23460,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad anime movie search across rights-holder and official publisher channels"
+  "discovery": "Broad anime movie search across rights-holder and official publisher channels",
+  "browse_priority": 6
  },
  {
   "id": "lim-kkeok-jeong",
@@ -29343,7 +29354,7 @@
   "related": [],
   "added_on": "2026-10-18",
   "discovery": "Exact official full-movie upload checked 2026-10-18",
-  "browse_priority": 10,
+  "browse_priority": 1,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31437,7 +31448,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 11,
+  "browse_priority": 24,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31508,7 +31519,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 12,
+  "browse_priority": 25,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31577,7 +31588,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 14,
+  "browse_priority": 27,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31647,7 +31658,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 15,
+  "browse_priority": 28,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31717,7 +31728,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 16,
+  "browse_priority": 29,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31816,7 +31827,7 @@
   ],
   "added_on": "2026-10-19",
   "discovery": "Broad Hindi-first feature-film search; spiritual/sci-fi anime films labelled accurately, no trending rank claimed",
-  "browse_priority": 13,
+  "browse_priority": 26,
   "browse_priority_reason": "Owner-requested Hindi anime film placement; editorial order, not a measured trending rank"
  },
  {
@@ -31974,7 +31985,7 @@
   "added_on": "2026-10-19",
   "related": [],
   "thumbnail": "https://i.ytimg.com/vi/zJnQuw6UuNw/hqdefault.jpg",
-  "browse_priority": 4,
+  "browse_priority": 16,
   "browse_priority_reason": "Owner-requested animated feature; Hindi edition first, then English."
  },
  {
@@ -32044,7 +32055,7 @@
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
   "thumbnail": "https://i.ytimg.com/vi/zzvHjVPnWwk/hqdefault.jpg",
-  "browse_priority": 5,
+  "browse_priority": 17,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film."
  },
  {
@@ -32733,7 +32744,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 7
  },
  {
   "id": "akira",
@@ -32793,7 +32805,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 2
  },
  {
   "id": "attack-on-titan-season-2-the-movie-roar-of-awakening",
@@ -32853,7 +32866,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 5
  },
  {
   "id": "kaithi",
@@ -36608,7 +36622,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 18,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/uVL_4ZC17Gk/hqdefault.jpg",
   "seasons": [
@@ -36703,7 +36717,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 19,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/n3BKI0zJDjE/hqdefault.jpg",
   "seasons": [
@@ -36772,7 +36786,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 20,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/O08OuOsncT8/hqdefault.jpg",
   "seasons": [
@@ -36867,7 +36881,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 21,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/NqbyBnx6e1o/hqdefault.jpg",
   "seasons": [
@@ -36936,7 +36950,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 22,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/zDkKNt6FEEM/hqdefault.jpg",
   "seasons": [
@@ -37005,7 +37019,7 @@
   "related": [
    "neelkanth-and-the-snows-of-the-himalayas"
   ],
-  "browse_priority": 5,
+  "browse_priority": 23,
   "browse_priority_reason": "Available Hindi animated feature alongside the owner-requested Neelkanth film.",
   "thumbnail": "https://i.ytimg.com/vi/5yqWJFecxfo/hqdefault.jpg",
   "seasons": [
