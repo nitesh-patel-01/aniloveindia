@@ -37995,5 +37995,201 @@
   "related": [],
   "added_on": "2026-10-29",
   "discovery": "Official channel upload checked 2026-10-29"
+ },
+ {
+  "id": "my-hero-academia",
+  "title": "My Hero Academia",
+  "original_title": "My Hero Academia",
+  "alternate_titles": [
+   "Boku no Hero Academia"
+  ],
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "Hindi dub",
+  "country": "Japan",
+  "year": 2016,
+  "genre": [
+   "Anime",
+   "Action"
+  ],
+  "provider": "Ani-One India",
+  "watch_url": "https://www.youtube.com/watch?v=UrWfd2XQrig",
+  "synopsis": "Watch My Hero Academia Season 1 in Hindi from Ani-One India using the official YouTube player. In a world where superpowers known as Quirks are the norm, Izuku Midoriya is born without one — until the world's greatest hero, All Might, bestows upon him the Quirk One For All, and Izuku enters U.A. High School to train as a hero.",
+  "color": "#e23636",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-30",
+  "verification_method": "Official Ani-One India uploader, explicit Hindi dub and season-relative episode metadata, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=UrWfd2XQrig",
+   "https://www.youtube.com/watch?v=H3_Oig0HtEo",
+   "https://www.youtube.com/watch?v=bCOZE2gwgE4",
+   "https://www.youtube.com/watch?v=bb0nh6RDcGg",
+   "https://www.youtube.com/watch?v=G_pVnCX8k_Q",
+   "https://www.youtube.com/watch?v=_37HQNWSn5s",
+   "https://www.youtube.com/watch?v=c7vR476aNes",
+   "https://www.youtube.com/watch?v=2eX_w_1GN0w",
+   "https://www.youtube.com/watch?v=-4HSjT1KKQE",
+   "https://www.youtube.com/watch?v=94sFPQk0Gec",
+   "https://www.youtube.com/watch?v=MvF8FVicL28",
+   "https://www.youtube.com/watch?v=qgltGPyF5HE",
+   "https://www.youtube.com/watch?v=9F8qJbzJayo"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/UrWfd2XQrig/hqdefault.jpg",
+  "seasons": [
+   {
+    "id": "my-hero-academia-season-1-hindi",
+    "label": "Season 1 · Hindi dub",
+    "audio_language": "Hindi",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "All 13 episodes verified from Ani-One India Hindi uploads; individually checked uploads. Actual India playback remains unverified.",
+    "last_checked": "2026-10-30",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UC67pLBZ_z4Gd46t6mW7uHjA",
+    "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+    "audio_language_evidence": "Official uploader titles explicitly state Hindi dub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "1",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-1【Ani-One India】",
+      "video_id": "UrWfd2XQrig",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "2",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-2【Ani-One India】",
+      "video_id": "H3_Oig0HtEo",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "3",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-3【Ani-One India】",
+      "video_id": "bCOZE2gwgE4",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "4",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-4【Ani-One India】",
+      "video_id": "bb0nh6RDcGg",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "5",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-5【Ani-One India】",
+      "video_id": "G_pVnCX8k_Q",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "6",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-6【Ani-One India】",
+      "video_id": "_37HQNWSn5s",
+      "duration_seconds": 1470,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "7",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-7【Ani-One India】",
+      "video_id": "c7vR476aNes",
+      "duration_seconds": 1456,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "8",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-8【Ani-One India】",
+      "video_id": "2eX_w_1GN0w",
+      "duration_seconds": 1460,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "9",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-9【Ani-One India】",
+      "video_id": "-4HSjT1KKQE",
+      "duration_seconds": 1455,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "10",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-10【Ani-One India】",
+      "video_id": "94sFPQk0Gec",
+      "duration_seconds": 1455,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "11",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-11【Ani-One India】",
+      "video_id": "MvF8FVicL28",
+      "duration_seconds": 1455,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "12",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-12【Ani-One India】",
+      "video_id": "qgltGPyF5HE",
+      "duration_seconds": 1454,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "13",
+      "title": "⟪HINDI DUB⟫ ⟪MY HERO ACADEMIA⟫ Episode-13【Ani-One India】",
+      "video_id": "9F8qJbzJayo",
+      "duration_seconds": 1455,
+      "channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-30",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "User-supplied official Ani-One India embeds, individually gate-checked 2026-10-30"
  }
 ]
