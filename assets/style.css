@@ -67,3 +67,5 @@
 .season-card img{aspect-ratio:4/3}
 
 @media(max-width:760px){.stream-copy h1,.stream-copy h2{min-height:2.24em}.stream-copy .hero-synopsis{min-height:4.8em}}
+
+@media(max-width:760px){.hero-navigation{position:static;justify-content:flex-end;padding:2px 5% 14px}.hero-switcher{padding-right:5%}.hero-switcher button{width:clamp(14px,4.5vw,30px)}}
