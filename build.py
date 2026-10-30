@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
-BASE=os.environ.get('SITE_URL','https://aniloveindia.vercel.app').rstrip('/')
+BASE=os.environ.get('SITE_URL','https://aniloveindia.com').rstrip('/')
 esc=lambda x:html.escape(str(x),quote=True)
 def iso_dur(s):
  s=int(s);return 'PT'+((str(s//3600)+'H') if s>=3600 else '')+((str((s%3600)//60)+'M') if (s%3600)//60 or s>=3600 else '')+str(s%60)+'S'

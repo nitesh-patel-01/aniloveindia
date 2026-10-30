@@ -57,5 +57,18 @@
     }
   ],
   "cleanUrls": true,
-  "trailingSlash": true
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "aniloveindia.vercel.app"
+        }
+      ],
+      "destination": "https://aniloveindia.com/:path*",
+      "permanent": true
+    }
+  ]
 }
