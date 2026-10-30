@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:22:22+05:30",
+  "updated_at": "2026-10-30T08:15:15+05:30",
   "items": [
     {
       "title_id": "ragna-crimson",
@@ -3422,8 +3422,8 @@
           "verified_complete": false
         }
       ],
-      "last_attempted_on": "2026-10-29",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "last_attempted_on": "2026-10-30",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_edition_coverage": [
         {
           "title_id": "fairy-tail",
@@ -3709,22 +3709,65 @@
           "observed_on": "2026-10-28",
           "status": "pending_exact_metadata_verification",
           "reason": "Exact public listing surfaced, but per-video uploader ID, runtime, public player status, oEmbed and India country metadata remain unavailable."
+        },
+        {
+          "video_id": "B3WOuq_n1hI",
+          "title": "Fairy Tail - Episode 033 (S1E33) [Hindi Dub] | Muse IN",
+          "canonical_title": "Fairy Tail",
+          "category": "anime-series",
+          "expected_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn422202youtube1",
+          "source_url": "https://www.youtube.com/watch?v=B3WOuq_n1hI",
+          "season": 1,
+          "episode": "33",
+          "language_label": "Hindi Dub search-result label only"
+        },
+        {
+          "video_id": "iRtjJYVbRVM",
+          "title": "Fairy Tail - Episode 090 (S3E18) [Hindi Dub] | Muse IN",
+          "canonical_title": "Fairy Tail",
+          "category": "anime-series",
+          "expected_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn422202youtube0",
+          "source_url": "https://www.youtube.com/watch?v=iRtjJYVbRVM",
+          "season": 3,
+          "episode": "18",
+          "language_label": "Hindi Dub search-result label only"
         }
       ],
       "reason": "Existing Hindi Season 1/2 and Season 7 entries are preserved. Public search surfaced Season 3 Hindi leads for episodes 73–75, 78–80 and 83, but exact watch metadata was throttled/inaccessible. No Season 3 entries or completion claims added.",
-      "last_discovery_attempt_on": "2026-10-28",
-      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-30",
+      "latest_discovery_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Public YouTube search results for exact Muse India video IDs",
+          "Reviewed Muse India channel identity",
+          "Current remote catalogue and published_hindi_coverage"
         ],
-        "result": "No new exact official Hindi upload ID passed verification in this pass. Existing pending Season 3 and other episode leads remain pending exact watch/oEmbed metadata; no new episode added."
+        "result": "Found two additional exact Hindi-labelled leads: missing S1E33 and S3E18. Both remain pending exact per-video metadata, actual audio, runtime, public player, oEmbed and IN country checks; no episode added."
       },
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -5688,19 +5731,17 @@
         "Retry exact metadata for Pokémon Horizons Hindi Episode 26 (6XtHkPt3gqo) and reconcile publisher season-relative numbering against the catalogue's current episode numbering before insertion.",
         "Find primary-source Pokémon authorization evidence for Pokémon South Asia Official (ENG), then verify exact per-video metadata for TISayYufbFU before considering an English edition."
       ],
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
-      "last_attempted_on": "2026-10-29",
-      "last_discovery_attempt_on": "2026-10-28",
-      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
+      "last_attempted_on": "2026-10-30",
+      "last_discovery_attempt_on": "2026-10-30",
+      "latest_discovery_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Public YouTube search for Pokémon Asia Official Hindi episodes 45–48",
+          "Current remote catalogue and published episode coverage"
         ],
-        "result": "No new exact official Hindi/English Episode 27 upload passed verification. Previously recorded Episode 26 leads remain pending season mapping, exact uploader identity and metadata; no new episode added."
+        "result": "No new exact official Hindi episode IDs for 45–48 surfaced. Existing Episode 26 candidates remain unresolved for exact metadata and season numbering; no episode added."
       },
       "candidate_uploads": [
         {
@@ -5941,7 +5982,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-29",
+      "last_attempted_on": "2026-10-30",
       "queries": [
         "Doraemon full movie Hindi official",
         "डोरेमोन पूरी फिल्म हिंदी",
@@ -5996,20 +6037,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 0,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Hindi/Devanagari and English public YouTube searches for exact franchise and alternate names",
+          "Reviewed rights-holder/distributor channel allowlist",
+          "Current remote catalogue"
         ],
-        "result": "Search surfaced reporting about the 2026 Indian theatrical release of New Nobita and the Castle of the Undersea Devil, but the result was a teaser/theatrical announcement, not a verified full YouTube feature. No playable movie candidate passed the gates."
+        "result": "No new exact authorized full upload passed all required gates. Generic unreviewed uploads, trailers, shorts and title-only claims were not added."
       },
       "last_discovery_attempt_on": "2026-10-28",
       "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "pokemon-movies",
@@ -6017,7 +6057,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-29",
+      "last_attempted_on": "2026-10-30",
       "queries": [
         "Pokemon full movie Hindi official",
         "पोकेमॉन मूवी हिंदी",
@@ -6047,20 +6087,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 1,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Hindi/Devanagari and English public YouTube searches for exact franchise and alternate names",
+          "Reviewed rights-holder/distributor channel allowlist",
+          "Current remote catalogue"
         ],
-        "result": "No new official rights-holder full Pokémon feature upload passed the Hindi-first YouTube checks. The official Pokémon Homecoming upload is a short animation, not a feature film; unauthorized movie claims were excluded."
+        "result": "No new exact authorized full upload passed all required gates. Generic unreviewed uploads, trailers, shorts and title-only claims were not added."
       },
       "last_discovery_attempt_on": "2026-10-28",
       "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "suzume",
@@ -6068,7 +6107,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-29",
+      "last_attempted_on": "2026-10-30",
       "queries": [
         "Suzume full movie Hindi"
       ],
@@ -6102,20 +6141,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 2,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Hindi/Devanagari and English public YouTube searches for exact franchise and alternate names",
+          "Reviewed rights-holder/distributor channel allowlist",
+          "Current remote catalogue"
         ],
-        "result": "No official full-feature YouTube upload passed rights-holder, language, embeddability and India metadata checks. No new movie added."
+        "result": "No new exact authorized full upload passed all required gates. Generic unreviewed uploads, trailers, shorts and title-only claims were not added."
       },
       "last_discovery_attempt_on": "2026-10-28",
       "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "ne-zha-animated-films",
@@ -6123,7 +6161,7 @@
       "priority": 1,
       "preferred_audio": "Hindi",
       "state": "feature_film_source_verification_pending",
-      "last_attempted_on": "2026-10-29",
+      "last_attempted_on": "2026-10-30",
       "queries": [
         "Ne Zha full movie Hindi official",
         "Nezha Hindi full movie Ultra",
@@ -6206,20 +6244,19 @@
       "reason": "Broad public search and exact watch checks found no newly verified authorized full feature upload for this named target. A long runtime or an official-sounding name is not rights-holder identity evidence. Continue official publisher announcements, alternate titles, public playlists and ordinary pagination. Do not label these films unavailable everywhere or fabricate a playable card. Latest 2026-10-20 pass: official-channel and alternate-title searches found only unreviewed full-film claims, trailers/partials, or existing entries. No new authorized full feature passed all gates; exact watch/oEmbed metadata was inaccessible.",
       "browse_priority_on_verified_import": 3,
       "browse_priority_note": "Owner asked these anime films to lead Anime Movies when a real eligible upload is verified; never create unavailable placeholder cards.",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Hindi/Devanagari and English public YouTube searches for exact franchise and alternate names",
+          "Reviewed rights-holder/distributor channel allowlist",
+          "Current remote catalogue"
         ],
-        "result": "Two public full-film claims were found (etVMaKdQR2o and v8aGn_S7yJw), but both uploaders are unreviewed and no rights-holder authorization evidence was established. Both were rejected; no movie added."
+        "result": "No new exact authorized full upload passed all required gates. Generic unreviewed uploads, trailers, shorts and title-only claims were not added."
       },
       "last_discovery_attempt_on": "2026-10-28",
       "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "crayon-shinchan",
@@ -6227,7 +6264,7 @@
       "preferred_audio": "Hindi",
       "priority": 1,
       "state": "exact_uploads_failed_india_metadata_gate",
-      "last_attempted_on": "2026-10-29",
+      "last_attempted_on": "2026-10-30",
       "sources": [
         "https://www.youtube.com/@SonyYAY/search?query=Shinchan",
         "https://www.youtube.com/@MuseAsia/search?query=Crayon%20Shinchan",
@@ -6242,7 +6279,7 @@
         "QlYvtM3Z2fE"
       ],
       "reason": "2026-10-20 broad Hindi/Devanagari and English search again returned reuploads and a short Muse Asia promo. Official Sony YAY/TV Asahi source crosslink and exact full-video audio/subtitle/IN metadata remain unresolved.",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "lv2st0cDaYM",
@@ -6299,18 +6336,17 @@
         }
       ],
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Hindi/Devanagari and English public YouTube searches for exact franchise and alternate names",
+          "Reviewed rights-holder/distributor channel allowlist",
+          "Current remote catalogue"
         ],
-        "result": "Official TV Asahi information confirms the franchise's official YouTube channel exists, but no exact full Hindi episode passed uploader, runtime, language, embed and India metadata gates. Shorts and unreviewed reuploads were excluded."
+        "result": "No new exact authorized full upload passed all required gates. Generic unreviewed uploads, trailers, shorts and title-only claims were not added."
       },
       "last_discovery_attempt_on": "2026-10-28",
       "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-10-30"
     },
     {
       "title_id": "ben-10-movies",
@@ -6660,8 +6696,8 @@
       "title_id": "assassination-classroom",
       "title": "Assassination Classroom",
       "priority": 1,
-      "last_attempted_on": "2026-10-29",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "last_attempted_on": "2026-10-30",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "published_hindi_coverage": [
         {
           "season_id": "assassination-classroom-season-1-hindi",
@@ -6735,14 +6771,12 @@
         "Revalidate the exact upload metadata for the existing entries before marking the season verified-complete; do not invent additional episode links."
       ],
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Public YouTube searches for Muse India Assassination Classroom Hindi episodes",
+          "Current remote catalogue and published Hindi coverage"
         ],
-        "result": "A third-party schedule mentions a Hindi Season 2 rollout beginning 2026-10-25, but this search did not recover an exact official Hindi upload ID that passed the metadata gates. Existing Japanese Season 2 entries remain intact."
+        "result": "No new Hindi Season 2 upload passed verification. Existing Hindi Season 1 episodes 1–22 are already in the catalogue; no additions."
       },
       "last_checked": "2026-10-29"
     },
@@ -6756,8 +6790,8 @@
       "published_episode_numbers": [
         "1"
       ],
-      "last_attempted_on": "2026-10-29",
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json",
+      "last_attempted_on": "2026-10-30",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
       "candidate_uploads": [
         {
           "video_id": "CncVazPN0b0",
@@ -6836,17 +6870,16 @@
         "Require actual Korean audio and actual English subtitle evidence, runtime, exact uploader channel ID, public full-content status, embeddability and IN country metadata.",
         "Do not treat title labels or channel identity alone as proof of episode eligibility."
       ],
-      "latest_discovery_report": "data/verification/2026-10-28-morning-discovery.json",
-      "last_discovery_attempt_on": "2026-10-28",
+      "latest_discovery_report": "data/verification/2026-10-30-morning-discovery.json",
+      "last_discovery_attempt_on": "2026-10-30",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29"
+          "Public YouTube searches for KBS WORLD TV full episodes with English subtitles",
+          "Reviewed KBS WORLD TV channel identity",
+          "Current remote catalogue and prior candidate records"
         ],
-        "result": "Search surfaced KBS WORLD TV Episode 30 (s9KAIT1zAIk) and Episode 15 (nqBQGmkhGws). Title text advertises ENG/CHN/IND subtitles, but actual audio/subtitle tracks, per-video channel ID, runtime, public player status, oEmbed and India country metadata could not be verified. Both remain pending; no episode added."
+        "result": "No new exact upload passed verification. Existing Ep.2/3/29/44 leads and prior indexed Ep.15/30 leads remain pending actual track, uploader, runtime, embed and IN metadata."
       },
       "last_checked": "2026-10-29"
     },
@@ -7056,20 +7089,164 @@
         "4Bam-4ZB3Tk"
       ],
       "expected_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
-      "last_checked": "2026-10-29",
-      "reason": "The official Muse Asia complete-series compilation appears in public search and the owner reports India playback. Exact per-video uploader ID, runtime, current public full-content status, oEmbed, India country metadata and actual audio/subtitle tracks remain unverified. Do not add or label this edition until all required checks pass; if eligible, represent it as one compilation only.",
+      "last_checked": "2026-10-30",
+      "reason": "Current main catalogue already contains 12 individual Muse India uploads labelled English Sub (episodes 1–12). The separate Muse Asia complete-series compilation 4Bam-4ZB3Tk is not in the catalogue; exact per-video uploader ID, runtime, current public full-content status, oEmbed, IN country metadata and actual audio/subtitle tracks remain unverified. Keep the compilation as one pending candidate only.",
       "latest_attempt": {
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "sources": [
-          "Public YouTube search results for exact titles/video IDs",
-          "Current remote main catalogue and reviewed channel allowlist",
-          "data/discovery-backlog.json published_hindi_coverage and unresolved episode records",
-          "Dated verification reports through 2026-10-29",
-          "https://www.youtube.com/watch?v=4Bam-4ZB3Tk"
+          "Current remote main catalogue",
+          "Existing 2026-10-29 compilation verification report and backlog",
+          "Public search for Muse Asia Complete Series Unlimited Gacha"
         ],
-        "result": "Compilation remains pending exact metadata and language verification; no catalogue addition."
+        "result": "The 12 individual Muse India episodes already exist in main. The separate Muse Asia compilation remains pending exact metadata and language verification; no duplicate or compilation entry added."
       },
-      "latest_attempt_report": "data/verification/2026-10-29-morning-discovery.json"
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
+      "catalogue_reconciliation": {
+        "checked_on": "2026-10-30",
+        "catalogue_title_id": "my-gift-lvl-9999-unlimited-gacha",
+        "published_season_id": "my-gift-lvl-9999-unlimited-gacha-season-1-english-sub",
+        "individual_episode_numbers": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "individual_video_ids": [
+          "Vab3is5AQ0E",
+          "_Xlo_Tt63pA",
+          "hnCtBiSA0Z4",
+          "dxI4YSkhvuw",
+          "yTDS4vPG-rA",
+          "c9PkbUwQ2LE",
+          "btPkxeVgAYc",
+          "Q7cIrD9Lxf4",
+          "1MjeZDIijrM",
+          "IICRWHkIPiA",
+          "jWhSkGT6MNY",
+          "BUTZFc57PdA"
+        ],
+        "separate_compilation_video_id": "4Bam-4ZB3Tk",
+        "compilation_in_catalogue": false
+      }
+    },
+    {
+      "title_id": "tamons-b-side",
+      "title": "Tamon's B-Side",
+      "category": "anime-series",
+      "priority": 2,
+      "preferred_audio": "Hindi",
+      "state": "pending_exact_metadata_verification",
+      "source_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+      "candidate_uploads": [
+        {
+          "video_id": "ahSGip8YENA",
+          "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-1【Ani-One India】",
+          "canonical_title": "Tamon's B-Side",
+          "category": "anime-series",
+          "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn204910youtube1",
+          "source_url": "https://www.youtube.com/watch?v=ahSGip8YENA",
+          "episode": "1",
+          "language_label": "Hindi Dub search-result label only"
+        },
+        {
+          "video_id": "OLRsviYUjws",
+          "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-6【Ani-One India】",
+          "canonical_title": "Tamon's B-Side",
+          "category": "anime-series",
+          "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn366367youtube1",
+          "source_url": "https://www.youtube.com/watch?v=OLRsviYUjws",
+          "episode": "6",
+          "language_label": "Hindi Dub search-result label only"
+        },
+        {
+          "video_id": "zVB6BG0DQVU",
+          "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-8【Ani-One India】",
+          "canonical_title": "Tamon's B-Side",
+          "category": "anime-series",
+          "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn366367youtube0",
+          "source_url": "https://www.youtube.com/watch?v=zVB6BG0DQVU",
+          "episode": "8",
+          "language_label": "Hindi Dub search-result label only"
+        },
+        {
+          "video_id": "i0QAvVqv_qo",
+          "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-9【Ani-One India】",
+          "canonical_title": "Tamon's B-Side",
+          "category": "anime-series",
+          "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+          "channel_identity_reviewed": true,
+          "uploader_id_confirmed_for_video": false,
+          "audio_language": "unverified",
+          "subtitle_languages": [],
+          "runtime_seconds": null,
+          "public_full_content_status": "unverified",
+          "oembed_embeddability": "unverified",
+          "india_in_country_metadata": "unverified",
+          "actual_india_playback": "unverified",
+          "status": "pending_exact_metadata_verification",
+          "source_result_ref": "turn204910youtube0",
+          "source_url": "https://www.youtube.com/watch?v=i0QAvVqv_qo",
+          "episode": "9",
+          "language_label": "Hindi Dub search-result label only"
+        }
+      ],
+      "next_actions": [
+        "Retry exact public watch-page and oEmbed metadata for indexed episodes 1, 6, 8 and 9.",
+        "Confirm exact uploader channel ID, actual Hindi audio, full runtime, public full-content status, embeddability and IN country metadata before creating a catalogue entry.",
+        "Continue ordinary playlist/channel pagination; do not mark the series complete from four indexed results."
+      ],
+      "last_attempted_on": "2026-10-30",
+      "latest_attempt_report": "data/verification/2026-10-30-morning-discovery.json",
+      "latest_attempt": {
+        "date": "2026-10-30",
+        "sources": [
+          "Public YouTube search results for Ani-One India exact video IDs",
+          "Reviewed Ani-One India channel identity in data/channels.json",
+          "Current remote main catalogue"
+        ],
+        "result": "Four exact Hindi-dub-labelled episode leads (1, 6, 8, 9) were found. Per-video metadata and India/embed gates could not be verified; none added."
+      }
     }
   ],
   "pending_metadata_retry": {
@@ -7399,231 +7576,280 @@
     }
   ],
   "latest_run": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "title": "Morning discovery",
     "state": "no_new_uploads_passed_publication_gates",
     "video_id": null,
-    "note": "No catalogue additions. Five exact candidates remain pending metadata/channel review; five exact candidates were rejected. Unlimited Gacha remains a single compilation candidate with audio/subtitles unverified. Catalogue status counts were reconciled from current main."
+    "note": "No catalogue additions. Nine exact leads remain pending per-video metadata/title/language checks; two generic anime-movie claims were rejected for an unreviewed uploader. Corrected stale status counts against current remote main (302 titles, 2174 unique uploads)."
   },
   "latest_discovery_run": {
-    "run_id": "2026-10-29-morning-discovery",
-    "observed_at": "2026-10-29T08:22:22+05:30",
-    "remote_head_before": "f2a681b17fa748084096bebb91a379dc56ce135a",
+    "run_id": "2026-10-30-morning-discovery",
+    "observed_at": "2026-10-30T08:15:15+05:30",
+    "remote_head_before": "25ed9a7c7d2a9df0f2d5b5b3947327ddeba05c7a",
     "search_queries": [
-      "official Muse Hindi Dub anime full episodes Hindi October 2026 YouTube",
-      "official Muse India Hindi dubbed anime playlist new episodes October 2026",
-      "official Hindi dubbed anime movies full movie YouTube India 2026 rights holder",
-      "official Hindi dubbed animated movie Doraemon full movie YouTube official India",
-      "official Pokemon movie Hindi full movie YouTube India official",
-      "Suzume official full movie Hindi dubbed YouTube India",
-      "Ne Zha official Hindi dubbed full movie YouTube India",
-      "Crayon Shinchan full episodes Hindi official YouTube India",
-      "official Hindi full movie YouTube Goldmines October 2026",
-      "official KBS World drama full episodes English subtitles YouTube 2026",
-      "My Gift Lvl 9999 Unlimited Gacha complete series Muse Asia 4Bam-4ZB3Tk",
-      "site:youtube.com/watch \"Assassination Classroom Season 2\" Hindi Muse India full episode",
-      "site:youtube.com/watch \"Jujutsu Kaisen\" Hindi \"Ani-One India\" episode",
-      "site:youtube.com/watch \"Unlimited Gacha\" \"Muse Asia\" complete series",
-      "site:youtube.com/watch \"Pokémon Horizons\" Hindi official episode YouTube",
-      "site:youtube.com/watch \"Doraemon the Movie\" Hindi official full movie YouTube",
-      "site:youtube.com/watch \"Shinchan\" full episode Hindi official YouTube \"Crayon Shin-chan Official Channel\" India",
-      "site:youtube.com/watch \"Hindi Dubbed Full Movie\" Goldmines official 2026",
-      "site:youtube.com/watch KBS WORLD TV full drama English subtitles playlist 2026",
-      "site:youtube.com/watch \"Suzume\" official full movie Hindi YouTube",
-      "site:youtube.com/watch \"Ne Zha\" official full movie YouTube Hindi",
-      "site:youtube.com/watch \"Assassination Classroom Season 2\" \"Hindi Dub\" \"Muse IN\" Episode 2026",
-      "site:youtube.com/watch \"Attack on Titan\" \"Season 4\" \"Hindi Dub\" \"Muse IN\" October 2026",
-      "site:youtube.com/watch \"Re:ZERO\" \"Season 4\" \"Hindi Dub\" \"Muse IN\" October 2026",
-      "site:youtube.com/watch \"JoJo\" \"Golden Wind\" \"Hindi Dub\" \"Muse IN\" October 2026",
-      "site:youtube.com/watch \"Muse Hindi Dub\" \"Hindi Dub\" \"Episode\" \"October 2026\" anime",
-      "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" \"Episode\" \"Oct 29, 2026\" anime",
-      "site:youtube.com/watch \"Pokémon Horizons\" \"Hindi\" \"Episode 27\" official YouTube",
-      "site:youtube.com/watch \"My Golden Life\" \"KBS WORLD TV\" \"SUB : ENG\" episode 30",
-      "site:youtube.com/watch \"Korean Classic Film\" full movie English subtitles 2026",
-      "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi October 2026",
-      "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi October 2026",
-      "site:youtube.com/watch \"Doraemon the Movie\" \"Official Hindi Trailer\" 2026 TV Asahi PVR INOX",
-      "site:youtube.com/@goldminestelefilms \"Full Movie\" Hindi October 2026",
-      "site:youtube.com/@goldmineshindi \"Full Movie\" Hindi October 2026",
-      "site:youtube.com/@shemaroomovies \"Full Movie\" Hindi October 2026",
-      "site:youtube.com/@MuseIndiaChannel \"Episode\" \"Hindi Dub\" \"Oct 2026\" anime",
-      "site:youtube.com/@Muse_HindiDub \"Episode\" \"Hindi Dub\" \"Oct 2026\" anime",
-      "site:youtube.com/@MuseAsia \"Complete Series\" anime 2026 official",
-      "site:youtube.com/@KBSWORLDTV \"SUB : ENG\" \"Ep.30\" drama 2026",
-      "site:youtube.com/@KoreanFilm \"English subtitles\" \"Full Movie\" 2026 official",
-      "site:youtube.com/watch \"My Golden Life\" \"Ep.30\" \"KBS WORLD TV\" official",
-      "site:youtube.com/watch \"Jujutsu Kaisen\" \"Ani-One India\" \"Hindi\" official episode",
-      "\"Ani-One India\" \"UC\" YouTube channel ID",
-      "site:youtube.com/channel \"Ani-One India\" official",
-      "site:youtube.com/@AniOneIndia \"Ani-One India\" \"Medialink Group\" official",
-      "site:medialink.com.hk/en/FollowUs.aspx \"Ani-One India\" YouTube",
-      "site:youtube.com/@AniOneIndia \"Jujutsu Kaisen\" \"Hindi Dub\" \"Episode-20\" full episode",
-      "site:youtube.com/watch \"Ani-One India\" \"Hindi Dub\" \"Episode\" \"October\" 2026",
-      "\"Ani-One India\" \"UC\" YouTube channel ID",
-      "site:youtube.com/channel \"Ani-One India\" official",
-      "site:youtube.com/@AniOneIndia \"Ani-One India\" \"Medialink Group\" official"
+      "official Muse India Hindi dubbed full anime episodes October 2026 Muse Hindi Dub playlist",
+      "official Hindi dubbed anime movie full movie YouTube India anime film 2026",
+      "official Hindi dubbed Doraemon movie full movie YouTube India",
+      "official Pokémon Hindi movie full movie YouTube India Pokémon Asia",
+      "official Suzume full movie Hindi English YouTube India distributor",
+      "official Ne Zha Hindi dubbed full movie YouTube India animation",
+      "official Crayon Shinchan Hindi full episodes YouTube India",
+      "KBS World full episode English subtitles 2026 K-drama",
+      "official Hindi dubbed full movie YouTube Shemaroo Goldmines 2026",
+      "official Muse Hindi Dub Fairy Tail Assassination Classroom Pokémon Horizons Hindi episodes",
+      "official anime full episodes Hindi dub Ani-One India YouTube 2026",
+      "official full anime series English subtitles Muse Asia 2026 YouTube",
+      "Anime movie hindi dubbed full movie 2026",
+      "Hindi Dubbed Full Movie Shemaroo Movies Goldmines",
+      "official Hindi dubbed full movie animated movie India",
+      "Doraemon Movie Full Movie Hindi official channel",
+      "Pokemon Movie Full Movie Hindi official full movie",
+      "Suzume Full Movie official Hindi dubbed YouTube India",
+      "Ne Zha Full Movie Hindi official YouTube",
+      "Shinchan Full Episodes Hindi official India",
+      "Fairy Tail Hindi Dub Muse India",
+      "Assassination Classroom Hindi Muse India",
+      "Pokemon Horizons Hindi official YouTube episode",
+      "My Golden Life KBS World full episode English subtitles",
+      "Muse India Hindi Dub anime Episode October 2026",
+      "Muse Hindi Dub Hindi Dub anime Episode 2026",
+      "Ani-One India Hindi Dub anime episode 2026",
+      "Muse Asia Episode English Sub anime October 2026",
+      "KBS WORLD TV SUB ENG Ep drama 2026",
+      "Korean Classic Film English subtitles full movie 2026 official",
+      "Goldmines Full Movie Hindi 2026 official",
+      "Shemaroo Movies Full Movie Hindi 2026 official",
+      "Tamon's B Side Ani-One India HINDI DUB Episode-2 Episode-3 Episode-4",
+      "Tamon's B Side Ani-One India HINDI DUB Episode-5 Episode-6 Episode-7",
+      "Tamon's B Side Ani-One India HINDI DUB Episode-8 Episode-10 Episode-11 Episode-12",
+      "Fairy Tail Muse India Hindi Dub Episode 024 Episode 029 Episode 031 Episode 033 Episode 166",
+      "Pokémon Horizons Pokémon Asia Official Hindi Episode 45 Episode 46 Episode 47 Episode 48",
+      "My Golden Life KBS WORLD TV SUB ENG Episode 2 Episode 3",
+      "Muse India Hindi Dub Episode October 30 2026 anime",
+      "Korean Classic Film English subtitles full movie official 2026",
+      "iQIYI official YouTube channel official website channel links Ne Zha 2 full movie English Hindi",
+      "Ne Zha iQIYI English Full Movie official",
+      "Doraemon TV Asahi full episode Hindi official",
+      "Crayon Shin-chan TV Asahi full episode official",
+      "Mann Goldmines full movie Hindi official YouTube",
+      "Goldmines Hindi full movie October 2026 official",
+      "Shemaroo Movies full movie Hindi October 2026 official",
+      "KBS WORLD TV My Golden Life episode 2 3 subtitles English"
     ],
+    "candidate_count": 11,
+    "eligible_candidates": 0,
+    "pending_metadata_candidates": 9,
+    "rejected_candidates": 2,
+    "catalogue_changed": false,
     "candidate_uploads": [
+      {
+        "video_id": "ahSGip8YENA",
+        "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-1【Ani-One India】",
+        "canonical_title": "Tamon's B-Side",
+        "category": "anime-series",
+        "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn204910youtube1",
+        "source_url": "https://www.youtube.com/watch?v=ahSGip8YENA",
+        "episode": "1",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "OLRsviYUjws",
+        "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-6【Ani-One India】",
+        "canonical_title": "Tamon's B-Side",
+        "category": "anime-series",
+        "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn366367youtube1",
+        "source_url": "https://www.youtube.com/watch?v=OLRsviYUjws",
+        "episode": "6",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "zVB6BG0DQVU",
+        "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-8【Ani-One India】",
+        "canonical_title": "Tamon's B-Side",
+        "category": "anime-series",
+        "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn366367youtube0",
+        "source_url": "https://www.youtube.com/watch?v=zVB6BG0DQVU",
+        "episode": "8",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "i0QAvVqv_qo",
+        "title": "⟪HINDI DUB⟫ Tamon's B Side Episode-9【Ani-One India】",
+        "canonical_title": "Tamon's B-Side",
+        "category": "anime-series",
+        "expected_channel_id": "UC67pLBZ_z4Gd46t6mW7uHjA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn204910youtube0",
+        "source_url": "https://www.youtube.com/watch?v=i0QAvVqv_qo",
+        "episode": "9",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "B3WOuq_n1hI",
+        "title": "Fairy Tail - Episode 033 (S1E33) [Hindi Dub] | Muse IN",
+        "canonical_title": "Fairy Tail",
+        "category": "anime-series",
+        "expected_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn422202youtube1",
+        "source_url": "https://www.youtube.com/watch?v=B3WOuq_n1hI",
+        "season": 1,
+        "episode": "33",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "iRtjJYVbRVM",
+        "title": "Fairy Tail - Episode 090 (S3E18) [Hindi Dub] | Muse IN",
+        "canonical_title": "Fairy Tail",
+        "category": "anime-series",
+        "expected_channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_metadata_verification",
+        "source_result_ref": "turn422202youtube0",
+        "source_url": "https://www.youtube.com/watch?v=iRtjJYVbRVM",
+        "season": 3,
+        "episode": "18",
+        "language_label": "Hindi Dub search-result label only"
+      },
+      {
+        "video_id": "sgJWorkasnM",
+        "title": null,
+        "canonical_title": null,
+        "category": "movies",
+        "expected_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_title_and_video_metadata",
+        "source_result_ref": "turn782620youtube26",
+        "source_url": "https://www.youtube.com/watch?v=sgJWorkasnM",
+        "language_label": "Hindi/Full Movie description tags only"
+      },
+      {
+        "video_id": "wHT7bUNPMzI",
+        "title": null,
+        "canonical_title": null,
+        "category": "movies",
+        "expected_channel_id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+        "channel_identity_reviewed": true,
+        "uploader_id_confirmed_for_video": false,
+        "audio_language": "unverified",
+        "subtitle_languages": [],
+        "runtime_seconds": null,
+        "public_full_content_status": "unverified",
+        "oembed_embeddability": "unverified",
+        "india_in_country_metadata": "unverified",
+        "actual_india_playback": "unverified",
+        "status": "pending_exact_title_and_video_metadata",
+        "source_result_ref": "turn782620youtube29",
+        "source_url": "https://www.youtube.com/watch?v=wHT7bUNPMzI",
+        "language_label": "Hindi/Full Movie description tags only"
+      },
       {
         "video_id": "4Bam-4ZB3Tk",
         "title": "【Complete Series】 Unlimited Gacha",
-        "canonical_title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+        "canonical_title": "My Gift Lvl 9999 Unlimited Gacha",
         "category": "anime-series",
-        "season": "Season 1 full-series compilation",
-        "episode": "full-series-compilation",
-        "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
-        "uploader_label": "Muse Asia (verified label in public search)",
-        "expected_uploader_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+        "expected_channel_id": "UCGbshtvS9t-8CW11W7TooQg",
         "uploader_id_confirmed_for_video": false,
-        "published_on": "2026-01-02",
         "audio_language": "unverified",
         "subtitle_languages": [],
         "runtime_seconds": null,
-        "public_full_content_status": "Search title says Complete Series; exact current player status/completeness not independently verified",
-        "oembed_embeddability": "unverified; direct oEmbed unavailable",
+        "public_full_content_status": "search-title-only; current player status and completeness unverified",
+        "oembed_embeddability": "unverified",
         "india_in_country_metadata": "unverified",
-        "actual_india_playback": "owner reports playback in India; not independently observed in this run",
+        "actual_india_playback": "owner reports India playback; not independently observed",
         "status": "pending_exact_metadata_and_language_verification",
-        "reason": "Do not infer audio/subtitle tracks from the channel, title or owner uncertainty. Keep as one compilation only; never invent episode IDs."
-      },
-      {
-        "video_id": "s9KAIT1zAIk",
-        "title": "My Golden Life - Ep.30 [SUB : ENG,CHN,IND]",
-        "canonical_title": "My Golden Life",
-        "category": "k-dramas",
-        "season": "Available episodes",
-        "episode": "30",
-        "source_url": "https://www.youtube.com/watch?v=s9KAIT1zAIk",
-        "uploader_label": "KBS WORLD TV (verified label in public search)",
-        "expected_uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-        "uploader_id_confirmed_for_video": false,
-        "published_on": "2017-12-17",
-        "audio_language": "unverified",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed full-episode title only; exact player status unavailable",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Title advertises subtitles but does not establish actual caption tracks. Per-video uploader ID, runtime, embeddability and India country metadata remain unverified."
-      },
-      {
-        "video_id": "nqBQGmkhGws",
-        "title": "My Golden Life - Ep.15 [SUB : ENG,CHN,IND]",
-        "canonical_title": "My Golden Life",
-        "category": "k-dramas",
-        "season": "Available episodes",
-        "episode": "15",
-        "source_url": "https://www.youtube.com/watch?v=nqBQGmkhGws",
-        "uploader_label": "KBS WORLD TV (verified label in public search)",
-        "expected_uploader_channel_id": "UC5BMQOsAB8hKUyHu9KI6yig",
-        "uploader_id_confirmed_for_video": false,
-        "published_on": "2017-10-30",
-        "audio_language": "unverified",
-        "subtitle_languages": [],
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed full-episode title only; exact player status unavailable",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_exact_metadata_verification",
-        "reason": "Title advertises subtitles but does not establish actual caption tracks. Per-video uploader ID, runtime, embeddability and India country metadata remain unverified."
-      },
-      {
-        "video_id": "TbW4ZmyVqLA",
-        "title": "JUJUTSU KAISEN Episode-20 [HINDI DUB] Ani-One India",
-        "canonical_title": "Jujutsu Kaisen",
-        "category": "anime-series",
-        "season": "Hindi dub",
-        "episode": "20",
-        "source_url": "https://www.youtube.com/watch?v=TbW4ZmyVqLA",
-        "uploader_label": "Ani-One India (verified label in public search)",
-        "uploader_id_candidate": "UC67pLBZ_z4Gd46t6mW7uHjA",
-        "uploader_id_confirmed_for_video": false,
-        "published_on": "2026-05-14",
-        "audio_language": "Hindi-labelled in public title; exact audio track unverified",
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode title only; exact player status unavailable",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_primary_source_channel_crosslink_and_exact_metadata",
-        "reason": "Medialink confirms the Ani-One India brand but the exact handle/channel-ID mapping and per-video metadata remain unverified."
-      },
-      {
-        "video_id": "3rQMQ1LqLA0",
-        "title": "JUJUTSU KAISEN Episode-13 [HINDI DUB] Ani-One India",
-        "canonical_title": "Jujutsu Kaisen",
-        "category": "anime-series",
-        "season": "Hindi dub",
-        "episode": "13",
-        "source_url": "https://www.youtube.com/watch?v=3rQMQ1LqLA0",
-        "uploader_label": "Ani-One India (verified label in public search)",
-        "uploader_id_candidate": "UC67pLBZ_z4Gd46t6mW7uHjA",
-        "uploader_id_confirmed_for_video": false,
-        "published_on": "2026-05-07",
-        "audio_language": "Hindi-labelled in public title; exact audio track unverified",
-        "runtime_seconds": null,
-        "public_full_content_status": "Indexed episode title only; exact player status unavailable",
-        "oembed_embeddability": "unverified",
-        "india_in_country_metadata": "unverified",
-        "actual_india_playback": "unverified",
-        "status": "pending_primary_source_channel_crosslink_and_exact_metadata",
-        "reason": "Medialink confirms the Ani-One India brand but the exact handle/channel-ID mapping and per-video metadata remain unverified."
+        "source_url": "https://www.youtube.com/watch?v=4Bam-4ZB3Tk",
+        "note": "Current catalogue already has 12 individual Muse India uploads labelled English Sub (episodes 1–12); this separate Muse Asia compilation is not in the catalogue."
       }
     ],
-    "rejected_candidates": [
+    "rejected_uploads": [
       {
-        "video_id": "KG0V5lGbkwI",
-        "title": "Unlimited Gacha anime highlight",
-        "source_url": "https://www.youtube.com/watch?v=KG0V5lGbkwI",
-        "uploader_label": "Muse Asia",
-        "status": "rejected_not_full_content",
-        "reason": "Official highlight, not a full episode or complete series."
+        "video_id": "4KdRA9Uvnbs",
+        "title": "Anime movie hindi dubbed full movie 2026",
+        "uploader": "BHS Cinema",
+        "category": "anime-movies",
+        "source_url": "https://www.youtube.com/watch?v=4KdRA9Uvnbs",
+        "source_result_ref": "turn465629youtube65",
+        "reason": "Unreviewed uploader; no primary-source rights-holder/distributor authorization."
       },
       {
-        "video_id": "_hkHcdNreJA",
-        "title": "My Gift Lvl 9999 Unlimited Gacha teaser",
-        "source_url": "https://www.youtube.com/watch?v=_hkHcdNreJA",
-        "uploader_label": "HIDIVE",
-        "status": "rejected_not_full_content",
-        "reason": "Official teaser only."
-      },
-      {
-        "video_id": "etVMaKdQR2o",
-        "title": "NE ZHA FULL MOVIE IN HINDI DUBBED",
-        "source_url": "https://www.youtube.com/watch?v=etVMaKdQR2o",
-        "uploader_label": "BANGLA Video",
-        "status": "rejected_unreviewed_uploader",
-        "reason": "Full-film claim on an unreviewed channel; no rights-holder authorization evidence."
-      },
-      {
-        "video_id": "v8aGn_S7yJw",
-        "title": "Ne Zha full Hindi dubbed movie",
-        "source_url": "https://www.youtube.com/watch?v=v8aGn_S7yJw",
-        "uploader_label": "unreviewed account",
-        "status": "rejected_unreviewed_uploader",
-        "reason": "Full-film claim on an unreviewed channel; no rights-holder authorization evidence."
-      },
-      {
-        "video_id": "W4DVpyx-OK8",
-        "title": "Pokémon Original Short Animation: Homecoming",
-        "source_url": "https://www.youtube.com/watch?v=W4DVpyx-OK8",
-        "uploader_label": "official Pokémon source",
-        "status": "rejected_not_full_feature",
-        "reason": "Official short animation, not a feature film or full series episode."
+        "video_id": "mjKOSgILj3U",
+        "title": "Anime movie hindi dubbed full movie 2026",
+        "uploader": "BHS Cinema",
+        "category": "anime-movies",
+        "source_url": "https://www.youtube.com/watch?v=mjKOSgILj3U",
+        "source_result_ref": "turn465629youtube66",
+        "reason": "Unreviewed uploader; no primary-source rights-holder/distributor authorization."
       }
     ],
-    "search_limitations": [
-      "Direct YouTube watch-page metadata requests were throttled/blocked in this environment.",
-      "YouTube oEmbed could not be retrieved, so embed permission and author consistency could not be confirmed for new candidates.",
-      "Per-video uploader channel IDs, runtime and current player status remain unverified for the pending candidates.",
-      "India available-country metadata could not be retrieved. Owner-reported playback for Unlimited Gacha is not substituted for metadata evidence.",
-      "Audio tracks and actual English subtitle tracks could not be independently verified; title labels alone are not accepted.",
-      "No candidate was promoted to the playable catalogue."
-    ],
-    "published_hindi_coverage_merged_from_current_catalogue": 103,
-    "result": "No new catalogue entries. Pending exact candidates and rejection reasons recorded; current catalogue counts reconciled. Existing catalogue items and season-completion flags preserved."
+    "report_path": "data/verification/2026-10-30-morning-discovery.json",
+    "result": "No new catalogue additions. Candidate leads retained in backlog; no upload was promoted without exact metadata."
   }
 }

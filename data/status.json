@@ -1,13 +1,14 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-29T08:22:22+05:30",
+  "last_run": "2026-10-30T08:15:15+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "No new uploads passed all publication gates on 2026-10-29. Unlimited Gacha remains a pending one-video compilation candidate; audio/subtitles and exact-video metadata are unverified. Status counts reconciled from current remote catalogue.",
+  "state": "No new uploads passed all publication gates on 2026-10-30. The current catalogue already contains My Gift Lvl 9999 Unlimited Gacha as 12 individual Muse India uploads labelled English Sub; the separate Muse Asia compilation remains pending. Stale counts were reconciled from current remote main.",
   "added": {
     "anime-series": 0,
     "anime-movies": 0,
     "movies": 0,
-    "k-dramas": 0
+    "k-dramas": 0,
+    "cartoons": 0
   },
   "changed_availability": [],
   "link_checks": [],
@@ -16,41 +17,46 @@
     "existing_guides_retained": true
   },
   "errors": [
-    "No content was added because no new candidate passed every source, language, embed and India-metadata gate.",
-    "YouTube watch-page/oEmbed metadata was unavailable for pending candidates; language and India country metadata remain unverified.",
-    "Ani-One India candidates require an exact primary-source channel-ID crosslink and per-video metadata before publication.",
-    "Unlimited Gacha is not in the catalogue; the prior status/backlog claim that it had been added was inconsistent with current main and was corrected."
+    "No new candidate passed all official-source, actual-language, full-content, runtime, embed and India-metadata gates; catalogue content was not changed.",
+    "Direct YouTube watch-page reads were throttled and oEmbed/Atom-feed reads were unavailable to the web reader; pending candidates lack exact per-video metadata.",
+    "Tamon's B-Side and Fairy Tail search results are channel-level discovery leads only; exact uploader IDs, actual audio, public player status, runtime, oEmbed and IN metadata remain unverified.",
+    "Two generic anime-movie claims from BHS Cinema were rejected because no primary-source rights-holder authorization was established.",
+    "The separate Unlimited Gacha complete-series compilation remains pending; current main already contains 12 individual Muse India uploads labelled English Sub.",
+    "The production sitemap and representative title routes could not be fetched by the web reader. The production homepage and current pre-commit Vercel status were accessible.",
+    "Local build, audit and unit tests could not be run because the environment could not resolve github.com for a current-main checkout and no GitHub workflow-dispatch action is available; the current deployed head's Vercel status is successful."
   ],
   "next_scheduled_run": null,
   "cursor": 6,
-  "last_manual_verification": "2026-10-29",
+  "last_manual_verification": "2026-10-30",
   "catalogue_counts": {
-    "anime-series": 79,
+    "anime-series": 84,
     "anime-movies": 29,
     "movies": 121,
-    "k-dramas": 63
+    "k-dramas": 63,
+    "cartoons": 5
   },
-  "upload_count": 2124,
+  "upload_count": 2174,
   "added_this_run": {
     "anime-series": 0,
     "anime-movies": 0,
     "movies": 0,
-    "k-dramas": 0
+    "k-dramas": 0,
+    "cartoons": 0
   },
   "discovery_method": "Connected agent checks public YouTube metadata; no YouTube API key required",
-  "verification_report": "data/verification/2026-10-29-morning-discovery.json",
+  "verification_report": "data/verification/2026-10-30-morning-discovery.json",
   "language_priority": [
     "Hindi",
     "English",
     "Japanese/Chinese anime and Korean dramas with English subtitles, with actual audio language evidenced"
   ],
-  "last_display_update": "2026-10-24T08:53:02+05:30",
-  "display_state": "Remote catalogue reconciled: 292 titles and 2124 unique video records (79 anime series, 29 anime movies, 121 other movies, 63 K-dramas). No new uploads passed the 2026-10-29 publication gates.",
+  "last_display_update": "2026-10-30T08:15:15+05:30",
+  "display_state": "Current remote catalogue reconciled: 302 titles and 2174 unique video records (84 anime series, 29 anime movies, 121 other movies, 63 K-dramas, 5 cartoons). No new uploads passed the 2026-10-30 publication gates.",
   "latest_manual_change_report": "data/verification/2026-10-19-anime-order-shinchan.json",
   "latest_discovery_report": "data/verification/2026-10-29-morning-discovery.json",
   "latest_discovery_run": {
-    "date": "2026-10-29",
-    "base_commit": "f2a681b17fa748084096bebb91a379dc56ce135a",
+    "date": "2026-10-30",
+    "base_commit": "25ed9a7c7d2a9df0f2d5b5b3947327ddeba05c7a",
     "added_titles": 0,
     "added_uploads": 0,
     "added_by_category": {
@@ -69,21 +75,26 @@
       "k-dramas": {
         "titles": 0,
         "uploads": 0
+      },
+      "cartoons": {
+        "titles": 0,
+        "uploads": 0
       }
     },
-    "candidate_count": 10,
+    "candidate_count": 11,
     "eligible_candidates": 0,
-    "pending_metadata_candidates": 5,
-    "rejected_candidates": 5,
-    "search_queries": 52,
+    "pending_metadata_candidates": 9,
+    "rejected_candidates": 2,
+    "search_queries": 48,
     "catalogue_changed": false,
-    "report_path": "data/verification/2026-10-29-morning-discovery.json",
-    "deployment_status": "pending post-commit verification",
-    "homepage_check": "pre-commit homepage accessible; no Unlimited Gacha title card",
-    "sitemap_check": "production sitemap fetch attempted but inaccessible to the web reader"
+    "report_path": "data/verification/2026-10-30-morning-discovery.json",
+    "deployment_status": "pending exact post-commit verification",
+    "homepage_check": "production homepage accessible before maintenance commit; category counts match current remote main",
+    "sitemap_check": "attempted but inaccessible to web reader",
+    "local_checks": "build.py, scripts/audit.py and unittest suite not run locally due current-main checkout/network blocker; no source files or assets changed"
   },
-  "title_count": 292,
-  "unique_video_ids": 2124,
+  "title_count": 302,
+  "unique_video_ids": 2174,
   "duplicate_video_ids": 0,
   "duplicate_canonical_title_season_episode_language": 0
 }
