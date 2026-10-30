@@ -60,14 +60,14 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         {
           "type": "host",
           "value": "aniloveindia\\.vercel\\.app"
         }
       ],
-      "destination": "https://aniloveindia.com/:path*",
+      "destination": "https://aniloveindia.com/$1",
       "permanent": true
     }
   ]
