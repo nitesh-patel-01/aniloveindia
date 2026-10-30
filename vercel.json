@@ -64,7 +64,7 @@
       "has": [
         {
           "type": "host",
-          "value": "aniloveindia.vercel.app"
+          "value": "aniloveindia\\.vercel\\.app"
         }
       ],
       "destination": "https://aniloveindia.com/:path*",
