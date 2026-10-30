@@ -43643,5 +43643,597 @@
    }
   ],
   "browse_priority": 2
+ },
+ {
+  "id": "muv-luv-alternative",
+  "title": "Muv-Luv Alternative",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2021,
+  "genre": [
+   "Anime",
+   "Action",
+   "Sci-Fi"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=63Pq5gHPJYk",
+  "synopsis": "Watch Muv-Luv Alternative Season 1 with English subtitles from Muse India using the official YouTube player. A sci-fi action series where Takeru Shirogane wakes in a world at war with the alien BETA and fights to change humanity's grim future.",
+  "color": "#2563eb",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=63Pq5gHPJYk",
+   "https://www.youtube.com/watch?v=wu_m0vItrFU",
+   "https://www.youtube.com/watch?v=FjdGtGPqr_4",
+   "https://www.youtube.com/watch?v=QZFLUJhlF8I",
+   "https://www.youtube.com/watch?v=32MuHAlPjjc",
+   "https://www.youtube.com/watch?v=7q1UPQdxj7k"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/63Pq5gHPJYk/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Eps 3, 6, 11 and S2 EN Sub Eps 1, 5, 9 (Muse overall 13, 17, 21) from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "muv-luv-alternative-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 3, 6, 11 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "3",
+      "title": "Muv-Luv Alternative - Episode 03 [EN Sub] | Muse IN",
+      "video_id": "63Pq5gHPJYk",
+      "duration_seconds": 1375,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "6",
+      "title": "Muv-Luv Alternative - Episode 06 [EN Sub] | Muse IN",
+      "video_id": "wu_m0vItrFU",
+      "duration_seconds": 1375,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "11",
+      "title": "Muv-Luv Alternative - Episode 11 [EN Sub] | Muse IN",
+      "video_id": "FjdGtGPqr_4",
+      "duration_seconds": 1375,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   },
+   {
+    "id": "muv-luv-alternative-season-2-english-sub",
+    "label": "Season 2 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 1, 5, 9 checked (Muse overall 13, 17, 21); further Season 2 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 2,
+    "episodes": [
+     {
+      "number": "1",
+      "title": "Muv-Luv Alternative - Episode 13 [EN Sub] | Muse IN",
+      "video_id": "QZFLUJhlF8I",
+      "duration_seconds": 1285,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "5",
+      "title": "Muv-Luv Alternative - Episode 17 [EN Sub] | Muse IN",
+      "video_id": "32MuHAlPjjc",
+      "duration_seconds": 1284,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "9",
+      "title": "Muv-Luv Alternative - Episode 21 [EN Sub] | Muse IN",
+      "video_id": "7q1UPQdxj7k",
+      "duration_seconds": 1375,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 89
+ },
+ {
+  "id": "ace-of-the-diamond-act-ii-second-season",
+  "title": "Ace of the Diamond actⅡ -Second Season-",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2026,
+  "genre": [
+   "Anime",
+   "Sports"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=vF3W1fCQL8Q",
+  "synopsis": "Watch Ace of the Diamond actⅡ -Second Season- with English subtitles from Muse India using the official YouTube player. A sports series following Seidou's baseball club as they head to the Spring Invitational at Koshien.",
+  "color": "#0284c7",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=vF3W1fCQL8Q"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/vF3W1fCQL8Q/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S2 EN Sub Ep 7 from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "ace-of-the-diamond-act-ii-season-2-english-sub",
+    "label": "Season 2 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 7 checked; further Season 2 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state English Sub.",
+    "season_number": 2,
+    "episodes": [
+     {
+      "number": "7",
+      "title": "Ace of the Diamond actⅡ -Second Season- | Episode 07 [English Sub]",
+      "video_id": "vF3W1fCQL8Q",
+      "duration_seconds": 1415,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 90
+ },
+ {
+  "id": "talentless-nana",
+  "title": "Talentless Nana",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2020,
+  "genre": [
+   "Anime",
+   "Suspense",
+   "Supernatural"
+  ],
+  "provider": "Muse Asia",
+  "watch_url": "https://www.youtube.com/watch?v=H9Lb6ESlPPE",
+  "synopsis": "Watch Talentless Nana Season 1 with English subtitles from Muse Asia using the official YouTube player. A suspense series set at an island academy for superpowered teens, where transfer student Nana hides a deadly secret mission.",
+  "color": "#991b1b",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse Asia uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=H9Lb6ESlPPE"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/H9Lb6ESlPPE/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Ep 11 from Muse Asia, 2026-10-24",
+  "seasons": [
+   {
+    "id": "talentless-nana-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 11 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg",
+    "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+    "audio_language_evidence": "Uploader titles explicitly state English Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "11",
+      "title": "Talentless Nana - Episode 11 [English Sub]",
+      "video_id": "H9Lb6ESlPPE",
+      "duration_seconds": 1419,
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 91
+ },
+ {
+  "id": "black-torch",
+  "title": "Black Torch",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2026,
+  "genre": [
+   "Anime",
+   "Action",
+   "Supernatural"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=gVH1EeUMezc",
+  "synopsis": "Watch Black Torch Season 1 with English subtitles from Muse India using the official YouTube player. A supernatural action series where ninja-descended Jiro, who can talk to animals, fuses with the powerful mononoke Rago and joins the hidden war against evil spirits.",
+  "color": "#7c3aed",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=gVH1EeUMezc"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/gVH1EeUMezc/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Ep 3 from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "black-torch-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 3 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "3",
+      "title": "BLACK TORCH - Episode 03 [EN Sub] | Muse IN",
+      "video_id": "gVH1EeUMezc",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 92
+ },
+ {
+  "id": "hitori-bocchi-no-marumaru-seikatsu",
+  "title": "Hitori Bocchi no Marumaru Seikatsu",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2019,
+  "genre": [
+   "Anime",
+   "Comedy"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=qxz0VbgrRCU",
+  "synopsis": "Watch Hitori Bocchi no Marumaru Seikatsu Season 1 with English subtitles from Muse India using the official YouTube player. A comedy about Bocchi, a girl with extreme social anxiety who must befriend her whole class to win back her best friend.",
+  "color": "#ec4899",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=qxz0VbgrRCU"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/qxz0VbgrRCU/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Ep 12 from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "hitori-bocchi-no-marumaru-seikatsu-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 12 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "12",
+      "title": "Hitori Bocchi no Marumaru Seikatsu - Episode 12 [EN Sub] | Muse IN",
+      "video_id": "qxz0VbgrRCU",
+      "duration_seconds": 1422,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 93
+ },
+ {
+  "id": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+  "title": "The Exiled Heavy Knight Knows How to Game the System",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2026,
+  "genre": [
+   "Anime",
+   "Action",
+   "Fantasy"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=k0OVCLNKSiw",
+  "synopsis": "Watch The Exiled Heavy Knight Knows How to Game the System Season 1 with English subtitles from Muse India using the official YouTube player. A fantasy adventure where exiled noble Elma uses his knowledge of a game from his past life to prove the \"weakest\" Heavy Knight class is actually the strongest.",
+  "color": "#b45309",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=k0OVCLNKSiw"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/k0OVCLNKSiw/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Ep 9 from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "the-exiled-heavy-knight-knows-how-to-game-the-system-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 9 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "9",
+      "title": "The Exiled Heavy Knight Knows How to Game the System - Episode 09 [EN Sub] | Muse IN",
+      "video_id": "k0OVCLNKSiw",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 94
+ },
+ {
+  "id": "easygoing-territory-defense-by-the-optimistic-lord",
+  "title": "Easygoing Territory Defense by the Optimistic Lord",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English subtitles",
+  "country": "Japan",
+  "year": 2026,
+  "genre": [
+   "Anime",
+   "Adventure",
+   "Fantasy"
+  ],
+  "provider": "Muse India",
+  "watch_url": "https://www.youtube.com/watch?v=p6yb-OWGS4U",
+  "synopsis": "Watch Easygoing Territory Defense by the Optimistic Lord Season 1 with English subtitles from Muse India using the official YouTube player. A fantasy adventure where banished young lord Van uses his underestimated Production Magic to turn a failing frontier village into a thriving domain.",
+  "color": "#059669",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse India uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=p6yb-OWGS4U",
+   "https://www.youtube.com/watch?v=cDf7eLBx4PU"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/p6yb-OWGS4U/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Sub Eps 3, 8 from Muse India, 2026-10-24",
+  "seasons": [
+   {
+    "id": "easygoing-territory-defense-by-the-optimistic-lord-season-1-english-sub",
+    "label": "Season 1 · English subtitles",
+    "audio_language": "Japanese",
+    "subtitle_languages": [
+     "English"
+    ],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episodes 3, 8 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q",
+    "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+    "audio_language_evidence": "Uploader titles explicitly state EN Sub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "3",
+      "title": "Easygoing Territory Defense by the Optimistic Lord - Episode 03 [EN Sub] | Muse IN",
+      "video_id": "p6yb-OWGS4U",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     },
+     {
+      "number": "8",
+      "title": "Easygoing Territory Defense by the Optimistic Lord - Episode 08 [EN Sub] | Muse IN",
+      "video_id": "cDf7eLBx4PU",
+      "duration_seconds": 1420,
+      "channel_id": "UCYYhAzgWuxPauRXdPpLAX3Q",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 95
+ },
+ {
+  "id": "a-gatherers-adventure-in-isekai",
+  "title": "A Gatherer's Adventure in Isekai",
+  "category": "anime-series",
+  "format": "Series",
+  "original_language": "Japanese",
+  "audio_label": "English dub",
+  "country": "Japan",
+  "year": 2025,
+  "genre": [
+   "Anime",
+   "Adventure",
+   "Fantasy"
+  ],
+  "provider": "Muse Asia",
+  "watch_url": "https://www.youtube.com/watch?v=FMbcq13bG-U",
+  "synopsis": "Watch A Gatherer's Adventure in Isekai Season 1 with English dub from Muse Asia using the official YouTube player. An isekai adventure where salaryman Takeru starts a new life in the world of Madeus with cheat skills and a gift for finding valuable items.",
+  "color": "#65a324",
+  "motif": "moss",
+  "word": "ANIME",
+  "availability": "embedded",
+  "india_playback": "unverified",
+  "region_note": "India is included in each upload's available-country metadata and YouTube oEmbed is enabled. This checking server is region-restricted; actual India playback is unverified.",
+  "last_checked": "2026-10-24",
+  "verification_method": "Official Muse Asia uploader, full runtime, India country metadata and oEmbed",
+  "metadata_sources": [
+   "https://www.youtube.com/watch?v=FMbcq13bG-U"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/FMbcq13bG-U/hqdefault.jpg",
+  "related": [],
+  "added_on": "2026-10-30",
+  "discovery": "Gate-passed S1 EN Dub Ep 9 from Muse Asia, 2026-10-24",
+  "seasons": [
+   {
+    "id": "a-gatherers-adventure-in-isekai-season-1-english-dub",
+    "label": "Season 1 · English dub",
+    "audio_language": "English",
+    "subtitle_languages": [],
+    "embed_checked": true,
+    "verified_complete": false,
+    "completion_note": "Episode 9 checked; further Season 1 episodes to be added as verified.",
+    "last_checked": "2026-10-24",
+    "authorization_evidence_url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg",
+    "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+    "audio_language_evidence": "Uploader titles explicitly state English Dub.",
+    "season_number": 1,
+    "episodes": [
+     {
+      "number": "9",
+      "title": "A Gatherer's Adventure in Isekai - Episode 09 [English Dub]",
+      "video_id": "FMbcq13bG-U",
+      "duration_seconds": 1420,
+      "channel_id": "UCGbshtvS9t-8CW11W7TooQg",
+      "metadata_check": "Official reviewed uploader identity and channel ID, full runtime via YouTube player metadata, public oEmbed embed check and India country metadata checked 2026-10-24",
+      "india_playback": "unverified",
+      "added_on": "2026-10-30"
+     }
+    ]
+   }
+  ],
+  "browse_priority": 96
  }
 ]
