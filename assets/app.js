@@ -1,5 +1,5 @@
-import {searchCatalogue} from './search.js';
-import {whatsappRequestUrl, whatsappWebsiteUrl} from './request.js';
+import {searchCatalogue} from './search.js?v=20261030d';
+import {whatsappRequestUrl, whatsappWebsiteUrl} from './request.js?v=20261030d';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 let catalogue=[],user=null,auth=null,installPrompt;
 const read=(k,def=[])=>{try{return JSON.parse(localStorage.getItem(k))??def}catch{return def}};
