@@ -41,5 +41,5 @@ export function searchCatalogue(catalogue, query='', category='') {
     } else if(tokens.length && tokens.every(w=>names.some(n=>n.includes(w))||meta.includes(w)||[...words].some(n=>near(w,n))))score=100;
     if(score)ranked.push({title,score});
   }
-  return ranked.sort((a,b)=>b.score-a.score || ((a.title.category===b.title.category && ['movies','anime-movies'].includes(a.title.category)) ? (a.title.browse_priority??100)-(b.title.browse_priority??100) : 0)).map(r=>r.title);
+  return ranked.sort((a,b)=>b.score-a.score || ((a.title.category===b.title.category) ? (a.title.browse_priority??100)-(b.title.browse_priority??100) : 0)).map(r=>r.title);
 }

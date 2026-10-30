@@ -1041,7 +1041,8 @@
    "that-time-i-got-reincarnated-as-a-slime-vision-of-coleus"
   ],
   "added_on": "2026-10-17",
-  "discovery": "Targeted official-watch discovery recovers uploads hidden from this server in playlist listings"
+  "discovery": "Targeted official-watch discovery recovers uploads hidden from this server in playlist listings",
+  "browse_priority": 14
  },
  {
   "id": "sherlock-hound",
@@ -1330,7 +1331,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad series search followed by full official playlist inspection"
+  "discovery": "Broad series search followed by full official playlist inspection",
+  "browse_priority": 35
  },
  {
   "id": "spy-x-family",
@@ -1880,7 +1882,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 11
  },
  {
   "id": "re-zero",
@@ -3294,7 +3297,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 13
  },
  {
   "id": "assassination-classroom",
@@ -4054,7 +4058,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 10
  },
  {
   "id": "classroom-of-the-elite",
@@ -5096,7 +5101,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 15
  },
  {
   "id": "jojos-bizarre-adventure",
@@ -7894,7 +7900,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 9
  },
  {
   "id": "mob-psycho-100",
@@ -8553,7 +8560,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 16
  },
  {
   "id": "assassination-classroom-movie",
@@ -8827,7 +8835,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 0,
+  "browse_priority": 1,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -8891,7 +8899,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 1,
+  "browse_priority": 2,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -8952,7 +8960,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
-  "browse_priority": 2,
+  "browse_priority": 3,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9013,7 +9021,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
-  "browse_priority": 3,
+  "browse_priority": 4,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9077,7 +9085,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 4,
+  "browse_priority": 5,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9139,7 +9147,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 5,
+  "browse_priority": 6,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9201,7 +9209,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 6,
+  "browse_priority": 7,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9263,7 +9271,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 7,
+  "browse_priority": 8,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9325,7 +9333,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 8,
+  "browse_priority": 9,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9387,7 +9395,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 9,
+  "browse_priority": 10,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9451,7 +9459,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 10,
+  "browse_priority": 11,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9513,7 +9521,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official channel upload checked 2026-10-17",
-  "browse_priority": 11,
+  "browse_priority": 12,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9572,7 +9580,7 @@
   "related": [],
   "added_on": "2026-10-16",
   "discovery": "Recent Goldmines YouTube full upload",
-  "browse_priority": 12,
+  "browse_priority": 13,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9633,7 +9641,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
-  "browse_priority": 13,
+  "browse_priority": 14,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9696,7 +9704,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official Hindi upload checked 2026-10-17",
-  "browse_priority": 14,
+  "browse_priority": 15,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9759,7 +9767,7 @@
   "related": [],
   "added_on": "2026-10-17",
   "discovery": "Official Hindi upload checked 2026-10-17",
-  "browse_priority": 15,
+  "browse_priority": 16,
   "browse_priority_reason": "Owner-selected Hindi movie pick; not a measured trending rank"
  },
  {
@@ -9815,7 +9823,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 103
  },
  {
   "id": "ab-tak-chappan-2",
@@ -9870,7 +9879,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 102
  },
  {
   "id": "joshila",
@@ -9925,7 +9935,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 101
  },
  {
   "id": "the-real-story-of-terror-barsati-gang",
@@ -9980,7 +9991,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 100
  },
  {
   "id": "vardaan-devi-maa-ka",
@@ -10035,7 +10047,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 99
  },
  {
   "id": "aur-ek-tezz-khiladi",
@@ -10090,7 +10103,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 98
  },
  {
   "id": "psycho-shankara",
@@ -10145,7 +10159,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 97
  },
  {
   "id": "shabri",
@@ -10200,7 +10215,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 96
  },
  {
   "id": "naag-bhoomi",
@@ -10255,7 +10271,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 95
  },
  {
   "id": "jwalamukhi-man-with-fire",
@@ -10310,7 +10327,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 94
  },
  {
   "id": "robo-chacha",
@@ -10365,7 +10383,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 93
  },
  {
   "id": "zulm-ka-rakshak",
@@ -10420,7 +10439,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 92
  },
  {
   "id": "amba",
@@ -10475,7 +10495,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 91
  },
  {
   "id": "pareshaan-parinda",
@@ -10530,7 +10551,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 90
  },
  {
   "id": "deewane-huye-paagal",
@@ -10585,7 +10607,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 48
  },
  {
   "id": "haunted-villa-lonavala",
@@ -10640,7 +10663,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 89
  },
  {
   "id": "chaand-kaa-tukdaa",
@@ -10695,7 +10719,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 88
  },
  {
   "id": "no-smoking",
@@ -10750,7 +10775,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 50
  },
  {
   "id": "ugly-aur-pagli",
@@ -10805,7 +10831,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 49
  },
  {
   "id": "himmatwala",
@@ -10860,7 +10887,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 46
  },
  {
   "id": "bahurani",
@@ -10915,7 +10943,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 111
  },
  {
   "id": "saanwariya-khatu-shyam-ji-ki-amar-gatha",
@@ -10970,7 +10999,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 110
  },
  {
   "id": "lovesongs-yesterday-today-tomorrow",
@@ -11025,7 +11055,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 109
  },
  {
   "id": "haathi-mere-saathi",
@@ -11080,7 +11111,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 45
  },
  {
   "id": "gunman-in-joseon",
@@ -11307,7 +11339,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "4,706,463 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 3
  },
  {
   "id": "who-are-you-school-2015",
@@ -11486,7 +11519,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "23,737,698 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 2
  },
  {
   "id": "my-golden-life",
@@ -11545,7 +11579,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "8,223,816 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 7
  },
  {
   "id": "the-promise",
@@ -12921,7 +12956,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "2,613,048 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 6
  },
  {
   "id": "two-mothers",
@@ -12980,7 +13016,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "960,441 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 43
  },
  {
   "id": "a-tale-of-two-sisters",
@@ -13039,7 +13076,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "439,249 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 44
  },
  {
   "id": "bread-love-and-dreams",
@@ -13096,7 +13134,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "1,416,251 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 8
  },
  {
   "id": "the-unusual-family",
@@ -13155,7 +13194,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "887,149 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 45
  },
  {
   "id": "hwangjini",
@@ -13212,7 +13252,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 9
  },
  {
   "id": "hi-school-love-on",
@@ -13426,7 +13467,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "26,109,728 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 1
  },
  {
   "id": "cheer-up-mr-kim",
@@ -13481,7 +13523,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 13
  },
  {
   "id": "master-of-study",
@@ -13660,7 +13703,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "6,422,838 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 5
  },
  {
   "id": "house-of-bluebird",
@@ -14329,7 +14373,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "6,861,106 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 4
  },
  {
   "id": "love-secret",
@@ -14388,7 +14433,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "2,588,728 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 26
  },
  {
   "id": "melody-of-love",
@@ -14445,7 +14491,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 27
  },
  {
   "id": "you-are-the-only-one",
@@ -14502,7 +14549,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 28
  },
  {
   "id": "all-is-well",
@@ -14561,7 +14609,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "1,132,627 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 29
  },
  {
   "id": "all-about-my-mom",
@@ -14620,7 +14669,8 @@
   ],
   "related": [],
   "youtube_views_snapshot": "1,891,355 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 14
  },
  {
   "id": "my-dear-cat",
@@ -14688,7 +14738,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 16
  },
  {
   "id": "ruby-ring",
@@ -14745,7 +14796,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 25
  },
  {
   "id": "a-certain-dark-item",
@@ -14812,7 +14864,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 76
  },
  {
   "id": "the-detective-is-already-dead-season-2",
@@ -14869,7 +14922,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 77
  },
  {
   "id": "the-100-girlfriends-who-really-really-really-really-really-love-you",
@@ -14926,7 +14980,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 78
  },
  {
   "id": "one-punch-man",
@@ -15407,7 +15462,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 7
  },
  {
   "id": "that-time-i-got-reincarnated-as-a-slime-vision-of-coleus",
@@ -15466,7 +15522,8 @@
   ],
   "related": [
    "that-time-i-got-reincarnated-as-a-slime"
-  ]
+  ],
+  "browse_priority": 79
  },
  {
   "id": "shy-the-1st-half",
@@ -15523,7 +15580,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 80
  },
  {
   "id": "my-unique-skill-makes-me-op-even-at-level-1",
@@ -15580,7 +15638,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 61
  },
  {
   "id": "school-babysitters-gakuen-babysitters",
@@ -15637,7 +15696,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 52
  },
  {
   "id": "teasing-master-takagi-san-s3",
@@ -15694,7 +15754,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 53
  },
  {
   "id": "suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town",
@@ -15751,7 +15812,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 55
  },
  {
   "id": "pui-pui-molcar-driving-school-s2",
@@ -15808,7 +15870,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 59
  },
  {
   "id": "ippon-again",
@@ -15865,7 +15928,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 60
  },
  {
   "id": "bofuri-i-don-t-want-to-get-hurt-so-i-ll-max-out-my-defense-s2",
@@ -16205,7 +16269,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 38
  },
  {
   "id": "wandering-witch-the-journey-of-elaina",
@@ -16262,7 +16327,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 54
  },
  {
   "id": "kuma-kuma-kuma-bear-punch-s2",
@@ -16319,7 +16385,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 57
  },
  {
   "id": "the-legendary-hero-is-dead",
@@ -16376,7 +16443,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 63
  },
  {
   "id": "iseleve",
@@ -16433,7 +16501,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 88
  },
  {
   "id": "rokudo-s-bad-girls",
@@ -16490,7 +16559,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 64
  },
  {
   "id": "rent-a-girlfriend-s1",
@@ -16547,7 +16617,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 47
  },
  {
   "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
@@ -16604,7 +16675,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 49
  },
  {
   "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom",
@@ -16661,7 +16733,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 48
  },
  {
   "id": "sugar-apple-fairy-tale",
@@ -16718,7 +16791,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 50
  },
  {
   "id": "beast-tamer",
@@ -16775,7 +16849,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 51
  },
  {
   "id": "the-genius-prince-s-guide-to-raising-a-nation-out-of-debt",
@@ -16832,7 +16907,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 56
  },
  {
   "id": "ten-ten-kakumei",
@@ -16889,7 +16965,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 86
  },
  {
   "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire",
@@ -17094,7 +17171,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 58
  },
  {
   "id": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -17391,7 +17469,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 39
  },
  {
   "id": "lucifer-and-the-biscuit-hammer",
@@ -17448,7 +17527,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 62
  },
  {
   "id": "the-true-colors-of-gang-and-cheol",
@@ -17513,7 +17593,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 18
  },
  {
   "id": "unkind-ladies",
@@ -17578,7 +17659,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 17
  },
  {
   "id": "mobile-suit-gundam-i",
@@ -17865,7 +17947,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 44
  },
  {
   "id": "ipc-376",
@@ -17920,7 +18003,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 108
  },
  {
   "id": "international-rowdy",
@@ -17975,7 +18059,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 107
  },
  {
   "id": "stalker",
@@ -18030,7 +18115,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 106
  },
  {
   "id": "beqabu",
@@ -18085,7 +18171,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 105
  },
  {
   "id": "angaaray",
@@ -18140,7 +18227,8 @@
     ]
    }
   ],
-  "related": []
+  "related": [],
+  "browse_priority": 104
  },
  {
   "id": "yevadu-3",
@@ -18197,7 +18285,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 63
  },
  {
   "id": "the-man-in-the-mask",
@@ -18258,7 +18347,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "415,608 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 31
  },
  {
   "id": "you-are-the-best",
@@ -18319,7 +18409,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "2,760,983 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 30
  },
  {
   "id": "discovery-of-love",
@@ -18380,7 +18471,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "5,405,908 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 10
  },
  {
   "id": "secrets-of-women",
@@ -18441,7 +18533,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "951,281 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 32
  },
  {
   "id": "if-we-were-a-season",
@@ -18502,7 +18595,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "21,062,819 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 11
  },
  {
   "id": "for-her-son",
@@ -18563,7 +18657,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "272,951 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 33
  },
  {
   "id": "i-am-your-teacher",
@@ -18624,7 +18719,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "748,270 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 34
  },
  {
   "id": "hair-show",
@@ -18685,7 +18781,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "3,003,361 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 35
  },
  {
   "id": "to-jenny",
@@ -18746,7 +18843,8 @@
   "added_on": "2026-10-16",
   "discovery": "KBS WORLD full drama upload",
   "youtube_views_snapshot": "1,075,837 views",
-  "youtube_views_checked": "2026-10-16"
+  "youtube_views_checked": "2026-10-16",
+  "browse_priority": 12
  },
  {
   "id": "patel-on-sale",
@@ -18803,7 +18901,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 65
  },
  {
   "id": "inspector-dhruva",
@@ -18860,7 +18959,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 64
  },
  {
   "id": "power-returns-race-gurram",
@@ -18917,7 +19017,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 59
  },
  {
   "id": "vettaikaaran",
@@ -18974,7 +19075,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 62
  },
  {
   "id": "power",
@@ -19031,7 +19133,8 @@
   ],
   "related": [],
   "added_on": "2026-10-16",
-  "discovery": "Recent Goldmines YouTube full upload"
+  "discovery": "Recent Goldmines YouTube full upload",
+  "browse_priority": 60
  },
  {
   "id": "mass",
@@ -19091,7 +19194,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 61
  },
  {
   "id": "businessman-pandaga-chesko",
@@ -19151,7 +19255,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 66
  },
  {
   "id": "do-khiladi-smp",
@@ -19211,7 +19316,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 56
  },
  {
   "id": "the-super-khiladi-3-nenu-sailaja",
@@ -19271,7 +19377,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 57
  },
  {
   "id": "chirutha",
@@ -19331,7 +19438,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 29
  },
  {
   "id": "vivegam",
@@ -19391,7 +19499,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 22
  },
  {
   "id": "akhil-the-power-of-jua",
@@ -19451,7 +19560,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 30
  },
  {
   "id": "madam-geeta-rani-raatchasi",
@@ -19511,7 +19621,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 75
  },
  {
   "id": "mera-pyar-madatha-kaja",
@@ -19571,7 +19682,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 76
  },
  {
   "id": "hebbuli",
@@ -19631,7 +19743,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 26
  },
  {
   "id": "amar-akbar-anthony",
@@ -19693,7 +19806,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 27
  },
  {
   "id": "mr-majnu",
@@ -19753,7 +19867,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 28
  },
  {
   "id": "dangerous-khiladi-julayi",
@@ -19813,7 +19928,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 53
  },
  {
   "id": "sooryavansham",
@@ -19874,7 +19990,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official Hindi upload checked 2026-10-17"
+  "discovery": "Official Hindi upload checked 2026-10-17",
+  "browse_priority": 41
  },
  {
   "id": "the-super-khiladi-brindavanam",
@@ -19935,7 +20052,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official Hindi upload checked 2026-10-17"
+  "discovery": "Official Hindi upload checked 2026-10-17",
+  "browse_priority": 58
  },
  {
   "id": "the-return-of-abhimanyu-irumbu-thirai",
@@ -19998,7 +20116,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official Hindi upload checked 2026-10-17"
+  "discovery": "Official Hindi upload checked 2026-10-17",
+  "browse_priority": 67
  },
  {
   "id": "ruler",
@@ -20059,7 +20178,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official Hindi upload checked 2026-10-17"
+  "discovery": "Official Hindi upload checked 2026-10-17",
+  "browse_priority": 25
  },
  {
   "id": "oxygen",
@@ -20120,7 +20240,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official Hindi upload checked 2026-10-17"
+  "discovery": "Official Hindi upload checked 2026-10-17",
+  "browse_priority": 68
  },
  {
   "id": "the-long-good-bye",
@@ -20182,7 +20303,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 36
  },
  {
   "id": "too-bright-for-romance",
@@ -20244,7 +20366,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 37
  },
  {
   "id": "we-all-cry-differently",
@@ -20306,7 +20429,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 38
  },
  {
   "id": "yeonu-s-summer",
@@ -20368,7 +20492,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 39
  },
  {
   "id": "the-unwelcome-guest",
@@ -20430,7 +20555,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 40
  },
  {
   "id": "contract-man",
@@ -20492,7 +20618,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 41
  },
  {
   "id": "hurry-up-and-tell-me",
@@ -20554,7 +20681,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 42
  },
  {
   "id": "avici",
@@ -20616,7 +20744,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 63
  },
  {
   "id": "you-re-pretty-oh-manbok",
@@ -20678,7 +20807,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 49
  },
  {
   "id": "pandemonium",
@@ -20740,7 +20870,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 50
  },
  {
   "id": "the-mother-s-island",
@@ -20802,7 +20933,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 51
  },
  {
   "id": "i-introduce-my-father",
@@ -20864,7 +20996,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 52
  },
  {
   "id": "forgotten-season",
@@ -20926,7 +21059,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 53
  },
  {
   "id": "kang-deoksun-s-love-history",
@@ -20988,7 +21122,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 54
  },
  {
   "id": "the-ultimate-miracle",
@@ -21050,7 +21185,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 55
  },
  {
   "id": "miss-kim-s-mystery",
@@ -21112,7 +21248,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 56
  },
  {
   "id": "glass-prison",
@@ -21174,7 +21311,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 57
  },
  {
   "id": "the-tale-of-the-bookworm",
@@ -21236,7 +21374,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 58
  },
  {
   "id": "my-prettiest-moments",
@@ -21298,7 +21437,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 59
  },
  {
   "id": "chagall-s-birthday",
@@ -21360,7 +21500,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 60
  },
  {
   "id": "re-memory",
@@ -21422,7 +21563,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 61
  },
  {
   "id": "the-tuna-and-the-dolphin",
@@ -21484,7 +21626,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 62
  },
  {
   "id": "mobile-suit-gundam-seed",
@@ -21886,7 +22029,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 30
  },
  {
   "id": "space-adventure-cobra",
@@ -21946,7 +22090,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 36
  },
  {
   "id": "sonic-x",
@@ -22787,7 +22932,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Official channel upload checked 2026-10-17"
+  "discovery": "Official channel upload checked 2026-10-17",
+  "browse_priority": 23
  },
  {
   "id": "jaanbaaz-khiladi-komaram-puli",
@@ -22846,7 +22992,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
+  "browse_priority": 69
  },
  {
   "id": "siruthai",
@@ -22905,7 +23052,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
+  "browse_priority": 23
  },
  {
   "id": "zubeidaa",
@@ -22964,7 +23112,8 @@
   ],
   "related": [],
   "added_on": "2026-10-17",
-  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed"
+  "discovery": "Broad public YouTube Hindi-film search; availability verified, nationwide trending rank not claimed",
+  "browse_priority": 43
  },
  {
   "id": "obuja",
@@ -23022,7 +23171,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1000,
+  "browse_priority": 112,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23081,7 +23230,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1001,
+  "browse_priority": 113,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23140,7 +23289,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1002,
+  "browse_priority": 114,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23199,7 +23348,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1003,
+  "browse_priority": 115,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23517,7 +23666,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1004,
+  "browse_priority": 116,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23576,7 +23725,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1005,
+  "browse_priority": 117,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23635,7 +23784,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1006,
+  "browse_priority": 118,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23694,7 +23843,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1007,
+  "browse_priority": 119,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23753,7 +23902,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1008,
+  "browse_priority": 120,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -23812,7 +23961,7 @@
    }
   ],
   "related": [],
-  "browse_priority": 1009,
+  "browse_priority": 121,
   "browse_priority_reason": "Owner requested this Korean classic after the Hindi and English movie picks"
  },
  {
@@ -25369,7 +25518,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 8
  },
  {
   "id": "tokyo-revengers",
@@ -25688,7 +25838,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 17
  },
  {
   "id": "attack-on-titan",
@@ -26376,7 +26527,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 4
  },
  {
   "id": "dan-da-dan",
@@ -26705,7 +26857,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 18
  },
  {
   "id": "mushoku-tensei-jobless-reincarnation",
@@ -26870,7 +27023,8 @@
     "season_number": 2
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 26
  },
  {
   "id": "welcome-to-demon-school-iruma-kun",
@@ -27583,7 +27737,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 25
  },
  {
   "id": "i-parry-everything",
@@ -27640,7 +27795,8 @@
     ]
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 87
  },
  {
   "id": "cells-at-work",
@@ -27813,7 +27969,8 @@
     "season_number": 1
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 29
  },
  {
   "id": "junji-ito-collection",
@@ -28027,7 +28184,8 @@
     "playlist_id": "PLpm1VVK4UL15iS_b-3ZAfIt2wDCgiJSzL"
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 37
  },
  {
   "id": "i-was-reincarnated-as-the-7th-prince",
@@ -28135,7 +28293,8 @@
     "season_number": 2
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 41
  },
  {
   "id": "the-worlds-finest-assassin-gets-reincarnated-in-another-world",
@@ -28292,7 +28451,8 @@
     "season_number": 1
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 42
  },
  {
   "id": "fairy-tail",
@@ -29229,7 +29389,8 @@
     "season_number": 1
    }
   ],
-  "added_on": "2026-10-17"
+  "added_on": "2026-10-17",
+  "browse_priority": 12
  },
  {
   "id": "rdx-love",
@@ -29291,7 +29452,8 @@
   ],
   "related": [],
   "added_on": "2026-10-18",
-  "discovery": "Official Goldmines full Hindi movie verified 2026-10-18"
+  "discovery": "Official Goldmines full Hindi movie verified 2026-10-18",
+  "browse_priority": 70
  },
  {
   "id": "spy-x-family-code-white",
@@ -29417,7 +29579,8 @@
   ],
   "related": [],
   "added_on": "2026-10-18",
-  "discovery": "Exact official full-movie upload checked 2026-10-18"
+  "discovery": "Exact official full-movie upload checked 2026-10-18",
+  "browse_priority": 51
  },
  {
   "id": "ragna-crimson",
@@ -29756,7 +29919,8 @@
   "alternate_titles": [
    "Ragna Crimson Hindi",
    "रग्ना क्रिमसन"
-  ]
+  ],
+  "browse_priority": 40
  },
  {
   "id": "snowball-earth",
@@ -29827,7 +29991,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/llqyMVqzya8/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/llqyMVqzya8/hqdefault.jpg",
+  "browse_priority": 75
  },
  {
   "id": "daringbaaz-2",
@@ -29890,7 +30055,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/CU-qOWWJVLs/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/CU-qOWWJVLs/hqdefault.jpg",
+  "browse_priority": 71
  },
  {
   "id": "pokemon-horizons",
@@ -30136,7 +30302,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/Aug8U0jcDqI/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/Aug8U0jcDqI/hqdefault.jpg",
+  "browse_priority": 20
  },
  {
   "id": "pokemon-diamond-and-pearl",
@@ -30381,7 +30548,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/7V1C8COSzUI/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/7V1C8COSzUI/hqdefault.jpg",
+  "browse_priority": 22
  },
  {
   "id": "pokemon-xy",
@@ -30626,7 +30794,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/qvMitRMiczs/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/qvMitRMiczs/hqdefault.jpg",
+  "browse_priority": 21
  },
  {
   "id": "pokemon-journeys",
@@ -31378,7 +31547,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/rkEsQvQzbI0/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/rkEsQvQzbI0/hqdefault.jpg",
+  "browse_priority": 19
  },
  {
   "id": "the-laws-of-the-universe-part-0",
@@ -31889,7 +32059,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/PXd8Uio4TSs/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/PXd8Uio4TSs/hqdefault.jpg",
+  "browse_priority": 31
  },
  {
   "id": "neelkanth-and-the-snows-of-the-himalayas",
@@ -32117,7 +32288,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/PdqMlnl4Kyw/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/PdqMlnl4Kyw/hqdefault.jpg",
+  "browse_priority": 55
  },
  {
   "id": "dangerous-khiladi-2",
@@ -32180,7 +32352,8 @@
   ],
   "added_on": "2026-10-19",
   "related": [],
-  "thumbnail": "https://i.ytimg.com/vi/7s9lsmnYLUw/hqdefault.jpg"
+  "thumbnail": "https://i.ytimg.com/vi/7s9lsmnYLUw/hqdefault.jpg",
+  "browse_priority": 52
  },
  {
   "id": "from-bureaucrat-to-villainess-dads-been-reincarnated",
@@ -32244,7 +32417,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 81
  },
  {
   "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
@@ -32307,7 +32481,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 82
  },
  {
   "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest",
@@ -32368,7 +32543,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 83
  },
  {
   "id": "apocalypse-bringer-mynoghra-world-conquest-starts-with-the-civilization-of-ruin",
@@ -32431,7 +32607,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 84
  },
  {
   "id": "isekai-quartet-3",
@@ -32494,7 +32671,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 85
  },
  {
   "id": "god-mars",
@@ -32558,7 +32736,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 65
  },
  {
   "id": "we-rent-tsukumogami",
@@ -32622,7 +32801,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 67
  },
  {
   "id": "cats-eye",
@@ -32684,7 +32864,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 66
  },
  {
   "id": "fairy-tail-the-movie-phoenix-priestess",
@@ -32926,7 +33107,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 17
  },
  {
   "id": "vip-2",
@@ -32985,7 +33167,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 72
  },
  {
   "id": "tik-tik-tik",
@@ -33044,7 +33227,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 73
  },
  {
   "id": "agent-sai-srinivasa-athreya",
@@ -33103,7 +33287,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 74
  },
  {
   "id": "son-of-satyamurthy",
@@ -33162,7 +33347,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 33
  },
  {
   "id": "naayak",
@@ -33221,7 +33407,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 32
  },
  {
   "id": "har-dil-jo-pyar-karega",
@@ -33280,7 +33467,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 39
  },
  {
   "id": "highway",
@@ -33339,7 +33527,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 40
  },
  {
   "id": "blade-man",
@@ -33402,7 +33591,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 20
  },
  {
   "id": "lovers-of-music",
@@ -33465,7 +33655,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 21
  },
  {
   "id": "save-the-family",
@@ -33526,7 +33717,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 22
  },
  {
   "id": "gold-mask",
@@ -33587,7 +33779,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 23
  },
  {
   "id": "red-shoes",
@@ -33648,7 +33841,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 24
  },
  {
   "id": "sirius",
@@ -33709,7 +33903,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 47
  },
  {
   "id": "after-the-rain",
@@ -33772,7 +33967,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 48
  },
  {
   "id": "what-happens-to-my-family",
@@ -33832,7 +34028,8 @@
   ],
   "related": [],
   "added_on": "2026-10-22",
-  "discovery": "Official channel upload checked 2026-10-22"
+  "discovery": "Official channel upload checked 2026-10-22",
+  "browse_priority": 15
  },
  {
   "id": "khatarnak-khiladi",
@@ -33891,7 +34088,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 54
  },
  {
   "id": "balupu",
@@ -33952,7 +34150,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 34
  },
  {
   "id": "jill",
@@ -34013,7 +34212,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 21
  },
  {
   "id": "chandramukhi",
@@ -34072,7 +34272,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 20
  },
  {
   "id": "thambi",
@@ -34131,7 +34332,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 35
  },
  {
   "id": "surya-ek-deewana",
@@ -34190,7 +34392,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 36
  },
  {
   "id": "housefull-2",
@@ -34249,7 +34452,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 18
  },
  {
   "id": "ram-gopal-varma-ki-aag",
@@ -34308,7 +34512,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 82
  },
  {
   "id": "dil-kya-kare",
@@ -34367,7 +34572,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 83
  },
  {
   "id": "dulhan-hyderabadi",
@@ -34426,7 +34632,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 84
  },
  {
   "id": "ghanta-chori-ho-gaya",
@@ -34485,7 +34692,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 85
  },
  {
   "id": "love-to-the-end",
@@ -34548,7 +34756,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 46
  },
  {
   "id": "ghayal-khiladi",
@@ -34607,7 +34816,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 86
  },
  {
   "id": "jilla",
@@ -34666,7 +34876,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 24
  },
  {
   "id": "gajakessari",
@@ -34725,7 +34936,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 87
  },
  {
   "id": "raja-hindustani",
@@ -34784,7 +34996,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 37
  },
  {
   "id": "welcome",
@@ -34843,7 +35056,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 19
  },
  {
   "id": "hum-tumhare-hai-sanam",
@@ -34902,7 +35116,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 38
  },
  {
   "id": "fool-n-final",
@@ -34961,7 +35176,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 47
  },
  {
   "id": "mobile-suit-gundam-the-witch-from-mercury",
@@ -35274,7 +35490,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 32
  },
  {
   "id": "mobile-suit-gundam-seed-destiny",
@@ -35686,7 +35903,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 31
  },
  {
   "id": "mobile-suit-gundam-iron-blooded-orphans",
@@ -35748,7 +35966,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 68
  },
  {
   "id": "mobile-suit-gundam-1979",
@@ -35810,7 +36029,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 69
  },
  {
   "id": "gundam-build-divers",
@@ -35872,7 +36092,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 72
  },
  {
   "id": "after-war-gundam-x",
@@ -36144,7 +36365,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 33
  },
  {
   "id": "snow-whites-revenge",
@@ -36206,7 +36428,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 19
  },
  {
   "id": "saint-seiya-the-lost-canvas",
@@ -36338,7 +36561,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 34
  },
  {
   "id": "mobile-suit-gundam-00",
@@ -36400,7 +36624,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 70
  },
  {
   "id": "mobile-suit-gundam-the-origin",
@@ -36462,7 +36687,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 71
  },
  {
   "id": "gundam-reconguista-in-g",
@@ -36524,7 +36750,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 73
  },
  {
   "id": "galaxy-high-school",
@@ -36583,7 +36810,8 @@
   ],
   "related": [],
   "added_on": "2026-10-23",
-  "discovery": "Official channel upload checked 2026-10-23"
+  "discovery": "Official channel upload checked 2026-10-23",
+  "browse_priority": 74
  },
  {
   "id": "ghanshyam-and-the-storm-of-evil",
@@ -37258,7 +37486,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 27
  },
  {
   "id": "zom-100-bucket-list-of-the-dead",
@@ -37432,7 +37661,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 24
  },
  {
   "id": "skeleton-knight-in-another-world",
@@ -37649,7 +37879,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 28
  },
  {
   "id": "ashok",
@@ -37708,7 +37939,8 @@
   ],
   "related": [],
   "added_on": "2026-10-27",
-  "discovery": "Official channel upload checked 2026-10-27"
+  "discovery": "Official channel upload checked 2026-10-27",
+  "browse_priority": 77
  },
  {
   "id": "aakhri-yuddh",
@@ -37769,7 +38001,8 @@
   ],
   "related": [],
   "added_on": "2026-10-27",
-  "discovery": "Official channel upload checked 2026-10-27"
+  "discovery": "Official channel upload checked 2026-10-27",
+  "browse_priority": 78
  },
  {
   "id": "killing-veerappan",
@@ -37828,7 +38061,8 @@
   ],
   "related": [],
   "added_on": "2026-10-27",
-  "discovery": "Official channel upload checked 2026-10-27"
+  "discovery": "Official channel upload checked 2026-10-27",
+  "browse_priority": 79
  },
  {
   "id": "aankhen",
@@ -37887,7 +38121,8 @@
   ],
   "related": [],
   "added_on": "2026-10-27",
-  "discovery": "Official channel upload checked 2026-10-27"
+  "discovery": "Official channel upload checked 2026-10-27",
+  "browse_priority": 42
  },
  {
   "id": "flyover",
@@ -37946,7 +38181,8 @@
   ],
   "related": [],
   "added_on": "2026-10-27",
-  "discovery": "Official channel upload checked 2026-10-27"
+  "discovery": "Official channel upload checked 2026-10-27",
+  "browse_priority": 80
  },
  {
   "id": "sowkarpettai",
@@ -38008,7 +38244,8 @@
   ],
   "related": [],
   "added_on": "2026-10-29",
-  "discovery": "Official channel upload checked 2026-10-29"
+  "discovery": "Official channel upload checked 2026-10-29",
+  "browse_priority": 81
  },
  {
   "id": "my-hero-academia",
@@ -38506,7 +38743,8 @@
   ],
   "related": [],
   "added_on": "2026-10-30",
-  "discovery": "User-supplied official Ani-One India embeds, individually gate-checked 2026-10-30"
+  "discovery": "User-supplied official Ani-One India embeds, individually gate-checked 2026-10-30",
+  "browse_priority": 5
  },
  {
   "id": "my-gift-lvl-9999-unlimited-gacha",
@@ -38694,7 +38932,8 @@
   ],
   "related": [],
   "added_on": "2026-10-30",
-  "discovery": "User-supplied Muse India Ep 1 embed; full 12-episode Muse India playlist recovered and individually gate-checked 2026-10-30"
+  "discovery": "User-supplied Muse India Ep 1 embed; full 12-episode Muse India playlist recovered and individually gate-checked 2026-10-30",
+  "browse_priority": 43
  },
  {
   "id": "oggy-and-the-cockroaches",
@@ -38753,7 +38992,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 1
  },
  {
   "id": "bluey",
@@ -38812,7 +39052,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 2
  },
  {
   "id": "mia-and-me",
@@ -38873,7 +39114,8 @@
     ],
     "season_number": 1
    }
-  ]
+  ],
+  "browse_priority": 3
  },
  {
   "id": "super-spin-combiner",
@@ -38930,7 +39172,8 @@
     ],
     "season_number": 1
    }
-  ]
+  ],
+  "browse_priority": 4
  },
  {
   "id": "thunder-machine",
@@ -38987,7 +39230,8 @@
     ],
     "season_number": 1
    }
-  ]
+  ],
+  "browse_priority": 5
  },
  {
   "id": "so-whats-wrong-with-getting-reborn-as-a-goblin",
@@ -39083,7 +39327,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 46
  },
  {
   "id": "reincarnated-as-a-sword",
@@ -39179,7 +39424,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 45
  },
  {
   "id": "rooster-fighter",
@@ -39362,7 +39608,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 44
  },
  {
   "id": "blue-lock",
@@ -40300,7 +40547,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 3
  },
  {
   "id": "jujutsu-kaisen",
@@ -41586,7 +41834,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 1
  },
  {
   "id": "overlord",
@@ -42900,7 +43149,8 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 6
  },
  {
   "id": "bleach-thousand-year-blood-war",
@@ -43391,6 +43641,7 @@
      }
     ]
    }
-  ]
+  ],
+  "browse_priority": 2
  }
 ]
