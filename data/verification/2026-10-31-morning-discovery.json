@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-31",
+  "observed_at": "2026-10-31T08:05:26+05:30",
+  "repository": "nitesh-patel-01/aniloveindia",
+  "base_commit": "3b338b51678d47a40831486038811856448aab19",
+  "result": "No new upload passed all publication gates. One existing verified episode was reclassified to its correct title/season; ten owner-playback-verified episodes already present in current main were reconciled into the backlog and verification index.",
+  "source_files_read": [
+    "build.py",
+    "data/catalogue.json",
+    "data/channels.json",
+    "data/discovery-backlog.json",
+    "data/status.json",
+    "data/episode-verification.json",
+    "data/expansion-verification.json",
+    "scripts/check_episode_uploads.py",
+    "scripts/extract_discovery.py",
+    "scripts/daily.py",
+    "scripts/audit.py",
+    "vercel.json",
+    "tests/test_anime_movie_order.py",
+    "tests/test_episode_navigation.py",
+    "tests/test_india_catalogue.py",
+    "tests/test_public_upload_checks.py",
+    "tests/test_requests_and_landing_pages.py",
+    "tests/test_search.py",
+    "tests/test_search_landings.py",
+    "tests/test_verification.py"
+  ],
+  "catalogue_before": {
+    "titles": 314,
+    "uploads": 2566,
+    "unique_video_ids": 2566,
+    "missing_video_ids": 0,
+    "duplicate_video_ids": 0,
+    "duplicate_canonical_episode_keys": 0,
+    "category_counts": {
+      "anime-series": 96,
+      "anime-movies": 29,
+      "movies": 121,
+      "k-dramas": 63,
+      "cartoons": 5
+    },
+    "uploads_by_category": {
+      "anime-series": 2122,
+      "anime-movies": 34,
+      "movies": 121,
+      "k-dramas": 284,
+      "cartoons": 5
+    }
+  },
+  "catalogue_after": {
+    "titles": 314,
+    "uploads": 2566,
+    "unique_video_ids": 2566,
+    "missing_video_ids": 0,
+    "duplicate_video_ids": 0,
+    "duplicate_canonical_episode_keys": 0,
+    "category_counts": {
+      "anime-series": 96,
+      "anime-movies": 29,
+      "movies": 121,
+      "k-dramas": 63,
+      "cartoons": 5
+    },
+    "uploads_by_category": {
+      "anime-series": 2122,
+      "anime-movies": 34,
+      "movies": 121,
+      "k-dramas": 284,
+      "cartoons": 5
+    }
+  },
+  "content_changes": {
+    "new_titles": 0,
+    "new_uploads": 0,
+    "corrected_uploads": 1,
+    "correction": {
+      "video_id": "X6H8IGfw-_4",
+      "from": "Attack on Titan · Season 3 · Episode 10",
+      "to": "One Punch Man · Season 3 · Episode 10",
+      "evidence": "The exact upload title is '[Hindi Dub] One-Punch Man - Episode 34 (S3E10) | Muse IN'; channel ID UCYYhAzgWuxPauRXdPpLAX3Q is the reviewed Muse India channel; the existing record has 1,441-second runtime and a 2026-10-24 metadata check for public oEmbed and India country metadata. The backlog already stated that this episode belonged under One Punch Man, but the current catalogue still had it under Attack on Titan."
+    }
+  },
+  "reconciled_existing_owner_verified_additions": [
+    {
+      "title": "Fairy Tail",
+      "edition": "Season 1 · Hindi dub",
+      "episodes": [
+        24,
+        29,
+        31,
+        33
+      ],
+      "video_ids": [
+        "XONl-38szqE",
+        "OYxy5HEvBb4",
+        "U2izF0zk8A0",
+        "B3WOuq_n1hI"
+      ],
+      "already_in_base_catalogue": true,
+      "owner_india_playback_verified": true
+    },
+    {
+      "title": "Fairy Tail",
+      "edition": "Season 2 · Hindi dub",
+      "episodes": [
+        3,
+        7,
+        13
+      ],
+      "video_ids": [
+        "aMvvw41zMSM",
+        "40PtBYIcpEg",
+        "C1qI5TtcOQc"
+      ],
+      "already_in_base_catalogue": true,
+      "owner_india_playback_verified": true
+    },
+    {
+      "title": "Cells at Work!",
+      "edition": "Season 1 · Hindi dub",
+      "episodes": [
+        6,
+        9,
+        11
+      ],
+      "video_ids": [
+        "X27_tkKJ5lY",
+        "QJg-sy4XhEY",
+        "de_ZevTHyNw"
+      ],
+      "already_in_base_catalogue": true,
+      "owner_india_playback_verified": true
+    }
+  ],
+  "discovery": {
+    "search_query_count": 50,
+    "search_queries": [
+      "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" anime full episode October 2026",
+      "site:youtube.com/watch \"Muse Hindi Dub\" \"Hindi Dub\" full episode 2026",
+      "site:youtube.com/watch \"Hindi dubbed\" anime movie official full movie India YouTube 2026",
+      "site:youtube.com/watch Doraemon full movie Hindi official YouTube India",
+      "site:youtube.com/watch Pokémon movie Hindi full movie official YouTube India",
+      "site:youtube.com/watch Suzume full movie official YouTube",
+      "site:youtube.com/watch Ne Zha Hindi full movie official YouTube",
+      "site:youtube.com/watch Crayon Shinchan full episodes Hindi official YouTube India",
+      "site:youtube.com/watch KBS World full drama Hindi subtitles full episodes 2026",
+      "site:youtube.com/watch official Hindi full movie Shemaroo Goldmines full movie 2026",
+      "site:youtube.com/watch Fairy Tail Muse India Hindi episode 2026",
+      "site:youtube.com/watch Cells at Work Muse India Hindi episode",
+      "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" \"Episode 10\" anime 2026",
+      "site:youtube.com/watch \"Muse Hindi Dub\" anime Hindi episode October 2026",
+      "site:youtube.com/watch official Hindi dubbed anime movie full movie YouTube India Doraemon Pokemon Shinchan",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"SUB ENG\" full episode drama 2026",
+      "site:youtube.com/watch official Hindi full movie Shemaroo Goldmines full movie 2026",
+      "site:youtube.com/watch?v= \"Attack on Titan - Episode 63 (S4E04)\" \"Muse IN\" Hindi",
+      "site:youtube.com/watch?v= \"Attack on Titan - Episode 62 (S4E03)\" \"Muse IN\" Hindi",
+      "site:youtube.com/watch?v= \"JoJo's Bizarre Adventure (S4): Golden Wind - Episode 18\" \"Muse IN\" Hindi",
+      "site:youtube.com/watch?v= \"Attack on Titan\" \"Muse IN\" \"Episode 64\" Hindi Dub",
+      "site:youtube.com/watch?v= \"JoJo's Bizarre Adventure\" \"Golden Wind\" \"Episode 19\" \"Muse IN\" Hindi Dub",
+      "site:youtube.com/watch?v= \"Assassination Classroom\" \"Season 2\" \"Muse IN\" \"Hindi Dub\" Episode",
+      "site:youtube.com/watch?v= \"Fairy Tail\" \"Muse IN\" \"Hindi Dub\" \"Episode 166\" 2026",
+      "site:youtube.com/watch \"Attack on Titan\" \"Episode 63\" \"S4E04\" \"Hindi Dub\" \"Muse IN\" YouTube",
+      "site:youtube.com/watch \"Attack on Titan\" \"Episode 62\" \"S4E03\" \"Hindi Dub\" \"Muse IN\" YouTube",
+      "site:youtube.com/watch \"JoJo's Bizarre Adventure\" \"Golden Wind\" \"Episode 18\" \"Hindi Dub\" \"Muse IN\" YouTube",
+      "site:youtube.com/watch \"Re:ZERO\" \"Episode 68\" \"S4E02\" \"Hindi Dub\" \"Muse IN\" YouTube",
+      "site:youtube.com/watch \"That Time I Got Reincarnated as a Slime\" \"Episode 80\" \"S4E08\" \"Hindi Dub\" \"Muse IN\" YouTube",
+      "site:youtube.com/watch \"Muse India\" \"Hindi Dub\" anime episode \"2026\" official",
+      "site:youtube.com/watch \"Muse Hindi Dub\" Hindi anime full episode 2026 official",
+      "site:youtube.com/watch \"Doraemon\" \"full movie\" Hindi official YouTube India",
+      "site:youtube.com/watch \"Pokémon\" \"full movie\" Hindi official YouTube India",
+      "site:youtube.com/watch \"Suzume no Tojimari\" full movie official YouTube Hindi",
+      "site:youtube.com/watch \"Ne Zha\" \"full movie\" Hindi official YouTube",
+      "site:youtube.com/watch \"Crayon Shinchan\" \"full episodes\" Hindi official YouTube",
+      "site:youtube.com/watch \"Happy Science India\" \"full movie\" Hindi anime official",
+      "site:youtube.com/watch \"Shemaroo Movies\" \"full movie\" Hindi October 2026 official",
+      "site:youtube.com/watch \"Goldmines\" \"full movie\" Hindi October 2026 official",
+      "site:youtube.com/watch \"KBS WORLD TV\" \"SUB ENG\" \"Full Episode\" drama 2026",
+      "site:youtube.com/watch \"Happy Science India\" \"Full Movie\" Hindi anime",
+      "site:youtube.com/watch \"Anime on TMS Official Channel\" \"Full Movie\" \"English Dub\" anime movie",
+      "site:youtube.com/watch \"GUNDAM CHANNEL INTL\" \"Full Movie\" \"English Sub\" movie",
+      "site:youtube.com/watch \"Korean Classic Film\" full movie English subtitles official",
+      "site:youtube.com/watch \"Shemaroo Movies\" \"Full Movie\" Hindi official 2026",
+      "site:youtube.com/watch \"Goldmines\" \"Full Movie\" Hindi official 2026",
+      "site:youtube.com/watch \"My Golden Life\" \"Episode 2\" \"SUB ENG\" KBS WORLD TV",
+      "site:youtube.com/watch \"My Golden Life\" \"Episode 15\" \"SUB ENG\" KBS WORLD TV",
+      "site:youtube.com/watch \"Pokémon Horizons\" \"Episode 45\" \"Pokémon Asia Official Hindi\" YouTube",
+      "site:youtube.com/watch \"Assassination Classroom\" Hindi dub official Muse India full episode"
+    ],
+    "exact_candidate_ids": [
+      {
+        "video_id": "igUgoUl2KqY",
+        "title": "Attack on Titan - Episode 63 (S4E04) [EN Sub] | Muse IN",
+        "uploader_label": "Muse India",
+        "source_result_ref": "turn110828youtube1",
+        "status": "pending exact metadata and actual audio/subtitle verification"
+      },
+      {
+        "video_id": "x41wOqiU7jM",
+        "title": null,
+        "uploader_label": "Muse Hindi Dub",
+        "source_result_ref": "turn766090youtube1",
+        "status": "unclassified because title/description were absent"
+      }
+    ],
+    "channel_level_leads": [
+      {
+        "title": "Attack on Titan",
+        "lead": "S4E03/E04 Hindi-labelled Muse India uploads surfaced in a third-party channel tracker, but exact video IDs were not exposed."
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "lead": "Golden Wind Episode 18 Hindi-labelled Muse India upload surfaced in a third-party channel tracker, but exact video ID was not exposed."
+      }
+    ],
+    "anime_movies": {
+      "targets": [
+        "Doraemon/Doremon/डोरेमोन",
+        "Pokémon/पोकेमॉन films",
+        "Suzume/Suzume no Tojimari",
+        "Ne Zha/Nezha/哪吒",
+        "Crayon Shinchan/शिनचैन"
+      ],
+      "eligible_new_full_features": 0
+    },
+    "other_movies": {
+      "eligible_new_hindi_or_english_full_movies": 0
+    },
+    "k_dramas": {
+      "eligible_new_episodes": 0
+    },
+    "skipped_reasons": [
+      "Exact per-video uploader channel ID unavailable",
+      "Actual audio or subtitle tracks not independently evidenced",
+      "Runtime and full-content status unavailable",
+      "oEmbed/embeddability unavailable",
+      "India available-country metadata unavailable",
+      "Search-result language labels alone are not proof",
+      "Unreviewed uploader claims, trailers, shorts and partial uploads are not eligible"
+    ]
+  },
+  "verification_limits": {
+    "youtube": "Direct YouTube watch-page and oEmbed requests were throttled or disabled in this run. No new candidate passed every exact-video gate.",
+    "india_playback": "Owner playback verification applies to the ten existing Fairy Tail/Cells at Work records listed above; no new candidate's India playback was observed.",
+    "production": "The production homepage/catalogue search result showed 314 titles and matching category counts. Search-reader detail pages returned stale counts for Fairy Tail and Cells at Work, while direct detail-page requests and sitemap.xml were inaccessible; verify those routes after the new deployment.",
+    "tests": "The eight test files were read, but python3 scripts/audit.py and python3 -m unittest discover -s tests could not be executed without a local checkout. Vercel's configured buildCommand is python3 build.py. assets/app.js was not changed."
+  },
+  "deployment": {
+    "canonical_domain": "https://aniloveindia.com",
+    "legacy_domain": "https://aniloveindia.vercel.app",
+    "status": "pending Vercel status for this commit"
+  },
+  "report_path": "data/verification/2026-10-31-morning-discovery.json"
+}

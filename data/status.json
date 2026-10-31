@@ -1,8 +1,8 @@
 {
   "scheduler_active": true,
-  "last_run": "2026-10-30T08:15:15+05:30",
+  "last_run": "2026-10-31T08:05:26+05:30",
   "schedule": "Morning and evening IST, through the connected website update task",
-  "state": "No new uploads passed all publication gates on 2026-10-30. The current catalogue already contains My Gift Lvl 9999 Unlimited Gacha as 12 individual Muse India uploads labelled English Sub; the separate Muse Asia compilation remains pending. Stale counts were reconciled from current remote main.",
+  "state": "Verified catalogue correction committed; no new upload passed all discovery gates.",
   "added": {
     "anime-series": 0,
     "anime-movies": 0,
@@ -29,13 +29,13 @@
   "cursor": 6,
   "last_manual_verification": "2026-10-30",
   "catalogue_counts": {
-    "anime-series": 84,
+    "anime-series": 96,
     "anime-movies": 29,
     "movies": 121,
     "k-dramas": 63,
     "cartoons": 5
   },
-  "upload_count": 2174,
+  "upload_count": 2566,
   "added_this_run": {
     "anime-series": 0,
     "anime-movies": 0,
@@ -93,8 +93,68 @@
     "sitemap_check": "attempted but inaccessible to web reader",
     "local_checks": "build.py, scripts/audit.py and unittest suite not run locally due current-main checkout/network blocker; no source files or assets changed"
   },
-  "title_count": 302,
-  "unique_video_ids": 2174,
+  "title_count": 314,
+  "unique_video_ids": 2566,
   "duplicate_video_ids": 0,
-  "duplicate_canonical_title_season_episode_language": 0
+  "duplicate_canonical_title_season_episode_language": 0,
+  "counts": {
+    "anime-series": 96,
+    "anime-movies": 29,
+    "movies": 121,
+    "k-dramas": 63,
+    "cartoons": 5
+  },
+  "duplicate_canonical_episode_keys": 0,
+  "uploads_by_category": {
+    "anime-series": 2122,
+    "anime-movies": 34,
+    "movies": 121,
+    "k-dramas": 284,
+    "cartoons": 5
+  },
+  "last_run_report": "data/verification/2026-10-31-morning-discovery.json",
+  "latest_run": {
+    "date": "2026-10-31",
+    "base_commit": "3b338b51678d47a40831486038811856448aab19",
+    "added_titles": 0,
+    "added_uploads": 0,
+    "corrected_uploads": 1,
+    "corrected_video_ids": [
+      "X6H8IGfw-_4"
+    ],
+    "added_by_category": {
+      "anime-series": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "anime-movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "movies": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "k-dramas": {
+        "titles": 0,
+        "uploads": 0
+      },
+      "cartoons": {
+        "titles": 0,
+        "uploads": 0
+      }
+    },
+    "candidate_count": 2,
+    "eligible_candidates": 0,
+    "pending_metadata_candidates": 2,
+    "rejected_candidates": 0,
+    "search_queries": 50,
+    "catalogue_changed": true,
+    "report_path": "data/verification/2026-10-31-morning-discovery.json",
+    "deployment_status": "pending exact post-commit verification",
+    "homepage_check": "Production homepage/catalogue search result showed 314 titles and current category counts before this correction; recheck after deployment.",
+    "title_page_check": "Search reader returned detail-page snapshots with stale counts (Fairy Tail 65 vs catalogue 72; Cells at Work 10 vs catalogue 13); direct detail fetch unavailable, so treat as cache/reader inconsistency pending post-deploy verification.",
+    "sitemap_check": "Direct production sitemap fetch was inaccessible to the web reader.",
+    "local_checks": "Remote build.py, audit.py, scripts, vercel.json and all eight tests were read from current main. Local build/audit/unittest commands could not be executed because this runtime has no repository checkout and outbound GitHub access is blocked; Vercel will run the configured python3 build.py after the commit. assets/app.js was not changed, so node --check was not relevant."
+  }
 }
