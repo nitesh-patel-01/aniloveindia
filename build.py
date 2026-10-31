@@ -9,6 +9,12 @@ BASE=os.environ.get('SITE_URL','https://aniloveindia.com').rstrip('/')
 esc=lambda x:html.escape(str(x),quote=True)
 def iso_dur(s):
  s=int(s);return 'PT'+((str(s//3600)+'H') if s>=3600 else '')+((str((s%3600)//60)+'M') if (s%3600)//60 or s>=3600 else '')+str(s%60)+'S'
+def iso_dt(d):
+ # Google VideoObject uploadDate needs a full datetime WITH timezone; catalogue dates are bare YYYY-MM-DD (IST).
+ d=str(d or '').strip().replace(' ','T')
+ if re.fullmatch(r'\d{4}-\d{2}-\d{2}',d):return d+'T00:00:00+05:30'
+ if re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?',d):return d+(':00' if d.count(':')==1 else '')+'+05:30'
+ return d
 slug=lambda x:re.sub(r'[^a-z0-9]+','-',x.lower()).strip('-')
 def write(p,s):
  p=DIST/p;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(s)
@@ -168,7 +174,7 @@ def build():
     video_schema={'@context':'https://schema.org','@type':'VideoObject','name':t['title']+' — '+season.get('label',sid)+(' — Episode '+str(ep['number']) if ep['number'] not in ['full','complete','compilation'] else ''),'description':'Watch '+t['title']+' on AniLove India using the embedded YouTube player. Episode availability and regional playback are controlled by YouTube.','thumbnailUrl':'https://i.ytimg.com/vi/'+video+'/hqdefault.jpg','embedUrl':'https://www.youtube.com/embed/'+video,'url':BASE+'/watch/'+sid+'/'+str(ep['number'])+'/','inLanguage':season['audio_language']}
     if ep.get('duration_seconds'):video_schema['duration']=iso_dur(ep['duration_seconds'])
     _up=ep.get('added_on') or season.get('last_checked','')
-    if _up:video_schema['uploadDate']=_up
+    if _up:video_schema['uploadDate']=iso_dt(_up)
     lastmod['/watch/'+sid+'/'+str(ep['number'])+'/']=ep.get('added_on') or season.get('last_checked','')
     content+='<script type="application/ld+json">'+json.dumps(video_schema,ensure_ascii=False).replace('</','<\\/')+'</script>'
     page('/watch/'+sid+'/'+str(ep['number'])+'/',t['title']+' — Watch '+season.get('label',sid)+(' — episode '+str(ep['number'])if ep['number']not in ['full','complete']else ''),content,'Watch '+t['title']+' '+season.get('label',sid)+(' episode '+str(ep['number']) if ep['number'] not in ['full','complete'] else (' full movie' if ep['number']=='full' else ' full compilation'))+' online in India on AniLove India: '+season['audio_language']+' audio'+(' with English subtitles' if 'English' in season.get('subtitle_languages',[]) else '')+' from '+t['provider']+'. Free, no account needed.',image='https://i.ytimg.com/vi/'+video+'/hqdefault.jpg')
